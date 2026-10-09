@@ -1,0 +1,152 @@
+{
+  "Narset, Enlightened Exile": {
+    "tagline": "攻击就从坟场白捡一张咒语",
+    "intro": "受启黜人娜尔施（Narset, Enlightened Exile）是白蓝红三色的四费修士。你每放一张非生物咒语，自家生物就一起变大一点；她一攻击，还能从坟场里挑一张费用不大的非生物牌，免费再用一次。喜欢一口气连放很多小咒语的人会喜欢它。",
+    "build": "寺院明师（Monastery Mentor）在你放非生物咒语时不停给你小修士，思绪旋风（Whirlwind of Thought）让每张咒语都顺手抽一张牌，狂搜乱寻（Frantic Search）既补手牌又把地重新立起来。流放之径（Path to Exile）负责清理挡路的大生物。新人注意：她的本事只在攻击时发挥，别让她单独冲上去。"
+  },
+  "Raffine, Scheming Seer": {
+    "tagline": "一攻击就抽牌换牌，顺便变大",
+    "intro": "卜策魔拉斐茵（Raffine, Scheming Seer）是白蓝黑三色的三费斯芬克斯，会飞，还带着一点护身。她一攻击，就让一只攻击中的生物先抽若干张牌、再弃同样多的牌，每弃掉一张非地牌，那只生物就长一格。喜欢一边打人一边整理手牌的人会喜欢它。",
+    "build": "华辉护教军艾德琳（Adeline, Resplendent Cathar）攻击时带出一堆小兵，让拉斐茵一次能看更多牌；依法尼大恶魔（Archfiend of Ifnir）在你弃牌时给对手全场生物放小指示物。活尸法（Reanimate）和生体活祭（Victimize）把弃掉的大生物直接拉回场。新人注意：弃牌在这里是好事，但别把关键牌全扔掉。"
+  },
+  "Ojer Axonil, Deepest Might // Temple of Power": {
+    "tagline": "一点小伤害都变成一大下",
+    "intro": "深邃勇力安雄理尊神（Ojer Axonil, Deepest Might）是红色的四费神。它的本事很特别：你红色来源对对手造成的非战斗伤害，只要不足它的力量，就一律按它的力量算，所以小伤害会变成一大下。喜欢用便宜小法术不停扎对手的人会喜欢它。",
+    "build": "焰箭弓手（Firebrand Archer）和凯锡革喷焰师（Kessig Flamebreather）在你每放一张非生物咒语时就扎对手一下；地壳灾害（Tectonic Hazard）一张就能扎到每位对手和他家小生物。红宝石徽章（Ruby Medallion）让红色咒语更便宜。新人注意：这些伤害全靠非生物咒语触发，手牌空了就哑火。"
+  },
+  "Vihaan, Goldwaker": {
+    "tagline": "宝物一转眼就变成打人的刺客",
+    "intro": "醒金师威翰（Vihaan, Goldwaker）是白黑红三色的三费矮人。你场上的宝物在战斗前可以一起变成 3/3 的刺客生物，打完再变回宝物；自家的刺客、海盗这类伙伴还会获得警戒与敏捷。喜欢先攒一堆宝物、再一口气全冲出去的人会喜欢它。",
+    "build": "索尔石怪（Xorn）让每次造宝物都多造一个，货棚老板马哈迪（Mahadi, Emporium Master）在回合结束时按本回合死掉的生物数量给你宝物，冷酷袭劫者（Pitiless Plunderer）也在自家生物死掉时补宝物。破相好手（Professional Face-Breaker）打中对手就造宝物。新人注意：宝物留到能一起冲的那回合再用。"
+  },
+  "The Gitrog Monster": {
+    "tagline": "地进坟场就抽牌，地越打越多",
+    "intro": "噬人蛙怪（The Gitrog Monster）是黑绿两色的五费巨蛙，带死触。它每回合能多放一块地，代价是维持时得牺牲一块地；只要有任何地牌进坟场，你就抽一张牌。喜欢用一块地换一张牌、把坟场当地窖用的人会喜欢它。",
+    "build": "拉慕拿开挖人（Ramunap Excavator）让你能从坟场里继续放地，黑土滋壤（Life from the Loam）一次把三块地拿回手上，林间救护人（Sylvan Safekeeper）牺牲地来保护自家生物，牺牲掉的地又变成抽牌。杀手留念（Assassin's Trophy）负责解决难缠的永久物。新人注意：维持时的牺牲是强制的，别把地全用光。"
+  },
+  "Lord Windgrace": {
+    "tagline": "从坟场捞地，地盘越铺越大",
+    "intro": "风华领主（Lord Windgrace）是黑绿红三色的五费鹏洛客，可以当主将。它能让你一边换手牌一边把地送进坟场，再花忠诚把坟场里的地直接放回场上；攒够忠心，它还能一次炸掉对手一堆永久物，顺便给你一群猫战士。喜欢慢慢攒资源的人会喜欢它。",
+    "build": "云游者梓纱（Azusa, Lost but Seeking）让你一回合多放两块地，拉慕拿开挖人（Ramunap Excavator）让你直接从坟场放地，绚烂复生（Splendid Reclamation）一次把坟场里的地全放回来。赞迪卡复仇者（Avenger of Zendikar）靠地多带出一群植物收尾。新人注意：主将不是生物，要靠别的办法保护它。"
+  },
+  "Jetmir, Nexus of Revels": {
+    "tagline": "场上人越多，全队越猛",
+    "intro": "欢宴魔杰米尔（Jetmir, Nexus of Revels）是白红绿四色的猫魔。它给自家全队加成，而且你场上的生物越多，加成越强：三只时全队带警戒，六只时再加上践踏，九只时连双击都有。喜欢一口气铺出一大桌小生物、再整体压过去的人会喜欢它。",
+    "build": "华辉护教军艾德琳（Adeline, Resplendent Cathar）和锡街头目克仑可（Krenko, Tin Street Kingpin）都能在攻击时不断带出新兵，很快把人数凑到九只以上。渐强终响（Grand Crescendo）一次给你一群小兵，还让全队这回合不会被打死。新人注意：数量只看你自己场上的生物，别把对手的算进去。"
+  },
+  "Rocco, Cabaretti Caterer": {
+    "tagline": "多花一点费，就多找一只大生物",
+    "intro": "乐舞会主厨罗孔（Rocco, Cabaretti Caterer）是白红绿三色的主厨，你多付几点费，它就能从牌库找出更大一点的生物。它进场时能从牌库里直接挑一只生物放进场，等于每局都能按需要点菜。喜欢留一手、随时找对答案的人会喜欢它。",
+    "build": "天堂鸟（Birds of Paradise）和不朽见证人（Eternal Witness）都是便宜又好用的小菜，前者帮你出各种颜色的费，后者把用过的牌拿回手上。迎宾吸血鬼（Welcoming Vampire）在你放小生物时抽牌。新人注意：罗孔只有被施放时才会找出生物，用别的办法放进场就没这份好处；X 选太大容易空过一回合。"
+  },
+  "Nicol Bolas, the Ravager // Nicol Bolas, the Arisen": {
+    "tagline": "先让对手弃牌，再变身成大魔王",
+    "intro": "烈龙尼可波拉斯（Nicol Bolas, the Ravager）是蓝黑红四费的巨龙，会飞，进场时每位对手都要弃一张牌。它还能花法术力变身成鹏洛客，用忠诚能力抽牌、点杀生物，甚至挖走坟场里的生物。喜欢用大龙压场、爱捣乱对手手牌的人会喜欢它。",
+    "build": "恶源重生（The Eldest Reborn）会逼每位对手牺牲一个生物或鹏洛客，还从坟场里挖一只生物给你。龙尊尼可波拉斯（Nicol Bolas, Dragon-God）也是同一路数的伙伴，能逼对手弃牌或放逐手牌。积水墓地（Watery Grave）和血腥墓穴（Blood Crypt）帮你把三色铺稳。新人注意：主将费用偏重，前期别急着上手。"
+  },
+  "Omnath, Locus of Mana": {
+    "tagline": "没花掉的绿费，都变成它的个头",
+    "intro": "魔力核欧那斯（Omnath, Locus of Mana）是绿色的三费元素。未花掉的绿色法术力在步骤结束时不会消失，可以一直留到需要时再用；它自己每有一点没花的绿费就 +1/+1。喜欢把法术力攒成一座山、再一口气花掉的人会喜欢它。",
+    "build": "罗堰妖精（Llanowar Elves）和妖精秘教徒（Elvish Mystic）这类一费小妖精早早就能产绿费；复归荒野（Wilderness Reclamation）在你回合结束时把地全部立起来，苗生谬思（Seedborn Muse）更是让每个别人的回合你都能再用一次自己的地。新人注意：只有主将在场时才留得住绿费，它一走，攒的法术力就没了。"
+  },
+  "Chulane, Teller of Tales": {
+    "tagline": "每放一只生物，抽一张牌再放一块地",
+    "intro": "说书人楚兰（Chulane, Teller of Tales）是白蓝绿三色的五费德鲁伊，带警戒。你每放一只生物，它就让你抽一张牌，还能顺手把手上的一块地直接放进场；它自己也能花费用把自家生物收回手上。喜欢一直有牌有地、节奏顺的人会喜欢它。",
+    "build": "悲鸣龙兽（Shrieking Drake） 和 白鬃狮（Whitemane Lion） 进场时要先把你的一只生物收回手上，于是可以反复重放，让楚兰一次次抽牌铺地。莲花眼镜蛇（Lotus Cobra）让你每次放地都补一点费，深洋德鲁伊塔托娃（Tatyova, Benthic Druid）让地进场时回血抽牌。新人注意：收回手上再放要花钱，前期别把费用全花光。"
+  },
+  "Roxanne, Starfall Savant": {
+    "tagline": "进场和攻击都带一颗陨石",
+    "intro": "落星学者罗珊妮（Roxanne, Starfall Savant）是红绿两色的五费猫德鲁伊。她进场或攻击时都会留下一个陨石，陨石进场就打任意目标 2 点，自己还能产一点任意颜色的费；你敲宝物产费时还会多拿一点。喜欢铺宝物又爱砸人的人会喜欢它。",
+    "build": "万和琴（Panharmonicon）让陨石进场时的伤害触发两次，二度收获（Second Harvest）把场上的陨石一次翻倍。众我长剑（Blade of Selves）装上主将后能让它多出几个攻击中的复制体，每个都再带一颗陨石，陨石一多还能顺手砸掉对手的小生物。新人注意：陨石进场时是横着的，想立刻产费得先把它立起来。"
+  },
+  "Shalai and Hallar": {
+    "tagline": "每加一个指示物，就痛一下对手",
+    "intro": "莎黎与贺拉尔（Shalai and Hallar）是白红绿四色的天使与妖精搭子，会飞，还带警戒。你每次往自家生物身上放 +1/+1 指示物，它们就让一位对手掉等量的血，所以往自家生物身上加料就等于直接打人。喜欢把生物越养越大的人会喜欢它。",
+    "build": "遗世先人（Forgotten Ancient）在你放咒语时不断积攒 +1/+1 指示物，坚固鳞甲（Hardened Scales）让每次放指示物都多放一个。振奋呼号（Inspiring Call）按自家带指示物的生物数量抽牌，还让它们这回合不会被打死。新人注意：它们自己是飞行的打手，但真正磨人的是一下一下的掉血。"
+  },
+  "Queza, Augur of Agonies": {
+    "tagline": "每抽一张牌，对手就掉一点血",
+    "intro": "苦痛占师桂莎（Queza, Augur of Agonies）是白蓝黑四色的章鱼谋士。你每抽一张牌，就有一位对手掉 1 点血、你回 1 点血，所以在这里抽牌本身就是打人。喜欢用手牌优势慢慢磨、让对手一点点掉血的人会喜欢它。",
+    "build": "变态爬虫（Psychosis Crawler）让每次抽牌变成全体对手掉血，泰菲力的永恒洞察（Teferi's Ageless Insight）把每张抽牌都变成抽两张。窥探深渊（Peer into the Abyss）让一位对手抽半副牌、掉一半血。新人注意：抽得太快会把牌库抽干，实验室狂人（Laboratory Maniac）能把这种意外变成获胜。"
+  },
+  "Dina, Soul Steeper": {
+    "tagline": "你回一点血，对手就掉一点",
+    "intro": "浸灵迪娜（Dina, Soul Steeper）是黑绿两色的两费树灵德鲁伊，费用很轻。你只要回一点血，每位对手就掉 1 点血，所以回血在这里等于打人；它还能牺牲自家生物，按那只生物的力量把自己变大。喜欢用小生物换血、慢慢把对手耗掉的人会喜欢它。",
+    "build": "鲜血画家（Blood Artist）和筑拉波割喉客（Zulaport Cutthroat）在生物死掉时让你回血，顺势触发迪娜让对手掉血；护华师（Essence Warden） 在你放生物时回血，祝亡士（Deathgreeter） 在生物死掉时回血。林地墓园（Woodland Cemetery）这类地帮你把黑绿两色铺稳。新人注意：一下只掉 1 点，别指望很快解决人。"
+  },
+  "Jodah, Archmage Eternal": {
+    "tagline": "再贵的咒语，都只收五色各一点",
+    "intro": "永世大法师裘达（Jodah, Archmage Eternal）是五色的四费法师，会飞。它让你改用白蓝黑红绿各一点来付任何咒语，所以那些平时根本放不起的贵牌突然都放得起了。喜欢一上来就砸大牌、喜欢五色大杂烩的人会喜欢它。",
+    "build": "毁坏通牒（Ruinous Ultimatum）能一次清光对手所有非地永久物，聚流（Conflux）从牌库找出五色各一张牌进手。五阳护手（Fist of Suns）是备用的第二份同款本事，天堂鸟（Birds of Paradise）和仙林境接骨木（Faeburrow Elder）负责凑齐五色。新人注意：五色地不齐就什么也放不出，前期先把颜色铺好。"
+  },
+  "Tatyova, Benthic Druid": {
+    "tagline": "每放一块地，就回血抽一张",
+    "intro": "深洋德鲁伊塔托娃（Tatyova, Benthic Druid）是蓝绿两色的五费人鱼德鲁伊。每当有一块地在你场上进场，你就回 1 点血并抽一张牌，所以它一到场，铺地就变成了铺牌。喜欢地越铺越多、手牌永远有货的人会喜欢它。",
+    "build": "云游者梓纱（Azusa, Lost but Seeking）让你一回合多放两块地，成长涡旋（Growth Spiral）这类咒语也能多放一块地并顺手抽牌。莽闯巴洛西（Rampaging Baloths）和赞迪卡复仇者（Avenger of Zendikar）靠地多产出一群生物收尾。新人注意：主将费用不低，先靠便宜的地法术把地铺开。"
+  },
+  "Mirko, Obsessive Theorist": {
+    "tagline": "看牌库顶、扔坟场，再把生物挖回来",
+    "intro": "偏执理论家梅可（Mirko, Obsessive Theorist）是蓝黑两色的三费吸血鬼侦探，会飞带警戒。你每次刺探（看牌库顶牌，决定留或扔）都会让它变大；每回合结束还能从坟场挖回一只比自己小的生物。喜欢慢慢筛牌、把坟场当资源的人会喜欢它。",
+    "build": "毁灭低语魔（Doom Whisperer）可以付血反复刺探，详加考虑（Consider） 也是便宜好用的刺探牌，都能让梅可很快长大；它越大，能挖回来的生物就越强。活尸法（Reanimate）用来把坟场里的大生物直接拉回场，沉落幽谷（Sunken Hollow）这类地帮你把蓝黑两色铺稳。新人注意：只能挖回力量比它小的生物，先把它养大再动手。"
+  },
+  "The Mycotyrant": {
+    "tagline": "坟场堆得越厚，蘑菇大军越大",
+    "intro": "智蕈暴君（The Mycotyrant）是黑绿两色的三费蘑菇，带践踏。它的力量与防御力看自家有多少真菌和腐生物，所以蘑菇越多它越大；每回合结束，它还按你当回合往坟场里送过几张牌，给你一群不能挡的小蘑菇。喜欢一边堆坟场一边铺场的人会喜欢它。",
+    "build": "真菌洛西（Mycoloth）会不断给你新的蘑菇；占颅先知（Skull Prophet） 能磨牌又能产黑绿费，牌进坟场就等于当回合白拿更多小蘑菇。黑森林蝙蝠（Mirkwood Bats）在你造出或牺牲小蘑菇时扎对手，备忘夹（Skullclamp）把用不上的小蘑菇换成两张牌。新人注意：小蘑菇不能挡，它们只负责长大和进攻。"
+  },
+  "Hazezon, Shaper of Sand": {
+    "tagline": "沙漠一块接一块，沙兵越铺越多",
+    "intro": "塑砂师哈泽忠（Hazezon, Shaper of Sand）是白红绿三色的三费战士。你每有一块沙漠地进场，它就给你两只沙兵；它还能让你直接从坟场把沙漠地放回场上，等于同一块沙漠可以反复用。喜欢铺小兵海、又爱在地牌上做文章的人会喜欢它。",
+    "build": "哈什普绿洲（Hashep Oasis） 和 谢菲沙丘（Shefet Dunes） 这类沙漠进了坟场还能被哈泽忠重新放出来，每回来一次就带两只沙兵；拉慕拿遗迹（Ramunap Ruins） 可以牺牲一块沙漠，让每位对手掉 2 点血。馏木荒地（Creosote Heath） 进场时顺手扎对手一点，沙丘吟颂师（Dune Chanter） 更让你家所有地都算沙漠。新人注意：不少沙漠只能产一点费或要付血，前期别只顾着凑沙漠。"
+  },
+  "Reaper King": {
+    "tagline": "稻草人一个个进场，对手的牌一张张没",
+    "intro": "夺命王者（Reaper King）是五色的十费稻草人，费用很高。你每有另一个稻草人进场，它就能炸掉场上一张牌，自家的稻草人还一起变大。所以这套牌靠不断往场上放稻草人，把对手的地、生物、神器一个个点掉。喜欢用冷门生物类型玩花样的人会喜欢它。",
+    "build": "覆面林连结点（Maskwood Nexus）让自家所有生物都算稻草人；境域行者（Realmwalker）本身什么生物类型都算。万和琴（Panharmonicon）让你放稻草人时炸两张牌。急跑草人（Scuttlemutt） 和 绿洲园丁（Oasis Gardener） 是最便宜的稻草人，负责早早把主将喂出来。新人注意：主将费用高，前几回合要靠便宜稻草人和地撑住。"
+  },
+  "Marvo, Deep Operative": {
+    "tagline": "比大小赢了，就免费放一张咒语",
+    "intro": "深洋密探玛沃（Marvo, Deep Operative）是蓝黑两色的五费章鱼。它攻击时和防守的对手各翻开牌库顶一张牌比费用，赢了你就抽一张牌，还能从手上免费放一张费用 8 以下的咒语。喜欢赌点运气、又想放贵牌的人会喜欢它。",
+    "build": "脑力激荡（Brainstorm）能把手上用不上的贵牌放回牌库顶，正好帮你比大小赢；探究深水（Research the Deep） 这类咒语赢下比大小后会回到手上，可以反复用。多重宇宙加身（One with the Multiverse）让你直接从牌库顶放咒语。新人注意：玛沃的本事只在攻击时发动，得让它打得进去。"
+  },
+  "Norin the Wary": {
+    "tagline": "主将进进出出，每次回来都扎人",
+    "intro": "谨慎的诺林（Norin the Wary）是红色的一费人类战士。只要有人放咒语或有人攻击，它就吓得躲出去，然后在回合结束时自己回来，所以它一回合能进进出出好几次。这套牌就是围着它这些反复的进场做文章。喜欢又吵又乱的小快牌的人会喜欢它。",
+    "build": "冲击震颤（Impact Tremors）和 熔锻神普罗烽斯（Purphoros, God of the Forge） 在自家生物进场时扎每位对手，诺林每回来一次就触发一次。创生秘室（Genesis Chamber） 在非衍生物进场时给你一个小兵。渎神行径（Blasphemous Act）负责清场，那时诺林早就躲出去了。新人注意：它几乎从不留在场上，别指望它自己打人。"
+  },
+  "Gargos, Vicious Watcher": {
+    "tagline": "多头龙便宜四费，还替你打架",
+    "intro": "卫护恶龙加戈斯（Gargos, Vicious Watcher）是绿色的六费多头龙。你放多头龙类生物时少付四点费，靠多付法术力长大的大家伙来得比想象中快；自家生物被人指定为目标时，它还会替你咬对手的生物。喜欢一次放一只超大多头龙的人会喜欢它。",
+    "build": "贪餮多头龙（Voracious Hydra）和饥渴多头龙（Hungering Hydra）都是按 X 长大的多头龙，被加戈斯减费后能进得更大；原初多头龙（Primordial Hydra）每次自己回合开始都把身上的指示物翻倍。贾路的反抗（Garruk's Uprising）让全队获得践踏。新人注意：减费只对多头龙生效，别的生物照样原价。"
+  },
+  "Athreos, God of Passage": {
+    "tagline": "死掉的生物，要么回手要么让对手掉血",
+    "intro": "渡亡神雅睿欧斯（Athreos, God of Passage）是白黑两色的三费神。自家的生物死掉时，它会给对手一个选择：要么那位对手付 3 点血，要么你把那只生物拿回手上重放一次。它平时不算生物，清场弄不掉它。喜欢反复利用小生物的人会喜欢它。",
+    "build": "影裔宗徒（Shadowborn Apostle） 是这套牌的核心，牺牲六只同名同伴就能从牌库找一只恶魔直接放进场，配 嗡响碑石（Thrumming Stone） 能一张接一张连放；逸界僧（Edgewalker） 让这类小传教士的费用变得极便宜。永生效命（Immortal Servitude） 能把坟场里一整批同费生物一次全拉回来。新人注意：自家黑白永久物够多时它才算生物，别指望它去挡。"
+  },
+  "Toxrill, the Corrosive": {
+    "tagline": "对手的生物一点点缩小、然后死掉",
+    "intro": "腐蚀蝓怪陀袭力（Toxrill, the Corrosive）是蓝黑两色的七费大蝓。每回合结束它给对手的每只生物放一个黏液指示物，黏液越多就越小，很多小生物会直接死掉，死掉还变成你的小蝓。这套牌会让对手有点难受，别在朋友局里第一次就掏出来。",
+    "build": "黑暗祭礼（Dark Ritual）能一次给你三点黑费，底密尔印记（Dimir Signet）帮你把蓝黑地铺稳，好早点把主将放出来。敲击鸟（Thrummingbird）打中对手后能让场上已有的指示物再多一个，黏液会越堆越多；泥泞怪物（Sludge Monster） 额外加黏液并让对手生物失去所有异能。新人注意：主将七费，前期先忍住，把地铺好。"
+  },
+  "Arna Kennerüd, Skycaptain": {
+    "tagline": "装备越贴越多，攻击时还会翻倍",
+    "intro": "空骑士队长亚娜肯吕德（Arna Kennerüd, Skycaptain）是白蓝黑三色的五费骑士，会飞带系命。自家贴着装备或带指示物的生物一攻击，它的指示物就翻倍，贴着的装备还会自动复制一份。喜欢给一只生物贴满装备、越打越夸张的人会喜欢它。",
+    "build": "资深建筑师斯勒姆（Sram, Senior Edificer）和净钢神圣武士（Puresteel Paladin）在你放装备时抽牌，越贴牌越顺。闪光宝物（All That Glitters）按你场上的神器与结界数量给生物加成，先贤披风（Mantle of the Ancients）能把坟场里的装备全捞回来。新人注意：装备不会自己变强，要先贴到生物身上。"
+  },
+  "Raggadragga, Goreguts Boss": {
+    "tagline": "会产费的生物，全变成打手",
+    "intro": "蛮血帮首脑拉噶达噶（Raggadragga, Goreguts Boss）是红绿两色的四费野猪人。自家会产费的小生物都额外 +2/+2，攻击时会被立起来，能再用一次产费；花掉七点以上法术力，它就能把一只生物灌大。喜欢小妖精也能打人的人会喜欢它。",
+    "build": "罗堰妖精（Llanowar Elves）这类一费小妖精在它手下都变成 3/3 打手；培育人玛雯（Marwyn, the Nurturer）能一次产出一大堆绿费，暗碧族接合工（Viridian Joiner） 也按自己的力量产费。荒野韵律（Rhythm of the Wild）让自家生物不会被反击。新人注意：只有会产费的生物才有加成，别的它不管。"
+  },
+  "Minsc & Boo, Timeless Heroes": {
+    "tagline": "带一只仓鼠，随时能扔出去砸人",
+    "intro": "历时英雄明斯克与布布（Minsc & Boo, Timeless Heroes）是红绿四费的鹏洛客。它进场和每个维持都给你一只带践踏、敏捷的仓鼠布布；它能让带践踏或敏捷的生物多三个 +1/+1 指示物，也能牺牲生物砸任意目标。喜欢又大又闹的人会喜欢它。",
+    "build": "遗世先人（Forgotten Ancient）和坚固鳞甲（Hardened Scales）能不断往自家生物身上加指示物，布布拿得到就越来越凶；牛身虐杀兽（Taurean Mauler） 也会随对手放咒语自己长大。投掷（Fling） 是把大生物扔出去砸人的同款手段，渎神行径（Blasphemous Act）用来清理场面。新人注意：牺牲仓鼠砸人时还能顺便抽一堆牌，别舍不得它。"
+  },
+  "Myrel, Shield of Argive": {
+    "tagline": "你的回合里，对手什么都做不了",
+    "intro": "阿基夫之盾穆雷尔（Myrel, Shield of Argive）是白色的四费士兵。你的回合里，对手不能放咒语，也不能用神器、生物、结界的能力，你的计划很难被打断；她每次攻击还会按自家士兵数量带出同样多的兵。喜欢稳稳铺兵、把对手憋住的人会喜欢它。",
+    "build": "珍珠徽章（Pearl Medallion）让白色咒语更便宜，元帅（Field Marshal） 和 英勇老兵（Valiant Veteran） 让自家士兵更大更能打。守望队长（Captain of the Watch） 进场就带三个士兵，还继续放大全队。驯良明师（Mentor of the Meek）在你放小兵时，花一点费就能抽一张牌。新人注意：士兵铺满一桌很爽，但遇到清场会一次全没。"
+  }
+}

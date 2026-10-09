@@ -1,0 +1,1412 @@
+{
+  "mapped": {
+    "Combo": {
+      "combo": 1.5
+    },
+    "Control": {
+      "control": 1.5
+    },
+    "Tokens": {
+      "wide": 2.0
+    },
+    "Ramp": {
+      "ramp": 1.5
+    },
+    "+1/+1 Counters": {
+      "counters": 2.0
+    },
+    "Artifacts": {
+      "artifacts": 2.0
+    },
+    "Aggro": {
+      "aggro": 1.5,
+      "wide": 0.5
+    },
+    "Stax": {
+      "stax": 2.0
+    },
+    "Spellslinger": {
+      "spells": 2.0
+    },
+    "Historic": {
+      "artifacts": 0.5,
+      "enchant": 0.5
+    },
+    "Lifegain": {
+      "drain": 1.0,
+      "counters": 0.5
+    },
+    "Enchantress": {
+      "enchant": 2.0
+    },
+    "Group Slug": {
+      "drain": 1.5
+    },
+    "Reanimator": {
+      "grave": 2.0
+    },
+    "Burn": {
+      "aggro": 1.0,
+      "spells": 1.0
+    },
+    "Aristocrats": {
+      "drain": 1.5,
+      "grave": 1.0
+    },
+    "Voltron": {
+      "voltron": 2.0
+    },
+    "Ad Nauseam": {
+      "combo": 1.5
+    },
+    "Hatebears": {
+      "stax": 2.0
+    },
+    "Chaos": {
+      "chaos": 2.0
+    },
+    "Big Mana": {
+      "ramp": 2.0
+    },
+    "ETB": {
+      "blink": 1.5
+    },
+    "Clones": {
+      "clonesteal": 2.0
+    },
+    "Infect": {
+      "counters": 1.5,
+      "aggro": 1.0
+    },
+    "Mill": {
+      "grave": 1.5,
+      "stax": 1.0
+    },
+    "Equipment": {
+      "voltron": 1.5,
+      "artifacts": 1.0
+    },
+    "Lands Matter": {
+      "ramp": 1.5
+    },
+    "Pillow Fort": {
+      "control": 1.0,
+      "stax": 1.0
+    },
+    "Blink": {
+      "blink": 2.0
+    },
+    "Zoo": {
+      "aggro": 1.5,
+      "stompy": 0.5
+    },
+    "Land Destruction": {
+      "stax": 1.5
+    },
+    "Group Hug": {
+      "politics": 1.5
+    },
+    "Planeswalkers": {
+      "control": 1.0,
+      "counters": 0.5
+    },
+    "Populate": {
+      "wide": 2.0
+    },
+    "Unnatural": {
+      "chaos": 0.5
+    },
+    "Extra Turns": {
+      "control": 1.0,
+      "combo": 0.5
+    },
+    "Affinity": {
+      "artifacts": 1.5
+    },
+    "X Spells": {
+      "ramp": 1.0,
+      "spells": 1.0
+    },
+    "Discard": {
+      "stax": 1.5
+    },
+    "Storm": {
+      "spells": 1.5,
+      "combo": 1.0
+    },
+    "Birthing Pod": {
+      "combo": 1.0
+    },
+    "Graveyard": {
+      "grave": 2.0
+    },
+    "Theft": {
+      "clonesteal": 1.5
+    },
+    "Auras": {
+      "enchant": 1.5,
+      "voltron": 1.0
+    },
+    "Stompy": {
+      "stompy": 2.0
+    },
+    "Self-Damage": {
+      "chaos": 0.5,
+      "drain": 0.5
+    },
+    "Sacrifice": {
+      "grave": 1.5,
+      "drain": 0.5
+    },
+    "Anthems": {
+      "wide": 1.0
+    },
+    "Snow": {
+      "ramp": 0.5
+    },
+    "Rock": {
+      "control": 1.0,
+      "ramp": 0.5
+    },
+    "Wheels": {
+      "stax": 1.0,
+      "chaos": 0.5
+    },
+    "Cycling": {
+      "combo": 0.5,
+      "grave": 0.5
+    },
+    "Self-Mill": {
+      "grave": 1.5
+    },
+    "Extra Combats": {
+      "aggro": 1.5
+    },
+    "Attack Triggers": {
+      "aggro": 1.0
+    },
+    "Lifedrain": {
+      "drain": 2.0
+    },
+    "-1/-1 Counters": {
+      "counters": 1.5,
+      "removal": 0.5
+    },
+    "Cascade": {
+      "spells": 1.0,
+      "combo": 1.0
+    },
+    "Monarch": {
+      "politics": 1.5
+    },
+    "Treasure": {
+      "ramp": 1.0,
+      "artifacts": 1.0
+    },
+    "Pingers": {
+      "drain": 1.0,
+      "removal": 1.0
+    },
+    "Exile": {
+      "removal": 1.0
+    },
+    "Go Wide": {
+      "wide": 2.0
+    },
+    "Power": {
+      "stompy": 0.5
+    },
+    "Proliferate": {
+      "counters": 2.0
+    },
+    "Counterspells": {
+      "control": 1.5
+    },
+    "Prison": {
+      "stax": 2.0
+    },
+    "Dredge": {
+      "grave": 2.0
+    },
+    "Forced Combat": {
+      "politics": 1.0,
+      "aggro": 0.5
+    },
+    "Topdeck": {
+      "control": 0.5,
+      "combo": 0.5
+    },
+    "Landfall": {
+      "ramp": 1.5
+    },
+    "Devotion": {
+      "ramp": 0.5,
+      "counters": 0.5
+    },
+    "Cantrips": {
+      "spells": 1.0
+    },
+    "Eggs": {
+      "combo": 1.5,
+      "artifacts": 1.0
+    },
+    "Flashback": {
+      "grave": 1.0,
+      "spells": 0.5
+    },
+    "Counters Matter": {
+      "counters": 1.5
+    },
+    "Spell Copy": {
+      "spells": 1.5,
+      "combo": 1.0
+    },
+    "Modified Creatures": {
+      "counters": 1.0,
+      "voltron": 0.5
+    },
+    "Dragons": {
+      "tribal": 2.0,
+      "stompy": 1.0
+    },
+    "Energy": {
+      "artifacts": 0.5,
+      "counters": 0.5
+    },
+    "Aikido": {
+      "politics": 1.0,
+      "removal": 1.0
+    },
+    "Tap / Untap": {
+      "combo": 1.0
+    },
+    "Vehicles": {
+      "artifacts": 1.5
+    },
+    "Glass Cannon": {
+      "combo": 1.5,
+      "aggro": 0.5
+    },
+    "Modular": {
+      "artifacts": 1.5,
+      "counters": 1.0
+    },
+    "Dungeon": {
+      "combo": 0.5,
+      "politics": 0.5
+    },
+    "Power Matters": {
+      "stompy": 1.0
+    },
+    "Unblockable": {
+      "voltron": 1.0,
+      "aggro": 0.5
+    },
+    "Politics": {
+      "politics": 2.0
+    },
+    "Bounce": {
+      "removal": 1.0
+    },
+    "Flash": {
+      "control": 0.5
+    },
+    "Humans": {
+      "tribal": 2.0,
+      "aggro": 0.5
+    },
+    "Defenders": {
+      "control": 1.0
+    },
+    "Eldrazi": {
+      "tribal": 2.0,
+      "stompy": 1.0,
+      "ramp": 0.5
+    },
+    "Tron": {
+      "ramp": 1.5
+    },
+    "Discover": {
+      "spells": 1.0,
+      "combo": 0.5
+    },
+    "Zombies": {
+      "tribal": 2.0,
+      "grave": 1.0
+    },
+    "Deathtouch": {
+      "removal": 0.5
+    },
+    "Weenies": {
+      "aggro": 1.5,
+      "wide": 1.0
+    },
+    "Toughness Matters": {
+      "stompy": 1.0
+    },
+    "Sagas": {
+      "enchant": 1.5
+    },
+    "Morph": {
+      "chaos": 0.5,
+      "clonesteal": 0.5
+    },
+    "Fight": {
+      "removal": 1.0
+    },
+    "Donate": {
+      "politics": 1.0,
+      "chaos": 0.5
+    },
+    "Self-Discard": {
+      "grave": 1.0,
+      "stax": 0.5
+    },
+    "Amass": {
+      "wide": 1.0,
+      "counters": 0.5
+    },
+    "Attractions": {
+      "chaos": 1.5
+    },
+    "Clues": {
+      "tribal": 2.0,
+      "artifacts": 0.5
+    },
+    "Guildgates": {
+      "ramp": 0.5
+    },
+    "Wizards": {
+      "tribal": 2.0,
+      "spells": 0.5
+    },
+    "Elves": {
+      "tribal": 2.0,
+      "ramp": 1.0
+    },
+    "Angels": {
+      "tribal": 2.0,
+      "wide": 0.5
+    },
+    "Shapeshifters": {
+      "clonesteal": 1.5,
+      "tribal": 0.5
+    },
+    "Food": {
+      "artifacts": 1.0,
+      "drain": 0.5
+    },
+    "Mutate": {
+      "counters": 1.0,
+      "stompy": 0.5
+    },
+    "Impulse Draw": {
+      "spells": 0.5,
+      "chaos": 0.5
+    },
+    "Primal Surge": {
+      "combo": 1.5,
+      "stompy": 0.5
+    },
+    "Indestructible": {
+      "voltron": 0.5
+    },
+    "Sneak Attack": {
+      "clonesteal": 1.0,
+      "combo": 0.5
+    },
+    "Mana Dorks": {
+      "ramp": 1.5
+    },
+    "The Ring": {
+      "counters": 0.5,
+      "voltron": 0.5
+    },
+    "Hand Size": {
+      "control": 0.5
+    },
+    "Phyrexians": {
+      "tribal": 2.0,
+      "counters": 1.0
+    },
+    "Delver": {
+      "spells": 1.0,
+      "aggro": 0.5
+    },
+    "Rube Goldberg": {
+      "combo": 2.0
+    },
+    "Creatureless": {
+      "control": 1.0,
+      "spells": 0.5
+    },
+    "Annihilator": {
+      "stompy": 1.0,
+      "stax": 0.5
+    },
+    "Coin Flip": {
+      "chaos": 2.0
+    },
+    "Vampires": {
+      "tribal": 2.0,
+      "drain": 1.0
+    },
+    "Multicolor Matters": {
+      "ramp": 1.0,
+      "spells": 0.5
+    },
+    "Spirits": {
+      "tribal": 2.0,
+      "blink": 0.5
+    },
+    "Curses": {
+      "enchant": 1.5,
+      "stax": 0.5
+    },
+    "Birds": {
+      "tribal": 2.0,
+      "aggro": 0.5
+    },
+    "LTB Effects": {
+      "blink": 1.0,
+      "grave": 0.5
+    },
+    "Goblins": {
+      "tribal": 2.0,
+      "wide": 1.0,
+      "aggro": 0.5
+    },
+    "Looting": {
+      "grave": 1.0
+    },
+    "Blue Moon": {
+      "control": 1.5,
+      "stax": 0.5
+    },
+    "Battles": {
+      "aggro": 0.5
+    },
+    "Demons": {
+      "tribal": 2.0,
+      "stompy": 0.5
+    },
+    "Slivers": {
+      "tribal": 2.0,
+      "wide": 0.5,
+      "counters": 0.5
+    },
+    "Adventures": {
+      "spells": 0.5
+    },
+    "Self-Destruct": {
+      "combo": 0.5,
+      "aggro": 0.5
+    },
+    "Crime": {
+      "removal": 0.5,
+      "clonesteal": 0.5
+    },
+    "Old School": {
+      "stax": 0.5,
+      "control": 0.5
+    },
+    "Speed": {
+      "aggro": 1.0
+    },
+    "Convoke": {
+      "wide": 1.0,
+      "spells": 0.5
+    },
+    "Type Hack": {
+      "tribal": 1.0
+    },
+    "Dinosaurs": {
+      "tribal": 2.0,
+      "stompy": 1.0
+    },
+    "Polymorph": {
+      "clonesteal": 1.0,
+      "combo": 0.5
+    },
+    "Land Animation": {
+      "ramp": 0.5,
+      "aggro": 0.5
+    },
+    "Elementals": {
+      "tribal": 2.0,
+      "blink": 0.5
+    },
+    "Earthbending": {
+      "ramp": 1.0,
+      "counters": 1.0,
+      "aggro": 0.5
+    },
+    "Hydras": {
+      "tribal": 2.0,
+      "counters": 1.0
+    },
+    "Turbo Fog": {
+      "stax": 1.5,
+      "control": 0.5
+    },
+    "Stoneblade": {
+      "voltron": 1.5,
+      "artifacts": 0.5
+    },
+    "Fling": {
+      "aggro": 0.5,
+      "combo": 0.5
+    },
+    "Knights": {
+      "tribal": 2.0,
+      "aggro": 0.5
+    },
+    "Dragon's Approach": {
+      "tribal": 1.0,
+      "spells": 1.0
+    },
+    "Gods": {
+      "tribal": 2.0,
+      "enchant": 0.5
+    },
+    "All Spells": {
+      "spells": 1.5
+    },
+    "Artificers": {
+      "tribal": 2.0,
+      "artifacts": 1.0
+    },
+    "Turbo": {
+      "combo": 1.0,
+      "spells": 0.5
+    },
+    "Cats": {
+      "tribal": 2.0,
+      "wide": 0.5
+    },
+    "Merfolk": {
+      "tribal": 2.0,
+      "counters": 0.5
+    },
+    "Myriad": {
+      "tribal": 2.0,
+      "wide": 1.0
+    },
+    "Umori Companion": {
+      "combo": 0.5
+    },
+    "Persistent Petitioners": {
+      "tribal": 1.5,
+      "grave": 0.5
+    },
+    "Soldiers": {
+      "tribal": 2.0,
+      "wide": 1.0
+    },
+    "Mana Rocks": {
+      "ramp": 1.5,
+      "artifacts": 1.0
+    },
+    "Warriors": {
+      "tribal": 2.0,
+      "aggro": 0.5
+    },
+    "Clerics": {
+      "tribal": 2.0,
+      "drain": 0.5
+    },
+    "Cheerios": {
+      "artifacts": 1.5,
+      "spells": 0.5
+    },
+    "Charge Counters": {
+      "counters": 1.5,
+      "artifacts": 0.5
+    },
+    "Die Roll": {
+      "chaos": 2.0
+    },
+    "Allies": {
+      "tribal": 2.0,
+      "blink": 0.5
+    },
+    "Beasts": {
+      "tribal": 2.0,
+      "stompy": 0.5
+    },
+    "Devoid": {
+      "stompy": 0.5
+    },
+    "Party": {
+      "tribal": 2.0,
+      "politics": 0.5
+    },
+    "Horrors": {
+      "tribal": 2.0,
+      "grave": 0.5
+    },
+    "Rats": {
+      "tribal": 2.0,
+      "wide": 0.5
+    },
+    "Insects": {
+      "tribal": 2.0,
+      "wide": 0.5
+    },
+    "Constructs": {
+      "tribal": 2.0,
+      "artifacts": 1.0
+    },
+    "Saboteurs": {
+      "tribal": 2.0,
+      "aggro": 0.5
+    },
+    "Color Hack": {
+      "control": 0.5
+    },
+    "Praetors": {
+      "tribal": 2.0,
+      "stax": 0.5
+    },
+    "Squirrels": {
+      "tribal": 2.0,
+      "wide": 1.0
+    },
+    "Deserts": {
+      "ramp": 0.5
+    },
+    "Spacecraft": {
+      "tribal": 2.0,
+      "artifacts": 0.5
+    },
+    "Madness": {
+      "grave": 1.0,
+      "chaos": 0.5
+    },
+    "Druids": {
+      "tribal": 2.0,
+      "ramp": 1.0
+    },
+    "Frogs": {
+      "tribal": 2.0,
+      "wide": 0.5
+    },
+    "Keruga Companion": {
+      "ramp": 0.5
+    },
+    "Slime Against Humanity": {
+      "tribal": 1.0,
+      "wide": 0.5
+    },
+    "Wraiths": {
+      "tribal": 2.0,
+      "drain": 0.5
+    },
+    "Relentless Rats": {
+      "tribal": 2.0,
+      "wide": 1.0
+    },
+    "Saprolings": {
+      "tribal": 2.0,
+      "wide": 1.0
+    },
+    "Surveil": {
+      "grave": 1.0
+    },
+    "Rogues": {
+      "tribal": 2.0,
+      "grave": 0.5
+    },
+    "Rat Colony": {
+      "tribal": 2.0,
+      "wide": 1.0
+    },
+    "Pirates": {
+      "tribal": 2.0,
+      "clonesteal": 0.5
+    },
+    "Whales": {
+      "tribal": 2.0
+    },
+    "Sea Creatures": {
+      "tribal": 2.0
+    },
+    "Rabbits": {
+      "tribal": 2.0,
+      "wide": 1.0
+    },
+    "Heroes": {
+      "tribal": 2.0,
+      "voltron": 0.5
+    },
+    "Assassins": {
+      "tribal": 2.0,
+      "removal": 0.5
+    },
+    "Prowess": {
+      "spells": 1.0
+    },
+    "Rad Counters": {
+      "counters": 1.5,
+      "drain": 0.5
+    },
+    "Myr": {
+      "tribal": 2.0,
+      "artifacts": 1.0
+    },
+    "Experience Counters": {
+      "counters": 1.0
+    },
+    "Oozes": {
+      "tribal": 2.0,
+      "counters": 0.5
+    },
+    "Giants": {
+      "tribal": 2.0,
+      "stompy": 1.0
+    },
+    "Faeries": {
+      "tribal": 2.0,
+      "control": 0.5
+    },
+    "Advisors": {
+      "tribal": 2.0,
+      "politics": 0.5
+    },
+    "Exalted": {
+      "voltron": 1.0
+    },
+    "Craft": {
+      "artifacts": 1.0
+    },
+    "Dogs": {
+      "tribal": 2.0,
+      "counters": 0.5
+    },
+    "Shadowborn Apostles": {
+      "tribal": 2.0,
+      "combo": 0.5
+    },
+    "Sunforger": {
+      "voltron": 1.0,
+      "removal": 0.5
+    },
+    "Spiders": {
+      "tribal": 2.0,
+      "stompy": 0.5
+    },
+    "Voting": {
+      "politics": 1.5
+    },
+    "Robots": {
+      "tribal": 2.0,
+      "artifacts": 1.0
+    },
+    "Airbending": {
+      "removal": 1.0,
+      "blink": 0.5
+    },
+    "Blood": {
+      "tribal": 2.0,
+      "drain": 0.5
+    },
+    "Dwarves": {
+      "tribal": 2.0,
+      "artifacts": 0.5
+    },
+    "Enrage": {
+      "stompy": 0.5
+    },
+    "Golems": {
+      "tribal": 2.0,
+      "stompy": 0.5
+    },
+    "Hare Apparent": {
+      "tribal": 2.0,
+      "wide": 1.0
+    },
+    "Villains": {
+      "tribal": 2.0,
+      "removal": 0.5
+    },
+    "Improvise": {
+      "artifacts": 1.0
+    },
+    "Extra Upkeeps": {
+      "combo": 1.0,
+      "blink": 0.5
+    },
+    "Ninjas": {
+      "tribal": 2.0,
+      "clonesteal": 0.5
+    },
+    "Shrines": {
+      "enchant": 1.5
+    },
+    "Ninjutsu": {
+      "tribal": 1.0,
+      "clonesteal": 0.5
+    },
+    "Foretell": {
+      "spells": 0.5
+    },
+    "Connive": {
+      "counters": 1.0,
+      "grave": 0.5
+    },
+    "Time Counters": {
+      "combo": 1.0
+    },
+    "Summons": {
+      "ramp": 1.0,
+      "stompy": 0.5
+    },
+    "Explore": {
+      "ramp": 1.5
+    },
+    "Bobbleheads": {
+      "artifacts": 1.0
+    },
+    "Bears": {
+      "tribal": 2.0,
+      "stompy": 0.5
+    },
+    "Sphinxes": {
+      "tribal": 2.0,
+      "control": 0.5
+    },
+    "Plants": {
+      "tribal": 2.0,
+      "counters": 0.5
+    },
+    "Mayhem": {
+      "grave": 0.5,
+      "chaos": 0.5
+    },
+    "Lessons": {
+      "spells": 0.5
+    },
+    "Skeletons": {
+      "tribal": 2.0,
+      "grave": 0.5
+    },
+    "Wolves": {
+      "tribal": 2.0,
+      "stompy": 0.5
+    },
+    "Samurai": {
+      "tribal": 2.0,
+      "voltron": 0.5
+    },
+    "Thopters": {
+      "tribal": 2.0,
+      "wide": 1.0,
+      "artifacts": 0.5
+    },
+    "Wurms": {
+      "tribal": 2.0,
+      "stompy": 1.0
+    },
+    "Lure": {
+      "removal": 0.5,
+      "stompy": 0.5
+    },
+    "Gyruda Companion": {
+      "grave": 0.5
+    },
+    "Horses": {
+      "tribal": 2.0,
+      "aggro": 0.5
+    },
+    "Outlaws": {
+      "tribal": 2.0,
+      "removal": 0.5
+    },
+    "Firebending": {
+      "spells": 1.0,
+      "aggro": 0.5
+    },
+    "Phasing": {
+      "control": 0.5,
+      "blink": 0.5
+    },
+    "Jegantha Companion": {
+      "ramp": 0.5
+    },
+    "Shamans": {
+      "tribal": 2.0,
+      "ramp": 0.5
+    },
+    "Mutants": {
+      "tribal": 2.0,
+      "counters": 0.5
+    },
+    "Snakes": {
+      "tribal": 2.0,
+      "counters": 0.5
+    },
+    "Doomsday": {
+      "combo": 2.0
+    },
+    "Towns": {
+      "tribal": 2.0
+    },
+    "Villainous Choice": {
+      "politics": 1.0,
+      "chaos": 0.5
+    },
+    "Treefolk": {
+      "tribal": 2.0,
+      "stompy": 0.5
+    },
+    "Paradox": {
+      "chaos": 0.5
+    },
+    "Bloodthirst": {
+      "counters": 1.0,
+      "aggro": 0.5
+    },
+    "Freerunning": {
+      "aggro": 0.5
+    },
+    "Arcane": {
+      "spells": 0.5
+    },
+    "Custom Cards": {
+      "chaos": 0.5
+    },
+    "Goats": {
+      "tribal": 2.0,
+      "wide": 0.5
+    },
+    "Fungi": {
+      "tribal": 2.0,
+      "counters": 0.5
+    },
+    "Nightmares": {
+      "tribal": 2.0,
+      "drain": 0.5
+    },
+    "Heroic": {
+      "spells": 1.0,
+      "voltron": 0.5
+    },
+    "Avatars": {
+      "tribal": 2.0,
+      "stompy": 0.5
+    },
+    "Halflings": {
+      "tribal": 2.0,
+      "counters": 0.5
+    },
+    "Suspend": {
+      "spells": 0.5,
+      "combo": 0.5
+    },
+    "Exploit": {
+      "grave": 1.0,
+      "drain": 0.5
+    },
+    "Lizards": {
+      "tribal": 2.0,
+      "aggro": 0.5
+    },
+    "Obosh Companion": {
+      "aggro": 0.5
+    },
+    "Stickers": {
+      "chaos": 1.5
+    },
+    "Otters": {
+      "tribal": 2.0,
+      "spells": 0.5
+    },
+    "Waterbending": {
+      "artifacts": 1.0,
+      "ramp": 0.5
+    },
+    "Turtles": {
+      "tribal": 2.0,
+      "control": 0.5
+    },
+    "Delirium": {
+      "grave": 1.0
+    },
+    "Rooms": {
+      "enchant": 1.0
+    },
+    "Paradigm": {
+      "spells": 1.0,
+      "combo": 0.5
+    },
+    "Werewolves": {
+      "tribal": 2.0,
+      "stompy": 0.5
+    },
+    "Stun": {
+      "stax": 1.0
+    },
+    "Level Up": {
+      "counters": 1.0
+    },
+    "Caves": {
+      "ramp": 0.5
+    },
+    "Sunburst": {
+      "counters": 1.0,
+      "artifacts": 0.5
+    },
+    "Hellbent": {
+      "stax": 0.5,
+      "aggro": 0.5
+    },
+    "Evoke": {
+      "blink": 1.0
+    },
+    "Tyranids": {
+      "tribal": 2.0,
+      "counters": 0.5
+    },
+    "Bats": {
+      "tribal": 2.0,
+      "drain": 0.5
+    },
+    "Elders": {
+      "tribal": 2.0,
+      "aggro": 0.5
+    },
+    "Apes": {
+      "tribal": 2.0,
+      "stompy": 0.5
+    },
+    "Oil Counters": {
+      "counters": 1.5,
+      "drain": 0.5
+    },
+    "Crabs": {
+      "tribal": 2.0,
+      "control": 0.5
+    },
+    "Time Lords": {
+      "tribal": 2.0,
+      "chaos": 0.5
+    },
+    "Foxes": {
+      "tribal": 2.0,
+      "aggro": 0.5
+    },
+    "Spore Counters": {
+      "counters": 1.0,
+      "wide": 0.5
+    },
+    "Empower Jace": {
+      "spells": 0.5
+    },
+    "Archers": {
+      "tribal": 2.0,
+      "removal": 0.5
+    },
+    "Descend": {
+      "grave": 0.5
+    },
+    "Orcs": {
+      "tribal": 2.0,
+      "aggro": 0.5
+    },
+    "Devils": {
+      "tribal": 2.0,
+      "drain": 0.5
+    },
+    "Offspring": {
+      "wide": 1.0
+    },
+    "Unicorns": {
+      "tribal": 2.0,
+      "aggro": 0.5
+    },
+    "Cybermen": {
+      "tribal": 2.0,
+      "counters": 0.5
+    },
+    "Drakes": {
+      "tribal": 2.0,
+      "aggro": 0.5
+    },
+    "Daleks": {
+      "tribal": 2.0,
+      "drain": 0.5
+    },
+    "Kaheera Companion": {
+      "tribal": 0.5
+    },
+    "Day / Night": {
+      "chaos": 0.5
+    },
+    "Squad": {
+      "wide": 1.0
+    },
+    "Mice": {
+      "tribal": 2.0,
+      "aggro": 0.5
+    },
+    "Raccoons": {
+      "tribal": 2.0,
+      "counters": 0.5
+    },
+    "Tempest Hawk": {
+      "tribal": 2.0,
+      "aggro": 0.5
+    },
+    "Gnomes": {
+      "tribal": 2.0,
+      "artifacts": 0.5
+    },
+    "Phoenixes": {
+      "tribal": 2.0,
+      "aggro": 0.5
+    },
+    "Warp": {
+      "blink": 0.5,
+      "spells": 0.5
+    },
+    "Job Select": {
+      "artifacts": 0.5
+    },
+    "Sharks": {
+      "tribal": 2.0,
+      "aggro": 0.5
+    },
+    "Griffins": {
+      "tribal": 2.0,
+      "aggro": 0.5
+    },
+    "Pegasi": {
+      "tribal": 2.0,
+      "aggro": 0.5
+    },
+    "Servos": {
+      "tribal": 2.0,
+      "wide": 1.0,
+      "artifacts": 0.5
+    },
+    "Toys": {
+      "tribal": 2.0,
+      "artifacts": 0.5
+    },
+    "Astartes": {
+      "tribal": 2.0,
+      "aggro": 0.5
+    },
+    "Nobles": {
+      "tribal": 2.0
+    },
+    "Berserkers": {
+      "tribal": 2.0,
+      "aggro": 0.5
+    },
+    "Plot": {
+      "spells": 0.5
+    },
+    "Minions": {
+      "tribal": 2.0,
+      "aggro": 0.5
+    },
+    "Moonfolk": {
+      "tribal": 2.0,
+      "ramp": 0.5
+    },
+    "Retrace": {
+      "spells": 1.0,
+      "grave": 0.5
+    },
+    "Incubate": {
+      "counters": 1.0,
+      "artifacts": 0.5
+    },
+    "Necrons": {
+      "tribal": 2.0,
+      "grave": 0.5
+    },
+    "Zirda Companion": {
+      "combo": 0.5
+    },
+    "Kithkin": {
+      "tribal": 2.0,
+      "wide": 0.5
+    },
+    "Minotaurs": {
+      "tribal": 2.0,
+      "aggro": 0.5
+    },
+    "Detectives": {
+      "tribal": 2.0,
+      "removal": 0.5
+    },
+    "Lhurgoyfs": {
+      "tribal": 2.0,
+      "grave": 1.0
+    },
+    "Books": {
+      "tribal": 2.0
+    },
+    "Value Vintage": {
+      "combo": 0.5,
+      "artifacts": 0.5
+    },
+    "Blight": {
+      "counters": 1.0,
+      "drain": 0.5
+    },
+    "Templar Knights": {
+      "tribal": 2.0,
+      "aggro": 0.5
+    },
+    "Increment": {
+      "counters": 1.0
+    },
+    "Mercenaries": {
+      "tribal": 2.0,
+      "removal": 0.5
+    },
+    "Scarecrows": {
+      "tribal": 2.0,
+      "artifacts": 0.5
+    },
+    "Monkeys": {
+      "tribal": 2.0,
+      "aggro": 0.5
+    },
+    "Rebels": {
+      "tribal": 2.0,
+      "removal": 0.5
+    },
+    "Planechase": {
+      "chaos": 1.5
+    },
+    "Web-slinging": {
+      "aggro": 0.5,
+      "voltron": 0.5
+    },
+    "Specters": {
+      "tribal": 2.0,
+      "stax": 0.5
+    },
+    "Illusions": {
+      "tribal": 2.0,
+      "chaos": 0.5
+    },
+    "Cephalids": {
+      "tribal": 2.0
+    },
+    "Lurrus Companion": {
+      "grave": 0.5
+    },
+    "Atogs": {
+      "tribal": 2.0,
+      "grave": 0.5
+    },
+    "Fractals": {
+      "tribal": 2.0,
+      "counters": 0.5
+    },
+    "Bards": {
+      "tribal": 2.0,
+      "politics": 0.5
+    },
+    "Elephants": {
+      "tribal": 2.0,
+      "stompy": 0.5
+    },
+    "Barbarians": {
+      "tribal": 2.0,
+      "aggro": 0.5
+    },
+    "Monks": {
+      "tribal": 2.0,
+      "spells": 0.5
+    },
+    "European Highlander": {
+      "control": 0.5
+    },
+    "Crocodiles": {
+      "tribal": 2.0,
+      "aggro": 0.5
+    },
+    "Dandan": {
+      "tribal": 2.0
+    },
+    "Shades": {
+      "tribal": 2.0,
+      "drain": 0.5
+    },
+    "Premodern": {
+      "control": 0.5
+    },
+    "Symbiotes": {
+      "tribal": 2.0,
+      "counters": 0.5
+    },
+    "Ogres": {
+      "tribal": 2.0,
+      "stompy": 0.5
+    },
+    "Storied": {
+      "enchant": 0.5
+    },
+    "Prepared": {
+      "spells": 0.5
+    },
+    "Hippos": {
+      "tribal": 2.0,
+      "stompy": 0.5
+    },
+    "Power-up": {
+      "counters": 1.0
+    },
+    "Kor": {
+      "tribal": 2.0,
+      "voltron": 0.5
+    },
+    "Satyrs": {
+      "tribal": 2.0,
+      "aggro": 0.5
+    },
+    "Kavu": {
+      "tribal": 2.0,
+      "aggro": 0.5
+    },
+    "Modal Spells": {
+      "spells": 1.0
+    }
+  },
+  "ignored": {
+    "Midrange": "泛用强度标签，151/151 主将全有，不指向任一玩法原型",
+    "Commander Matters": "EDH 结构本身（人人都靠主将），不区分玩法",
+    "Good Stuff": "纯泛用，无玩法指向",
+    "Card Draw": "通用资源动作，任何玩法都需要，不区分原型",
+    "Toolbox": "泛用「按需找答案」描述，横跨 control/removal/tribal",
+    "Tempo": "泛用节奏标签，介于 aggro 与 control 之间，不构成原型",
+    "Legends": "只描述牌张超类别（传奇），非玩法",
+    "Activated Abilities": "只描述异能大类，几乎所有主将都有",
+    "Triggered Abilities": "只描述异能大类，几乎所有主将都有",
+    "Flying": "只描述生物关键词，不构成玩法原型",
+    "Haste": "关键词，本身无玩法指向",
+    "Keywords": "泛用关键词集合，无具体玩法指向",
+    "Scry": "通用占卜/牌库筛选，任何玩法都会用，不区分原型",
+    "Life Exchange": "单卡效应描述（交换生命），非玩法原型",
+    "Landwalk": "关键词，无玩法指向",
+    "Transform": "只描述牌张正反两面的状态，无玩法指向",
+    "Banding": "关键字（联合阻挡），现代牌几乎不用，无玩法指向",
+    "Sneak": "关键词（潜袭类），玩法指向不明",
+    "Vanilla": "白板生物，说明不了玩法",
+    "Skulk": "关键词，无玩法指向",
+    "Reach": "关键词，无玩法指向",
+    "Menace": "关键词，无玩法指向",
+    "Horsemanship": "关键词（近似飞行），无玩法指向",
+    "Miracles": "关键词（奇迹），触发不稳定，无固定玩法指向",
+    "Opus": "能力词（CR 207.2c，无独立规则义），玩法指向不明",
+    "Kicker": "关键词（增幅），几乎所有系列都有，无玩法指向",
+    "Cid": "主将人物名标签（非生物类别），玩法指向不明",
+    "Repartee": "能力词（CR 207.2c，无独立规则义），玩法指向不明"
+  }
+}

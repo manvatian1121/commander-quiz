@@ -1,0 +1,187 @@
+{
+  "Y'shtola, Night's Blessed": {
+    "tagline": "法术一多，掉血、抽牌、烧脸全套跟上",
+    "intro": "夜之民雅·修特拉（Y'shtola, Night's Blessed）会把场上的掉血换成你的手牌：每个回合结束前只要有人掉过四点血，你就白抽一张；你每用一张费用三点以上的咒语，她对每个对手各打两点伤害、让你回两点血。喜欢控制节奏的人会喜欢她。",
+    "build": "核心是「掉血换抽牌」：除灭（Snuff Out）这类拿血当费的牌正好能触发她抽牌；帕帕力莫·托托力莫（Papalymo Totolymo）和第三席爱梅特赛尔克（Emet-Selch of the Third Seat）能和她连成一条链。莉瑟·赫克斯特（Lyse Hext）让非生物咒语更便宜。用便宜咒语换掉对手的关键威胁，等她的手牌优势滚起来再动手。"
+  },
+  "Edgar Markov": {
+    "tagline": "吸血鬼越打越多，主将不上场也在铺场",
+    "intro": "艾德嘉马可夫（Edgar Markov）是万智牌里最直白的吸血鬼头子：只要他在主将区，你每用一张别的吸血鬼咒语，他就白送一个 1/1 吸血鬼衍生物，完全不用等他上场；他自己先攻、敏捷，一进攻就给所有吸血鬼加一层强化。",
+    "build": "生物位尽量留给吸血鬼：蛊惑吸血鬼（Captivating Vampire）、热忱吸血鬼（Cordial Vampire）和迎宾吸血鬼（Welcoming Vampire）都能一边铺场一边继续补牌。暮影蔷薇之棘维托（Vito, Thorn of the Dusk Rose）能把回血变成打脸。三色护符负责调色，几张双色地保证不卡手；他费用不低，前几回合站住。"
+  },
+  "The Ur-Dragon": {
+    "tagline": "五色巨龙越铺越大，一进攻就换一桌牌",
+    "intro": "太初龙（The Ur-Dragon）是五色五费的巨龙，但价值在他躺在主将区也生效：你施放的其它龙咒语都少付一点法术力。他自己飞行，只要有一群龙一起进攻，就能按数量抽牌，还能把手里的一张永久物直接放进场。喜欢大生物的人会喜欢它。",
+    "build": "先把地铺好，太初龙需要五种颜色。龙位放上古龙卫米瑞穆（Miirym, Sentinel Wyrm）、提亚玛特（Tiamat）和龙后拉黎丝（Lathliss, Dragon Queen）。铁木尔霸权（Temur Ascendancy）给全体敏捷还能抽牌。龙都很贵，前期要忍，手里一堆大龙却没有地是最常见的问题。"
+  },
+  "Atraxa, Praetors' Voice": {
+    "tagline": "让所有指示物一边长大，一边越变越多",
+    "intro": "魔判官之声亚崔夏（Atraxa, Praetors' Voice）是会飞行、警戒、死触、系命的天使，每个回合结束时你繁殖一次：场上和玩家身上每种已有的指示物都再加一个。这套牌不追求爆发，而是让指示物慢慢变多，适合喜欢看着自己的东西长大的人。",
+    "build": "把产生指示物的牌铺开：演化智者（Evolution Sage）让每次地进场都繁殖，求知圣主特库索（Tekuthal, Inquiry Dominus）把繁殖翻倍，难阻浪潮（Inexorable Tide）让你每用一张咒语就繁殖；泰兹瑞的计策（Tezzeret's Gambit）能补牌再繁殖。四色的地优先放能调色的，别让牌卡在手上。"
+  },
+  "Krenko, Mob Boss": {
+    "tagline": "鬼怪越铺越多，最后一波直接带走",
+    "intro": "暴民头目克仑可（Krenko, Mob Boss）是最好懂的主将之一：横置他，你就造出一群 1/1 红色鬼怪衍生物，数量等于你场上鬼怪的数量——几回合后就是一大片。鬼怪本身便宜、能很快进攻，适合刚入门、想体验「我的生物比对手多」的人。",
+    "build": "鬼怪战酋长（Goblin Warchief）和鬼怪酋长（Goblin Chieftain）既减费又给全体敏捷，精灵王（Goblin King）再叠一层加攻。攻城指挥官（Siege-Gang Commander）一次带三个衍生物，冲击震颤（Impact Tremors）让每个进场的生物都往对手脸上打一点。他清场后你常会空手空场，别把希望全押一波。"
+  },
+  "Vivi Ornitier": {
+    "tagline": "法术一多，他就暴涨，脸也跟着掉血",
+    "intro": "比比·奥尼提尔（Vivi Ornitier）把「多用法术」换成伤害：你每用一张非生物咒语，他就多一个加攻指示物，并对每个对手各打一点；他还能横置产生一大笔蓝红法术力，数量等于他的攻击力，越到后面越能连着出牌。喜欢连甩咒语的人会喜欢他。",
+    "build": "关键的搭配是好奇（Curiosity）：贴在他身上，他每次打到对手你都能抽一张，于是法术越多抽得越多、伤害也越高。欧菲迪安蛇眼（Ophidian Eye）和协力警戒员（Tandem Lookout）是同一套路。开局用低费法术把他的攻击力养大；但他很脆，一旦被打掉整条链就断了。"
+  },
+  "Sauron, the Dark Lord": {
+    "tagline": "对手每用一张牌，你的兽人军团就长一圈",
+    "intro": "黑暗魔君索隆（Sauron, the Dark Lord）不自己动手，靠对手动手：对手每用一张咒语，你的兽人军队就多一个强化指示物；军队打到人时魔戒会诱惑你，你可以弃掉整手牌换四张新的。整套牌是兽人、魔戒、坟场三件事搅在一起，头几次玩会有点绕。",
+    "build": "魔戒相关的牌是骨架：魔戒呼唤（Call of the Ring）每回合诱惑你并补一张，白手萨茹曼（Saruman, the White Hand）让你的咒语按费用给军队加指示物，安格玛巫王（Witch-king of Angmar）能逼对手牺牲生物。索隆遗宝（Relic of Sauron）出三色法术力还能弃牌抽牌。地放能调色的三色地。"
+  },
+  "Kaalia of the Vast": {
+    "tagline": "她一挥翅膀，天使恶魔龙直接砸下来",
+    "intro": "穹境的卡莉雅（Kaalia of the Vast）是飞行的三色主将：她攻击某个对手时，你可以从手里把一张天使、恶魔或龙的生物直接放进场，横置着攻击那个对手——本来要七八点法术力的大生物，靠她能提前砸下来。喜欢一回合制造巨大压力的人会喜欢她。",
+    "build": "天使、恶魔、龙要占多数：金夜之刃姬瑟拉（Gisela, Blade of Goldnight）和符痕恶魔（Rune-Scarred Demon）都能在她一攻击时立刻兑现价值，战领欧瑞梨（Aurelia, the Warleader）多给你一次战斗，等于多放一只大生物。三色地负责调色，加速也要放够，否则手里全是七八费的东西会很尴尬。"
+  },
+  "Teval, the Balanced Scale": {
+    "tagline": "进攻就磨牌，磨完再把地捡回来继续铺",
+    "intro": "公正鳞龙特瓦尔（Teval, the Balanced Scale）是一只会飞的龙：每次攻击先磨三张牌，然后把坟场里的一张地横置放回场；只要有牌离开你的坟场，你就得到一个 2/2 僵尸德鲁伊。进攻、磨牌、回收、铺场串成一条链，适合喜欢坟场套牌的人。",
+    "build": "要让坟场不停进进出出：特瓦尔的裁决（Teval's Judgment）每次都能给你一点好处，晶石蟹（Hedron Crab）让每张地进场都多磨三张，黑土滋壤（Life from the Loam）把三张地捡回手继续铺；墓场匍尸（Gravecrawler）能从坟场反复爬出来。地要放够，注意出场顺序，链子一断就什么都没了。"
+  },
+  "Fire Lord Azula": {
+    "tagline": "一边打架一边甩法术，每张都来两份",
+    "intro": "烈火君阿祖拉（Fire Lord Azula）围绕「打架时用法术」设计：她进攻时会给你一笔红色法术力，只要她正在进攻，你用的每张咒语都会多复制一份，复制品还能重新选目标。一回合里先打人再连甩咒语，场面会突然翻倍，适合喜欢快节奏的人。",
+    "build": "低费法术是弹药：暴风窑艺家（Storm-Kiln Artist）每用或复制一张瞬间、法术就给你一个珍宝，荣休大法师（Archmage Emeritus）让你每张都抽一张。大干一票（Big Score）和意外横财（Unexpected Windfall）既补牌又出珍宝。只有她进攻时才有复制，注意时机。"
+  },
+  "Ms. Bumbleflower": {
+    "tagline": "给对手递牌，自己把场面堆得更高",
+    "intro": "野花小姐（Ms. Bumbleflower）是「送牌换成长」的主将：你每用一张咒语，就让一个对手抽一张，同时给一个生物加一层强化并让它飞行；如果这是本回合第二次结算，你自己抽两张。她逼你算清楚送出去的牌值不值，适合喜欢政治的人。",
+    "build": "围绕「给对手抽牌」做文章：蹊径会的罗兰（Loran of the Third Path）可以横置让双方各抽一张，长河拉拽（Long River's Pull）和职业：法师（Wizard Class）能把送牌变成你自己的收益。廿蚪蟾蜍（Twenty-Toed Toad）不限手牌上限，越攒越多。加速和双色地要放够，别忘给对手的牌会变成他们的资源。"
+  },
+  "Pantlaza, Sun-Favored": {
+    "tagline": "每来一只恐龙，就从牌库顶白捡一张",
+    "intro": "烈阳眷恩潘塔札（Pantlaza, Sun-Favored）每次有恐龙进场（包括它自己）时，都能从牌库顶开始翻，免费放出一张比它便宜的牌，每回合只能来一次。所以手感是「一只接一只」，越打越大，适合喜欢大生物、喜欢每次翻出惊喜的人。",
+    "build": "恐龙和强化恐龙的牌是主体：怨怒迅猛龙（Wrathful Raptors）能把受到的伤害反弹出去，撼地血口龙（Earthshaker Dreadmaw）进场按恐龙数量抽牌，好奇硕伟龙（Curious Altisaur）让恐龙打中人就抽牌；荒野韵律（Rhythm of the Wild）给全体敏捷。发现每回合只有一次，出手顺序要想清楚。"
+  },
+  "Giada, Font of Hope": {
+    "tagline": "便宜的白天使主将，天使一来就自带强化",
+    "intro": "希望圣源吉娅妲（Giada, Font of Hope）是两费、飞行警戒的天使：她每多存在一会儿，你之后施放的其他天使进场时就多带一层强化指示物，所以越早出场越赚；她自己还能横置产生白色法术力。规则简单，很适合第一次自己组牌的新人。",
+    "build": "天使要放多：黎明使者莱拉（Lyra Dawnbringer）给全体天使加攻、系命和先攻，年轻女武神（Youthful Valkyrie）会随着天使进场不断长大，华辉天使（Resplendent Angel）在你回够血时造出天使衍生物。斯达海姆求索客（Starnheim Aspirant）让天使咒语更便宜。天使虽然大只但都很贵，别急。"
+  },
+  "Lathril, Blade of the Elves": {
+    "tagline": "妖精越铺越多，最后一次性吸干全场",
+    "intro": "妖精之刃拉席莉（Lathril, Blade of the Elves）只要打中对手，就按伤害量造出等量的 1/1 妖精战士衍生物，她一个人就能把场面铺起来；她还藏着一招：横置自己和十个妖精，每个对手各掉十点生命、你回十点。喜欢妖精部落的人会喜欢她。",
+    "build": "产法术力的小妖精是地基：妖精高位德鲁伊（Elvish Archdruid）和泰坦尼亚牧师（Priest of Titania）都能按妖精数量一次产出很多绿色法术力，骄傲至美（Imperious Perfect）和善战妖精（Elvish Warmaster）一边加攻一边造人。她只有两点防御，很容易被打掉，前期先铺稳地和大妖精。"
+  },
+  "The Wise Mothman": {
+    "tagline": "大家一起磨牌，磨出来的东西全变成强化",
+    "intro": "天蛾人智者（The Wise Mothman）是飞行的三色主将：它进场或攻击时每个人都得到一个辐射指示物，被辐射的人会不断磨掉牌库顶的牌；每当有非地的牌被磨掉，你就能给若干个生物各加一层强化。你越磨场面越大，适合喜欢磨牌的人。",
+    "build": "辐射和磨牌是主线：发光种（Glowing One）每次打中对手就给对方四个辐射，乱心辐射海鸥（Vexing Radgull）专门给还没辐射的人补上，泥沼蟹女王（Mirelurk Queen）让每次磨牌都换成一张牌加一层强化；异尘余生（Nuclear Fallout）是难得的清场。三色地和调色要放够，辐射是全场的，你也会被磨。"
+  },
+  "Toph, the First Metalbender": {
+    "tagline": "神器当地用，地牌则变成会打人的生物",
+    "intro": "冶金师始祖拓芙（Toph, the First Metalbender）把两件平时不相干的事凑到一起：你场上的神器同时也算地，而每个回合结束时你会运土 2，把一张自己的地变成带两个强化指示物的生物，它死后还会回来。喜欢地牌和神器的人会喜欢她。",
+    "build": "神器是地基：脓水涌泉（Ichor Wellspring）进场和离场都能抽牌，反复利用很划算。运土的伙伴也放上：力量全开的布米（Bumi, Unleashed）进场就运土 4；固执师父拓芙（Toph, Hardheaded Teacher）和运土宗师拓芙（Toph, Earthbending Master）都能持续运土。注意神器算地并不等于能产法术力。"
+  },
+  "Jodah, the Unifier": {
+    "tagline": "传奇越铺越多，然后互相把对方拉上场",
+    "intro": "诸界一统裘达（Jodah, the Unifier）是五色主将，核心只有一句话：你每从手里用一张传奇咒语，就从牌库顶往下翻，直到翻出一张更便宜的传奇牌免费放出；同时你场上的传奇生物会按传奇数量互相加攻防。喜欢满桌名人的人会喜欢它。",
+    "build": "生物位几乎全给传奇：晴空号船长西赛（Sisay, Weatherlight Captain）能直接把传奇永久物找出来，潜探灾祸夏义德（Shanid, Sleepers' Scourge）让你每用一张传奇就抽一张，克撒的毁世震荡（Urza's Ruinous Blast）能清掉全场非传奇的永久物。五色地要放足，传奇占比不够高的话，裘达会经常翻空。"
+  },
+  "Nekusar, the Mindrazer": {
+    "tagline": "让所有人多抽牌，然后每抽一张就打一下",
+    "intro": "毁灵师奈库萨（Nekusar, the Mindrazer）干的是「送牌又打人」：每个玩家抽牌时都多抽一张，而每个对手每抽一张牌就被打一点。表面上你在帮大家补牌，实际上把整套牌变成一道慢慢累加的伤害，喜欢让全场都难受的人可以试试。",
+    "build": "多让人抽牌的牌越多越好：地底幻梦（Underworld Dreams）、嚎叫的矿井（Howling Mine）和乱涂匍体（Scrawling Crawler）都能让对手一边补牌一边掉血，横财（Windfall）让所有人弃掉手牌重抽一轮，一轮就能打掉一大截。三色护符和双色地负责调色；给别人补牌是双刃剑，对手手里有解牌时最先倒霉的是你。"
+  },
+  "Cloud, Ex-SOLDIER": {
+    "tagline": "装备全挂在他身上，一刀一刀换牌换伤害",
+    "intro": "前神罗战士克劳德（Cloud, Ex-SOLDIER）围绕装备设计：他自带敏捷，进场时能直接挂上一件装备；之后每次攻击，场上有装备好的攻击生物就抽牌，攻击力够大时还会白给两个珍宝。喜欢把装备一件件叠在同一个人身上、看他一刀砍穿的人会喜欢他。",
+    "build": "先把挂件凑齐：巨锤（Colossus Hammer）能给他很大加成，物灵师之剑（Sword of the Animist）让他攻击时找地，征服者连枷（Conqueror's Flail）挂上时能压住对手的施放。净钢神圣武士（Puresteel Paladin）让装备进场就能抽牌，格斗家蒂法（Tifa, Martial Artist）补上多个对手时的收益。"
+  },
+  "Hearthhull, the Worldseed": {
+    "tagline": "牺牲地牌换牌，同时把对手的血一点点磨掉",
+    "intro": "播世之种芯炉号（Hearthhull, the Worldseed）是一艘主将飞船：你可以横置生物给它加充能指示物；攒到两个以后，每回合能牺牲一张地来抽两张牌并多铺一张地；攒到八个，它自己变成会飞、警戒、敏捷的生物。你每次牺牲地，对手都掉血。",
+    "build": "把地当资源用：慕达雅先知（Oracle of Mul Daya）让你每回合多铺一张地，绚烂复生（Splendid Reclamation）一口气把坟场里的地全捞回来，整地（Harrow）一次换两张地进场，事后分析师（Aftermath Analyst）磨三张再回收所有地。地牌要放得比一般套牌多，牺牲太快断地是最常见的问题。"
+  },
+  "Kefka, Court Mage": {
+    "tagline": "逼全场弃牌，再把对手的掉血换成抽牌",
+    "intro": "宫廷魔法师凯夫卡（Kefka, Court Mage）进场或攻击时，每个玩家各弃一张牌，然后你按弃掉的牌类型数量抽牌；凑出八点法术力后他还能翻面，翻面后你在自己回合里让对手掉多少血，就抽多少张牌。靠逼对手弃牌换资源，但很讲究时机。",
+    "build": "弃牌触发是主线：物尽其用（Waste Not）在对手弃牌时给你法术力或衍生物，饰品妙盗细骨（Tinybones, Bauble Burglar）把对手弃掉的牌收起来让你之后自己用，菁华异变（Essence Flux）能在关键时刻把他送回场，再触发一次进场弃牌。三色地要放够，翻面前先攒好八点法术力。"
+  },
+  "Yuriko, the Tiger's Shadow": {
+    "tagline": "小生物打不透就换忍者，翻到贵牌直接打脸",
+    "intro": "虎影百合子（Yuriko, the Tiger's Shadow）有指挥官忍术：只要你的攻击生物没被挡住，就能花两点蓝黑把它从主将区直接换进场；之后每次有忍者打中对手，你翻开牌库顶一张收进手牌，同时每个对手掉与那张牌费用相同的血。",
+    "build": "低费忍者和小生物是主体：妙手渗透者（Ingenious Infiltrator）能让你多抽牌，化形黜人（Changeling Outcast）和扑翼机（Ornithopter）是几乎挡不住的忍者载体，浪人梅泽哲子（Tetsuko Umezawa, Fugitive）让攻击力一点的生物都难以格挡。双色地和低费牌要放够；忍术的时机要多练几局才顺手。"
+  },
+  "Kenrith, the Returned King": {
+    "tagline": "想要什么就按哪个，五色技能随你挑",
+    "intro": "复归国王肯理斯（Kenrith, the Returned King）是五色的万能主将：花不同颜色的法术力，他能让全体生物获得践踏和敏捷、给生物加强化、给某个玩家回血或抽一张牌，或者从坟场复活一个生物。你想让这套牌偏哪边都行。",
+    "build": "关键是让技能更便宜、能反复用：训练场（Training Grounds）和生机术士佣兽（Biomancer's Familiar）都能把启动费用降两点，苗生谬思（Seedborn Muse）让你在别人回合反复启动。五色地是重点；因为要五色，前几回合容易慢，别急着一次启动好几个技能。"
+  },
+  "Sephiroth, Fabled SOLDIER": {
+    "tagline": "不停牺牲小生物，一边抽牌一边吸血",
+    "intro": "传奇神罗战士萨菲罗斯（Sephiroth, Fabled SOLDIER）是黑色主将：他进场或攻击时，你可以牺牲另一个生物换一张牌；之后每当有别的生物死掉，某个对手掉一点血、你回一点血，本回合第四次结算时他直接翻面。适合喜欢牺牲流的人。",
+    "build": "要源源不断有小生物可牺牲：舞蛇术士（Ophiomancer）每回合都给你一条蛇，鲜血画家（Blood Artist）让每次死亡都变成吸血，冷酷袭劫者（Pitiless Plunderer）和繁殖地易魂师（Warren Soultrader）把死亡换成法术力；遭弃矿工（Forsaken Miner）死后还能从坟场爬回来。别为了翻面而乱牺牲。"
+  },
+  "Isshin, Two Heavens as One": {
+    "tagline": "进攻触发全部翻倍，一次攻击干两份活",
+    "intro": "二天一流一心（Isshin, Two Heavens as One）自己不打架，他做的事情是把「攻击时触发」的能力全部再触发一次：只要有生物进攻引起的触发，都会额外结算一遍。把重点放在攻击触发的牌上，同样的进攻能榨出双倍收益，适合喜欢快攻的人。",
+    "build": "找「攻击时」有收益的牌：锡街头目克仑可（Krenko, Tin Street Kingpin）每次攻击都按攻击力造一堆鬼怪，物灵师之剑（Sword of the Animist）让他攻击时找地；华辉护教军艾德琳（Adeline, Resplendent Cathar）人多时攻击力很高。触发多容易漏。"
+  },
+  "Baylen, the Haymaker": {
+    "tagline": "手下人越多，法术力、牌和拳头全都越多",
+    "intro": "干草堆匠拜棱（Baylen, the Haymaker）把衍生物当成资源：横置两个衍生物给你一点任意颜色的法术力，横置三个抽一张牌，横置四个就在他自己身上加三层强化并让他获得践踏。你铺的每一群小东西都能换资源，剩下的还能拿来打人。",
+    "build": "衍生物来源要足够：肌肉野兔（Jacked Rabbit）攻击时不断造兔子，二度收获（Second Harvest）能把你场上的衍生物一口气翻倍，王牌弓手芬纳斯（Finneas, Ace Archer）给每个衍生物加一层强化，金圆喷泉（Halo Fountain）可以反复造出公民衍生物。三色地和调色要放够，别让衍生物横不出法术力。"
+  },
+  "Valgavoth, Harrower of Souls": {
+    "tagline": "对手一掉血他就长大，顺手再给你一张牌",
+    "intro": "搅魂魔瓦伽沃（Valgavoth, Harrower of Souls）是会飞的双色恶魔：对手每个回合第一次掉血时，他就多一层强化、你抽一张牌；别人要指定他，还得先付两点生命。这套牌不需要自己动手，只要让对手持续掉一点血，他就会越滚越大。",
+    "build": "让对手一直掉血的牌是核心：奇登磊寄生怪（Kederekt Parasite）、析命巫婆（Fate Unraveler）和尖头锐器人（Razorkin Needlehead）都能在对手抽牌时打他一点，屠戮神墨癸斯（Mogis, God of Slaughter）在对手维持时直接掉两点血；渎神行径（Blasphemous Act）负责清场自保。"
+  },
+  "Miirym, Sentinel Wyrm": {
+    "tagline": "每条龙都变两条，龙多到桌子放不下",
+    "intro": "上古龙卫米瑞穆（Miirym, Sentinel Wyrm）是六费的飞行龙，效果非常直接：每当有非衍生的龙在你场上进场，就再变出一个它的复制品，只是复制品不再是传奇。你放一条龙就得到两条，两条又各自触发别的龙的效果。",
+    "build": "先用减费和加速把它放出来：龙袭风暴（Dragon Tempest）让每条龙进场都打一点伤害，龙后拉黎丝（Lathliss, Dragon Queen）自己也能不断造龙，灭世龙王安塔卡（Atarka, World Render）让每条进攻的龙获得双击，伐卡兹祸害（Scourge of Valkas）按龙的数量打伤害。三色地要放足，龙都偏贵。"
+  },
+  "Chatterfang, Squirrel General": {
+    "tagline": "你造任何衍生物，都额外多一群松鼠",
+    "intro": "松鼠将军聒牙（Chatterfang, Squirrel General）把所有衍生物都变成松鼠：你原本要造的任何衍生物，除了它本身，还会额外多出等量的 1/1 绿色松鼠。他还能花一点黑牺牲松鼠，让某个生物掉同样的攻防。",
+    "build": "衍生物越多越好：松鼠巢穴（Squirrel Nest）能让一张地不断产松鼠，叽响喷吐器（Chitterspitter）会让松鼠越打越大，繁根教的哈珠儿（Hazel of the Rootbloom）能把衍生物复制一份，密讯信使托斯奇（Toski, Bearer of Secrets）保证你打人就能抽牌。松鼠虽多但都很小，一张清场会收走一大片。"
+  },
+  "Ulalek, Fused Atrocity": {
+    "tagline": "每用一张奥札奇，就把这一手全复制一遍",
+    "intro": "残暴合体钨拉雷（Ulalek, Fused Atrocity）是五色的奥札奇主将：你每用一张奥札奇咒语，只要再付两点无色法术力，就能把你当时控制的所有咒语、所有启动式和触发能力统统复制一份。看上去绕，实际就是「这回合做的事全部再来一次」。",
+    "build": "无色法术力和奥札奇是两条腿：奥札奇殿堂（Eldrazi Temple）专门产无色法术力，遭弃纪念碑（Forsaken Monument）让无色生物更大、产法术力时还多给，眩目片肉体（Glaring Fleshraker）每用一张无色咒语就造一个能换法术力的衍生物；尽归尘土（All Is Dust）是清场利器。复制要留两点无色，别把法术力全花光。"
+  },
+  "Hashaton, Scarab's Fist": {
+    "tagline": "弃掉大生物，花两点蓝换一个 4/4 僵尸",
+    "intro": "甲虫神之拳哈夏顿（Hashaton, Scarab's Fist）是两费主将，把弃牌变成场面：你每次弃掉一张生物牌，只要再付两点蓝，就能造出一个复制它、但是 4/4 黑色僵尸的衍生物，而且是横置进场。你丢掉的大生物不但不浪费，还能再用一次。",
+    "build": "要让弃牌稳定发生：苦刑生活（Tortured Existence）可以反复把生物从坟场换回手再弃掉，魂魅小偷（Ghostly Pilferer）在你每次重置时能付费抽一张，灵能蛙（Psychic Frog）让弃牌顺便变成强化，狂搜乱寻（Frantic Search）一次补两张牌再弃两张，正好供给主将。手牌太少时这套牌会卡住。"
+  },
+  "Frodo, Adventurous Hobbit // Sam, Loyal Attendant": {
+    "tagline": "不停做饭回血，攒够了就让魔戒勾引你",
+    "intro": "雄心霍比特人弗罗多（Frodo, Adventurous Hobbit）和忠诚随员山姆（Sam, Loyal Attendant）是一对搭档主将：弗罗多进攻时，只要你本回合回过三点以上的血，魔戒就诱惑你一次；攒够还抽牌，整套牌围绕食品和回血打转。",
+    "build": "食物和回血是主体：佩里格林·图克（Peregrin Took）让你造的每个衍生物都多带一个食品，山姆怀斯·甘姆吉（Samwise Gamgee）在每个非衍生物生物进场时给你一个食品，南小路的罗西·科顿（Rosie Cotton of South Lane）能两边兼顾。这套牌进攻不强，要耐得住性子，把优势一点点攒起来。"
+  },
+  "Ashling, the Limitless": {
+    "tagline": "元素半价提前下场，死了还会变成两份",
+    "intro": "瀚力无边灰儿（Ashling, the Limitless）围绕「呼引」设计：你从手里施放元素生物时多了一个便宜的替代费用，用它施放的话，元素进场后会被牺牲；而每当你有非衍生的元素被牺牲，你就造出一个它的复制品，只是得付五色法术力把它留下。",
+    "build": "元素要放够：醒转暗礁（Risen Reef）让你每放一个元素就翻牌库顶，是地就进场、是牌就收进手里；漂念精（Mulldrifter）用呼引放下来就是「抽两张再变两条」。编焰师（Flamebraider）和编烟师（Smokebraider）专门产元素咒语要的法术力。五色地要放足，呼引的时机也要练。"
+  },
+  "Bello, Bard of the Brambles": {
+    "tagline": "桌上一堆神器结界，全都站起来一起打",
+    "intro": "刺棘诗人贝洛（Bello, Bard of the Brambles）在自己的回合里，把你那些费用四点以上的非装备神器和非灵气结界都变成 4/4 元素生物，而且自带不灭、敏捷和「打中就抽一张牌」。平时只用来加速、抽牌的神器和结界，都会站起来打人。",
+    "build": "牌表尽量塞四费以上的神器和结界：狂战士猛攻（Berserkers' Onslaught）给攻击生物双击，无端暴力（Gratuitous Violence）让伤害翻倍，超凡成长（Unnatural Growth）每次战斗前把攻击力翻倍；索蓝发电机（Thran Dynamo）负责加速。敏捷只在你的回合生效，别当生物挡。"
+  },
+  "Esika, God of the Tree": {
+    "tagline": "每回合白放一个生物，传奇越多越顺手",
+    "intro": "世界树神埃西卡（Esika, God of the Tree）正面是便宜的神，自己就能产任意颜色法术力，还能给其它传奇生物同样的产费能力；背面虹彩桥（The Prismatic Bridge）在你每个维持时翻到一张生物或鹏洛客牌，直接免费放进场。",
+    "build": "传奇生物和鹏洛客是主体：法老神尼可波拉斯（Nicol Bolas, God-Pharaoh）这种平时太贵的鹏洛客也能免费出场，太古诸龙的辉煌重生（Primevals' Glorious Rebirth）能把坟场里的传奇永久物捞回来，泰菲力的誓约（Oath of Teferi）让鹏洛客能力一回合用两次；世界树（The World Tree）能让地变任意色。"
+  },
+  "Hakbal of the Surging Soul": {
+    "tagline": "全族人鱼一起探索，一边变大一边铺地",
+    "intro": "翻涌之魂哈巴尔（Hakbal of the Surging Soul）只做人鱼这一件事：你每个战斗开始时，所有人鱼一起探索——翻牌库顶一张，是地就进手牌，不是地就给那条人鱼加一层强化；他自己进攻时还能把手里的地直接铺进场，做不到就改成抽一张。",
+    "build": "人鱼要放满：珍珠三叉戟大师（Master of the Pearl Trident）给全体人鱼加攻，海空女神希亚尔（Svyelun of Sea and Sky）负责保护大家还能抽牌，水流通导师妮坎琪（Nicanzil, Current Conductor）让你探索到地就多铺一张；秘溪讯使（Herald of Secret Streams）让带强化的生物无法被挡。"
+  },
+  "Muldrotha, the Gravetide": {
+    "tagline": "坟场就是第二个手牌，每回合都能再捞一次",
+    "intro": "腐潮穆杜塔（Muldrotha, the Gravetide）把你的坟场变成第二个手牌：你自己的每个回合里，可以再从坟场施放每种永久物类型各一张，还能多铺一张地。丢掉的东西不是浪费，而是排在下一次使用的队列里，规则简单但操作上限很高。",
+    "build": "要往坟场里塞能反复用的牌：芽胞蛙（Spore Frog）每次牺牲就能挡掉一整回合的战斗伤害，原基缄印（Seal of Primordium）能反复拆对手的神器或结界，卡娅的魂体（Kaya's Ghostform）让重要生物死后再回来一次；樱宗长老（Sakura-Tribe Elder）负责找地。前期别急着把坟场清空，那是你的资源。"
+  }
+}

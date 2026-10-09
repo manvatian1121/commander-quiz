@@ -1,0 +1,152 @@
+{
+  "Witherbloom, the Balancer": {
+    "tagline": "小生物铺得越多，这条大龙越便宜",
+    "intro": "启衡巨龙靡华（Witherbloom, the Balancer）是黑绿的大龙，八费看着很贵，但你场上的生物越多它就越便宜。它自己会飞、带死触，落地就能压住场面。喜欢先攒人、再憋一记大的玩家会喜欢它。",
+    "build": "牌组前半段只做一件事：多放便宜生物和产法术力的妖精，再用林地墓园（Woodland Cemetery）、蔓生墓园（Overgrown Tomb）这类双色地保证颜色。收尾通常靠放干鲜血（Exsanguinate），让每个对手一起掉血、你回血；贾路开道（In Garruk's Wake）能在只剩自己人时清场。新人注意：先铺开小生物，别急着硬凑大龙。"
+  },
+  "Ezio Auditore da Firenze": {
+    "tagline": "五色刺客铺场，对手残血就直接赢",
+    "intro": "佛罗伦萨的艾吉奥·奥迪托雷（Ezio Auditore da Firenze）只要两点法术力就能下场。让刺客们打中对手，一旦对手生命降到十点或以下，它再打中一次并支付五色法术力，对方就直接输掉。喜欢靠一群人围殴取胜的玩家会喜欢它。",
+    "build": "牌组塞满刺客，暗杀王拉瑟斯（Ramses, Assassin Lord）给它们加成，复仇之刃艾吉奥（Ezio, Blade of Vengeance）让刺客打中对手时补牌，夜色掩护（Cover of Darkness）让对手更难挡，兄弟会总部（Brotherhood Headquarters）专产刺客咒语的法术力。新人注意：先铺场再动手，别只盯一个人打。"
+  },
+  "Atraxa, Grand Unifier": {
+    "tagline": "翻十张牌挑进手，反复来一次更好",
+    "intro": "大一统飞将亚崔夏（Atraxa, Grand Unifier）是四色的大天使，七费下场，飞行、警戒、死触、系命都有。它进场时翻出牌库顶十张牌，每一种类型各挑一张进手，所以一落地就能补一大把牌。喜欢琢磨怎么让它反复进场的玩家会喜欢它。",
+    "build": "亚崔夏一进场就能抓一堆牌，所以牌组常见的做法是让它的进场效果多发生几次。流光烁影（Ephemerate）和传送法阵（Teleportation Circle）把它送走再拉回来，移位幼兽（Displacer Kitten）和灵魂牧者（Soulherder）也能做同样的事。新人注意：七费不便宜，前期要靠地牌把法术力铺稳。"
+  },
+  "Deadpool, Trading Card": {
+    "tagline": "把自己的牌面文字换给别人，专搞怪",
+    "intro": "集换卡牌死侍（Deadpool, Trading Card）是黑红的四费传奇生物。它进场时可以和另一个生物交换「牌面文字框」，对面那只生物会获得死侍的能力，死侍自己则换上对方的能力。喜欢搞怪、不怕玩乱一点的玩家会喜欢它。",
+    "build": "组牌时可以多准备和复制有关的牌：一锯两断（Saw in Half）能杀掉一只生物换来两个缩小版的复制品，众我长剑（Blade of Selves）、军团之盔（Helm of the Host）都能不断制造复制体，镜像盒（Mirror Box）则让传奇生物可以同时在场上一堆。新人注意：交换文字框会同时改变双方的能力，出牌前把两边的牌面都读一遍。"
+  },
+  "Mendicant Core, Guidelight": {
+    "tagline": "神器越铺越大，速度拉满就复制咒语",
+    "intro": "循光械济缘核心（Mendicant Core, Guidelight）是蓝白的两费神器生物，力量等于你场上神器的数量。你让对手掉血就会提高速度，速度到顶后，你放神器咒语时多付一点法术力就能复制一份。喜欢铺小神器、爱滚大雪球的玩家会喜欢它。",
+    "build": "牌组以低价神器为主，铸造厂监工（Foundry Inspector）、乙金塑师（Etherium Sculptor）这类牌能让神器咒语少付一点，于是你可以在一回合里连出好几件。悉诺议会宅邸（Seat of the Synod）、远古狮穴（Ancient Den）既是地又能算作神器。新人注意：速度要靠让对手掉血才会涨，所以别只顾自己铺，要适时进攻。"
+  },
+  "Galadriel, Light of Valinor": {
+    "tagline": "妖精不断进场，每只都带来一份好处",
+    "intro": "维林诺之光加拉德瑞尔（Galadriel, Light of Valinor）是绿白蓝的五费精灵。她只在别的生物进场时触发，每回合三种好处各一次：产三点绿法术力、给全场生物加指示物，或者看两张牌再抓一张。喜欢铺场补牌的玩家会喜欢她。",
+    "build": "牌组围绕精灵和衍生物：织望阿尔玟（Arwen, Weaver of Hope）让新进场的生物多带指示物，妖精高位德鲁伊（Elvish Archdruid）和善战妖精（Elvish Warmaster）一边给全队加成、一边产小精灵。加拉德瑞尔的驱散（Galadriel's Dismissal）能让对手的阻挡者暂时消失。新人注意：一回合内安排好进场顺序。"
+  },
+  "Jin Sakai, Ghost of Tsushima": {
+    "tagline": "一次只派一个人打，给他连击或让他穿过去",
+    "intro": "对马岛之鬼境井仁（Jin Sakai, Ghost of Tsushima）是黑白蓝的四费武士。你只用一个生物攻击某位玩家时，可以让它获得连击，或者让它这回合无法被阻挡；它自己打中对手还会让你抓一张牌。喜欢养一个核心打手的玩家会喜欢它。",
+    "build": "牌组一半是装备，一半是让你单挑占便宜的牌。毁灭剑（Buster Sword）打中对手能补一张牌，源氏之护手（Genji Glove）给双击、并在第一个战斗阶段后追加一次战斗，难阻刀客（Unstoppable Slasher）打中对手就让对方掉一半生命。永岩城（Eiganjo Castle）能保住核心打手。新人注意：只有单独攻击才触发主将的效果。"
+  },
+  "Storm, Force of Nature": {
+    "tagline": "先连发一堆小咒语，最后一发变成很多发",
+    "intro": "自然之力暴风女（Storm, Force of Nature）是红绿蓝的四费飞行生物。只要它打中对手一次，你这一回合接下来施放的第一个瞬间或法术就会获得风暴：你在这之前每施放过一个咒语，它就多复制一份。喜欢算牌、享受一回合连招的玩家会喜欢它。",
+    "build": "牌组多是便宜、能循环的瞬间法术：魔力塑型（Manamorphose）、沉思（Ponder）帮你调色选牌，狂搜乱寻（Frantic Search）能解开地牌继续出牌。暴风窑艺家（Storm-Kiln Artist）和荣休大法师（Archmage Emeritus）每出一个瞬间或法术就给珍宝或抓牌。新人注意：先数这回合出过几个咒语，再决定最后一发。"
+  },
+  "Kynaios and Tiro of Meletis": {
+    "tagline": "大家都多抓牌多下地，你慢慢攒优势",
+    "intro": "迈勒提斯的库瑙斯与提罗（Kynaios and Tiro of Meletis）是四色的四费人，效果非常友善：每到你的回合结束，你先抓一张牌，然后每位玩家都可以多放一张地下去，没放地的人还能再抓一张。喜欢和气牌局的新人会很适合。",
+    "build": "牌组顺着主将铺：茁壮仪式（Rites of Flourishing）、嚎叫的矿井（Howling Mine）、克罗芬斯的旨意（Dictate of Kruphix）让所有人每回合多抓牌。给出去的好处迟早变成威胁，所以得留后手：宣导（Propaganda）和魂魅拘禁（Ghostly Prison）让对手想打你先付钱。新人注意：这套牌打得慢，要有耐心。"
+  },
+  "Captain America, First Avenger": {
+    "tagline": "把装备一件件挂上，再甩出去砸人",
+    "intro": "复仇者先锋美国队长（Captain America, First Avenger）是红白蓝的三费人。每个战斗开始时，你可以免费把一件装备挂到他身上；你也可以付三点法术力把装备甩出去，装备越贵伤害越高。适合喜欢收集装备、养一个大打手的新人。",
+    "build": "牌组要多放装备，也要能省装备费、能找装备。净钢神圣武士（Puresteel Paladin）在你出装备时补牌，席嘉妲的援助（Sigarda's Aid）让你放上装备就能立刻挂好。装备越贵越划算：巨锤（Colossus Hammer）加得最多，蜥怪颈环（Basilisk Collar）给他死触和系命。新人注意：挂装备和甩装备是两件事。"
+  },
+  "Aminatou, Veil Piercer": {
+    "tagline": "结界抽到就能便宜放，越铺越难被打",
+    "intro": "洞帘师阿米娜图（Aminatou, Veil Piercer）是黑白蓝的四费法师。她每回合帮你把牌库顶两张牌过一遍；你手里的结界牌还都获得了奇迹，只要它是你这一回合抽到的第一张牌，就能少付四点法术力放上场。适合喜欢铺结界的人。",
+    "build": "牌组主线是结界。脑力激荡（Brainstorm）把不想留的牌放回牌库顶，方便之后抽到想要的结界并便宜施放；台地咒术师（Mesa Enchantress）让你每出一个结界补牌，昂度灵舞者（Ondu Spiritdancer）还能复制进场的结界。安全球罩（Sphere of Safety）让对手打你先付钱。新人注意：奇迹只对这回合抽到的第一张牌生效。"
+  },
+  "Tifa Lockhart": {
+    "tagline": "每下一块地，她的拳头就翻一倍",
+    "intro": "蒂法·洛克哈特（Tifa Lockhart）是绿色的两费人，规则简单得可爱：她自带践踏，而且你每下一块地，她的力量就在这回合翻一倍。只要你能在一个回合里连下好几块地，她就能打出非常夸张的一拳。喜欢一拳头解决问题的新人会很适合。",
+    "build": "组法很直接：想办法一回合多下几块地。云游者梓纱（Azusa, Lost but Seeking）让你每回合能多放两块地，整地（Harrow）和恩特式复原（Entish Restoration）能一次换来两块地，蒂法的极限招式（Tifa's Limit Break）可以在关键时刻把她的力量再翻倍。新人注意：地要在战斗前下，翻倍才有意义。"
+  },
+  "Éowyn, Shieldmaiden": {
+    "tagline": "人类一个接一个进场，骑兵跟着冲出来",
+    "intro": "执盾女战士伊奥温（Éowyn, Shieldmaiden）是红白蓝的五费骑士，自带先攻。只要你这回合有另一个人类进场，战斗开始时她就会带出两个能立刻进攻的骑士衍生物；场上人类够多时还能让你补一张牌。喜欢铺场进攻、步骤清楚的新人会喜欢她。",
+    "build": "牌组以人类为主，让他们一个接一个进场。洛斯阿尔那赫队长（Lossarnach Captain）和卫士贝瑞刚德（Beregond of the Guard）进场就能影响场面，洛汗国王希奥顿（Théoden, King of Rohan）给某个生物双击；埃奥尔勇往直前！（Forth Eorlingas!）一次造出一队骑兵。新人注意：战斗前要安排好人类进场。"
+  },
+  "Iroh, Grand Lotus": {
+    "tagline": "咒语用完还能从坟场再放一次",
+    "intro": "白莲长老艾洛（Iroh, Grand Lotus）是红绿蓝的六费人。在你的回合里，你坟场里每一张非课业的瞬间和法术都获得返照，可以再施放一次；课业牌更便宜，只要一点法术力就能再用。喜欢精打细算、把手牌和坟场都当资源的玩家会喜欢他。",
+    "build": "他六费才下场，前期要靠便宜咒语和产法术力的地铺稳。抛却牵挂（Abandon Attachments）让你换一张牌并多抓两张，冶金术起源（Origin of Metalbending）能拆神器或结界。重点是坟场：这些牌在你回合里都能再来一遍，苏科遭逐（Zuko's Exile）这类课业牌会很难缠。新人注意：返照用过的牌会被放逐，用过就没了。"
+  },
+  "Zimone, Mystery Unraveler": {
+    "tagline": "每下一块地就翻出一只面朝下的生物",
+    "intro": "揭秘琦梦（Zimone, Mystery Unraveler）是蓝绿的四费法师。你每下一块地，当天第一块会让她从牌库顶两张牌里挑一张，面朝下放到场上变成小生物；再下更多地，就能把已经面朝下的生物翻正面。喜欢有点小心机的玩家会喜欢她。",
+    "build": "牌组要多下地：樱宗长老（Sakura-Tribe Elder）帮你找地，析米克生长室（Simic Growth Chamber）稳定给两点颜色，盖尔海峡暴君艾西（Aesi, Tyrant of Gyre Strait）让你每回合多放一块地，管中出怪（They Came from the Pipes）进场就面朝下埋东西。新人注意：翻正面要挑时机，早了容易被打掉。"
+  },
+  "Lightning, Army of One": {
+    "tagline": "先打中一次，之后所有伤害都翻倍",
+    "intro": "王牌驱散雷光（Lightning, Army of One）是红白的三费人，自带先攻、践踏和系命。一旦她打中某位对手，直到你下个回合之前，任何来源对那位对手或他的永久物造成的伤害都会翻倍。喜欢把装备和伤害都往一个目标上堆的玩家会喜欢她。",
+    "build": "牌组给她配装备，也配上能蹭到翻倍的伤害牌。源氏之护手（Genji Glove）给她双击，还在第一个战斗阶段后追加一次战斗；毁灭剑（Buster Sword）打中对手补一张牌，蜥蜴双刀（Lizard Blades）也提供双击。等她打中过，闪电击（Lightning Bolt）这类伤害牌就会打出双倍。新人注意：翻倍只对她打中的玩家有效，别打错人。"
+  },
+  "Satya, Aetherflux Genius": {
+    "tagline": "每次攻击复制一只生物，能量够就留下来",
+    "intro": "乙太流天才萨提亚（Satya, Aetherflux Genius）是红白蓝的四费人。她每次攻击时会复制你另一只生物，复制品立刻跟着进攻，同时给你两个能量指示物；回合结束时你付得出等量的能量，它就留在场上。喜欢积攒资源的玩家会喜欢她。",
+    "build": "牌组要同时准备值得复制的生物和足够的能量。乙太枢纽（Aether Hub）、日能转换仪（Solar Transformer）除了产法术力还顺手给你能量，炼煮模块（Decoction Module）在每只生物进场时给你一点，伊捷产能所（Izzet Generatorium）让你拿到的能量都多一个。新人注意：能量是用来买下复制品的，别一口气全花光。"
+  },
+  "Eshki, Temur's Roar": {
+    "tagline": "放大生物就长个子，还会烧对面全体",
+    "intro": "铁木尔之吼艾丝琦（Eshki, Temur's Roar）是红绿蓝的三费战士。你每施放一个生物咒语，她都会变大一点；那只生物的力量有四点以上，你还能顺便抓一张牌；六点以上时她还会对每个对手造成等于自己力量的伤害。喜欢大打大闹的新人会很享受。",
+    "build": "牌组几乎全是力量四点以上的大生物。黑山之威血爪（Goreclaw, Terror of Qal Sisma）让这类生物少付两点法术力，铁木尔战呼人（Temur Battlecrier）在你场上有大生物时让所有咒语都变便宜，两者加起来能让始饥戈厄塔（Ghalta, Primal Hunger）很早就下场。新人注意：优先出力量六点以上的生物，才能启动烧血。"
+  },
+  "Eluge, the Shoreless Sea": {
+    "tagline": "洪水染地，法术越来越便宜，鱼也越来越大",
+    "intro": "无滨瀚海艾鲁格（Eluge, the Shoreless Sea）是蓝色的四费大鱼。它进场或攻击时能在自己的地上放洪水指示物，那块地就多出一个海岛身份；它的攻防等于你场上海岛的数量。适合喜欢慢节奏的玩家。",
+    "build": "牌组以蓝法术为主：知识涌流（Flow of Knowledge）和预示终时（Finale of Revelation）一次抓一大把牌，高潮（High Tide）让海岛多产蓝法术力，蓝宝石徽章（Sapphire Medallion）让蓝色咒语更便宜。菁华异变（Essence Flux）让艾鲁格离场再回来，再触发一次洪水。新人注意：洪水指示物要放自己地上。"
+  },
+  "Marina Vendrell": {
+    "tagline": "一间间解锁结界房间，慢慢把场面摆满",
+    "intro": "玛丽娜樊卓尔（Marina Vendrell）是五色的五费人。她进场时翻开牌库顶七张，把其中的结界全部收进手里；之后每回合她还能免费解锁一张你控制的房间，而房间要解锁后才有效果。适合喜欢慢慢拼场面的人。",
+    "build": "牌组几乎全由房间结界搭起来。中央电梯（Central Elevator // Promising Stairs）这类双名房间都能靠主将免费开门，好奇烁光体（Inquisitive Glimmer）让结界咒语和解锁费用都便宜一点，怪体追踪人（Entity Tracker）会在结界进场时帮你抓牌。新人注意：主将每回合只能开一道门，先想好最需要哪一间。"
+  },
+  "Cosmic Spider-Man": {
+    "tagline": "蜘蛛军团全体起飞，一起扑上去",
+    "intro": "宇宙蜘蛛侠（Cosmic Spider-Man）是五色的五费传奇生物，自己带着飞行、先攻、践踏、系命和敏捷。每个战斗开始时，你场上其他蜘蛛也会获得这一整套能力直到回合结束。所以这套牌就是收集各种蜘蛛，让它们一起扑上去。适合喜欢群攻的人。",
+    "build": "牌组全是蜘蛛。朋克蜘蛛侠（Spider-Punk）让其他蜘蛛获得类似好处，对手还没法反击你的咒语；放射性蜘蛛（Radioactive Spider）帮你找出关键的蜘蛛英雄；潘妮驾驭的SP//dr（SP//dr, Piloted by Peni）进场给生物加指示物，你用改造过的生物打中对手时还能补牌。新人注意：保证蜘蛛数量，主将好处分给所有同伴。"
+  },
+  "Temmet, Naktamun's Will": {
+    "tagline": "一边打一边换牌，越抓僵尸越猛",
+    "intro": "拿塔蒙之志蒂穆特（Temmet, Naktamun's Will）是黑白蓝的五费僵尸法师，自带警戒和威慑。它每次攻击都能让你抓一张牌再丢一张牌，而你只要抓牌，你场上所有僵尸就会一起变大。喜欢僵尸题材、想体验边打边换牌节奏的玩家会喜欢它。",
+    "build": "牌组以僵尸为主。甲虫神（The Scarab God）会在你回合开始时按僵尸的数量让对手掉血，永生煞神欧柯塔（God-Eternal Oketra）在你每出一只生物时都会带来一个体型不小的僵尸战士。坟场也是资源：邪气石窟（Unholy Grotto）能把僵尸放回牌库顶。新人注意：丢牌别乱丢，坟场里的僵尸还有用。"
+  },
+  "Inspirit, Flagship Vessel": {
+    "tagline": "给飞船充能，充够八点就变身",
+    "intro": "威武旗舰激励号（Inspirit, Flagship Vessel）是红白蓝的三费传奇神器飞船。你可以横置自己另一个生物，按它的力量给飞船放充能指示物；凑到八个以后它就变成生物并开始飞行。喜欢拼零件、把一个东西一点点养大的玩家会喜欢它。",
+    "build": "牌组围绕充能指示物和神器展开。至高思维奇洛（Kilo, Apogee Mind）每次被横置都会让所有带指示物的东西再多一个，正好喂给飞船；电涌通导械（Surge Conductor）在每件神器进场时也帮你补指示物；洞察引擎（Insight Engine）自己攒充能指示物并照数量抓牌。新人注意：把力量大的生物专门留给飞船充能，效果最好。"
+  },
+  "Azlask, the Swelling Scourge": {
+    "tagline": "自己人越死越多，全体就越大越凶",
+    "intro": "翻涌灾祸兹拉克（Azlask, the Swelling Scourge）是五色的三费奥札奇。每当它自己或者你其他无色生物死去，你就得到一个经验指示物；之后你付五色法术力，你所有生物就会按经验指示物的数量变大。喜欢用小兵换场面的新人会喜欢它。",
+    "build": "牌组主线是造一堆便宜的无色小兵，再让它们去死。觉醒区域（Awakening Zone）每回合都免费给你一只奥札奇衍生物，吱响调度体（Chittering Dispatcher）这类生物离场时还会留下小兵。奈拓族的莫伦（Meren of Clan Nel Toth）每次有生物死掉都给你经验指示物。新人注意：攒够经验指示物后，那一发五色法术力才是重点。"
+  },
+  "Fire Lord Zuko": {
+    "tagline": "从放逐区偷牌来用，全队一起长大",
+    "intro": "烈火君苏科（Fire Lord Zuko）是黑红白的三费人。它攻击时会产出等于自己力量的红色法术力；而你从放逐区施放咒语、或者你的永久物从放逐区回到场上时，你场上所有生物都会各加一个指示物。喜欢一点点把全场喂大的玩家会喜欢它。",
+    "build": "牌组要保证几乎每回合都有东西能从放逐区拿出来。重铸利锋拉耶梨（Laelia, the Blade Reforged）、遭逐储君苏科（Zuko, Exiled Prince）、书契坡斯博（Prosper, Tome-Bound）都能把牌库顶的牌放进放逐区让你施放，每用出一张，全场生物就变大。新人注意：放逐区里的牌通常只在规定时间内能用，别错过时机。"
+  },
+  "Doran, Besieged by Time": {
+    "tagline": "防御力高的生物最吃香，打起来还变强",
+    "intro": "岁月攻蚀的杜蓝（Doran, Besieged by Time）是黑白绿的四费树妖。它偏爱防御力比力量高的生物：这类生物费用便宜一点，而且进攻或阻挡时会按力量与防御力的差额临时变大。喜欢用一堆墙一样的大块头压人的玩家会喜欢它。",
+    "build": "组牌的关键是找防御力明显高于力量的生物。突袭阵型（Assault Formation）、攻城塔杜蓝（Doran, the Siege Tower）、基岩驮龟（Bedrock Tortoise）这几张都能让生物改成按防御力打人，和主将一起在场时，你那边的每一拳都会比看上去重很多。新人注意：别只看力量，这套牌的本事藏在防御力里。"
+  },
+  "Blech, Loafing Pest": {
+    "tagline": "一回血，害虫蝙蝠虫子全变大",
+    "intro": "游荡害虫毕雷奇（Blech, Loafing Pest）是黑绿的三费害虫，规则一句话就能说完：你每回一次血，你场上所有的害虫、蝙蝠、昆虫、蛇和蜘蛛都会各加一个指示物。所以只要不停回血，小虫子们就会一只只变大，上手难度很低。",
+    "build": "牌组要做的就是多多回血，并且尽量让场上的生物都属于那五种类型。教师的害虫（Teacher's Pest）攻击时让你回一点血，还能从坟场反复回来；害虫侵扰（Pest Infestation）一次造出一大批害虫衍生物，贝雷卓靡华（Beledros Witherbloom）每回合都送你一只害虫。新人注意：造衍生物和回血要交替着来，别只顾一头。"
+  },
+  "Dr. Eggman": {
+    "tagline": "对手要么丢牌，要么放你一只大机器人上场",
+    "intro": "蛋头博士（Dr. Eggman）是蓝黑红的五费科学家，自带飞行。每到你的回合结束，你先抓一张牌，然后每个对手都要做一个坏蛋式的选择：要么丢掉一张牌，要么让你从手里免费把一张组构体、机器人或载具放进场。适合喜欢机器人的玩家。",
+    "build": "牌组里全是组构体、机器人和载具，越有冲击力越好。恶毒巨械（Noxious Gearhulk）进场能拆掉对手一只生物并让你回血，易燃巨械（Combustible Gearhulk）逼对手在你抓三张和被打一顿之间选一个，秘耳斗球（Myr Battlesphere）一次带出四个小机器。新人注意：手里随时留一张大机器人，对手多半宁愿丢牌。"
+  },
+  "Omo, Queen of Vesuva": {
+    "tagline": "给一块地加个指示物，它就变成所有地形",
+    "intro": "维苏瓦女皇欧茉（Omo, Queen of 维苏瓦（Vesuva））是蓝绿的三费变形兽。它进场或攻击时可以给一块地和一只生物各放一个万能指示物：带指示物的地会同时算作所有地形类型，带指示物的非地生物则同时算作所有生物类型。适合喜欢拼地牌的玩家。",
+    "build": "牌组重点就是地牌。云际哨站（Cloudpost）按同类地数量产法术力，克撒的塔（Urza's Tower）、克撒的动力炉（Urza's Power Plant）、克撒的矿脉（Urza's Mine）凑齐后法术力大增；欧茉的万能指示物能让一块地算作这几类地形。维苏瓦（Vesuva）能复制别的强力地牌。新人注意：万能指示物一次只给一块地和一只生物。"
+  },
+  "Shroofus Sproutsire": {
+    "tagline": "小孢子生物越铺越多，一冲就翻倍",
+    "intro": "孢爵舒福斯（Shroofus Sproutsire）是绿色的三费传奇生物，带践踏。你的孢子小兵每次打中对手，你就再造出等量的新孢子小兵——打中几只就多几只，于是下一次攻击的规模更大。适合第一次接触万智牌、喜欢看小生物变多的新人。",
+    "build": "牌组要尽量多造绿色的小孢子衍生物，并且让它们打得到人。新叶树灵（Tendershoot Dryad）、乌托菌（Utopia Mycon）每回合都会免费给你新的小孢子，孢冠散绿菌（Sporecrown Thallid）和森林赞美诗（Sylvan Anthem）给这些小东西加成。新人注意：尽量让每个小兵都打中对手，而不是被挡住。"
+  }
+}

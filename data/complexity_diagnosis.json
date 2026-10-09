@@ -1,0 +1,2006 @@
+[
+  {
+    "en": "The First Sliver",
+    "zh": "原初裂片妖",
+    "current": 3,
+    "raw_len": 261,
+    "body_len": 45,
+    "removed": 216,
+    "removed_pct": 82.8,
+    "vec": {
+      "tribal": 2.3,
+      "wide": 0.79,
+      "counters": 0.6,
+      "spells": 0.8,
+      "combo": 2.65,
+      "aggro": 0.91,
+      "chaos": 0.38
+    }
+  },
+  {
+    "en": "Zhulodok, Void Gorger",
+    "zh": "虚空饕体祖禄铎",
+    "current": 4,
+    "raw_len": 322,
+    "body_len": 95,
+    "removed": 227,
+    "removed_pct": 70.5,
+    "vec": {
+      "tribal": 2.35,
+      "stompy": 3.0,
+      "ramp": 3.0,
+      "spells": 1.0,
+      "combo": 3.0,
+      "artifacts": 0.89,
+      "stax": 0.32
+    }
+  },
+  {
+    "en": "Kilo, Apogee Mind",
+    "zh": "至高思维奇洛",
+    "current": 1,
+    "raw_len": 157,
+    "body_len": 49,
+    "removed": 108,
+    "removed_pct": 68.8,
+    "vec": {
+      "artifacts": 2.19,
+      "counters": 3.0,
+      "combo": 1.81,
+      "aggro": 0.7,
+      "control": 0.64
+    }
+  },
+  {
+    "en": "Toph, the First Metalbender",
+    "zh": "冶金师始祖拓芙",
+    "current": 4,
+    "raw_len": 344,
+    "body_len": 124,
+    "removed": 220,
+    "removed_pct": 64.0,
+    "vec": {
+      "ramp": 2.84,
+      "artifacts": 1.52,
+      "counters": 1.53,
+      "aggro": 0.82,
+      "combo": 0.74,
+      "blink": 0.32
+    }
+  },
+  {
+    "en": "Pantlaza, Sun-Favored",
+    "zh": "烈阳眷恩潘塔札",
+    "current": 4,
+    "raw_len": 357,
+    "body_len": 145,
+    "removed": 212,
+    "removed_pct": 59.4,
+    "vec": {
+      "tribal": 2.39,
+      "stompy": 3.0,
+      "spells": 0.95,
+      "combo": 1.64,
+      "ramp": 0.83,
+      "blink": 3.0,
+      "aggro": 0.89
+    }
+  },
+  {
+    "en": "Atraxa, Praetors' Voice",
+    "zh": "魔判官之声亚崔夏",
+    "current": 1,
+    "raw_len": 196,
+    "body_len": 88,
+    "removed": 108,
+    "removed_pct": 55.1,
+    "vec": {
+      "counters": 3.0,
+      "aggro": 2.79,
+      "control": 2.17,
+      "tribal": 0.7,
+      "removal": 0.34,
+      "combo": 0.37
+    }
+  },
+  {
+    "en": "Zurgo Stormrender",
+    "zh": "镇霆可汗珠高",
+    "current": 4,
+    "raw_len": 292,
+    "body_len": 145,
+    "removed": 147,
+    "removed_pct": 50.3,
+    "vec": {
+      "wide": 3.0,
+      "drain": 2.04,
+      "grave": 0.74,
+      "aggro": 3.0,
+      "spells": 0.26
+    }
+  },
+  {
+    "en": "Hakbal of the Surging Soul",
+    "zh": "翻涌之魂哈巴尔",
+    "current": 5,
+    "raw_len": 393,
+    "body_len": 198,
+    "removed": 195,
+    "removed_pct": 49.6,
+    "vec": {
+      "tribal": 2.93,
+      "counters": 3.0,
+      "ramp": 1.25,
+      "aggro": 0.89,
+      "wide": 0.38,
+      "combo": 0.35,
+      "control": 0.39
+    }
+  },
+  {
+    "en": "High Perfect Morcant",
+    "zh": "最高至美茉坎特",
+    "current": 3,
+    "raw_len": 337,
+    "body_len": 170,
+    "removed": 167,
+    "removed_pct": 49.6,
+    "vec": {
+      "counters": 3.0,
+      "removal": 3.0,
+      "tribal": 1.66,
+      "ramp": 1.33,
+      "wide": 0.87,
+      "aggro": 0.81,
+      "combo": 0.46,
+      "control": 0.29
+    }
+  },
+  {
+    "en": "Fire Lord Azula",
+    "zh": "烈火君阿祖拉",
+    "current": 4,
+    "raw_len": 263,
+    "body_len": 135,
+    "removed": 128,
+    "removed_pct": 48.7,
+    "vec": {
+      "spells": 3.0,
+      "combo": 2.37,
+      "aggro": 1.44,
+      "control": 0.47,
+      "voltron": 0.66,
+      "clonesteal": 1.0
+    }
+  },
+  {
+    "en": "Hearthhull, the Worldseed",
+    "zh": "播世之种芯炉号",
+    "current": 5,
+    "raw_len": 343,
+    "body_len": 189,
+    "removed": 154,
+    "removed_pct": 44.9,
+    "vec": {
+      "ramp": 3.0,
+      "stax": 1.23,
+      "grave": 1.2,
+      "drain": 0.66,
+      "aggro": 0.74,
+      "spells": 0.32,
+      "combo": 0.72
+    }
+  },
+  {
+    "en": "Zinnia, Valley's Voice",
+    "zh": "苍茂谷之声琴尼亚",
+    "current": 2,
+    "raw_len": 290,
+    "body_len": 160,
+    "removed": 130,
+    "removed_pct": 44.8,
+    "vec": {
+      "wide": 3.0,
+      "clonesteal": 2.61,
+      "aggro": 1.07,
+      "spells": 0.33,
+      "blink": 2.51,
+      "artifacts": 0.31,
+      "tribal": 0.42,
+      "voltron": 0.58,
+      "combo": 0.35
+    }
+  },
+  {
+    "en": "Henzie \"Toolbox\" Torre",
+    "zh": "万金油亨齐托雷",
+    "current": 5,
+    "raw_len": 396,
+    "body_len": 219,
+    "removed": 177,
+    "removed_pct": 44.7,
+    "vec": {
+      "grave": 1.67,
+      "aggro": 1.89,
+      "drain": 0.83,
+      "combo": 1.43,
+      "ramp": 0.54,
+      "blink": 1.12,
+      "stompy": 0.49,
+      "clonesteal": 0.28
+    }
+  },
+  {
+    "en": "Shorikai, Genesis Engine",
+    "zh": "创机胜利械",
+    "current": 3,
+    "raw_len": 297,
+    "body_len": 167,
+    "removed": 130,
+    "removed_pct": 43.8,
+    "vec": {
+      "artifacts": 3.0,
+      "control": 1.89,
+      "combo": 1.57,
+      "wide": 0.42,
+      "stax": 0.67,
+      "clonesteal": 0.3
+    }
+  },
+  {
+    "en": "Ghyrson Starn, Kelermorph",
+    "zh": "三枪侠吉尔森·史塔恩",
+    "current": 4,
+    "raw_len": 297,
+    "body_len": 170,
+    "removed": 127,
+    "removed_pct": 42.8,
+    "vec": {
+      "aggro": 3.0,
+      "spells": 3.0,
+      "drain": 0.68,
+      "removal": 1.92,
+      "combo": 1.28,
+      "wide": 0.26,
+      "control": 0.58
+    }
+  },
+  {
+    "en": "Yuriko, the Tiger's Shadow",
+    "zh": "虎影百合子",
+    "current": 5,
+    "raw_len": 367,
+    "body_len": 216,
+    "removed": 151,
+    "removed_pct": 41.1,
+    "vec": {
+      "tribal": 2.78,
+      "clonesteal": 3.0,
+      "aggro": 1.37,
+      "combo": 1.22,
+      "control": 1.2,
+      "voltron": 0.33
+    }
+  },
+  {
+    "en": "Norman Osborn",
+    "zh": "诺曼·奥斯本",
+    "current": 5,
+    "raw_len": 578,
+    "body_len": 354,
+    "removed": 224,
+    "removed_pct": 38.8,
+    "vec": {
+      "stax": 3.0,
+      "chaos": 1.81,
+      "combo": 1.62,
+      "grave": 1.06,
+      "tribal": 0.29,
+      "removal": 0.41,
+      "aggro": 0.46,
+      "spells": 0.61
+    }
+  },
+  {
+    "en": "Muldrotha, the Gravetide",
+    "zh": "腐潮穆杜塔",
+    "current": 1,
+    "raw_len": 186,
+    "body_len": 118,
+    "removed": 68,
+    "removed_pct": 36.6,
+    "vec": {
+      "grave": 3.0,
+      "stax": 1.38,
+      "drain": 0.45,
+      "combo": 1.53,
+      "ramp": 0.73,
+      "control": 0.77,
+      "clonesteal": 0.51,
+      "blink": 0.34
+    }
+  },
+  {
+    "en": "The Necrobloom",
+    "zh": "死冥盛花",
+    "current": 4,
+    "raw_len": 346,
+    "body_len": 239,
+    "removed": 107,
+    "removed_pct": 30.9,
+    "vec": {
+      "ramp": 3.0,
+      "wide": 1.55,
+      "grave": 2.62,
+      "combo": 1.13,
+      "stax": 0.77,
+      "drain": 0.38,
+      "tribal": 0.32
+    }
+  },
+  {
+    "en": "Auntie Ool, Cursewretch",
+    "zh": "劣咒婆巫儿大婶",
+    "current": 2,
+    "raw_len": 245,
+    "body_len": 170,
+    "removed": 75,
+    "removed_pct": 30.6,
+    "vec": {
+      "counters": 2.63,
+      "removal": 3.0,
+      "combo": 1.32,
+      "control": 0.64,
+      "drain": 0.5,
+      "wide": 0.27,
+      "aggro": 0.43
+    }
+  },
+  {
+    "en": "Chatterfang, Squirrel General",
+    "zh": "松鼠将军聒牙",
+    "current": 3,
+    "raw_len": 307,
+    "body_len": 228,
+    "removed": 79,
+    "removed_pct": 25.7,
+    "vec": {
+      "wide": 3.0,
+      "drain": 1.75,
+      "grave": 0.74,
+      "tribal": 0.97,
+      "combo": 1.97,
+      "ramp": 0.35,
+      "artifacts": 0.29,
+      "counters": 0.27,
+      "aggro": 0.38
+    }
+  },
+  {
+    "en": "K'rrik, Son of Yawgmoth",
+    "zh": "约格莫夫之子格锐克",
+    "current": 2,
+    "raw_len": 189,
+    "body_len": 143,
+    "removed": 46,
+    "removed_pct": 24.3,
+    "vec": {
+      "drain": 2.28,
+      "counters": 0.63,
+      "combo": 3.0,
+      "chaos": 1.61,
+      "grave": 0.85,
+      "spells": 0.45,
+      "ramp": 0.28,
+      "aggro": 0.27,
+      "tribal": 0.27
+    }
+  },
+  {
+    "en": "Lathril, Blade of the Elves",
+    "zh": "妖精之刃拉席莉",
+    "current": 3,
+    "raw_len": 269,
+    "body_len": 204,
+    "removed": 65,
+    "removed_pct": 24.2,
+    "vec": {
+      "tribal": 3.0,
+      "ramp": 2.57,
+      "wide": 1.43,
+      "aggro": 0.86,
+      "counters": 0.42,
+      "combo": 0.78,
+      "voltron": 0.7,
+      "drain": 0.3
+    }
+  },
+  {
+    "en": "Wilhelt, the Rotcleaver",
+    "zh": "断腐尸威海特",
+    "current": 5,
+    "raw_len": 276,
+    "body_len": 211,
+    "removed": 65,
+    "removed_pct": 23.6,
+    "vec": {
+      "tribal": 3.0,
+      "grave": 3.0,
+      "wide": 1.42,
+      "drain": 1.38,
+      "combo": 1.87,
+      "aggro": 0.28,
+      "control": 0.25
+    }
+  },
+  {
+    "en": "Ulalek, Fused Atrocity",
+    "zh": "残暴合体钨拉雷",
+    "current": 4,
+    "raw_len": 272,
+    "body_len": 214,
+    "removed": 58,
+    "removed_pct": 21.3,
+    "vec": {
+      "tribal": 2.92,
+      "stompy": 3.0,
+      "ramp": 1.82,
+      "wide": 0.35,
+      "combo": 1.05,
+      "spells": 0.29,
+      "clonesteal": 1.34,
+      "removal": 0.49
+    }
+  },
+  {
+    "en": "Ashling, the Limitless",
+    "zh": "瀚力无边灰儿",
+    "current": 5,
+    "raw_len": 364,
+    "body_len": 291,
+    "removed": 73,
+    "removed_pct": 20.1,
+    "vec": {
+      "tribal": 1.37,
+      "blink": 3.0,
+      "wide": 0.63,
+      "combo": 0.99,
+      "aggro": 0.33,
+      "clonesteal": 0.96
+    }
+  },
+  {
+    "en": "Terra, Magical Adept",
+    "zh": "魔导战士蒂娜",
+    "current": 5,
+    "raw_len": 650,
+    "body_len": 568,
+    "removed": 82,
+    "removed_pct": 12.6,
+    "vec": {
+      "enchant": 3.0,
+      "combo": 1.79,
+      "grave": 0.57,
+      "clonesteal": 1.42,
+      "stax": 0.27,
+      "control": 0.29,
+      "blink": 0.65
+    }
+  },
+  {
+    "en": "Avatar Aang",
+    "zh": "降世神通安昂",
+    "current": 5,
+    "raw_len": 442,
+    "body_len": 410,
+    "removed": 32,
+    "removed_pct": 7.2,
+    "vec": {
+      "tribal": 0.99,
+      "blink": 2.52,
+      "removal": 1.62,
+      "ramp": 0.63,
+      "counters": 0.43,
+      "aggro": 0.78,
+      "artifacts": 0.28,
+      "spells": 0.43,
+      "combo": 0.49
+    }
+  },
+  {
+    "en": "Y'shtola, Night's Blessed",
+    "zh": "夜之民雅·修特拉",
+    "current": 3,
+    "raw_len": 234,
+    "body_len": 234,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "control": 3.0,
+      "spells": 1.54,
+      "drain": 1.32,
+      "aggro": 0.64,
+      "combo": 0.87,
+      "stax": 0.92,
+      "enchant": 0.29,
+      "clonesteal": 0.7,
+      "voltron": 0.29,
+      "politics": 0.27
+    }
+  },
+  {
+    "en": "Edgar Markov",
+    "zh": "艾德嘉马可夫",
+    "current": 3,
+    "raw_len": 242,
+    "body_len": 242,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "tribal": 2.94,
+      "drain": 3.0,
+      "counters": 1.04,
+      "wide": 1.31,
+      "aggro": 1.51,
+      "grave": 0.38,
+      "combo": 0.74
+    }
+  },
+  {
+    "en": "The Ur-Dragon",
+    "zh": "太初龙",
+    "current": 3,
+    "raw_len": 282,
+    "body_len": 282,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "tribal": 2.53,
+      "stompy": 2.67,
+      "aggro": 0.82,
+      "ramp": 0.55,
+      "clonesteal": 1.4,
+      "combo": 0.46
+    }
+  },
+  {
+    "en": "Krenko, Mob Boss",
+    "zh": "暴民头目克仑可",
+    "current": 1,
+    "raw_len": 91,
+    "body_len": 91,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "tribal": 2.78,
+      "wide": 3.0,
+      "aggro": 3.0,
+      "combo": 1.12,
+      "spells": 0.27
+    }
+  },
+  {
+    "en": "Vivi Ornitier",
+    "zh": "比比·奥尼提尔",
+    "current": 3,
+    "raw_len": 259,
+    "body_len": 259,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "spells": 3.0,
+      "combo": 2.84,
+      "aggro": 1.02,
+      "counters": 0.37,
+      "control": 0.75,
+      "voltron": 0.62
+    }
+  },
+  {
+    "en": "Sauron, the Dark Lord",
+    "zh": "黑暗魔君索隆",
+    "current": 5,
+    "raw_len": 276,
+    "body_len": 276,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "grave": 1.16,
+      "tribal": 1.46,
+      "wide": 0.75,
+      "counters": 0.74,
+      "drain": 0.43,
+      "aggro": 0.52,
+      "stax": 0.81,
+      "chaos": 0.59,
+      "voltron": 0.65,
+      "control": 0.64,
+      "spells": 0.27,
+      "combo": 0.33,
+      "clonesteal": 0.34
+    }
+  },
+  {
+    "en": "Kaalia of the Vast",
+    "zh": "穹境的卡莉雅",
+    "current": 2,
+    "raw_len": 168,
+    "body_len": 168,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "tribal": 2.34,
+      "wide": 0.46,
+      "aggro": 2.0,
+      "stompy": 1.11,
+      "combo": 0.5
+    }
+  },
+  {
+    "en": "Teval, the Balanced Scale",
+    "zh": "公正鳞龙特瓦尔",
+    "current": 3,
+    "raw_len": 224,
+    "body_len": 224,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "grave": 3.0,
+      "ramp": 1.86,
+      "stax": 1.17,
+      "wide": 0.76,
+      "combo": 0.84,
+      "tribal": 0.31
+    }
+  },
+  {
+    "en": "Ms. Bumbleflower",
+    "zh": "野花小姐",
+    "current": 2,
+    "raw_len": 225,
+    "body_len": 225,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "counters": 2.01,
+      "politics": 3.0,
+      "stax": 1.05,
+      "chaos": 1.18,
+      "control": 1.44,
+      "spells": 0.47,
+      "combo": 0.64,
+      "voltron": 0.7
+    }
+  },
+  {
+    "en": "Giada, Font of Hope",
+    "zh": "希望圣源吉娅妲",
+    "current": 1,
+    "raw_len": 187,
+    "body_len": 187,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "tribal": 3.0,
+      "wide": 1.2,
+      "drain": 1.54,
+      "counters": 1.82,
+      "aggro": 0.47
+    }
+  },
+  {
+    "en": "The Wise Mothman",
+    "zh": "天蛾人智者",
+    "current": 3,
+    "raw_len": 243,
+    "body_len": 243,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "grave": 2.37,
+      "stax": 2.84,
+      "counters": 3.0,
+      "tribal": 0.71,
+      "drain": 0.3,
+      "combo": 0.63,
+      "voltron": 0.4,
+      "aggro": 0.29
+    }
+  },
+  {
+    "en": "Jodah, the Unifier",
+    "zh": "诸界一统裘达",
+    "current": 4,
+    "raw_len": 373,
+    "body_len": 373,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "artifacts": 0.31,
+      "enchant": 0.31,
+      "spells": 0.48,
+      "combo": 1.34,
+      "aggro": 0.59,
+      "counters": 0.27,
+      "tribal": 0.39,
+      "control": 0.3,
+      "chaos": 0.38,
+      "politics": 0.4
+    }
+  },
+  {
+    "en": "Nekusar, the Mindrazer",
+    "zh": "毁灵师奈库萨",
+    "current": 2,
+    "raw_len": 156,
+    "body_len": 156,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "stax": 3.0,
+      "chaos": 3.0,
+      "drain": 1.24,
+      "aggro": 1.1,
+      "spells": 0.71,
+      "politics": 1.58,
+      "control": 0.62,
+      "combo": 0.61,
+      "removal": 0.52
+    }
+  },
+  {
+    "en": "Cloud, Ex-SOLDIER",
+    "zh": "前神罗战士克劳德",
+    "current": 3,
+    "raw_len": 229,
+    "body_len": 229,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "voltron": 3.0,
+      "artifacts": 1.91,
+      "counters": 0.32,
+      "aggro": 1.53
+    }
+  },
+  {
+    "en": "Kefka, Court Mage",
+    "zh": "宫廷魔法师凯夫卡",
+    "current": 5,
+    "raw_len": 324,
+    "body_len": 324,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "stax": 2.73,
+      "combo": 1.92,
+      "control": 1.31,
+      "grave": 0.51,
+      "blink": 2.97,
+      "spells": 0.75,
+      "aggro": 0.43,
+      "chaos": 1.26,
+      "drain": 0.28,
+      "clonesteal": 1.47
+    }
+  },
+  {
+    "en": "Kenrith, the Returned King",
+    "zh": "复归国王肯理斯",
+    "current": 5,
+    "raw_len": 278,
+    "body_len": 278,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "politics": 3.0,
+      "combo": 1.57,
+      "grave": 0.34,
+      "counters": 0.36,
+      "ramp": 0.52,
+      "control": 0.67,
+      "drain": 0.26,
+      "tribal": 0.44,
+      "aggro": 0.38,
+      "stax": 0.48,
+      "voltron": 0.39,
+      "chaos": 0.73,
+      "blink": 0.37,
+      "clonesteal": 0.34
+    }
+  },
+  {
+    "en": "Sephiroth, Fabled SOLDIER",
+    "zh": "传奇神罗战士萨菲罗斯",
+    "current": 5,
+    "raw_len": 560,
+    "body_len": 560,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "drain": 3.0,
+      "grave": 1.63,
+      "combo": 1.32,
+      "wide": 0.37,
+      "aggro": 0.29,
+      "control": 0.29,
+      "stax": 0.27
+    }
+  },
+  {
+    "en": "Isshin, Two Heavens as One",
+    "zh": "二天一流一心",
+    "current": 1,
+    "raw_len": 131,
+    "body_len": 131,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "aggro": 3.0,
+      "wide": 1.54,
+      "voltron": 1.97,
+      "artifacts": 0.34,
+      "tribal": 0.48,
+      "politics": 0.58
+    }
+  },
+  {
+    "en": "Baylen, the Haymaker",
+    "zh": "干草堆匠拜棱",
+    "current": 1,
+    "raw_len": 225,
+    "body_len": 225,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "wide": 3.0,
+      "counters": 0.42,
+      "tribal": 0.6,
+      "combo": 0.95,
+      "aggro": 0.88,
+      "voltron": 0.51,
+      "ramp": 0.3,
+      "blink": 0.27
+    }
+  },
+  {
+    "en": "Valgavoth, Harrower of Souls",
+    "zh": "搅魂魔瓦伽沃",
+    "current": 1,
+    "raw_len": 152,
+    "body_len": 152,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "drain": 2.71,
+      "aggro": 2.2,
+      "spells": 0.97,
+      "counters": 0.35,
+      "removal": 0.62,
+      "stax": 0.66,
+      "chaos": 1.0,
+      "voltron": 0.54,
+      "combo": 0.31,
+      "control": 0.27,
+      "politics": 0.49
+    }
+  },
+  {
+    "en": "Miirym, Sentinel Wyrm",
+    "zh": "上古龙卫米瑞穆",
+    "current": 1,
+    "raw_len": 139,
+    "body_len": 139,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "tribal": 2.84,
+      "stompy": 3.0,
+      "clonesteal": 3.0,
+      "wide": 0.95,
+      "ramp": 0.58,
+      "aggro": 0.81,
+      "combo": 0.7,
+      "blink": 1.53
+    }
+  },
+  {
+    "en": "Hashaton, Scarab's Fist",
+    "zh": "甲虫神之拳哈夏顿",
+    "current": 1,
+    "raw_len": 150,
+    "body_len": 150,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "stax": 3.0,
+      "grave": 1.58,
+      "wide": 0.91,
+      "tribal": 0.54,
+      "combo": 1.11,
+      "chaos": 0.63,
+      "control": 0.72,
+      "clonesteal": 1.17,
+      "blink": 0.31
+    }
+  },
+  {
+    "en": "Frodo, Adventurous Hobbit // Sam, Loyal Attendant",
+    "zh": "雄心霍比特人弗罗多",
+    "current": 2,
+    "raw_len": 233,
+    "body_len": 233,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "drain": 3.0,
+      "counters": 1.27,
+      "wide": 1.92,
+      "artifacts": 1.11,
+      "tribal": 0.77,
+      "combo": 1.02,
+      "voltron": 0.3
+    }
+  },
+  {
+    "en": "Bello, Bard of the Brambles",
+    "zh": "刺棘诗人贝洛",
+    "current": 2,
+    "raw_len": 276,
+    "body_len": 276,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "enchant": 2.18,
+      "artifacts": 1.67,
+      "chaos": 1.96,
+      "aggro": 1.98,
+      "wide": 0.31,
+      "ramp": 0.5,
+      "combo": 0.36
+    }
+  },
+  {
+    "en": "Esika, God of the Tree",
+    "zh": "世界树神埃西卡",
+    "current": 5,
+    "raw_len": 357,
+    "body_len": 357,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "control": 2.08,
+      "counters": 0.51,
+      "tribal": 0.85,
+      "enchant": 0.58,
+      "ramp": 0.65,
+      "combo": 0.96,
+      "chaos": 0.71,
+      "aggro": 0.27,
+      "stax": 0.33,
+      "blink": 0.47,
+      "politics": 0.42,
+      "clonesteal": 0.42
+    }
+  },
+  {
+    "en": "Rin and Seri, Inseparable",
+    "zh": "林恩与瑟黎永不离",
+    "current": 4,
+    "raw_len": 291,
+    "body_len": 291,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "tribal": 3.0,
+      "wide": 2.27,
+      "counters": 0.7,
+      "aggro": 0.56,
+      "clonesteal": 0.39
+    }
+  },
+  {
+    "en": "Glarb, Calamity's Augur",
+    "zh": "灾祸卜算师格拉布",
+    "current": 2,
+    "raw_len": 175,
+    "body_len": 175,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "ramp": 1.76,
+      "grave": 1.37,
+      "combo": 1.86,
+      "tribal": 0.58,
+      "control": 1.15,
+      "stax": 0.39,
+      "clonesteal": 0.53,
+      "blink": 0.48
+    }
+  },
+  {
+    "en": "Animar, Soul of Elements",
+    "zh": "元素之魂阿尼玛",
+    "current": 1,
+    "raw_len": 184,
+    "body_len": 184,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "counters": 1.77,
+      "combo": 2.09,
+      "ramp": 0.78,
+      "tribal": 0.55,
+      "stompy": 0.64,
+      "spells": 0.32,
+      "aggro": 0.55,
+      "chaos": 0.4,
+      "clonesteal": 0.49,
+      "blink": 0.51
+    }
+  },
+  {
+    "en": "Aragorn, the Uniter",
+    "zh": "重联君王阿拉贡",
+    "current": 5,
+    "raw_len": 274,
+    "body_len": 274,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "tribal": 0.94,
+      "aggro": 1.15,
+      "wide": 0.83,
+      "ramp": 0.43,
+      "spells": 0.8,
+      "counters": 0.3,
+      "combo": 0.6,
+      "voltron": 0.75,
+      "politics": 0.79,
+      "control": 0.27
+    }
+  },
+  {
+    "en": "Arcades, the Strategist",
+    "zh": "智龙阿卡迪",
+    "current": 2,
+    "raw_len": 241,
+    "body_len": 241,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "stompy": 3.0,
+      "control": 3.0,
+      "aggro": 0.52,
+      "blink": 0.7
+    }
+  },
+  {
+    "en": "Ygra, Eater of All",
+    "zh": "万生噬兽依格拉",
+    "current": 3,
+    "raw_len": 248,
+    "body_len": 248,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "grave": 1.44,
+      "drain": 2.44,
+      "wide": 1.37,
+      "counters": 1.07,
+      "artifacts": 1.17,
+      "combo": 1.33,
+      "voltron": 1.62
+    }
+  },
+  {
+    "en": "Maralen, Fae Ascendant",
+    "zh": "化身仙儿的马拉兰",
+    "current": 4,
+    "raw_len": 318,
+    "body_len": 318,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "tribal": 2.32,
+      "ramp": 0.95,
+      "control": 1.59,
+      "clonesteal": 3.0,
+      "wide": 0.49,
+      "combo": 0.86,
+      "blink": 1.18,
+      "removal": 0.57
+    }
+  },
+  {
+    "en": "Mr. House, President and CEO",
+    "zh": "总裁兼执行官豪斯先生",
+    "current": 3,
+    "raw_len": 286,
+    "body_len": 286,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "ramp": 1.69,
+      "artifacts": 2.36,
+      "wide": 1.55,
+      "chaos": 3.0
+    }
+  },
+  {
+    "en": "Caesar, Legion's Emperor",
+    "zh": "军团皇帝凯撒",
+    "current": 5,
+    "raw_len": 311,
+    "body_len": 311,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "wide": 3.0,
+      "drain": 1.79,
+      "grave": 0.67,
+      "aggro": 3.0,
+      "tribal": 1.27
+    }
+  },
+  {
+    "en": "Flubs, the Fool",
+    "zh": "愚者法布斯",
+    "current": 1,
+    "raw_len": 165,
+    "body_len": 165,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "ramp": 2.6,
+      "spells": 1.12,
+      "combo": 2.17,
+      "stax": 0.91,
+      "artifacts": 0.42,
+      "chaos": 1.27,
+      "aggro": 0.33,
+      "removal": 0.26
+    }
+  },
+  {
+    "en": "Kuja, Genome Sorcerer",
+    "zh": "基因组术士库加",
+    "current": 5,
+    "raw_len": 351,
+    "body_len": 351,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "aggro": 2.42,
+      "spells": 3.0,
+      "tribal": 0.84,
+      "drain": 0.46,
+      "wide": 0.32,
+      "combo": 0.52,
+      "removal": 0.49
+    }
+  },
+  {
+    "en": "Oloro, Ageless Ascetic",
+    "zh": "永生苦修士欧罗若",
+    "current": 4,
+    "raw_len": 228,
+    "body_len": 228,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "drain": 3.0,
+      "counters": 1.01,
+      "control": 2.05,
+      "combo": 1.16,
+      "stax": 1.42,
+      "chaos": 0.45
+    }
+  },
+  {
+    "en": "Breya, Etherium Shaper",
+    "zh": "乙金塑师布莱娅",
+    "current": 3,
+    "raw_len": 251,
+    "body_len": 251,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "artifacts": 3.0,
+      "wide": 1.36,
+      "combo": 3.0,
+      "blink": 2.49,
+      "tribal": 0.51,
+      "drain": 0.46,
+      "grave": 0.34,
+      "control": 0.81,
+      "aggro": 0.31,
+      "clonesteal": 0.36
+    }
+  },
+  {
+    "en": "Ureni of the Unwritten",
+    "zh": "未详之威乌列尼",
+    "current": 2,
+    "raw_len": 229,
+    "body_len": 229,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "tribal": 1.25,
+      "stompy": 1.54,
+      "ramp": 0.84,
+      "aggro": 1.16,
+      "blink": 1.48,
+      "clonesteal": 0.86,
+      "combo": 0.36
+    }
+  },
+  {
+    "en": "Meren of Clan Nel Toth",
+    "zh": "奈拓族的莫伦",
+    "current": 4,
+    "raw_len": 315,
+    "body_len": 315,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "drain": 2.84,
+      "grave": 3.0,
+      "combo": 2.04,
+      "control": 0.46,
+      "stax": 0.38
+    }
+  },
+  {
+    "en": "Arabella, Abandoned Doll",
+    "zh": "遭弃娃娃阿拉贝拉",
+    "current": 1,
+    "raw_len": 151,
+    "body_len": 151,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "wide": 2.87,
+      "aggro": 2.99,
+      "spells": 0.44,
+      "drain": 0.65,
+      "stax": 0.29
+    }
+  },
+  {
+    "en": "Kinnan, Bonder Prodigy",
+    "zh": "持绊逸才季宁",
+    "current": 4,
+    "raw_len": 289,
+    "body_len": 289,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "combo": 2.83,
+      "ramp": 0.93,
+      "control": 0.58,
+      "clonesteal": 1.09
+    }
+  },
+  {
+    "en": "Tidus, Yuna's Guardian",
+    "zh": "尤娜护卫提达",
+    "current": 5,
+    "raw_len": 310,
+    "body_len": 310,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "counters": 3.0,
+      "aggro": 0.59,
+      "combo": 0.42
+    }
+  },
+  {
+    "en": "Teysa Karlov",
+    "zh": "泰莎卡洛夫",
+    "current": 1,
+    "raw_len": 184,
+    "body_len": 184,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "drain": 3.0,
+      "grave": 2.26,
+      "wide": 1.71,
+      "combo": 1.12,
+      "stax": 0.4
+    }
+  },
+  {
+    "en": "Gishath, Sun's Avatar",
+    "zh": "烈阳化身基撒斯",
+    "current": 2,
+    "raw_len": 269,
+    "body_len": 269,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "tribal": 2.84,
+      "stompy": 3.0,
+      "ramp": 0.87,
+      "aggro": 1.24,
+      "combo": 0.31
+    }
+  },
+  {
+    "en": "Tom Bombadil",
+    "zh": "汤姆·邦巴迪尔",
+    "current": 4,
+    "raw_len": 397,
+    "body_len": 397,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "enchant": 3.0,
+      "control": 0.29
+    }
+  },
+  {
+    "en": "Atla Palani, Nest Tender",
+    "zh": "护巢人娥拉帕拉尼",
+    "current": 3,
+    "raw_len": 269,
+    "body_len": 269,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "combo": 3.0,
+      "artifacts": 0.74,
+      "tribal": 1.59,
+      "stompy": 2.06,
+      "wide": 0.79,
+      "aggro": 0.78,
+      "ramp": 0.42,
+      "chaos": 0.41,
+      "clonesteal": 0.53,
+      "blink": 0.25
+    }
+  },
+  {
+    "en": "Korvold, Fae-Cursed King",
+    "zh": "受诅国王寇沃",
+    "current": 2,
+    "raw_len": 155,
+    "body_len": 155,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "grave": 1.53,
+      "drain": 1.81,
+      "ramp": 1.87,
+      "artifacts": 0.98,
+      "wide": 1.1,
+      "combo": 2.15,
+      "counters": 0.54,
+      "voltron": 0.56,
+      "aggro": 0.52
+    }
+  },
+  {
+    "en": "Felothar the Steadfast",
+    "zh": "坚毅可汗芾洛塔",
+    "current": 3,
+    "raw_len": 297,
+    "body_len": 297,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "control": 3.0,
+      "stompy": 1.28,
+      "aggro": 0.32
+    }
+  },
+  {
+    "en": "The Wandering Minstrel",
+    "zh": "异国的诗人",
+    "current": 4,
+    "raw_len": 311,
+    "body_len": 311,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "ramp": 2.89,
+      "combo": 1.44,
+      "wide": 0.45,
+      "tribal": 0.43,
+      "stax": 0.25,
+      "voltron": 0.32,
+      "blink": 0.32,
+      "politics": 0.25
+    }
+  },
+  {
+    "en": "Queen Marchesa",
+    "zh": "玛切莎女王",
+    "current": 2,
+    "raw_len": 203,
+    "body_len": 203,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "politics": 3.0,
+      "removal": 3.0,
+      "aggro": 1.02,
+      "control": 2.72,
+      "stax": 1.36,
+      "wide": 0.46,
+      "voltron": 0.88,
+      "drain": 0.46,
+      "tribal": 0.35,
+      "combo": 0.26,
+      "chaos": 0.43,
+      "blink": 0.29
+    }
+  },
+  {
+    "en": "Urza, Lord High Artificer",
+    "zh": "铸物勋爵克撒",
+    "current": 4,
+    "raw_len": 305,
+    "body_len": 305,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "artifacts": 3.0,
+      "combo": 3.0,
+      "control": 1.68,
+      "stax": 1.17,
+      "wide": 0.27,
+      "spells": 0.35,
+      "blink": 1.18,
+      "voltron": 0.36,
+      "clonesteal": 0.39
+    }
+  },
+  {
+    "en": "Go-Shintai of Life's Origin",
+    "zh": "命源御神体",
+    "current": 3,
+    "raw_len": 234,
+    "body_len": 234,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "enchant": 3.0,
+      "wide": 0.41,
+      "control": 0.58,
+      "stax": 0.48,
+      "ramp": 0.26,
+      "combo": 0.37,
+      "blink": 0.27
+    }
+  },
+  {
+    "en": "Helga, Skittish Seer",
+    "zh": "难测先知赫尔嘉",
+    "current": 4,
+    "raw_len": 311,
+    "body_len": 311,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "counters": 1.92,
+      "ramp": 1.34,
+      "combo": 1.33,
+      "spells": 0.32,
+      "stompy": 0.51,
+      "tribal": 0.34,
+      "blink": 0.84,
+      "control": 0.29,
+      "aggro": 0.29,
+      "clonesteal": 0.52
+    }
+  },
+  {
+    "en": "Choco, Seeker of Paradise",
+    "zh": "桃源寻旅巧克",
+    "current": 5,
+    "raw_len": 335,
+    "body_len": 335,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "ramp": 2.42,
+      "tribal": 1.15,
+      "aggro": 1.05,
+      "counters": 0.39,
+      "wide": 0.49
+    }
+  },
+  {
+    "en": "Zaxara, the Exemplary",
+    "zh": "斑斓模范札煞拉",
+    "current": 2,
+    "raw_len": 173,
+    "body_len": 173,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "ramp": 3.0,
+      "spells": 2.43,
+      "counters": 2.62,
+      "tribal": 1.56,
+      "wide": 0.66,
+      "combo": 0.83
+    }
+  },
+  {
+    "en": "Terra, Herald of Hope",
+    "zh": "希望传令使蒂娜",
+    "current": 5,
+    "raw_len": 277,
+    "body_len": 277,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "grave": 3.0,
+      "aggro": 1.36,
+      "stax": 0.93,
+      "drain": 0.49,
+      "combo": 0.67,
+      "blink": 0.61
+    }
+  },
+  {
+    "en": "Kotis, the Fangkeeper",
+    "zh": "龙牙卫柯提斯",
+    "current": 2,
+    "raw_len": 250,
+    "body_len": 250,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "voltron": 3.0,
+      "clonesteal": 3.0,
+      "artifacts": 0.37,
+      "enchant": 0.69,
+      "counters": 0.52,
+      "aggro": 0.44,
+      "chaos": 0.3
+    }
+  },
+  {
+    "en": "Betor, Ancestor's Voice",
+    "zh": "先祖之声贝托",
+    "current": 3,
+    "raw_len": 333,
+    "body_len": 333,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "drain": 3.0,
+      "counters": 2.73,
+      "grave": 1.83,
+      "chaos": 2.2,
+      "combo": 0.49
+    }
+  },
+  {
+    "en": "Xyris, the Writhing Storm",
+    "zh": "纠拧风暴塞利兹",
+    "current": 3,
+    "raw_len": 236,
+    "body_len": 236,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "stax": 2.29,
+      "chaos": 3.0,
+      "wide": 1.59,
+      "politics": 3.0,
+      "tribal": 0.43,
+      "aggro": 0.81,
+      "spells": 0.55,
+      "voltron": 1.18,
+      "drain": 0.32,
+      "combo": 0.52,
+      "control": 0.27,
+      "clonesteal": 0.36
+    }
+  },
+  {
+    "en": "Sisay, Weatherlight Captain",
+    "zh": "晴空号船长西赛",
+    "current": 2,
+    "raw_len": 236,
+    "body_len": 236,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "combo": 2.93,
+      "artifacts": 0.4,
+      "enchant": 0.56,
+      "control": 1.28,
+      "counters": 0.34,
+      "blink": 1.26,
+      "ramp": 0.3,
+      "stax": 0.34,
+      "aggro": 0.31,
+      "voltron": 0.3,
+      "clonesteal": 0.25,
+      "politics": 0.26
+    }
+  },
+  {
+    "en": "Eriette of the Charmed Apple",
+    "zh": "毒苹果艾纶缇",
+    "current": 2,
+    "raw_len": 227,
+    "body_len": 227,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "enchant": 3.0,
+      "voltron": 3.0,
+      "drain": 1.43,
+      "control": 1.75,
+      "stax": 0.78,
+      "politics": 1.7,
+      "aggro": 0.27
+    }
+  },
+  {
+    "en": "Ragost, Deft Gastronaut",
+    "zh": "灵巧美食家拉戈斯",
+    "current": 4,
+    "raw_len": 274,
+    "body_len": 274,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "artifacts": 2.65,
+      "aggro": 1.48,
+      "spells": 0.72,
+      "drain": 1.49,
+      "counters": 0.31,
+      "wide": 0.86,
+      "combo": 1.01,
+      "grave": 0.26
+    }
+  },
+  {
+    "en": "Urtet, Remnant of Memnarch",
+    "zh": "蒙纳珂孑遗尔铁",
+    "current": 4,
+    "raw_len": 255,
+    "body_len": 255,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "artifacts": 3.0,
+      "tribal": 2.67,
+      "counters": 0.96,
+      "wide": 0.86,
+      "combo": 0.8,
+      "aggro": 0.27,
+      "clonesteal": 0.53
+    }
+  },
+  {
+    "en": "Captain N'ghathrod",
+    "zh": "纳噶斯罗船长",
+    "current": 5,
+    "raw_len": 329,
+    "body_len": 329,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "grave": 3.0,
+      "stax": 3.0,
+      "tribal": 2.67,
+      "clonesteal": 3.0,
+      "control": 0.41,
+      "combo": 0.26
+    }
+  },
+  {
+    "en": "Omnath, Locus of Creation",
+    "zh": "生机核欧那斯",
+    "current": 4,
+    "raw_len": 305,
+    "body_len": 305,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "ramp": 3.0,
+      "wide": 0.38,
+      "combo": 1.09,
+      "blink": 1.67,
+      "clonesteal": 1.2,
+      "aggro": 0.32
+    }
+  },
+  {
+    "en": "Hope Estheim",
+    "zh": "霍普·埃斯特海姆",
+    "current": 1,
+    "raw_len": 124,
+    "body_len": 124,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "grave": 1.34,
+      "stax": 2.57,
+      "drain": 1.72,
+      "counters": 0.65,
+      "control": 0.68,
+      "combo": 0.34,
+      "blink": 0.46,
+      "voltron": 0.37
+    }
+  },
+  {
+    "en": "Voja, Jaws of the Conclave",
+    "zh": "盟会尖颚沃亚",
+    "current": 1,
+    "raw_len": 185,
+    "body_len": 185,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "tribal": 3.0,
+      "ramp": 2.23,
+      "counters": 1.81,
+      "aggro": 2.13,
+      "wide": 0.58,
+      "stompy": 0.49,
+      "combo": 0.31,
+      "clonesteal": 0.47,
+      "voltron": 0.37
+    }
+  },
+  {
+    "en": "Alela, Cunning Conqueror",
+    "zh": "黠智霸主阿莉莱",
+    "current": 3,
+    "raw_len": 246,
+    "body_len": 246,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "tribal": 2.98,
+      "control": 3.0,
+      "wide": 0.85,
+      "politics": 2.53,
+      "aggro": 0.6,
+      "spells": 0.71,
+      "clonesteal": 0.29
+    }
+  },
+  {
+    "en": "Magda, Brazen Outlaw",
+    "zh": "莽勇狂徒玛格妲",
+    "current": 2,
+    "raw_len": 234,
+    "body_len": 234,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "ramp": 1.75,
+      "artifacts": 3.0,
+      "tribal": 1.75,
+      "combo": 2.58,
+      "stompy": 0.48,
+      "stax": 0.88,
+      "wide": 0.45,
+      "aggro": 0.66
+    }
+  },
+  {
+    "en": "Obeka, Splitter of Seconds",
+    "zh": "裂时术师欧蓓卡",
+    "current": 1,
+    "raw_len": 114,
+    "body_len": 114,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "combo": 2.43,
+      "blink": 1.51,
+      "politics": 3.0,
+      "voltron": 3.0,
+      "artifacts": 0.28,
+      "enchant": 0.28,
+      "aggro": 0.89,
+      "control": 0.33,
+      "clonesteal": 0.61,
+      "chaos": 0.43
+    }
+  },
+  {
+    "en": "Sidar Jabari of Zhalfir",
+    "zh": "赛费尔的西达将军贾巴力",
+    "current": 4,
+    "raw_len": 303,
+    "body_len": 303,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "tribal": 3.0,
+      "aggro": 2.79,
+      "grave": 1.27,
+      "wide": 0.37,
+      "stax": 0.44,
+      "voltron": 0.31
+    }
+  },
+  {
+    "en": "Brago, King Eternal",
+    "zh": "不朽国王布莱戈",
+    "current": 1,
+    "raw_len": 185,
+    "body_len": 185,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "blink": 3.0,
+      "control": 2.13,
+      "combo": 1.8,
+      "wide": 0.33,
+      "stax": 0.73,
+      "removal": 0.41,
+      "voltron": 0.29,
+      "clonesteal": 0.29
+    }
+  },
+  {
+    "en": "Yarok, the Desecrated",
+    "zh": "秽灵雅若克",
+    "current": 1,
+    "raw_len": 152,
+    "body_len": 152,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "ramp": 3.0,
+      "blink": 3.0,
+      "combo": 1.58,
+      "grave": 0.27,
+      "clonesteal": 1.05,
+      "control": 0.29
+    }
+  },
+  {
+    "en": "Anikthea, Hand of Erebos",
+    "zh": "厄睿柏斯之手阿尼克霞",
+    "current": 2,
+    "raw_len": 281,
+    "body_len": 281,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "enchant": 3.0,
+      "grave": 2.0,
+      "wide": 1.47,
+      "stax": 0.69,
+      "combo": 0.43,
+      "clonesteal": 0.8,
+      "control": 0.32,
+      "blink": 0.69
+    }
+  },
+  {
+    "en": "Light-Paws, Emperor's Voice",
+    "zh": "帝皇玉音轻脚",
+    "current": 3,
+    "raw_len": 272,
+    "body_len": 272,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "enchant": 3.0,
+      "voltron": 3.0,
+      "aggro": 0.89,
+      "stax": 0.57
+    }
+  },
+  {
+    "en": "Grand Arbiter Augustin IV",
+    "zh": "大仲裁者奥古斯汀四世",
+    "current": 1,
+    "raw_len": 138,
+    "body_len": 138,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "stax": 3.0,
+      "control": 3.0,
+      "combo": 0.56,
+      "clonesteal": 0.51,
+      "politics": 0.27
+    }
+  },
+  {
+    "en": "Tergrid, God of Fright",
+    "zh": "惊惶神特格莉德",
+    "current": 5,
+    "raw_len": 314,
+    "body_len": 314,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "stax": 3.0,
+      "grave": 0.93,
+      "drain": 1.16,
+      "clonesteal": 2.62,
+      "control": 0.95,
+      "combo": 0.41,
+      "chaos": 0.44,
+      "politics": 0.29
+    }
+  },
+  {
+    "en": "Talrand, Sky Summoner",
+    "zh": "空召师陶岚",
+    "current": 1,
+    "raw_len": 98,
+    "body_len": 98,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "spells": 3.0,
+      "wide": 1.4,
+      "control": 3.0,
+      "tribal": 0.33,
+      "combo": 0.65,
+      "clonesteal": 0.31
+    }
+  },
+  {
+    "en": "Xenagos, God of Revels",
+    "zh": "贪欢神谢纳戈斯",
+    "current": 2,
+    "raw_len": 259,
+    "body_len": 259,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "aggro": 3.0,
+      "wide": 0.43,
+      "ramp": 1.02,
+      "stompy": 1.65,
+      "combo": 0.4
+    }
+  },
+  {
+    "en": "Niv-Mizzet, Parun",
+    "zh": "元祖尼米捷",
+    "current": 2,
+    "raw_len": 174,
+    "body_len": 174,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "spells": 3.0,
+      "combo": 3.0,
+      "stax": 1.06,
+      "chaos": 1.74,
+      "aggro": 0.93,
+      "control": 1.87,
+      "tribal": 0.32,
+      "removal": 0.44
+    }
+  },
+  {
+    "en": "Wyleth, Soul of Steel",
+    "zh": "钢铁之魂威烈斯",
+    "current": 1,
+    "raw_len": 88,
+    "body_len": 88,
+    "removed": 0,
+    "removed_pct": 0.0,
+    "vec": {
+      "voltron": 3.0,
+      "artifacts": 3.0,
+      "enchant": 1.22,
+      "aggro": 1.87
+    }
+  }
+]

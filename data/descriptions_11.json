@@ -1,0 +1,152 @@
+{
+  "Omnath, Locus of Rage": {
+    "tagline": "地一落地，就多一个大元素",
+    "intro": "怒火核欧那斯（Omnath, Locus of Rage）是红绿两色的七费元素。每有一块地进场，它就白给你一个 5/5 的元素；元素死掉时它还能顺手打掉对手三点血。这套牌想做的事很直白：把地一块接一块放下去，用元素把场面堆满。",
+    "build": "亚苏莎让你每回合多放地，莲花眼镜蛇（Lotus Cobra）和犁地帮你把地找出来。刷够元素以后，加鲁克的崛起给全队践踏，远古育碧灵（Ancient Greenwarden）让坟场里的地能再放一次。注意：地牌有限，别一次全用光。"
+  },
+  "Elas il-Kor, Sadistic Pilgrim": {
+    "tagline": "生物一进一出，对手就掉血",
+    "intro": "虐之华寇族黜人依拉丝（Elas il-Kor, Sadistic Pilgrim）是黑白两色的两费牧师，带死触。自家别的生物进场时你回一点血，自家生物死掉时每位对手掉一点血——一来一去，差距就拉开了。这套牌靠不停进退小生物慢慢磨掉对手的血。",
+    "build": "让对手流血的不止主将一个：筑拉波割喉客（Zulaport Cutthroat）、腐尸骑士（Corpse Knight）和鲜血画家（Blood Artist）都会跟着掉血。拽脏预言师（Viscera Seer）让你随时能把生物献掉，备忘夹（Skullclamp）把送掉的生物换成两张手牌。注意：别把生物全送光，场上要留能回血的那几只。"
+  },
+  "Obeka, Brute Chronologist": {
+    "tagline": "回合说停就停，代价全免掉",
+    "intro": "蛮野时代学者欧蓓卡（Obeka, Brute Chronologist）是蓝黑红三色的四费食人魔。它能把当前回合一刀截断：还在堆叠上的咒语和异能在这一刻全部作废，「到回合结束」的代价也跟着失效。于是很多原本会让你吃亏的牌，到它手里就变成纯赚。",
+    "build": "先靠偷袭（Sneak Attack）把大生物提前拉上场、打一下，再在回合结束前截断回合，让「必须献掉它」的代价落空。无尽日晷（Sundial of the Infinite）自己就能截断回合，烈阳绽辉莎希莉（Saheeli, the Sun's Brilliance）负责复制场上的好东西。注意：什么时候按停最难。"
+  },
+  "Adrix and Nev, Twincasters": {
+    "tagline": "一只变两只，越复制越多",
+    "intro": "双咒法师艾季与涅夫（Adrix and Nev, Twincasters）是蓝绿两色的四费人鱼法师，自带护法，对手想指定它得先多付两点法术力。它的本事只有一句：你造出的衍生物数量翻倍。一句话听着简单，配上一张本来能造一堆的牌，场面立刻就不一样。",
+    "build": "模造仪式（Rite of Replication）本来只能复制一个生物，翻倍之后就有两个；二度收获（Second Harvest）把你场上所有衍生物再复制一遍，算下来是四倍。繁盛分灵埃席兹（Esix, Fractal Bloom）能把每次造衍生物的机会换成别的生物。注意：先想好复制谁，别浪费机会。"
+  },
+  "Brimaz, Blight of Oreskos": {
+    "tagline": "非瑞人落场，孵出一窝宝宝",
+    "intro": "俄瑞恣荒王布黎玛（Brimaz, Blight of Oreskos）是黑白两色的四费非瑞人猫。你每放一张非瑞人生物或神器生物，它就替你孵一个跟费用一样大的孵卵器；有非瑞人死掉，你还能让场上所有指示物再涨一轮。它做的事是把小生物慢慢孵成能打的。",
+    "build": "孵卵器自己不会打架，付两点法术力才变成生物，所以别急着全转。先祖督教（Progenitor Exarch）和正道本体（Essence of Orthodoxy）进场时都能多孵几个，丝金介体（Filigree Vector）给自家生物和神器发指示物，卡恩关堡（Karn's Bastion）再把它们全部翻一倍。注意：主将只在放非瑞人时才触发。"
+  },
+  "Braids, Arisen Nightmare": {
+    "tagline": "逼对手交东西，不交就掉血",
+    "intro": "觉醒梦魇布蕾德（Braids, Arisen Nightmare）是黑色的三费梦魇。每个回合结束，你可以献掉自己的一样东西，然后逼每位对手也交出同类的永久物；交不出来的那位掉两点血，你还抽一张牌。它不靠打人，靠让对手一直做难受的选择。",
+    "build": "这套牌要保证自己每回合都有东西可献：舞蛇术士（Ophiomancer）每回合自动给一条带死触的小蛇，重组骷髅妖（Reassembling Skeleton）和可怖血妖（Bloodghast）能反复爬回场上，脓水涌泉（Ichor Wellspring）进坟场还会补一张牌，安福陵的暗贾负责收尾。注意：铺场要有层次，别全是同一类。"
+  },
+  "Strefan, Maurer Progenitor": {
+    "tagline": "先让对手掉血，再白上吸血鬼",
+    "intro": "茂威原祖史崔凡（Strefan, Maurer Progenitor）是黑红两色的四费吸血鬼，自己会飞。回合结束时，本回合掉过血的每位玩家都让你得到一个血滴；攻击时献掉两个血滴，就能从手里免费放一个吸血鬼上场，直接横着参与进攻，还带不灭。",
+    "build": "血滴是这套牌的关键：琉璃心像（Glass-Cast Heart）和血税收集官（Bloodtithe Harvester）都能给你补血滴。奥莉薇亚的喜娘（Olivia's Attendants）和访圣团骑士（Sanctum Seeker）让对手持续掉血，大道惹祸徒给进攻的吸血鬼死触和系命。注意：血滴别一口气用光，留着下一轮攻击。"
+  },
+  "Marwyn, the Nurturer": {
+    "tagline": "妖精越多，主将产的法术力越多",
+    "intro": "培育人玛雯（Marwyn, the Nurturer）是绿色的三费妖精德鲁伊。自家每有一个别的妖精进场，她身上就多一个 +1/+1 指示物；横置她产出的法术力，等于她当时的攻击力。你越铺妖精，她越能帮你把大东西提前放出来。",
+    "build": "起手靠罗堰妖精（Llanowar Elves）把法术力做起来，泰坦尼亚牧师（Priest of Titania）和妖精高位德鲁伊（Elvish Archdruid）按妖精数量产法术力，铺开一次能产一大把。叶冠幻术师（Leaf-Crowned Visionary）和兽群语者在你放生物时补手牌，叛军领袖伊祖黎给全队 +3/+3 和践踏。"
+  },
+  "Maelstrom Wanderer": {
+    "tagline": "一出场就白翻两张牌",
+    "intro": "涡心漫游怪（Maelstrom Wanderer）是蓝红绿三色的八费元素。它一出场，就从牌库顶一张张翻，翻到费用比它低的非地牌就直接免费放出来，而且这个过程走两遍；自家所有生物还都带敏捷，当回合就能冲。",
+    "build": "倾曳翻出来的牌免费，所以牌表里塞满大生物最划算：始啸埃泰力（Etali, Primal Storm）和夷世霸兽（Apex Devastator）都很适合被翻出来。黑山之威血爪（Goreclaw, Terror of Qal Sisma）让大生物便宜两点，混沌之华阿韦纳让你顺手把翻到的地放上场。注意：翻牌是随机的。"
+  },
+  "Imotekh the Stormlord": {
+    "tagline": "神器从坟场回来，战士成对冒出来",
+    "intro": "风暴领主伊摩特克（Imotekh the Stormlord）是黑色的四费神器生物。只要有一张神器牌离开你的坟场，它就一次造出两个死灵战士；你的回合开始战斗时，它还能给另一个神器生物 +2/+2 并让它获得威慑。整套牌围绕坟场里的神器转。",
+    "build": "关键是让神器牌不停进出坟场：废铁打捞械（Scrap Trawler）在自家神器进坟场时把坟场里的神器拿回手，换算下来等于每死一个神器就多两个死灵战士；时间巫师（Chronomancer）献掉神器来抽牌，正好也把神器送进坟场。注意：坟场空了就转不动。"
+  },
+  "Elesh Norn, Mother of Machines": {
+    "tagline": "同一件好事，你这边做两遍",
+    "intro": "机械之母艾蕾侬（Elesh Norn, Mother of Machines）是白色的五费非瑞人，自带警戒。你操控的永久物进场时，它的触发式异能会额外触发一次；对手的永久物进场时，他们的异能干脆不触发。同一件事在你这边做两遍，在对手那边做不了。",
+    "build": "和主将同一类效果的还有万和琴（Panharmonicon），两张同时在场上，一次进场就能触发三遍。往外跳的牌要挑进场就有好处的：灵念伴侣（Spirited Companion）进场抽一张，复归天使（Restoration Angel）进场时能把自家一个生物再拉回来一次。注意：主将一旦被解掉会慢下来。"
+  },
+  "Kellan, the Kid": {
+    "tagline": "从手牌以外放牌，就白赚一张",
+    "intro": "凯澜小子（Kellan, the Kid）是白蓝绿三色的三费仙灵浪客，自己会飞又有系命。只要你在手牌以外的地方施放咒语，它就能让你免费从手里放出一张费用不超标的永久物，或者干脆多放一块地。它围着「先把牌藏起来、以后再放」这类玩法转。",
+    "build": "先把牌挪出手牌，主将才有的赚：感临多重宇宙（Behold the Multiverse）和早知如此（Saw It Coming）能用预言先把手牌藏起来，宝库秘钥（The Key to the Vault）打中对手后放逐一张牌、之后再用。灵枭看守维嘉（Vega, the Watcher）在你从别处施放咒语时抽牌。注意：先想好这回合从哪里放牌。"
+  },
+  "Grist, the Hunger Tide": {
+    "tagline": "一边磨牌一边孵虫，最后收人头",
+    "intro": "饥潮格蕊斯（Grist, the Hunger Tide）是黑绿两色的三费鹏洛客，但它不在场上时算作一只 1/1 昆虫生物，所以可以当主将用。它的第一个能力是造一只小虫再磨一张牌，磨到昆虫就再来一轮；第二个能力牺牲一只生物，干掉对手一个生物。",
+    "build": "这套牌要把昆虫喂进坟场：腐蚀毛虫（Caustic Caterpillar）和失控虫械（Haywire Mite）能拆对手的神器结界，牺牲掉正好喂给主将；黄蜂巢（Hornet Nest）被打到时吐出一堆带飞行和死触的小虫，蜂后（Hornet Queen）进场一次给四只。掠行群长札嘶克让你从坟场放昆虫。"
+  },
+  "Bristly Bill, Spine Sower": {
+    "tagline": "每落一块地，指示物就涨一圈",
+    "intro": "锐刺播种师尖棘比利（Bristly Bill, Spine Sower）是绿色的两费植物德鲁伊。每有一块地进场，它就往一个生物身上放一个 +1/+1 指示物；攒够法术力后它还能把全场生物的指示物直接翻一倍。放地这件事本身就等于让生物长大。",
+    "build": "坚固鳞甲（Hardened Scales）和分枝演化（Branching Evolution）让每次放指示物都多给一到两倍，苔生多头龙（Mossborn Hydra）自己带践踏、每落地也长一圈。演化智者（Evolution Sage）在你每次落一块地时增殖全场，振奋呼号能让养大的生物这一刻不灭。注意：对手会用清场一次收掉。"
+  },
+  "Tuvasa the Sunlit": {
+    "tagline": "结界越多，主将打得越痛",
+    "intro": "阳辉吐瓦萨（Tuvasa the Sunlit）是白蓝绿三色的三费人鱼萨满。你每操控一个结界，它就大一圈；每回合你放的第一张结界还能让你抽一张牌。它自己就是这套牌最大的攻击者，同时还兼任补牌。喜欢用小结界堆出巨兽的人会喜欢它。",
+    "build": "牌表里几乎全是结界：咒术师的风采（Enchantress's Presence）和花丛幻灵（Eidolon of Blossoms）都会在你放结界时抽牌，所以一张一张放下来手牌不会断。圣所织叶灵（Sanctum Weaver）按结界数量产出法术力，野地丛生（Wild Growth）贴在自家地上帮你铺法术力。注意：别只顾铺法术力忘了进攻。"
+  },
+  "Talion, the Kindly Lord": {
+    "tagline": "先定一个数，对手放了就掉血",
+    "intro": "仁慈仙王塔莱恩（Talion, the Kindly Lord）是蓝黑两色的四费仙灵贵族，自己会飞。它进场时你先在心里定一个 1 到 10 之间的数字；之后对手每放一张费用、攻击力或防御力等于这个数的咒语，他就掉两点血，你还抽一张牌。",
+    "build": "数字一般挑对手最常用的费用，比如两点或三点，越多人踩中越赚。启示天灾希欧蕊（Sheoldred, the Apocalypse）在你抽牌时回血、对手抽牌时掉血，奥克弓手（Orcish Bowmasters）在对手多抽牌时直接造成伤害。注意：天鹅绝唱（Swan Song）只能挡瞬间、法术和结界。"
+  },
+  "Gisa and Geralf": {
+    "tagline": "僵尸死了不算完，还能再放一次",
+    "intro": "基沙与基拉夫（Gisa and Geralf）是蓝黑两色的四费人类法师。它进场时先磨四张牌，之后每个回合你都可以从坟场里再放一个僵尸生物，等于手里的僵尸用完还能从坟场接着来。这套牌围着僵尸和坟场转，靠反复回收把场面撑住。",
+    "build": "先往坟场里堆僵尸：屋顶风暴（Rooftop Storm）让你可以不用付法术力就放僵尸，放出来的每一个都能被主将从坟场再拉一次。战墓队长（Diregraf Captain）、遭诅者领主（Lord of the Accursed）和墓地镰刀手（Cemetery Reaper）各自给全队僵尸 +1/+1。注意：磨牌是随机的，好牌被磨掉也别慌。"
+  },
+  "Gluntch, the Bestower": {
+    "tagline": "每回合送三份礼物，自己也不亏",
+    "intro": "遣施怪古朗奇（Gluntch, the Bestower）是白绿两色的三费水母，自己会飞。每个回合结束，它给三位玩家各送一份礼：一个人拿到两个 +1/+1 指示物，一个人抽一张牌，一个人拿到两个宝藏。它不给对手制造麻烦，而是让整桌都愿意跟你做朋友。",
+    "build": "礼物发得好，局面就站在你这边：呋噜怪（Flumph）让每位玩家都多抽牌，茁壮仪式（Rites of Flourishing）每回合额外多抽一张、还能多放一块地。达成协议（Cut a Deal）和秘密相会（Secret Rendezvous）都是给对手好处、但你拿得更多。注意：别把礼物发给已经领先的人。"
+  },
+  "Breena, the Demagogue": {
+    "tagline": "别人互相打，你就白拿指示物",
+    "intro": "煽动师布莉娜（Breena, the Demagogue）是黑白两色的三费鸟妖，自己会飞。只要有玩家攻击了你的对手，而那位对手的血比另一位对手多，攻击的那位就抽一张牌，你则往自家生物身上放两个 +1/+1 指示物。你什么都不用做，别人开打你就变强。",
+    "build": "这套牌要主动给对手制造打起来的理由：斗客的遗产（Duelist's Heritage）让每次进攻都多一份双头击的机会，忠诚承诺（Promise of Loyalty）逼每位玩家只留一个生物、而且那个生物不能打你。暮影军团斗客（Dusk Legion Duelist）在收到指示物时抽牌。注意：盯着血最少的那家。"
+  },
+  "Koma, Cosmos Serpent": {
+    "tagline": "每个回合都多一条盘蛇",
+    "intro": "寰宇盘蛇寇玛（Koma, Cosmos Serpent）是蓝绿两色的七费巨蛇，而且不能被反击。每个回合开始时你都白得一条 3/3 的盘蛇；献掉一条盘蛇，你可以让对手一个永久物横置、或者让它这一回合不灭。它自己产兵、自己保命，很难处理。",
+    "build": "盘蛇要用得狠：垃圾盘蛇（Junk Winder）在自家衍生物进场时横置对手的永久物，元素羁绊（Elemental Bond）让你每次造出攻击力三点以上的生物时抽一张牌。平行生命（Parallel Lives）让每条盘蛇都变成两条。注意：主将费用很高，前期先把法术力铺好。"
+  },
+  "Lathiel, the Bounteous Dawn": {
+    "tagline": "回的血越多，队友长得越大",
+    "intro": "丰饶曙光拉狄雷（Lathiel, the Bounteous Dawn）是白绿两色的四费独角兽，自带系命。每个回合结束，只要你这一回合回血，它就能把等同于回血量的 +1/+1 指示物分给自家别的生物。回血在这套牌里不只是保命，还是资源。",
+    "build": "回血要变成常态：护灵师（Soul Warden）、护华师（Essence Warden）和灵魂照护僧（Soul's Attendant）都在别的生物进场时给你回一点血，所以铺场本身就等于攒指示物。罗克维念师（Rhox Faithmender）让你回的血翻倍，盟会导师（Conclave Mentor）每次放指示物都加量。注意：回血要发生在自己的回合。"
+  },
+  "Sidisi, Brood Tyrant": {
+    "tagline": "一边磨牌一边攒僵尸",
+    "intro": "族群暴君谢迪西（Sidisi, Brood Tyrant）是蓝黑绿三色的四费蛇萨满。它进场或攻击时磨三张牌；只要有生物牌被磨进坟场，你就得到一个 2/2 的僵尸。也就是说，你越磨牌，场上的僵尸越多，而坟场也越攒越厚。",
+    "build": "磨牌要磨得有用：拼接师备尸（Stitcher's Supplier）进场或死掉都磨三张，占颅先知（Skull Prophet）可以磨牌又能产法术力，圣物老妖（Wight of the Reliquary）按坟场里的生物数量变大。神奇（Wonder）在坟场里就能让自家生物全都会飞。注意：磨到好东西是常事，坟场就是第二副手牌。"
+  },
+  "Admiral Brass, Unsinkable": {
+    "tagline": "海盗死了也能再冲一次",
+    "intro": "不沉传奇霸司总帅（Admiral Brass, Unsinkable）是蓝黑红三色的五费人类海盗。它进场时先磨四张牌；之后每个回合开始战斗时，你可以从坟场把一个海盗拉回场上，直接变成 4/4，还带敏捷，当回合就能进攻。它让海盗死了也不亏。",
+    "build": "海盗要多，坟场才有的可拉：骷髅妖船员（Skeleton Crew）会在生物离开坟场时造出 2/2 的海盗骷髅，锐目领航员马科姆（Malcolm, Keen-Eyed Navigator）在海盗打中对手时造宝藏。港口劫盗（Port Razer）打中对手后能多给一个战斗阶段。注意：从坟场拉回来的会被放逐。"
+  },
+  "Ellivere of the Wild Court": {
+    "tagline": "给队友戴上角色，打中就有牌",
+    "intro": "幻野廷的莉薇尔（Ellivere of the Wild Court）是白绿两色的四费人类骑士。它进场和攻击时都会给自家另一个生物贴上一个角色结界，被贴的生物按你操控的结界数量变大；只要有被贴的生物打中对手，你就抽一张牌。它把结界变成攻击力。",
+    "build": "角色结界要贴得准，因为每只生物同时只能有一个角色。理想境蔓生（Utopia Sprawl）贴在森林上产法术力，圣所织叶灵（Sanctum Weaver）按结界数量产法术力，瑟特萨斗士（Setessan Champion）在结界进场时抽牌。注意：瑞斯之风（Winds of Rath）只清掉没被贴结界的生物。"
+  },
+  "Sméagol, Helpful Guide": {
+    "tagline": "戒指一引诱，就顺手拿走一块地",
+    "intro": "有用向导斯密戈（Sméagol, Helpful Guide）是黑绿两色的三费半身人惊惧兽。你的回合结束，只要有生物死掉，戒指就会引诱你；每次戒指引诱你，你就让对手从牌库顶一直翻到一张地，把那张地横着放到自己场上，其余全进对手坟场。",
+    "build": "戒指引诱你的次数就是收益：魔戒呼唤（Call of the Ring）每回合维持时引诱一次，耐心谋策鬼咕噜（Gollum, Patient Plotter）离场时引诱一次，山姆危急施救（Sam's Desperate Rescue）和收获宝贝（Claim the Precious）也各带一次。杜内丹游民在你落地时引诱。注意：要有生物愿意死。"
+  },
+  "Commodore Guff": {
+    "tagline": "鹏洛客越多，一炮打得越狠",
+    "intro": "古夫准将（Commodore Guff）是白蓝红三色的四费鹏洛客。每个回合结束，它给自家另一个鹏洛客多放一个忠诚指示物；它的大招按你操控的鹏洛客数量抽牌并让每位对手掉等量的血。它自己还能造出专门用来放鹏洛客的法师。",
+    "build": "鹏洛客要多，大招才狠：泰菲力的誓约（Oath of Teferi）让你每回合能多用一次鹏洛客的忠诚异能，锁链面纱（The Chain Veil）在特定条件下也能再来一轮。旭日天尊艾紫培（Elspeth, Sun's Champion）每回合造三个士兵。注意：鹏洛客很怕被攻击，记得留兵挡。"
+  },
+  "The Gitrog, Ravenous Ride": {
+    "tagline": "用大生物的力气换一地一抽",
+    "intro": "血口坐骑噬人蛙怪（The Gitrog, Ravenous Ride）是黑绿两色的五费蛙怪坐骑，自带践踏和敏捷。它打中对手后，你可以把本回合用来骑它的生物献掉，然后按那只生物的攻击力抽牌，并把等量的地放上场——攻击力越高的坐骑，换来的地越多。",
+    "build": "坐骑要挑攻击力夸张的：始饥戈厄塔（Ghalta, Primal Hunger）和雅骨尔与穆塔尼（Yargle and Multani）都是能一下换来一大把地的坐骑，无丈魔泰坦（Daemogoth Titan）攻击力也高，反正它本来就要你献生物。不倦供给人（Tireless Provisioner）让你每落一块地时多一个宝藏。注意：献掉的是自家的生物。"
+  },
+  "Kardur, Doomscourge": {
+    "tagline": "逼全场互殴，自己坐收其成",
+    "intro": "末日灾祸卡尔杜（Kardur, Doomscourge）是黑红两色的四费恶魔狂战士。它进场后，到你下个回合之前，对手的生物每次战斗都必须攻击，而且尽量不打你；只要有攻击中的生物死掉，每位对手掉一点血、你回一点血。它让整桌人替你打。",
+    "build": "逼人开打的牌越多，主将的收益越稳定：礼数不周（Disrupt Decorum）一次让所有对手的生物都必须进攻，晶岩怒兽（Geode Rager）在你落一块地时就让某位对手全军开打。山崖暴君克卒（Kazuul, Tyrant of the Cliffs）在有人打你时给你一个 3/3 挡着。注意：渎神行径（Blasphemous Act）会清掉全场。"
+  },
+  "Nethroi, Apex of Death": {
+    "tagline": "变异一次，坟场里的生物全回来",
+    "intro": "夺命霸狮涅司罗（Nethroi, Apex of Death）是白黑绿三色的五费猫，带死触和系命。它可以用变异的方式叠在自家非人类生物上；每次变异，它就把坟场里总攻击力不超过十的生物一起拉回场上。也就是说，变一次就能翻出一整片生物。",
+    "build": "先把好东西放进坟场：活埋（Buried Alive）一次把三张生物牌塞进坟场，拼接师备尸（Stitcher's Supplier）进场或死掉都磨三张，樱宗长老（Sakura-Tribe Elder）既能找地、也能当变异的目标。碎晶狂兽（Gemrazer）带践踏并能拆对手的神器和结界。注意：先算好要拉哪几只回来。"
+  },
+  "Sigarda, Font of Blessings": {
+    "tagline": "自家永久物都难被指定，还能翻牌顶",
+    "intro": "祝福圣源席嘉妲（Sigarda, Font of Blessings）是白绿两色的四费天使，自己会飞。你操控的其它永久物都带辟邪，对手很难指定它们；你还可以随时看牌库顶那张牌，并且直接从牌库顶放天使和人类咒语。它让自家场面很难被拆。",
+    "build": "牌库顶能直接放牌，所以天使放得越多越顺：希望圣源吉娅妲（Giada, Font of Hope）每有一张别的天使就让新天使多带一个指示物，还能产法术力；战令天使（Herald of War）进攻时长大，并给天使和人类咒语减费。注意：牌库顶放牌还是需要法术力。"
+  }
+}

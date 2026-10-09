@@ -1,0 +1,461 @@
+{
+ "Zur the Enchanter": {
+  "zh": null,
+  "zh_material": "结界大师祖尔",
+  "file": "writing_batch_new_1.md",
+  "cards": {
+   "Grasp of Fate": "命运之攫",
+   "All That Glitters": "闪光宝物",
+   "Ethereal Armor": "空灵铠",
+   "Diplomatic Immunity": "外交豁免权",
+   "Mirrormade": "魔镜映物",
+   "Steel of the Godhead": "神性兵器",
+   "Propaganda": "宣导",
+   "Hallowed Fountain": "崇圣喷泉",
+   "Ghostly Prison": "魂魅拘禁",
+   "Godless Shrine": "无神祭祠"
+  }
+ },
+ "Aesi, Tyrant of Gyre Strait": {
+  "zh": "盖尔海峡暴君艾西",
+  "zh_material": "盖尔海峡暴君艾西",
+  "file": "writing_batch_new_1.md",
+  "cards": {
+   "Azusa, Lost but Seeking": "云游者梓纱",
+   "Lotus Cobra": "莲花眼镜蛇",
+   "Tatyova, Benthic Druid": "深洋德鲁伊塔托娃",
+   "Ramunap Excavator": "拉慕拿开挖人",
+   "Rampaging Baloths": "莽闯巴洛西",
+   "Scute Swarm": "硬盔虫聚群",
+   "Simic Growth Chamber": "析米克生长室",
+   "Growth Spiral": "成长涡旋",
+   "Avenger of Zendikar": "赞迪卡复仇者",
+   "Explore": "探索大地"
+  }
+ },
+ "Urza, Chief Artificer": {
+  "zh": null,
+  "zh_material": "铸物卿克撒",
+  "file": "writing_batch_new_1.md",
+  "cards": {
+   "Seat of the Synod": "悉诺议会宅邸",
+   "Ancient Den": "远古狮穴",
+   "Etherium Sculptor": "乙金塑师",
+   "Vault of Whispers": "细语黯窖",
+   "Darksteel Citadel": "玄铁殿堂",
+   "Razortide Bridge": "锐潮结桥",
+   "Mistvault Bridge": "雾窖结桥",
+   "Sai, Master Thopterist": "扑翼大师塞埃",
+   "Goldmire Bridge": "金沼结桥",
+   "Foundry Inspector": "铸造厂监工"
+  }
+ },
+ "Alela, Artful Provocateur": {
+  "zh": null,
+  "zh_material": "祸水阿莉莱",
+  "file": "writing_batch_new_1.md",
+  "cards": {
+   "Intangible Virtue": "无形美善",
+   "Obyra, Dreaming Duelist": "迷梦斗客欧拜拉",
+   "Bitterblossom": "苦涩花开",
+   "Tegwyll, Duke of Splendor": "辉美公爵特维尔",
+   "Favorable Winds": "眷顾之风",
+   "Bident of Thassa": "塔萨的双叉戟",
+   "Arcane Sanctum": "玄秘圣所",
+   "All That Glitters": "闪光宝物",
+   "Watery Grave": "积水墓地",
+   "Skullclamp": "备忘夹"
+  }
+ },
+ "Morophon, the Boundless": {
+  "zh": null,
+  "zh_material": "无形莫洛丰",
+  "file": "writing_batch_new_1.md",
+  "cards": {
+   "Fist of Suns": "五阳护手",
+   "Realmwalker": "境域行者",
+   "Herald's Horn": "传令号角",
+   "Kindred Discovery": "同族发现",
+   "Maskwood Nexus": "覆面林连结点",
+   "Urza's Incubator": "克撒的抚育设备",
+   "The World Tree": "世界树",
+   "Unclaimed Territory": "无主领地",
+   "Cavern of Souls": "灵魂洞窟",
+   "Secluded Courtyard": "幽僻庭院"
+  }
+ },
+ "Zada, Hedron Grinder": {
+  "zh": null,
+  "zh_material": "晶石磨工查妲",
+  "file": "writing_batch_new_1.md",
+  "cards": {
+   "Fists of Flame": "火焰冲拳",
+   "Expedite": "提速咒",
+   "Ancestors' Aid": "先祖相助",
+   "Renegade Tactics": "乱匠战术",
+   "Sudden Breakthrough": "突破进展",
+   "Dragon Fodder": "巨龙食粮",
+   "Krenko's Command": "克仑可的命令",
+   "Storm-Kiln Artist": "暴风窑艺家",
+   "Crimson Wisps": "深红鬼火",
+   "Empty the Warrens": "净空繁殖地"
+  }
+ },
+ "Magus Lucea Kane": {
+  "zh": null,
+  "zh_material": "占星师露西娅·凯恩",
+  "file": "writing_batch_new_1.md",
+  "cards": {
+   "Zoanthrope": "脑虫",
+   "Unbound Flourishing": "无拘滋养",
+   "Mawloc": "沙蟒",
+   "Sporocyst": "孢囊要塞",
+   "Nexos": "指挥员",
+   "Tyrant Guard": "暴君护卫",
+   "Hydroid Krasis": "水螅融合体",
+   "Tervigon": "母虫",
+   "Aberrant": "畸变体",
+   "Winged Hive Tyrant": "有翼虫巢暴君"
+  }
+ },
+ "Satoru Umezawa": {
+  "zh": null,
+  "zh_material": "梅泽悟",
+  "file": "writing_batch_new_2.md",
+  "cards": {
+   "Silver-Fur Master": "银毛师父",
+   "Slither Blade": "蛇身刀客",
+   "Triton Shorestalker": "岸袭屈东",
+   "Changeling Outcast": "化形黜人",
+   "Thousand-Faced Shadow": "千面影徒",
+   "Silent-Blade Oni": "静刃邪鬼",
+   "Baleful Strix": "恶邪枭",
+   "Ornithopter": "扑翼机",
+   "Sunken Hollow": "沉落幽谷",
+   "Mist-Cloaked Herald": "雾隐传令"
+  }
+ },
+ "Inalla, Archmage Ritualist": {
+  "zh": null,
+  "zh_material": "仪法大师因娜拉",
+  "file": "writing_batch_new_2.md",
+  "cards": {
+   "Bloodline Necromancer": "血脉死灵术士",
+   "Step Through": "跨越现身",
+   "Naban, Dean of Iteration": "迭演院长奈班",
+   "Archaeomancer": "古语术士",
+   "Riptide Laboratory": "激流实验室",
+   "Harmonic Prodigy": "泛音逸才",
+   "Dualcaster Mage": "复咏法师",
+   "Talisman of Dominance": "控驭饰符",
+   "Azami, Lady of Scrolls": "万卷蓟夫人",
+   "Watery Grave": "积水墓地"
+  }
+ },
+ "Omnath, Locus of All": {
+  "zh": null,
+  "zh_material": "万物核欧那斯",
+  "file": "writing_batch_new_2.md",
+  "cards": {
+   "Villainous Wealth": "不义之财",
+   "Void Rend": "化作虚无",
+   "Ruinous Ultimatum": "毁坏通牒",
+   "Abzan Charm": "阿布赞护符",
+   "Omnath, Locus of Creation": "生机核欧那斯",
+   "Atraxa, Grand Unifier": "大一统飞将亚崔夏",
+   "Faeburrow Elder": "仙林境接骨木",
+   "Breeding Pool": "滋生之池",
+   "The World Tree": "世界树",
+   "Stomping Ground": "晃动大地"
+  }
+ },
+ "Kykar, Wind's Fury": {
+  "zh": null,
+  "zh_material": "狂风怒火凯卡",
+  "file": "writing_batch_new_2.md",
+  "cards": {
+   "Skullclamp": "备忘夹",
+   "Whirlwind of Thought": "思绪旋风",
+   "Impact Tremors": "冲击震颤",
+   "Harmonic Prodigy": "泛音逸才",
+   "Brainstorm": "脑力激荡",
+   "Opt": "抉择",
+   "Path to Exile": "流放之径",
+   "Talisman of Creativity": "创新饰符",
+   "Sulfur Falls": "硫磺瀑布",
+   "Mystic Monastery": "神秘寺院"
+  }
+ },
+ "The Scarab God": {
+  "zh": "甲虫神",
+  "zh_material": "甲虫神",
+  "file": "writing_batch_new_2.md",
+  "cards": {
+   "Diregraf Captain": "战墓队长",
+   "Rooftop Storm": "屋顶风暴",
+   "Death Baron": "死亡爵主",
+   "Gravecrawler": "墓场匍尸",
+   "Diregraf Colossus": "战墓巨像",
+   "Gray Merchant of Asphodel": "安福陵的暗贾",
+   "Sunken Hollow": "沉落幽谷",
+   "Dimir Signet": "底密尔印记",
+   "Lord of the Accursed": "遭诅者领主",
+   "Drowned Catacomb": "水没墓穴"
+  }
+ },
+ "Winota, Joiner of Forces": {
+  "zh": null,
+  "zh_material": "聚力领袖薇诺塔",
+  "file": "writing_batch_new_2.md",
+  "cards": {
+   "Blade Historian": "刀锋史家",
+   "Angrath's Marauders": "安戈斯的劫掠者",
+   "Ornithopter": "扑翼机",
+   "Lena, Selfless Champion": "无私斗士莉娜",
+   "Loyal Apprentice": "忠实学徒",
+   "Combat Celebrant": "战斗主祭",
+   "Battlefield Forge": "战场融炉",
+   "Ornithopter of Paradise": "天堂扑翼机",
+   "Legion Warboss": "教团战首",
+   "Gingerbrute": "姜饼怪人"
+  }
+ },
+ "Prosper, Tome-Bound": {
+  "zh": "书契坡斯博",
+  "zh_material": "书契坡斯博",
+  "file": "writing_batch_new_2.md",
+  "cards": {
+   "Xorn": "索尔石怪",
+   "Wild-Magic Sorcerer": "狂乱魔法术士",
+   "Marionette Master": "弄偶大师",
+   "Laelia, the Blade Reforged": "重铸利锋拉耶梨",
+   "Light Up the Stage": "照亮舞台",
+   "Reckless Fireweaver": "鲁莽织焰匠",
+   "Smoldering Marsh": "闷燃沼地",
+   "Talisman of Indulgence": "不羁饰符",
+   "Mayhem Devil": "破坏魔鬼",
+   "Professional Face-Breaker": "破相好手"
+  }
+ },
+ "Sythis, Harvest's Hand": {
+  "zh": "丰收之手叙提丝",
+  "zh_material": "丰收之手叙提丝",
+  "file": "writing_batch_new_3.md",
+  "cards": {
+   "Sanctum Weaver": "圣所织叶灵",
+   "Enchantress's Presence": "咒术师的风采",
+   "Sterling Grove": "银光树丛",
+   "Destiny Spinner": "编命师",
+   "Jukai Naturalist": "树海归真师",
+   "Setessan Champion": "瑟特萨斗士",
+   "Wild Growth": "野地丛生",
+   "Utopia Sprawl": "理想境蔓生",
+   "Eidolon of Blossoms": "花丛幻灵",
+   "Sigil of the Empty Throne": "虚位印记"
+  }
+ },
+ "Marchesa, the Black Rose": {
+  "zh": null,
+  "zh_material": "黑蔷薇玛切莎",
+  "file": "writing_batch_new_3.md",
+  "cards": {
+   "Unspeakable Symbol": "禁忌徽记",
+   "Iron Apprentice": "钢铁学徒",
+   "Carrion Feeder": "腐食怪",
+   "Flayer of the Hatebound": "怀恨劫掠者",
+   "Uncivil Unrest": "蛮野不歇",
+   "Thran Vigil": "索蓝式警戒",
+   "Blasphemous Act": "渎神行径",
+   "Ashnod's Altar": "阿士诺的祭坛",
+   "Baleful Strix": "恶邪枭",
+   "Viscera Seer": "拽脏预言师"
+  }
+ },
+ "Tiamat": {
+  "zh": "提亚玛特",
+  "zh_material": "提亚玛特",
+  "file": "writing_batch_new_3.md",
+  "cards": {
+   "Dracogenesis": "龙群创生",
+   "Miirym, Sentinel Wyrm": "上古龙卫米瑞穆",
+   "Dragon Tempest": "龙袭风暴",
+   "Dragonspeaker Shaman": "龙语祭师",
+   "Lathliss, Dragon Queen": "龙后拉黎丝",
+   "Crux of Fate": "命途交错",
+   "Atarka, World Render": "灭世龙王安塔卡",
+   "Terror of the Peaks": "峰顶惧龙",
+   "Dragonlord's Servant": "龙王仆役",
+   "Haven of the Spirit Dragon": "灵龙庇护地"
+  }
+ },
+ "Najeela, the Blade-Blossom": {
+  "zh": null,
+  "zh_material": "剑花娜吉拉",
+  "file": "writing_batch_new_3.md",
+  "cards": {
+   "Samut, Vizier of Naktamun": "拿塔蒙维齐尔撒姆特",
+   "Professional Face-Breaker": "破相好手",
+   "Derevi, Empyrial Tactician": "穹光策士德蕾薇",
+   "Champion of Lambholt": "羊屯斗士",
+   "Kutzil, Malamet Exemplar": "豹族模范库琪",
+   "Druids' Repository": "德鲁伊贮藏处",
+   "Birds of Paradise": "天堂鸟",
+   "Wooded Foothills": "繁茂丘陵",
+   "Windswept Heath": "风袭荒地",
+   "Bloodstained Mire": "血斑泥沼"
+  }
+ },
+ "Shelob, Child of Ungoliant": {
+  "zh": null,
+  "zh_material": "乌苟立安特后代希洛布",
+  "file": "writing_batch_new_3.md",
+  "cards": {
+   "Arasta of the Endless Web": "无尽缠丝阿拉斯塔",
+   "Ishkanah, Grafwidow": "墓寡妇伊什卡娜",
+   "Arachnogenesis": "蜘蛛创生",
+   "Shelob, Dread Weaver": "惧怖织蛛希洛布",
+   "Twin-Silk Spider": "双胞丝蛛",
+   "Rotwidow Pack": "朽寡妇蛛群",
+   "Twitching Doll": "抽肢娃娃",
+   "Drider": "蛛化精灵",
+   "Skyfisher Spider": "捕空蜘蛛",
+   "Curse of Clinging Webs": "缠身蛛网诅咒"
+  }
+ },
+ "Rocco, Street Chef": {
+  "zh": null,
+  "zh_material": "街头主厨罗孔",
+  "file": "writing_batch_new_3.md",
+  "cards": {
+   "Night of the Sweets' Revenge": "糖果复仇夜",
+   "Academy Manufactor": "大学院制造工人",
+   "Peregrin Took": "佩里格林·图克",
+   "Rosie Cotton of South Lane": "南小路的罗西·科顿",
+   "Baylen, the Haymaker": "干草堆匠拜棱",
+   "Inspiring Statuary": "启迪塑像",
+   "Jaheira, Friend of the Forest": "树林之友贾希拉",
+   "Pia Nalaar, Consul of Revival": "复兴执政琵雅纳拉",
+   "Gilded Goose": "金鹅",
+   "Annie Joins Up": "安妮入伙"
+  }
+ },
+ "Liesa, Shroud of Dusk": {
+  "zh": null,
+  "zh_material": "薄暮之帷莉艾莎",
+  "file": "writing_batch_new_3.md",
+  "cards": {
+   "Kambal, Consul of Allocation": "划配执政坎拔",
+   "Authority of the Consuls": "执政官威权",
+   "Soul Warden": "护灵师",
+   "Vito, Thorn of the Dusk Rose": "暮影蔷薇之棘维托",
+   "Sanguine Bond": "血色羁绊",
+   "Blind Obedience": "盲目服从",
+   "Isolated Chapel": "孤立礼拜堂",
+   "Orzhov Signet": "欧佐夫印记",
+   "Caves of Koilos": "喀洛斯洞窟",
+   "Path to Exile": "流放之径"
+  }
+ },
+ "Ramos, Dragon Engine": {
+  "zh": null,
+  "zh_material": "龙形引擎瑞莫斯",
+  "file": "writing_batch_new_4.md",
+  "cards": {
+   "Door to Nothingness": "空无之门",
+   "Abzan Charm": "阿布赞护符",
+   "Maelstrom Nexus": "涡心连结点",
+   "Maelstrom Archangel": "涡心大天使",
+   "Progenitus": "祖神兽",
+   "Conflux": "聚流",
+   "Faeburrow Elder": "仙林境接骨木",
+   "Leyline of the Guildpact": "十会盟地脉",
+   "The World Tree": "世界树",
+   "Growth Spiral": "成长涡旋"
+  }
+ },
+ "Sefris of the Hidden Ways": {
+  "zh": null,
+  "zh_material": "密宗法师塞弗莉丝",
+  "file": "writing_batch_new_4.md",
+  "cards": {
+   "Radiant Solar": "辉光炽天神侍",
+   "Nadaar, Selfless Paladin": "无私圣武士那达尔",
+   "Midnight Pathlighter": "午夜引路人",
+   "Hama Pashar, Ruin Seeker": "遗迹搜寻客哈玛帕沙",
+   "White Plume Adventurer": "白羽山冒险家",
+   "Triumphant Adventurer": "凯旋冒险者",
+   "Sun Titan": "旭日泰坦",
+   "Victimize": "生体活祭",
+   "Karmic Guide": "宿命导士",
+   "Tortured Existence": "苦刑生活"
+  }
+ },
+ "Varina, Lich Queen": {
+  "zh": null,
+  "zh_material": "巫妖女王瓦理娜",
+  "file": "writing_batch_new_4.md",
+  "cards": {
+   "Wayward Servant": "刚愎仆从",
+   "Gravecrawler": "墓场匍尸",
+   "Diregraf Captain": "战墓队长",
+   "Death Baron": "死亡爵主",
+   "Rooftop Storm": "屋顶风暴",
+   "Diregraf Colossus": "战墓巨像",
+   "Corpse Knight": "腐尸骑士",
+   "Undead Augur": "不死卜算师",
+   "Cryptbreaker": "逃墓灵俑",
+   "Lord of the Accursed": "遭诅者领主"
+  }
+ },
+ "Judith, Carnage Connoisseur": {
+  "zh": null,
+  "zh_material": "品戮佳人裘蒂丝",
+  "file": "writing_batch_new_4.md",
+  "cards": {
+   "Tectonic Hazard": "地壳灾害",
+   "End the Festivities": "喜庆终结",
+   "Blazing Volley": "烈焰齐射",
+   "Electrickery": "电流恶戏",
+   "Guttersnipe": "贫窟伏击客",
+   "Smash to Dust": "砸为粉尘",
+   "Blasphemous Act": "渎神行径",
+   "Smoldering Marsh": "闷燃沼地",
+   "Dragonskull Summit": "龙颅山峰",
+   "Village Rites": "村民仪式"
+  }
+ },
+ "Stella Lee, Wild Card": {
+  "zh": null,
+  "zh_material": "狂野王牌史黛拉李",
+  "file": "writing_batch_new_4.md",
+  "cards": {
+   "Cerulean Wisps": "蔚蓝鬼火",
+   "Refocus": "再度凝神",
+   "Twisted Fealty": "扭曲忠贞",
+   "Twitch": "抽搐",
+   "Serum Visions": "浆液预视",
+   "Opt": "抉择",
+   "Shivan Reef": "西瓦暗礁",
+   "Ponder": "沉思",
+   "Sulfur Falls": "硫磺瀑布",
+   "Preordain": "注定"
+  }
+ },
+ "Sheoldred, the Apocalypse": {
+  "zh": null,
+  "zh_material": "启示天灾希欧蕊",
+  "file": "writing_batch_new_4.md",
+  "cards": {
+   "Underworld Dreams": "地底幻梦",
+   "Peer into the Abyss": "窥探深渊",
+   "Seizan, Perverter of Truth": "颠倒黑白的逝斩",
+   "Howling Mine": "嚎叫的矿井",
+   "Teferi's Puzzle Box": "泰菲力的魔术方块",
+   "Dark Deal": "黑暗交易",
+   "Dark Ritual": "黑暗祭礼",
+   "Phyrexian Arena": "非瑞克西亚斗技场",
+   "Jet Medallion": "黑玉徽章",
+   "Cabal Coffers": "柯帮金库"
+  }
+ }
+}

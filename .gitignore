@@ -1,0 +1,25 @@
+# 过程产物：写手代理留下的临时脚本、备份、探针输出
+_scratch/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 备份与临时
+*.bak
+*.tmp
+*.log
+
+# 抓取缓存（可重新生成，且体积大；若想完全离线重建仓库，把下面两行删掉）
+# data/supp_*.json
+# data/new_candidates.json

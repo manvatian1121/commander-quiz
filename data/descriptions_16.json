@@ -1,0 +1,117 @@
+{
+  "Vincent Valentine // Galian Beast": {
+    "tagline": "对手的怪一死，它就变大",
+    "intro": "文森特·瓦伦丁（Vincent Valentine）是四费黑色主将：对手的生物每死一只，它就按那只生物的力气长大一点，攻击时还能翻面变成一头会践踏、会回血的野兽。喜欢逼对手不断牺牲生物的玩家会喜欢它。",
+    "build": "牌表里塞满逼人牺牲的牌：希欧蕊的勒令（Sheoldred's Edict）、受诅劫掠者（Accursed Marauder）和播疫师（Plaguecrafter）都能让对手失去生物。前期用黑暗祭礼（Dark Ritual）抢一回合出场，黑玉徽章（Jet Medallion）让黑色咒语更便宜。新人注意：它前期还没攒到指示物，别单独冲上去。"
+  },
+  "Kumena, Tyrant of Orazca": {
+    "tagline": "人鱼越多，它越能抽牌",
+    "intro": "欧拉兹卡暴君库莫那（Kumena, Tyrant of Orazca）是蓝绿三费人鱼。它自己不好斗，靠别的鱼站起来用：让一只人鱼横过来，它这回合就不能被挡；让三只横过来，你抽一张牌。喜欢铺一群同类小家伙、慢慢滚大的玩家会喜欢它。",
+    "build": "美洛理骑士（Merrow Reejerey）、珍珠三叉戟大师（Master of the Pearl Trident）和人鱼君王（Merfolk Sovereign）给全队人鱼一起加大；石溪掌旗（Stonybrook Banneret）让每张鱼都便宜一点。新人注意：人鱼个头都小，遇到清场会一次全没，铺场时要留点后手。"
+  },
+  "Rakdos, the Muscle": {
+    "tagline": "牺牲小怪，借对手的牌来打",
+    "intro": "帮凶魔头拉铎司（Rakdos, the Muscle）是红黑五费恶魔，会飞也会践踏。你每牺牲一只别的生物，它就从对手牌库顶上翻出等量的牌，让你在下个回合结束前用掉，等于拿自家小怪换别人的资源。喜欢用牺牲换收益的玩家会喜欢它。",
+    "build": "遭弃矿工（Forsaken Miner）能自己从坟场爬回来，反复当牺牲的材料；阿士诺的祭坛（Ashnod's Altar）随时把一只生物换成两点法术力；不羁饰符（Talisman of Indulgence）和黑暗祭礼（Dark Ritual）负责前期把法术力凑齐。新人注意：牺牲是有收益的，但别把场上生物一次牺牲光。"
+  },
+  "Syr Vondam, Sunstar Exemplar": {
+    "tagline": "小怪来回进出，它就慢慢变大",
+    "intro": "辉星模范冯棠爵士（Syr Vondam, Sunstar Exemplar）是黑白两费骑士，自带警戒和威慑。你别的生物死掉或被人放逐时，它会变大一点、你也回一点血；等它力气到四点以上被放逐，还能拆掉对手一个永久物。喜欢磨小便宜的玩家会喜欢它。",
+    "build": "流光烁影（Ephemerate）和云移（Cloudshift）花一点白色，把自家生物先放逐再立刻送回来，等于白拿一次好处；虐之华寇族黜人依拉丝（Elas il-Kor, Sadistic Pilgrim）在你放生物时回血、生物死掉时让对手掉血。新人注意：它一开始力气不到四点，别硬挡大生物。"
+  },
+  "Heliod, Sun-Crowned": {
+    "tagline": "你一回血，它就往生物上放指示物",
+    "intro": "日冠赫利欧德（Heliod, Sun-Crowned）是三费白色神，本身不灭。你先要弄到够多的白色法术力，它才会从结界变成生物下场；你每次回血，它就往自家一只生物或结界上放一个指示物。喜欢把一点点好处攒成大场面的人会喜欢它。",
+    "build": "护灵师（Soul Warden）在每只生物进场时给你回一点血，几乎每次回血都能换成指示物；执政官威权（Authority of the Consuls）让对手的生物横着进场，也顺便替你回血；自行弩炮（Walking Ballista）是常见的收尾手段：用主将给它系命，它摘指示物打人，指示物又被补回来。新人注意：它一开始不是生物。"
+  },
+  "Rat King, Verminister": {
+    "tagline": "老鼠越铺越多，还能整队回来",
+    "intro": "疫病根源鼠王（Rat King, Verminister）是两费黑色主将。只要你这一回合有永久物离开场上，回合结束它就白给你一只老鼠，自己也长大一点；攒够三只老鼠献出去，还能把坟场里的一整批同名生物一起拉回场上。喜欢老鼠越滚越多的玩家会喜欢它。",
+    "build": "鼠群魔笛手（Piper of the Swarm）既能造老鼠，又给老鼠威慑；啮骨牙（Marrow-Gnawer）牺牲一只老鼠就换出一整群；贫窟霸食人魔（Ogre Slumlord）在你别的生物死掉时补一只，还让所有老鼠带死触；暴群墓场（Swarmyard）能救回一只快被打死的老鼠。新人注意：主将的回收要献三只老鼠，别一口气全献光。"
+  },
+  "Slicer, Hired Muscle // Slicer, High-Speed Antagonist": {
+    "tagline": "连击快攻，还能借给对手用",
+    "intro": "受雇狂徒切片（Slicer, Hired Muscle）是红色五费的神器生物，连击加上敏捷，出场那一回合就能打两次。每到对手回合开始，你还可以把它临时交给那位对手，它这回合就得去攻击别人。喜欢直接、爽快、不绕弯的玩家会喜欢它。",
+    "build": "给它贴装备能一次吃两份收益：记忆面具（Mask of Memory）让它打中就能多抽牌，钢梁镇殴击棍（Beamtown Beatstick）打中还能换出宝物。急迫祭礼（Desperate Ritual）帮你抢一回合把它放出来；场面失控时用渎神行径（Blasphemous Act）一次清掉所有生物，代价是它自己也会一起死。新人注意：它很怕被拆。"
+  },
+  "Kozilek, the Great Distortion": {
+    "tagline": "十费大怪，靠法术力硬砸出来",
+    "intro": "无际曲相寇基雷（Kozilek, the Great Distortion）是十费的无色奥札奇，费用很重，前期要拼命铺法术力。你手牌不多时，施放它会补一大把牌；它还带威慑，能靠弃手牌反击对手的咒语。喜欢堆法术力、放大东西压场的玩家会喜欢它。",
+    "build": "奥札奇殿堂（Eldrazi Temple）让奥札奇咒语更便宜，索蓝发电机（Thran Dynamo）一次给三点法术力，遭弃纪念碑（Forsaken Monument）给无色生物加大、还能多补无色法术力。尽归尘土（All Is Dust）能把所有有色永久物一次清掉。新人注意：前期先铺产法术力的东西，别急着出主将。"
+  },
+  "Savra, Queen of the Golgari": {
+    "tagline": "牺牲自家的怪，逼对手也牺牲",
+    "intro": "葛加理女王撒芙儿（Savra, Queen of the Golgari）是黑绿四费精灵。你牺牲黑色生物时，可以付两点生命让每位对手也跟着牺牲一只；牺牲绿色生物能回两点生命。这套牌不靠打人，而是让对手的场面一直空着，喜欢慢慢磨的玩家会喜欢它。",
+    "build": "鲜血画家（Blood Artist）和筑拉波割喉客（Zulaport Cutthroat）让每次生物死亡都变成对手掉血、你回血；樱宗长老（Sakura-Tribe Elder）牺牲自己帮你找一张地，正好触发回血那一半；贝雷卓靡华（Beledros Witherbloom）每回合给一只会回血的害虫当材料。新人注意：留一只生物挡刀。"
+  },
+  "Ultron, Artificial Malevolence": {
+    "tagline": "每放一个神器，就多复制一个",
+    "intro": "人工恶意奥创（Ultron, Artificial Malevolence）是三费的无色神器生物。每有一个别的神器进场，你都可以再付两点法术力复制一个；复制出来的如果不是生物，还会变成一只会打人的机器。喜欢把神器一层层往上叠的玩家会喜欢它。",
+    "build": "铸造厂监工（Foundry Inspector）让每个神器咒语都便宜一点，省下的法术力正好拿去复制；索蓝发电机（Thran Dynamo）一次产三点法术力；克撒的动力炉（Urza's Power Plant）这类无色地负责铺法术力；遭弃纪念碑（Forsaken Monument）给无色生物加大。新人注意：复制要额外付费用，手上有法术力时再放神器。"
+  },
+  "Liberty Prime, Recharged": {
+    "tagline": "出手要花能量，能量靠别的神器换",
+    "intro": "满电自由至尊（Liberty Prime, Recharged）是红白蓝五费的神器生物，自带警戒、践踏和敏捷，出场那一回合就能打。它每次攻击或阻挡都要花两点能量，不够就得把自己牺牲掉，所以这套牌要一边出手一边补能量。喜欢算资源的玩家会喜欢它。",
+    "build": "主将能把别的神器牺牲掉，换两点能量并抽一张牌（还要花两点法术力），所以牌表要放够便宜的神器当燃料；麦蒂森·黎博士（Dr. Madison Li） 在你放神器咒语时给你能量，还能用能量给生物加成；迅速了结（Dispatch）在你神器够多时直接把对手的生物放逐；神秘寺院（Mystic Monastery）和冰河要塞（Glacial Fortress）负责凑三色。"
+  },
+  "Grub, Storied Matriarch // Grub, Notorious Auntie": {
+    "tagline": "两面鬼怪，翻来翻去都赚",
+    "intro": "盛誉族母寻宝（Grub, Storied Matriarch）是红黑三费的双面鬼怪，两面都带威慑。正面进场就从坟场捡回一张鬼怪牌；翻到背面后，每次攻击还能复制自家一只生物一起冲上去。喜欢鬼怪一群一群、来回翻面赚便宜的玩家会喜欢它。",
+    "build": "鬼怪女舍监（Goblin Matron）进场就再帮你找一张鬼怪，鬼怪战酋长（Goblin Warchief）让鬼怪咒语更便宜、全队获得敏捷，攻城指挥官（Siege-Gang Commander）一次带出三只鬼怪。背面攻击时给自家一只生物放一个 -1/-1 指示物，就能复制它跟着打。新人注意：复制出来的东西回合结束要还。"
+  },
+  "The Council of Four": {
+    "tagline": "大家多抽牌，我就有好处",
+    "intro": "四人议会（The Council of Four）是白蓝五费的人类贵族。别人每回合抽到第二张牌，你也跟着抽一张；别人一回合里放第二个咒语，你就白得一只骑士。它不主动打人，而是让整桌人一起抽牌，自己悄悄攒兵。喜欢让别人帮你做事的玩家会喜欢它。",
+    "build": "嚎叫的矿井（Howling Mine）和克罗芬斯的旨意（Dictate of Kruphix）让每位玩家每回合都多抽一张，正好喂饱主将的抽牌条件；伏特里亚波涛骑士（Vodalian Wave-Knight）在你每次抽牌时给人鱼和骑士加指示物。新人注意：你给别人的牌也可能马上被用来对付你。"
+  },
+  "Alesha, Who Laughs at Fate": {
+    "tagline": "每次攻击都变大，还能从坟场拉人",
+    "intro": "嘲命者阿列莎（Alesha, Who Laughs at Fate）是红黑三费的人类战士，自带先攻。它每次攻击都会长大一点；只要你这一回合打过人，回合结束就能从坟场拉回一个小生物。喜欢用小生物做交换、又把它们捞回来的玩家会喜欢它。",
+    "build": "活埋（Buried Alive）一次把三张生物放进坟场，正好当弹药；拼接师备尸（Stitcher's Supplier）进场和死掉都往坟场堆牌；受诅劫掠者（Accursed Marauder）和播疫师（Plaguecrafter）进场时逼所有玩家牺牲生物，拉回坟场再放一次就能再来一轮。新人注意：它能拉回的生物大小取决于它当时的力气。"
+  },
+  "Lonis, Cryptozoologist": {
+    "tagline": "生物一进场就攒线索，最后白拿一张",
+    "intro": "隐匿动物学家罗尼斯（Lonis, Cryptozoologist）是蓝绿两费的蛇精灵斥候。你每放一只别的生物，它就给你一个线索；线索能花两点法术力换牌，也能攒起来翻对手牌库顶，换一块便宜的永久物过来。喜欢闷声赚便宜的玩家会喜欢它。",
+    "build": "大学院制造工人（Academy Manufactor）让你造线索时一次拿到线索、食物和珍宝三样；树林之友贾希拉（Jaheira, Friend of the Forest）让你造出来的棋子也能产绿法术力；不朽见证人（Eternal Witness）进场捡回坟场里的牌，还能多一个线索。新人注意：线索要留几个给主将用。"
+  },
+  "Vishgraz, the Doomhive": {
+    "tagline": "用中毒指示物把对手堆死",
+    "intro": "末日繁生威袭瑰（Vishgraz, the Doomhive）是白黑绿五费的非瑞人昆虫，自带威慑和下毒，进场还带三只同样会下毒的小虫；对手身上的中毒指示物越多，它自己就越大。攒够十个中毒指示物就能赢，不靠打光生命。喜欢换个赢法的人会喜欢它。",
+    "build": "下毒就是打中对手就多一个中毒指示物。斯勒夫的巢穴（Skrelv's Hive）每回合掉一点生命换一只带下毒的小虫；播疫探究（Infectious Inquiry） 让你抽两张牌的同时给每位对手一个中毒指示物；瓦丝卡沦落（Vraska's Fall） 逼对手牺牲生物再额外补一个；白阳垂暮（White Sun's Twilight） 能一次造出一群带下毒的小虫。新人注意：这些小虫不能阻挡。"
+  },
+  "Plagon, Lord of the Beach": {
+    "tagline": "让小家伙用防御力去打人",
+    "intro": "滩涂之主普拉贡（Plagon, Lord of the Beach）是白蓝三费的海星法师。它进场时，你场上每有一只防御力比力气大的生物，你就抽一张牌；它还能让自家一只生物这回合改用防御力打人。喜欢怪招、靠抽牌铺路的人会喜欢它。",
+    "build": "扑翼机（Ornithopter）和天堂扑翼机（Ornithopter of Paradise）都是零攻、防御力更高的小飞机，进场就能让普拉贡多抽牌；流光烁影（Ephemerate）和云移（Cloudshift）把它先放逐再送回来，等于再抽一轮；菁华异变（Essence Flux）也是同一招。新人注意：它不打人，抽牌全靠生物。"
+  },
+  "Herigast, Erupting Nullkite": {
+    "tagline": "牺牲小生物，提前放出九费巨龙",
+    "intro": "喷焰虚虐体赫厉轧（Herigast, Erupting Nullkite）是红色九费的奥札奇龙。它能牺牲一只生物提前出场；之后，你放的每只生物也都能用这招提前落地。它还会飞，进场时能把手牌全换成三张新牌。喜欢大生物、敢拿小兵换大牌的人会喜欢它。",
+    "build": "黯色幻影（Solemn Simulacrum）进场找地、死掉抽牌，是最好用的牺牲料；钯秘耳（Palladium Myr）一次产两点法术力，帮你凑齐大费用；反因果残肢（Anticausal Vestige）离场就抽牌，条件够时还能白放一张永久物。新人注意：提前落地都要牺牲生物。"
+  },
+  "Odric, Lunarch Marshal": {
+    "tagline": "一只会飞，全队都跟着会飞",
+    "intro": "月主会元帅欧吉克（Odric, Lunarch Marshal）是四费白色人类士兵。它自己没什么本事，但每次战斗开始时，只要你场上有生物会飞、有先攻、系命、威慑或践踏，全队就一起获得同一条本事。喜欢把普通士兵带成一支全能队伍的人会喜欢它。",
+    "build": "始辉泽塔帕（Zetalpa, Primal Dawn）一只就带着飞行、连击、警戒、践踏和不灭，有它在场，全队瞬间全能；典范达妮莎卡帕轩（Danitha Capashen, Paragon）自带先攻、警戒和系命，还能让灵气和装备更便宜；流放之径（Path to Exile）处理挡路的大生物。新人注意：全队一起变大很方便，被清场也会一起没。"
+  },
+  "Black Waltz No. 3": {
+    "tagline": "每放一张法术，全桌一起掉血",
+    "intro": "黑色华尔兹3号（Black Waltz No. 3）是红黑四费的法师，自带飞行和死触。它自己不太打人，而是盯着你放的每张非生物咒语：一放就对每位对手各打两点。所以牌表里的瞬间和法术越多，全桌掉血越快。喜欢用一张张咒语慢慢压死对手的人会喜欢它。",
+    "build": "闪电击（Lightning Bolt）一点红就打三点伤害，既是解也是输出；贫窟伏击客（Guttersnipe）和你一样盯着瞬间与法术，放了就让对手掉两点；黑魔纹（Circle of Power）让你抽两张牌（掉两点生命），还留一个跟着咒语打人的法师；闪光法师（Coruscation Mage）也是一个路子。新人注意：解牌有限，想清楚哪张先放。"
+  },
+  "Tinybones, Trinket Thief": {
+    "tagline": "让对手不停弃牌，顺手赚一张",
+    "intro": "琐物窃贼细骨（Tinybones, Trinket Thief）是两费黑色骷髅盗贼。只要这一回合有对手弃过牌，回合结束你就白抽一张，代价是一点生命；到后期，你还能花六点法术力，让手上没牌的对手直接掉十点生命。喜欢逼对手做选择的人会喜欢它。",
+    "build": "物尽其用（Waste Not）在你对手弃牌时给你衍生物或法术力，盖司秘录（Geth's Grimoire）则让你抽牌；压制（Oppression）逼每次施放咒语的人先弃一张；痛苦窘境（Painful Quandary）让对手每放一个咒语都在掉五点生命和弃一张牌之间选；吸收心灵（Syphon Mind）一次让所有对手各弃一张，你还按数量抽牌。"
+  },
+  "Toph, Earthbending Master": {
+    "tagline": "每块地进场攒一点，攻击时把地叫起来打人",
+    "intro": "运土宗师拓芙（Toph, Earthbending Master）是四费绿色人类战士。每有一块地进场，你就攒一个经验指示物；攻击时它会把一块地变成带敏捷的生物，并且按你攒的数量变大。喜欢慢慢攒、突然来一记重拳的人会喜欢它。",
+    "build": "永固城（Ba Sing Se）本身就是一块能运土的地；运土神通腾扬（Earthbender Ascension）进场先运土，再帮你找一张地进场；演化智者（Evolution Sage）在你每次有地进场时，让场上的指示物一起变多。新人注意：被运土变成生物的地如果死了，会横着回到场上，但也别只靠一块地打人。"
+  },
+  "Otharri, Suns' Glory": {
+    "tagline": "攻击一次攒一点，叛军越带越多",
+    "intro": "五阳荣光欧萨利（Otharri, Suns' Glory）是红白五费的凤凰，自带飞行、系命和敏捷，出场就能打。它每次攻击都会攒一个经验指示物，并按数量带出同样多的叛军，直接参战；它死后横置一个叛军就能从坟场回来。喜欢越打越多的玩家会喜欢它。",
+    "build": "冲击震颤（Impact Tremors）在你每放一只生物时让每位对手掉一点血，正好配主将每回合带出来的那群叛军；卡恩关堡（Karn's Bastion）能花四点法术力让场上的指示物一起变多；信念饰符（Talisman of Conviction）负责把红白两色凑齐。新人注意：花四点法术力横置一个叛军，就能把它换回来。"
+  }
+}

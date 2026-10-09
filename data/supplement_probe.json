@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Sram, Senior Edificer",
+    "slug": "sram-senior-edificer",
+    "num_decks": 1916
+  },
+  {
+    "name": "Brago, King Eternal",
+    "slug": "brago-king-eternal",
+    "num_decks": 15275
+  },
+  {
+    "name": "Tergrid, God of Fright",
+    "slug": "tergrid-god-of-fright",
+    "num_decks": 12822
+  },
+  {
+    "name": "Talrand, Sky Summoner",
+    "slug": "talrand-sky-summoner",
+    "num_decks": 7028
+  },
+  {
+    "name": "Phenax, God of Deception",
+    "slug": "phenax-god-of-deception",
+    "num_decks": 9245
+  },
+  {
+    "name": "Anikthea, Hand of Erebos",
+    "slug": "anikthea-hand-of-erebos",
+    "num_decks": 13362
+  },
+  {
+    "name": "Light-Paws, Emperor's Voice",
+    "slug": "light-paws-emperors-voice",
+    "num_decks": 12435
+  },
+  {
+    "name": "Yarok, the Desecrated",
+    "slug": "yarok-the-desecrated",
+    "num_decks": 13289
+  },
+  {
+    "name": "Grand Arbiter Augustin IV",
+    "slug": "grand-arbiter-augustin-iv",
+    "num_decks": 14128
+  },
+  {
+    "name": "Krenko, Tin Street Kingpin",
+    "slug": "krenko-tin-street-kingpin",
+    "num_decks": 1800
+  },
+  {
+    "name": "Atraxa, Grand Unifier",
+    "slug": "atraxa-grand-unifier",
+    "num_decks": 17574
+  },
+  {
+    "name": "Wyleth, Soul of Steel",
+    "slug": "wyleth-soul-of-steel",
+    "num_decks": 2696
+  },
+  {
+    "name": "Muldrotha, the Gravetide",
+    "slug": "muldrotha-the-gravetide",
+    "num_decks": 25364
+  },
+  {
+    "name": "Xenagos, God of Revels",
+    "slug": "xenagos-god-of-revels",
+    "num_decks": 8685
+  },
+  {
+    "name": "Niv-Mizzet, Parun",
+    "slug": "niv-mizzet-parun",
+    "num_decks": 15658
+  },
+  {
+    "name": "Kess, Dissident Mage",
+    "slug": "kess-dissident-mage",
+    "num_decks": 8667
+  }
+]

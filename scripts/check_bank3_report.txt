@@ -1,0 +1,41 @@
+==============================================================================
+bank3.json self-check (batch 3 / social)
+==============================================================================
+questions: 25 (expected 25)
+
+[PASS] 1. valid JSON + unique ids -- 25 ids, batch=3
+[PASS] 2. every question has a next field -- s48.next = s49
+[PASS] 3. every goto resolves to an existing id -- 3 goto edges
+[PASS] 4. chain walkable -- main s33 > s34 > s35 > s36 > s37 > s38 > s39 > s40 > s41 > s42 > s43 > s44 > s45 > s46 > s47 > s48 > s49 ; 3 branches x 3 hops back to s41
+[PASS] 5. 3..5 options, non-empty and pairwise distinct -- 106 options, size histogram {3: 1, 4: 17, 5: 7}
+[PASS] 6. 1..3 axes per option, weights in 1.0/1.5/2.0/2.5/3.0 -- 106 options
+       [OK] no option scores two opposite axes >= 2.0
+[PASS] 7. ambiguity check: every intra-question pair < 0.85 -- 175 pairs, max 0.6571 (s39 讲个大概就开局，玩错的地方边 x 不讲了，跟着他们瞎玩，规则不)
+[PASS] 8. axis coverage (each axis >= 12 options)
+       coverage table:
+         chaos         20
+         drain         20
+         aggro         18
+         stax          17
+         stompy        17
+         counters      16
+         politics      16
+         control       15
+         grave         14
+         artifacts     13
+         blink         13
+         clonesteal    13
+         combo         13
+         enchant       13
+         ramp          13
+         removal       13
+         spells        13
+         tribal        13
+         voltron       13
+         wide          13
+[PASS] 8. axis coverage ok -- min 13, max 20, total references 296
+[PASS] 9. no MTG jargon -- 37 keywords x 25 stems + 106 options
+
+==============================================================================
+RESULT: 9/9 PASSED
+==============================================================================

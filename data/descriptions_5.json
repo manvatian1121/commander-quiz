@@ -1,0 +1,152 @@
+{
+  "Wolverine, Best There Is": {
+    "tagline": "让他不停找人打架，越打越大",
+    "intro": "全力出战金刚狼（Wolverine, Best There Is）是个专找架打的主将：他造成的伤害翻倍，只要这回合打中过别的生物，回合结束就能多一个＋1/＋1 指示物。喜欢单挑、看他一个人清场的人会中意。",
+    "build": "思路是创造让他打中对手生物的机会，同时别让他死。坚固鳞甲（Hardened Scales）让指示物多攒一个，欧佐晶岩（The Ozolith）能收起指示物再送回去，成长仪式（Rite of Passage）让他挨打也长大，狂暴术（Berserk）让他这回合难以阻挡。茜卓扬焰（Chandra's Ignition）把他的攻击力一次泼给所有对手和生物。"
+  },
+  "Edward Kenway": {
+    "tagline": "开着载具出海，顺手把对手的牌偷来用",
+    "intro": "爱德华·肯威（Edward Kenway）是海盗船队的头目。你回合结束时，每个横置的海盗、刺客或载具都会变成一枚宝物；载具打中对手时，你还能从对方牌库顶翻走一张牌，之后一直可以用掉它。",
+    "build": "先铺海盗和载具，再把宝物花掉。载具要横置生物才能开动，所以海盗既是船员也是攻击手。寒鸦号（Jackdaw）打中对手时能弃掉整手牌换一批新的，好战者号（The Belligerent）每次攻击都产宝物，大无畏号（The Indomitable）让你每次打中对手都抽一张牌。宝物既能付费用，也能拿来施放你偷来的牌。"
+  },
+  "Golbez, Crystal Collector": {
+    "tagline": "神器铺满场，捞回大生物让对手掉血",
+    "intro": "水晶收集客高贝扎（Golbez, Crystal Collector）两点法术力就能上场。你每有一个神器进场，他都能看一眼牌库顶并决定它的去留；回合结束时，如果你场上有四个以上神器，他会从坟场捞一张生物牌回手，八个以上还会让所有对手掉血。",
+    "build": "核心是堆神器。悉诺议会宅邸（Seat of the Synod）、细语黯窖（Vault of Whispers）这类神器地既产法术力又算神器，乙金塑师（Etherium Sculptor）让神器咒语更便宜，扑翼大师塞埃（Sai, Master Thopterist）每放一个神器就多一只飞行的衍生物。想赢靠坟场里最大的生物：反复捞回手上，让对手持续掉血。"
+  },
+  "Vren, the Relentless": {
+    "tagline": "对手的生物一死，就变成你的老鼠",
+    "intro": "无情的维伦（Vren, the Relentless）会让对手原本要死的生物被放逐，不会真的进坟场。每到回合结束，他就按这回合被放逐的生物数量造出同样多的老鼠衍生物。所以对手越是失去生物，你场上就越是热闹。",
+    "build": "组牌方向是让对手的生物消失，再让维伦把尸体换成老鼠。希欧蕊的勒令（Sheoldred's Edict）逼对手自己牺牲生物，贫窟霸食人魔（Ogre Slumlord）和水渠鼠霸捷敏王（Lord Skitter, Sewer King）会在生物死亡时顺带给你老鼠，啮骨牙（Marrow-Gnawer）则能让已有的老鼠成倍增加。老鼠单个不大，但会互相加持。"
+  },
+  "Anti-Venom, Horrifying Healer": {
+    "tagline": "把所有伤害都扛在自己身上，越挨打越大",
+    "intro": "可怖医师反毒液（Anti-Venom, Horrifying Healer）进场时，如果你是从手上施放他的，可以顺手把坟场里一张生物牌拉回场上。更关键的是，任何要打在他身上的伤害都会被挡下，变成同样多的＋1/＋1 指示物。挨打就是变强。",
+    "build": "思路是把对手火力全引到他身上。贱民（Pariah）和贱民之盾（Pariah's Shield）把打你的伤害转到他身上，罪恶感（Guilty Conscience）让他打人的同时反受伤害，还因此变强。非瑞克西亚雪恨兽（Phyrexian Vindicator）也是「伤害被挡下就反弹」的生物，宿敌面具（Nemesis Mask）能逼所有生物来挡他。"
+  },
+  "Rendmaw, Creaking Nest": {
+    "tagline": "给每个人都发一只鸟，让他们互相打",
+    "intro": "嘎响草窝裂口（Rendmaw, Creaking Nest）是个稻草人。它进场时，以及每当你在一个回合里使用一张兼具两种以上类别的牌，场上每个人都会得到一只带飞行的 2/2 黑色鸟衍生物，而且这些鸟每回合都必须攻击，还得尽量去打你以外的玩家。",
+    "build": "所以要多放「一张牌算两种类型」的东西：暗苔结桥（Darkmoss Bridge）是神器兼地，瓦伽沃巢穴（Valgavoth's Lair）是结界兼地，树灵乔木（Dryad Arbor）是地兼生物，天堂扑翼机（Ornithopter of Paradise）是神器兼生物。它们既产法术力，又能反复触发裂口。赢法不是自己打死人，而是让对手互相攻击耗掉。"
+  },
+  "Disa the Restless": {
+    "tagline": "把大怪物丢进坟场，再让它们跳回场上",
+    "intro": "勇行者蒂莎（Disa the Restless）盯着一类叫拉高耶夫（Lhurgoyf）的生物。只要这类永久物牌从别的地方进到你的坟场，她就会直接把它放到场上；而每当你的生物打中对手，你还能造出一只衍生物。喜欢坟场玩法的人会很中意。",
+    "build": "把拉高耶夫（Lhurgoyf）送进坟场靠自己丢和磨。烈焰耶夫（Pyrogoyf）、复体耶夫（Polygoyf）都是这类生物，身材按坟场牌数算，坟场越厚越大。丧信掠夺（Faithless Looting）让你抽牌的同时丢掉不要的牌，覆面林连结点（Maskwood Nexus）让你的生物都算作拉高耶夫（Lhurgoyf），吃到蒂莎的复活效果。"
+  },
+  "Wick, the Whorled Mind": {
+    "tagline": "养一只越变越大的蜗牛，一次炸掉所有对手",
+    "intro": "迷眠心灵威克（Wick, the Whorled Mind）和老鼠、蜗牛打交道。每当他或另一只老鼠进场，如果你还没有蜗牛，他就给你造一只 1/1 蜗牛；已经有蜗牛的话，就往蜗牛身上加一个＋1/＋1 指示物。蜗牛越大，他后面那一击就越痛。",
+    "build": "铺老鼠是第一步，因为每只老鼠都能让蜗牛变大。水渠鼠霸捷敏王（Lord Skitter, Sewer King）和鼠群魔笛手（Piper of the Swarm）都能不断补充老鼠，托腾坦之歌（Song of Totentanz）能一次铺出一大票。等蜗牛体型够了，付出蓝黑红各一点法术力把它牺牲掉，威克就会按它的攻击力打所有对手一次，同时让你抽同样数量的牌。"
+  },
+  "Celes, Rune Knight": {
+    "tagline": "从坟场反复把人叫回来，全队一起长大",
+    "intro": "符文骑士塞丽丝（Celes, Rune Knight）进场时可以先丢掉任意数量的牌，再抽比丢掉的数目多一张。她真正的本事在后面：只要你有一个别的生物从坟场进到场上，你场上所有生物都会拿到一个＋1/＋1 指示物。",
+    "build": "所以这套牌反复从坟场叫人回来。活尸法（Reanimate）、尸变（Animate Dead）把坟场生物拉回场上；腐臭鬼怪（Putrid Goblin）、夺魂红帽客（Murderous Redcap）这类死掉会自己回来的生物，每死一次给全队加指示物；流光烁影（Ephemerate）把生物放逐再送回，同样触发塞丽丝。要记住：只有从坟场进场才算数。"
+  },
+  "Hazel of the Rootbloom": {
+    "tagline": "衍生物越铺越多，还能复制最好用的那个",
+    "intro": "繁根教的哈珠儿（Hazel of the Rootbloom）是松鼠德鲁伊。她可以让你横置若干个衍生物、付两点生命，换回等量的任意颜色法术力；每到回合结束，她还会复制你场上的一个衍生物，如果复制的是松鼠，就一次复制两个。",
+    "build": "铺衍生物是基础：既是她的法术力，也是复制对象。松鼠将军聒牙（Chatterfang, Squirrel General）让每次造衍生物多一只松鼠，叽响喷吐器（Chitterspitter）靠牺牲衍生物把整队松鼠养大，暴群场大屠杀（Swarmyard Massacre）一次造两只松鼠，还削弱不属于虫、鼠、蜘蛛、松鼠的生物。复制优先给场上最大的。"
+  },
+  "Sonic the Hedgehog": {
+    "tagline": "带一群跑得快的家伙冲上去，顺手攒宝物",
+    "intro": "刺猬索尼克（Sonic the Hedgehog）自带敏捷，攻击时会给每个有闪现或敏捷的生物都加一个＋1/＋1 指示物。更妙的是，你的这类生物每次受到伤害，你就能造一枚宝物。所以他不怕互殴，反而希望自己的生物被打。",
+    "build": "核心是塞满有闪现和敏捷的生物：针鼹纳克鲁斯（Knuckles the Echidna）和跨金桥巨龙（Goldspan Dragon）都跟着变大。鲜血烈焰（Pyrohemia）每付一点红色法术力，就对每个生物和玩家各造成一点伤害，正好反复触发索尼克受伤产宝物。超级状态（Super State）贴上去把生物变成 9/9，并给飞行、先攻、践踏和敏捷。"
+  },
+  "The Mindskinner": {
+    "tagline": "让它的伤害全部变成对手的牌库大出血",
+    "intro": "剥忆惧魇（The Mindskinner）不能被阻挡，而它造成的伤害不会真的打伤对手，而是让每个对手把牌库顶同样数量的牌放进坟场。所以它不是靠把人打到 0 血赢，而是靠把对手的牌库掏空。适合喜欢慢慢磨死对手的人。",
+    "build": "让它打中对手是唯一要做的事，所以要提高次数和数值。鸣火杖（Fireshrieker）让它一次攻击打两轮伤害，浮夸的布鲁瓦（Bruvac the Grandiloquent）让对手每次磨牌都翻倍，水之水晶（The Water Crystal）每次多磨四张。遗迹蟹（Ruin Crab）在你下地时也会帮忙，宣导（Propaganda）能拖住对手的进攻。"
+  },
+  "Shadow the Hedgehog": {
+    "tagline": "用神器产的法术力施咒，对手插不上手",
+    "intro": "刺猬夏特（Shadow the Hedgehog）自带敏捷，而且你的有闪现或敏捷的生物死掉时会让你抽一张牌。他最特别的地方是：只要你施放咒语时用到了神器产出的法术力，那个咒语在结算前对手基本无法回应。",
+    "build": "这套牌要的是神器产出的法术力：大熔炉（Great Furnace）、玄铁殿堂（Darksteel Citadel）这类神器地，还有不羁饰符（Talisman of Indulgence）都值得放。生物死掉能抽牌，所以致命争执（Deadly Dispute）这种牺牲换两张牌的牌一点不亏。宝窖（Treasure Vault）能一次换成一大把宝物。"
+  },
+  "Captain Howler, Sea Scourge": {
+    "tagline": "丢了牌就变大，打中对手还能补牌",
+    "intro": "沧海之灾嚎勒船长（Captain Howler, Sea Scourge）喜欢看你丢牌：每当你丢弃一张或更多牌，一个目标生物就会按弃牌数量获得＋2/＋0；如果那个生物这回合打中了对手，你还能抽一张牌。而且对手想指定他还得额外付出代价。",
+    "build": "组的重点是抽了再丢的牌。丧信掠夺（Faithless Looting）和狂搜乱寻（Frantic Search）都能让你一次抽两张再丢两张，正好喂饱船长；浆身火炮师（Magmakin Artillerist）更是每弃一次就打所有对手一轮。坚忍纪念碑（Monument to Endurance）每次丢牌都给你抽牌、宝物或让对手掉三点血。"
+  },
+  "Yuna, Grand Summoner": {
+    "tagline": "法术力和＋1/＋1 指示物互相喂养",
+    "intro": "大召唤士尤娜（Yuna, Grand Summoner）横置就能产一点任意颜色法术力，并且让你这回合下一只生物进场时多带两个＋1/＋1 指示物。她还有第二段：只要你场上别的永久物带着指示物进坟场，那些指示物就能转移到你指定的生物身上。",
+    "build": "打法是用她的法术力施放带指示物的生物，再靠指示物撑场面。幻光盘（Sphere Grid）、坚固鳞甲（Hardened Scales）让指示物攒得更快更多，自行弩炮（Walking Ballista）、护育德鲁伊（Incubation Druid）把指示物当资源用。厄亡裁决（Damning Verdict）摧毁所有没指示物的生物，你的生物安然留下。"
+  },
+  "Sokka, Tenacious Tactician": {
+    "tagline": "每施放一个咒语，就多一个伙伴、全队变大",
+    "intro": "坚毅策士索卡（Sokka, Tenacious Tactician）自己带威慑，而且你每施放一个非生物咒语他就暂时变大一点，其他伙伴也有同样的能力。每当你施放非生物咒语，他还会造出一只 1/1 的白色伙伴衍生物。你越爱用咒语，场上人越多。",
+    "build": "所以要塞很多便宜的非生物咒语：脑力激荡（Brainstorm）和抉择（Opt）既能摸牌又能触发索卡，流放之径（Path to Exile）顺手解决一个麻烦生物，思绪旋风（Whirlwind of Thought）让你每施放一个非生物咒语就再抽一张。伙伴多了之后，索卡的冲锋（Sokka's Charge）和齐心抗敌（United Front）会更值。"
+  },
+  "Dina, Essence Brewer": {
+    "tagline": "小生物一个个喂给她，换来生命和巨型生物",
+    "intro": "酿灵迪娜（Dina, Essence Brewer）靠牺牲活着。你每次牺牲一个生物，她就能让你抽一张牌，不过一回合只触发一次；她还能付两点法术力和一次横置，牺牲另一个生物，换来等量的生命，并把同样多的＋1/＋1 指示物堆到一个生物身上。",
+    "build": "关键是有可随时牺牲的小东西。舞蛇术士（Ophiomancer）和害虫救护师（Pest Rescuer）每回合免费送你一只可牺牲的衍生物，最高市场（High Market）能牺牲生物换生命，贝雷卓靡华（Beledros Witherbloom）还能付十点生命重置所有地。牺牲的生物力量越大，换来的生命和指示物越多，适合拿小的换资源、大的长大再动手。"
+  },
+  "Tinybones, Bauble Burglar": {
+    "tagline": "逼对手弃牌，再把弃掉的牌拿来自己用",
+    "intro": "饰品妙盗细骨（Tinybones, Bauble Burglar）只有两点法术力，却很难应付。对手每弃掉一张牌，那张牌就会被放逐并做上标记；到了你的回合，你可以用任意法术力把这些不属于你的牌施放出来。他还能源源不断地逼所有对手弃牌。",
+    "build": "整套牌围绕对手弃牌。物尽其用（Waste Not）在对手弃牌时给衍生物、法术力或牌，压制（Oppression）和痛苦窘境（Painful Quandary）让对手每次施放咒语都弃牌或掉血，窃物鼠（Burglar Rat）进场逼所有人弃牌。盖司秘录（Geth's Grimoire）让你对手弃牌就抽一张。新手要记得，别人的牌也得付得起费用。"
+  },
+  "Kona, Rescue Beastie": {
+    "tagline": "让科纳横着，免费从手上放永久物进场",
+    "intro": "救星兽伴科纳（Kona, Rescue Beastie）只有一个效果，但很实在：在你的第二主阶段开始时，只要科纳是横置状态，你就可以从手上直接放一张永久物牌进场，不用付法术力。攻击也好、拿它去产法术力也好，只要它横着就行。",
+    "build": "所以要让横置科纳变成顺手的事。春叶鼓（Springleaf Drum）能横置生物产法术力，正好一举两得；坚守者聚落（Holdout Settlement）是能横置生物产法术力的地。手上要放得下大东西，世脊亚龙（Worldspine Wurm）这类高费大生物因此能提前几回合登场，东树木灵（Kodama of the East Tree）还能接着铺。"
+  },
+  "Alania, Divergent Storm": {
+    "tagline": "一回合三连法术，靠水獭帮你复制咒语",
+    "intro": "发散风暴艾岚妮（Alania, Divergent Storm）关心的是这回合的第一张。你每回合施放的第一张瞬间、第一张法术、第一张水獭咒语，都会被复制一份；代价是必须让一个对手抽一张牌。用一点小代价换双倍效果，是这套牌的乐趣。",
+    "build": "所以要在一回合里用上三种第一张：先施放一张瞬间，再一张法术，再让一只水獭进场，这样能复制三次。让谁抽牌也是学问，通常挑威胁最小的。苍茂谷唤洪师（Valley Floodcaller）让你的非生物咒语都能当瞬间放，方便凑连击；捕风导师（Stormcatch Mentor）、劈风师（Stormsplitter）既是水獭，也会因法术连发变强。"
+  },
+  "Zimone, Infinite Analyst": {
+    "tagline": "每回合第一张自选费用的咒语，越放越大",
+    "intro": "无限究员琦梦（Zimone, Infinite Analyst）和「费用要自己决定投入多少」的咒语绑在一起：你每回合第一张这样的咒语，会因为她身上的＋1/＋1 指示物而便宜一些；而每当你施放这回合的第一张，她自己就长大两个指示物。",
+    "build": "打法就是每回合放一张费用自填的咒语，先从小额开始，长大再一掷千金。金脉多头龙（Goldvein Hydra）、水螅融合体（Hydroid Krasis）、善心多头龙（Benevolent Hydra）都能把它当身材用。无拘滋养（Unbound Flourishing）翻倍这类咒语，物灵师唤醒（Animist's Awakening）把法术力换地。"
+  },
+  "Silverquill, the Disputant": {
+    "tagline": "先铺一堆小兵，再把每张法术复制一遍",
+    "intro": "启论巨龙银毫（Silverquill, the Disputant）是一条会飞、还会警戒的老龙。它的效果是让你的每一张瞬间和法术都能在施放时牺牲一个攻击力 1 以上的生物，换来这个咒语被复制一次。小兵在它眼里就是双倍法术的燃料。",
+    "build": "组牌第一件事是备够小生物。寺院明师（Monastery Mentor）在你施放非生物咒语时源源不断产衍生物，舞蛇术士（Ophiomancer）每回合免费给一条蛇，它们既是攻击手也是牺牲品。然后挑那些复制一次就很值的咒语：卫护荒漠（Secure the Wastes）和渐强终响（Grand Crescendo）都是费用能自填的，复制等于铺两倍场。"
+  },
+  "Killian, Decisive Mentor": {
+    "tagline": "给对手的生物贴上灵气，逼它们去打别人",
+    "intro": "果决导师齐力安（Killian, Decisive Mentor）的工作是操纵战斗。你的每个结界进场时，他都能横置一个对手的生物并逼它去攻击、而且尽量不去打你；每当你用灵气附着的生物攻击时，你就能抽一张牌。",
+    "build": "这套牌靠灵气，也就是贴在生物上的结界。放得越多，齐力安越能让对手生物互耗；尸鬼促动（Ghoulish Impetus）、玄铁异变（Darksteel Mutation）都能长期留场，寇族魂舞者（Kor Spiritdancer）在你贴灵气时帮你抽牌。毒苹果艾纶缇（Eriette of the Charmed Apple）更进一步：贴了灵气就不能攻击你。"
+  },
+  "Trostani, Selesnya's Voice": {
+    "tagline": "铺出一大片生物，再不断复制最大的那个",
+    "intro": "瑟雷尼亚之声卓塔妮（Trostani, Selesnya's Voice）是最容易上手的一位。你每有一只别的生物进场，就按它的防御力回一次血；她还能付一次横置，复制你场上的一个生物衍生物，也就是白拿一只一模一样的大生物。",
+    "build": "思路很直接：先造又大又值的衍生物，再反复复制。华冠日魇（Crested Sunmare）在你回血后回合结束时造出 5/5 的马，复耀黎兹（Rhys the Redeemed）一次复制所有衍生物，根生卫护（Rootborn Defenses）、破散生长（Sundering Growth）保命或拆东西时顺便复制一次。要留意：她只复制衍生物，普通生物不行。"
+  },
+  "The Jolly Balloon Man": {
+    "tagline": "把好用的生物复制成气球，用完就送它上路",
+    "intro": "吹气文丑（The Jolly Balloon Man）自带敏捷，可以付一点法术力和一次横置，把你场上另一个生物复制成一个 1/1 的红色气球衍生物。它多出飞行和敏捷，但会在下一个回合结束时被牺牲掉，用来借用别人进场时的效果最划算。",
+    "build": "所以套牌要挑进场就有用的生物。灵念伴侣（Spirited Companion）复制一次就再抽一张牌，黯色幻影（Solemn Simulacrum）复制一次就再找一张地，村庄司钟（Village Bell-Ringer）复制出来能让所有生物重置。冲击震颤（Impact Tremors）让你的每个衍生物进场都烫对手一下。复制前先想好这回合要什么效果。"
+  },
+  "Lorehold, the Historian": {
+    "tagline": "抽到的第一张法术，两点法术力就能用掉",
+    "intro": "启史巨龙衡鉴（Lorehold, the Historian）是一条会飞、有敏捷的老龙。你手上的每张瞬间和法术都有个便宜的价格：如果它是你这回合抽到的第一张牌，两点法术力就能用掉。另外在每个对手的维持阶段，你都能丢一张牌换一张新的。",
+    "build": "所以这套牌关键在控制抽牌时机。梁博士图书馆（Library of Leng）让你要丢的牌回牌库顶，配合衡鉴每回合的丢牌抽牌，反复把同一张好牌摆回手上；师范占卜陀螺（Sensei's Divining Top）帮你整理牌库顶。赢法通常先攒够法术力：大干一票（Big Score）换来一堆宝物，接着寻得母脉（Hit the Mother Lode）压上去。"
+  },
+  "Prismari, the Inspiration": {
+    "tagline": "一回合连甩法术，后面的每一张都被复制",
+    "intro": "启迪巨龙粹丽（Prismari, the Inspiration）是一条七费的大龙，有飞行，对手想指定它还得付五点生命。它带来的是复制：你每施放一张瞬间或法术，它都会被复制——这回合在你之前施放过的咒语越多，复制出来的份数就越多。",
+    "build": "要用上它，你得在同一回合尽量多施放咒语，手上还得有足够法术力。热病祭礼（Pyretic Ritual）、热血战歌（Seething Song）都专产法术力；暴风窑艺家（Storm-Kiln Artist）每次施放或复制都给宝物。荣休大法师（Archmage Emeritus）让你每次施放或复制抽牌，狂搜乱寻（Frantic Search）顺便换牌。"
+  },
+  "Doctor Doom, King of Latveria": {
+    "tagline": "专门给反派打工，弃掉地就让对手掉血",
+    "intro": "拉托维利亚之王毁灭博士（Doctor Doom, King of Latveria）围绕「反派」这类永久物和弃牌组队。你每弃掉一张或更多地牌，每个对手就掉两点血；战斗阶段开始时，他会让一个反派获得威慑并抽一张再弃一张，弃到非地牌那只反派就变大。",
+    "build": "这套牌的燃料来自博士每回合的抽牌弃牌：弃到地牌，三个对手一起掉血；弃到非地牌，反派就长一点。所以要多放反派，无边恶念奥创（Ultron, Unlimited）、凌虐大亨铁霸王（Iron Monger, Sadistic Tycoon）都能接着抽弃或给全队加指示物，反派居所（Villainous Hideout）还能帮你凑齐三色法术力。"
+  },
+  "Infinite Guideline Station": {
+    "tagline": "多色永久物越多，机器人和手牌就越多",
+    "intro": "永继导引基地（Infinite Guideline Station）是一艘五色的太空船。它进场时会按你场上多色永久物的数量，一次造出同样多的 2/2 机器人衍生物；等它攒够充能指示物变成生物之后，每次攻击还能按多色永久物的数量抽牌。",
+    "build": "所以套牌里尽量都放两种以上颜色。费罗洛基理将军（General Ferrous Rokiric）在你施放多色咒语时造出 4/4，仙林境接骨木（Faeburrow Elder）按你场上的颜色数量产法术力。想让它从飞船变成生物，需要横置别的生物来攒十二个充能指示物，至高思维奇洛（Kilo, Apogee Mind）每次被横置还会增殖，让这条路走得更快。"
+  },
+  "Ketramose, the New Dawn": {
+    "tagline": "把牌往放逐区送，换手牌也换他出手的资格",
+    "intro": "灿烂新晖柯塔摩斯（Ketramose, the New Dawn）有威慑、打中人就回血，还不会被摧毁，但只有当你放逐区里有七张以上的牌时，他才能攻击和阻挡。好消息是：在你的回合里，只要有牌从坟场或场上被放进放逐区，你就能抽一张牌、掉一点血。",
+    "build": "所以这套牌要常往放逐区塞牌。吸魂器（Ghost Vacuum）和狮头饰带（Lion Sash）都能从坟场放逐牌、攒数量；流放之径（Path to Exile）既能解决麻烦生物，又能在放逐区加一张。流光烁影（Ephemerate）和亢奋牧犬费利亚（Phelia, Exuberant Shepherd）会把你的生物暂时放逐再送回，每来回一次就抽一张。"
+  }
+}

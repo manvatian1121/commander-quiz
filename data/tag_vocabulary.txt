@@ -1,0 +1,405 @@
+  主将数     标签总票  标签
+  151    37821  Combo
+  151    17322  Midrange
+  151     4103  Commander Matters
+  150    19390  Control
+  150    63997  Tokens
+  150     7029  Good Stuff
+  150    18724  Ramp
+  150    47089  +1/+1 Counters
+  149    25286  Artifacts
+  149    27933  Aggro
+  146     5899  Stax
+  146     7687  Card Draw
+  145     4082  Toolbox
+  144    18442  Spellslinger
+  143     3457  Tempo
+  143     7035  Historic
+  140    12055  Legends
+  139     1456  Activated Abilities
+  137    29510  Lifegain
+  137    16404  Enchantress
+  137     7946  Group Slug
+  137    26180  Reanimator
+  133    18294  Burn
+  133    21828  Aristocrats
+  133     1632  Triggered Abilities
+  132    10963  Flying
+  131     9654  Voltron
+  131     1408  Ad Nauseam
+  130     2459  Hatebears
+  130     2095  Chaos
+  128     4560  Big Mana
+  128     3195  ETB
+  126     5394  Clones
+  124     6474  Infect
+  124    16146  Mill
+  124     8031  Equipment
+  124    20570  Lands Matter
+  123     4112  Pillow Fort
+  122     7867  Blink
+  120     1204  Zoo
+  118     2036  Land Destruction
+  116     7106  Group Hug
+  116     5150  Planeswalkers
+  116     3601  Populate
+  115     1765  Unnatural
+  115     2073  Extra Turns
+  115     1896  Affinity
+  115     5349  X Spells
+  114    10093  Discard
+  112     4705  Storm
+  111     3085  Birthing Pod
+  110    10085  Graveyard
+  109     3486  Theft
+  106     6727  Auras
+  106     2712  Stompy
+  105     3187  Self-Damage
+  103    10736  Sacrifice
+  102     1398  Anthems
+  102      489  Snow
+  101      434  Rock
+  100    10890  Wheels
+  100     1091  Cycling
+  100     6374  Self-Mill
+   97     4231  Extra Combats
+   96     3216  Attack Triggers
+   95     5182  Lifedrain
+   95     5309  -1/-1 Counters
+   93     3890  Cascade
+   91     3365  Monarch
+   91     7616  Treasure
+   89     1936  Pingers
+   89      635  Exile
+   89      598  Go Wide
+   88      433  Power
+   87     4259  Proliferate
+   86     1620  Counterspells
+   86      565  Prison
+   85     3630  Dredge
+   84     2153  Forced Combat
+   84      939  Topdeck
+   84     7636  Landfall
+   82     1072  Devotion
+   80     1835  Cantrips
+   79     1584  Eggs
+   78     1268  Flashback
+   78     1089  Counters Matter
+   77     1450  Spell Copy
+   74     1225  Modified Creatures
+   74    11171  Dragons
+   74      540  Energy
+   71     1325  Aikido
+   71      905  Tap / Untap
+   70     3935  Vehicles
+   69      198  Glass Cannon
+   69      312  Modular
+   68      614  Dungeon
+   67      383  Power Matters
+   66      853  Unblockable
+   65     1191  Politics
+   65      391  Bounce
+   64     1398  Flash
+   63     4523  Humans
+   62     4807  Defenders
+   62     5646  Eldrazi
+   62      370  Tron
+   58     2302  Discover
+   58     6060  Zombies
+   55      219  Deathtouch
+   54      307  Weenies
+   53     4931  Toughness Matters
+   51     3485  Sagas
+   51      346  Morph
+   51      153  Fight
+   50      320  Donate
+   50      849  Self-Discard
+   50     1167  Amass
+   48      319  Attractions
+   48      137  Clues
+   48      670  Haste
+   48      664  Guildgates
+   48      224  Keywords
+   47     1468  Wizards
+   47    10204  Elves
+   47     6212  Angels
+   46      923  Shapeshifters
+   46     3203  Food
+   45      534  Mutate
+   44      189  Impulse Draw
+   44      193  Primal Surge
+   43      182  Indestructible
+   42      265  Sneak Attack
+   41      163  Mana Dorks
+   40      773  The Ring
+   39      169  Hand Size
+   39     1328  Phyrexians
+   38      175  Delver
+   38       60  Rube Goldberg
+   37      100  Creatureless
+   37      635  Annihilator
+   37      134  Coin Flip
+   36     5982  Vampires
+   35      682  Multicolor Matters
+   34      397  Spirits
+   33      227  Curses
+   33     1084  Birds
+   33      147  LTB Effects
+   33     5780  Goblins
+   33      198  Looting
+   33       79  Blue Moon
+   32       58  Battles
+   32     1329  Demons
+   32     1880  Slivers
+   32      106  Adventures
+   32       56  Self-Destruct
+   31       78  Crime
+   31       42  Old School
+   31       47  Speed
+   30       93  Convoke
+   30       55  Type Hack
+   30     7107  Dinosaurs
+   30      417  Scry
+   30      397  Polymorph
+   30      357  Land Animation
+   30     1928  Elementals
+   29      181  Life Exchange
+   29     1320  Earthbending
+   29     1552  Hydras
+   29       73  Turbo Fog
+   29       70  Stoneblade
+   29       81  Fling
+   28     2365  Knights
+   28      173  Dragon's Approach
+   28      674  Gods
+   27       54  All Spells
+   27      224  Artificers
+   27       69  Turbo
+   26     2211  Cats
+   26     2957  Merfolk
+   26      141  Myriad
+   25      117  Umori Companion
+   25      144  Persistent Petitioners
+   25      522  Soldiers
+   24       52  Mana Rocks
+   24      301  Warriors
+   24       97  Clerics
+   24      528  Cheerios
+   24      350  Charge Counters
+   23      895  Die Roll
+   23      703  Allies
+   23       46  Beasts
+   23      660  Devoid
+   22       79  Party
+   22     2008  Horrors
+   22       98  Rats
+   22      239  Insects
+   22      109  Landwalk
+   21      108  Constructs
+   21       63  Saboteurs
+   21       79  Color Hack
+   21      140  Praetors
+   21     1187  Squirrels
+   21       32  Deserts
+   20      180  Spacecraft
+   20      139  Madness
+   20       76  Druids
+   20      622  Frogs
+   20      151  Keruga Companion
+   19      119  Slime Against Humanity
+   19      608  Wraiths
+   19       37  Relentless Rats
+   19       80  Saprolings
+   19      102  Transform
+   19      331  Surveil
+   18      104  Rogues
+   18       81  Rat Colony
+   18       33  Pirates
+   18       25  Whales
+   18       81  Sea Creatures
+   18      668  Rabbits
+   17       67  Heroes
+   17      118  Assassins
+   17       97  Prowess
+   17      889  Rad Counters
+   17     1955  Myr
+   17      147  Experience Counters
+   17       63  Oozes
+   17       51  Giants
+   16     3110  Faeries
+   16       29  Advisors
+   16       92  Exalted
+   16       16  Craft
+   16      869  Dogs
+   16       87  Shadowborn Apostles
+   16      296  Sunforger
+   16       81  Spiders
+   16       84  Voting
+   16      163  Robots
+   15      421  Airbending
+   15      139  Blood
+   15     1363  Dwarves
+   15      136  Enrage
+   15       24  Golems
+   15       32  Banding
+   15      263  Hare Apparent
+   15      625  Villains
+   14       25  Improvise
+   14      690  Extra Upkeeps
+   14     1714  Ninjas
+   14      848  Shrines
+   14       36  Sneak
+   14     3739  Ninjutsu
+   13       63  Foretell
+   13      576  Connive
+   13       68  Time Counters
+   13       72  Summons
+   13      799  Explore
+   13       30  Bobbleheads
+   13      302  Bears
+   12      177  Sphinxes
+   12      108  Plants
+   12      218  Mayhem
+   12      138  Lessons
+   12       66  Skeletons
+   12      504  Wolves
+   12      425  Samurai
+   12      328  Thopters
+   12       81  Wurms
+   12       19  Lure
+   11       34  Gyruda Companion
+   11       18  Horses
+   11       31  Outlaws
+   11      699  Firebending
+   11       13  Phasing
+   11      106  Jegantha Companion
+   11       18  Shamans
+   11      881  Mutants
+   11      393  Snakes
+   11       39  Doomsday
+   11      199  Towns
+   11       19  Villainous Choice
+   11      390  Treefolk
+   11       17  Paradox
+   10       14  Bloodthirst
+   10       14  Freerunning
+   10       15  Arcane
+   10       10  Custom Cards
+   10       12  Goats
+   10       36  Fungi
+   10       18  Nightmares
+   10       11  Heroic
+   10      106  Avatars
+   10      812  Halflings
+   10      119  Suspend
+    9        9  Exploit
+    9       11  Lizards
+    9       17  Obosh Companion
+    9       13  Stickers
+    9       16  Otters
+    9       11  Vanilla
+    9      393  Waterbending
+    9       11  Turtles
+    9       20  Delirium
+    9       18  Rooms
+    8        8  Paradigm
+    8       25  Werewolves
+    8       24  Stun
+    8       11  Level Up
+    8       11  Caves
+    8       17  Sunburst
+    8       77  Hellbent
+    8      543  Evoke
+    8       35  Skulk
+    8       58  Tyranids
+    7       59  Bats
+    7       20  Elders
+    7        8  Apes
+    7       26  Oil Counters
+    7       19  Crabs
+    7       12  Reach
+    7       33  Time Lords
+    6       28  Foxes
+    6       15  Spore Counters
+    6       89  Empower Jace
+    6        7  Archers
+    6        6  Descend
+    6      621  Orcs
+    6       13  Devils
+    6      365  Offspring
+    6        6  Unicorns
+    6       12  Menace
+    6        7  Cybermen
+    6       12  Horsemanship
+    5       57  Drakes
+    5        5  Daleks
+    5      196  Kaheera Companion
+    5        7  Day / Night
+    5        9  Squad
+    5       14  Mice
+    5      125  Raccoons
+    5       15  Tempest Hawk
+    5        5  Gnomes
+    5       14  Phoenixes
+    5        8  Warp
+    4       11  Job Select
+    4        4  Sharks
+    4        4  Griffins
+    4        4  Pegasi
+    4        5  Servos
+    4       14  Toys
+    4        7  Astartes
+    4        6  Nobles
+    4        4  Berserkers
+    4        4  Plot
+    4        5  Minions
+    4        9  Miracles
+    4        7  Moonfolk
+    3        4  Retrace
+    3       26  Incubate
+    3        4  Necrons
+    3       22  Zirda Companion
+    3        7  Kithkin
+    3        3  Minotaurs
+    3        3  Detectives
+    3        3  Lhurgoyfs
+    3        3  Books
+    3        3  Value Vintage
+    3        9  Blight
+    3       22  Templar Knights
+    2        2  Increment
+    2        2  Mercenaries
+    2        4  Scarecrows
+    2        2  Monkeys
+    2        2  Opus
+    2        2  Rebels
+    2        2  Kicker
+    2        2  Planechase
+    2        2  Web-slinging
+    2        5  Specters
+    2        2  Illusions
+    2        2  Cephalids
+    2       14  Lurrus Companion
+    2        2  Atogs
+    2        4  Cid
+    2        3  Fractals
+    2       11  Bards
+    2        5  Elephants
+    1        1  Barbarians
+    1        1  Monks
+    1        1  European Highlander
+    1        1  Crocodiles
+    1        1  Dandan
+    1        1  Repartee
+    1        3  Shades
+    1        1  Premodern
+    1        1  Symbiotes
+    1        2  Ogres
+    1        1  Storied
+    1       62  Prepared
+    1        1  Hippos
+    1        1  Power-up
+    1        2  Kor
+    1        3  Satyrs
+    1        1  Kavu
+    1        1  Modal Spells

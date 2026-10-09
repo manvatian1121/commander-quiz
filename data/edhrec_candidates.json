@@ -1,0 +1,1146 @@
+[
+  {
+    "name": "Y'shtola, Night's Blessed",
+    "slug": "yshtola-nights-blessed",
+    "year_rank": 1,
+    "year_decks": 56157,
+    "month_rank": 2,
+    "month_decks": 6617,
+    "week_rank": 3,
+    "week_decks": 2271
+  },
+  {
+    "name": "Edgar Markov",
+    "slug": "edgar-markov",
+    "year_rank": 2,
+    "year_decks": 51527,
+    "month_rank": 11,
+    "month_decks": 4014,
+    "week_rank": 20,
+    "week_decks": 1245
+  },
+  {
+    "name": "The Ur-Dragon",
+    "slug": "the-ur-dragon",
+    "year_rank": 3,
+    "year_decks": 51281,
+    "month_rank": 10,
+    "month_decks": 4108,
+    "week_rank": 21,
+    "week_decks": 1229
+  },
+  {
+    "name": "Atraxa, Praetors' Voice",
+    "slug": "atraxa-praetors-voice",
+    "year_rank": 4,
+    "year_decks": 45365,
+    "month_rank": 13,
+    "month_decks": 3892,
+    "week_rank": 22,
+    "week_decks": 1168
+  },
+  {
+    "name": "Krenko, Mob Boss",
+    "slug": "krenko-mob-boss",
+    "year_rank": 5,
+    "year_decks": 44388,
+    "month_rank": 27,
+    "month_decks": 3114,
+    "week_rank": 35,
+    "week_decks": 943
+  },
+  {
+    "name": "Vivi Ornitier",
+    "slug": "vivi-ornitier",
+    "year_rank": 6,
+    "year_decks": 41814,
+    "month_rank": 9,
+    "month_decks": 4279,
+    "week_rank": 12,
+    "week_decks": 1397
+  },
+  {
+    "name": "Sauron, the Dark Lord",
+    "slug": "sauron-the-dark-lord",
+    "year_rank": 7,
+    "year_decks": 40433,
+    "month_rank": 5,
+    "month_decks": 4628,
+    "week_rank": 18,
+    "week_decks": 1327
+  },
+  {
+    "name": "Kaalia of the Vast",
+    "slug": "kaalia-of-the-vast",
+    "year_rank": 8,
+    "year_decks": 40129,
+    "month_rank": 17,
+    "month_decks": 3700,
+    "week_rank": 19,
+    "week_decks": 1303
+  },
+  {
+    "name": "Teval, the Balanced Scale",
+    "slug": "teval-the-balanced-scale",
+    "year_rank": 9,
+    "year_decks": 39580,
+    "month_rank": 14,
+    "month_decks": 3842,
+    "week_rank": 17,
+    "week_decks": 1335
+  },
+  {
+    "name": "Fire Lord Azula",
+    "slug": "fire-lord-azula",
+    "year_rank": 10,
+    "year_decks": 38554,
+    "month_rank": 24,
+    "month_decks": 3418,
+    "week_rank": 27,
+    "week_decks": 1111
+  },
+  {
+    "name": "Ms. Bumbleflower",
+    "slug": "ms-bumbleflower",
+    "year_rank": 11,
+    "year_decks": 37240,
+    "month_rank": 20,
+    "month_decks": 3544,
+    "week_rank": 24,
+    "week_decks": 1133
+  },
+  {
+    "name": "Pantlaza, Sun-Favored",
+    "slug": "pantlaza-sun-favored",
+    "year_rank": 12,
+    "year_decks": 37236,
+    "month_rank": 8,
+    "month_decks": 4293,
+    "week_rank": 10,
+    "week_decks": 1523
+  },
+  {
+    "name": "Giada, Font of Hope",
+    "slug": "giada-font-of-hope",
+    "year_rank": 13,
+    "year_decks": 36665,
+    "month_rank": 3,
+    "month_decks": 4825,
+    "week_rank": 5,
+    "week_decks": 2189
+  },
+  {
+    "name": "Lathril, Blade of the Elves",
+    "slug": "lathril-blade-of-the-elves",
+    "year_rank": 14,
+    "year_decks": 35951,
+    "month_rank": 34,
+    "month_decks": 2886,
+    "week_rank": 42,
+    "week_decks": 845
+  },
+  {
+    "name": "The Wise Mothman",
+    "slug": "the-wise-mothman",
+    "year_rank": 15,
+    "year_decks": 33866,
+    "month_rank": 32,
+    "month_decks": 2946,
+    "week_rank": 40,
+    "week_decks": 893
+  },
+  {
+    "name": "Toph, the First Metalbender",
+    "slug": "toph-the-first-metalbender",
+    "year_rank": 16,
+    "year_decks": 33675,
+    "month_rank": 22,
+    "month_decks": 3458,
+    "week_rank": 26,
+    "week_decks": 1113
+  },
+  {
+    "name": "Jodah, the Unifier",
+    "slug": "jodah-the-unifier",
+    "year_rank": 17,
+    "year_decks": 33603,
+    "month_rank": 36,
+    "month_decks": 2724,
+    "week_rank": 37,
+    "week_decks": 939
+  },
+  {
+    "name": "Nekusar, the Mindrazer",
+    "slug": "nekusar-the-mindrazer",
+    "year_rank": 18,
+    "year_decks": 32428,
+    "month_rank": 38,
+    "month_decks": 2655,
+    "week_rank": 52,
+    "week_decks": 783
+  },
+  {
+    "name": "Cloud, Ex-SOLDIER",
+    "slug": "cloud-ex-soldier",
+    "year_rank": 19,
+    "year_decks": 32256,
+    "month_rank": 19,
+    "month_decks": 3597,
+    "week_rank": 28,
+    "week_decks": 1100
+  },
+  {
+    "name": "Hearthhull, the Worldseed",
+    "slug": "hearthhull-the-worldseed",
+    "year_rank": 20,
+    "year_decks": 32159,
+    "month_rank": 12,
+    "month_decks": 3918,
+    "week_rank": 16,
+    "week_decks": 1368
+  },
+  {
+    "name": "Kefka, Court Mage",
+    "slug": "kefka-court-mage",
+    "year_rank": 21,
+    "year_decks": 31895,
+    "month_rank": 31,
+    "month_decks": 2998,
+    "week_rank": 34,
+    "week_decks": 961
+  },
+  {
+    "name": "Yuriko, the Tiger's Shadow",
+    "slug": "yuriko-the-tigers-shadow",
+    "year_rank": 22,
+    "year_decks": 31772,
+    "month_rank": 52,
+    "month_decks": 2368,
+    "week_rank": 54,
+    "week_decks": 742
+  },
+  {
+    "name": "Kenrith, the Returned King",
+    "slug": "kenrith-the-returned-king",
+    "year_rank": 23,
+    "year_decks": 31707,
+    "month_rank": 63,
+    "month_decks": 2227,
+    "week_rank": 74,
+    "week_decks": 657
+  },
+  {
+    "name": "Sephiroth, Fabled SOLDIER",
+    "slug": "sephiroth-fabled-soldier",
+    "year_rank": 24,
+    "year_decks": 31081,
+    "month_rank": 28,
+    "month_decks": 3114,
+    "week_rank": 29,
+    "week_decks": 1074
+  },
+  {
+    "name": "Isshin, Two Heavens as One",
+    "slug": "isshin-two-heavens-as-one",
+    "year_rank": 25,
+    "year_decks": 30831,
+    "month_rank": 44,
+    "month_decks": 2515,
+    "week_rank": 43,
+    "week_decks": 841
+  },
+  {
+    "name": "Baylen, the Haymaker",
+    "slug": "baylen-the-haymaker",
+    "year_rank": 26,
+    "year_decks": 29838,
+    "month_rank": 59,
+    "month_decks": 2268,
+    "week_rank": 56,
+    "week_decks": 734
+  },
+  {
+    "name": "Valgavoth, Harrower of Souls",
+    "slug": "valgavoth-harrower-of-souls",
+    "year_rank": 27,
+    "year_decks": 29831,
+    "month_rank": 41,
+    "month_decks": 2571,
+    "week_rank": 48,
+    "week_decks": 817
+  },
+  {
+    "name": "Miirym, Sentinel Wyrm",
+    "slug": "miirym-sentinel-wyrm",
+    "year_rank": 28,
+    "year_decks": 28681,
+    "month_rank": 56,
+    "month_decks": 2327,
+    "week_rank": 58,
+    "week_decks": 731
+  },
+  {
+    "name": "Chatterfang, Squirrel General",
+    "slug": "chatterfang-squirrel-general",
+    "year_rank": 29,
+    "year_decks": 27873,
+    "month_rank": 47,
+    "month_decks": 2437,
+    "week_rank": 59,
+    "week_decks": 719
+  },
+  {
+    "name": "Ulalek, Fused Atrocity",
+    "slug": "ulalek-fused-atrocity",
+    "year_rank": 30,
+    "year_decks": 27805,
+    "month_rank": 55,
+    "month_decks": 2335,
+    "week_rank": 51,
+    "week_decks": 784
+  },
+  {
+    "name": "Hashaton, Scarab's Fist",
+    "slug": "hashaton-scarabs-fist",
+    "year_rank": 31,
+    "year_decks": 27372,
+    "month_rank": 81,
+    "month_decks": 1955,
+    "week_rank": 77,
+    "week_decks": 645
+  },
+  {
+    "name": "Frodo, Adventurous Hobbit // Sam, Loyal Attendant",
+    "slug": "frodo-adventurous-hobbit-sam-loyal-attendant",
+    "year_rank": 32,
+    "year_decks": 27341,
+    "month_rank": 15,
+    "month_decks": 3789,
+    "week_rank": 23,
+    "week_decks": 1137
+  },
+  {
+    "name": "Ashling, the Limitless",
+    "slug": "ashling-the-limitless",
+    "year_rank": 33,
+    "year_decks": 26927,
+    "month_rank": 30,
+    "month_decks": 3024,
+    "week_rank": 39,
+    "week_decks": 927
+  },
+  {
+    "name": "Bello, Bard of the Brambles",
+    "slug": "bello-bard-of-the-brambles",
+    "year_rank": 34,
+    "year_decks": 26276,
+    "month_rank": 45,
+    "month_decks": 2510,
+    "week_rank": 47,
+    "week_decks": 818
+  },
+  {
+    "name": "Esika, God of the Tree",
+    "slug": "esika-god-of-the-tree",
+    "year_rank": 35,
+    "year_decks": 26243,
+    "month_rank": 66,
+    "month_decks": 2156,
+    "week_rank": 71,
+    "week_decks": 669
+  },
+  {
+    "name": "Hakbal of the Surging Soul",
+    "slug": "hakbal-of-the-surging-soul",
+    "year_rank": 36,
+    "year_decks": 25418,
+    "month_rank": 69,
+    "month_decks": 2100,
+    "week_rank": 97,
+    "week_decks": 571
+  },
+  {
+    "name": "Muldrotha, the Gravetide",
+    "slug": "muldrotha-the-gravetide",
+    "year_rank": 37,
+    "year_decks": 25364,
+    "month_rank": 90,
+    "month_decks": 1897,
+    "week_rank": 89,
+    "week_decks": 604
+  },
+  {
+    "name": "Rin and Seri, Inseparable",
+    "slug": "rin-and-seri-inseparable",
+    "year_rank": 38,
+    "year_decks": 25093,
+    "month_rank": 64,
+    "month_decks": 2223,
+    "week_rank": 60,
+    "week_decks": 705
+  },
+  {
+    "name": "Glarb, Calamity's Augur",
+    "slug": "glarb-calamitys-augur",
+    "year_rank": 39,
+    "year_decks": 24476,
+    "month_rank": 73,
+    "month_decks": 2013,
+    "week_rank": 63,
+    "week_decks": 700
+  },
+  {
+    "name": "Animar, Soul of Elements",
+    "slug": "animar-soul-of-elements",
+    "year_rank": 40,
+    "year_decks": 23642,
+    "month_rank": 92,
+    "month_decks": 1881,
+    "week_rank": 94,
+    "week_decks": 582
+  },
+  {
+    "name": "Aragorn, the Uniter",
+    "slug": "aragorn-the-uniter",
+    "year_rank": 41,
+    "year_decks": 23299,
+    "month_rank": 75,
+    "month_decks": 2007,
+    "week_rank": 86,
+    "week_decks": 614
+  },
+  {
+    "name": "Arcades, the Strategist",
+    "slug": "arcades-the-strategist",
+    "year_rank": 42,
+    "year_decks": 23277
+  },
+  {
+    "name": "Ygra, Eater of All",
+    "slug": "ygra-eater-of-all",
+    "year_rank": 43,
+    "year_decks": 23028,
+    "month_rank": 89,
+    "month_decks": 1898,
+    "week_rank": 96,
+    "week_decks": 573
+  },
+  {
+    "name": "Maralen, Fae Ascendant",
+    "slug": "maralen-fae-ascendant",
+    "year_rank": 44,
+    "year_decks": 22999,
+    "month_rank": 60,
+    "month_decks": 2248,
+    "week_rank": 79,
+    "week_decks": 635
+  },
+  {
+    "name": "Mr. House, President and CEO",
+    "slug": "mr-house-president-and-ceo",
+    "year_rank": 45,
+    "year_decks": 22962
+  },
+  {
+    "name": "Caesar, Legion's Emperor",
+    "slug": "caesar-legions-emperor",
+    "year_rank": 46,
+    "year_decks": 22867,
+    "month_rank": 72,
+    "month_decks": 2017,
+    "week_rank": 85,
+    "week_decks": 616
+  },
+  {
+    "name": "The Necrobloom",
+    "slug": "the-necrobloom",
+    "year_rank": 47,
+    "year_decks": 22861
+  },
+  {
+    "name": "Flubs, the Fool",
+    "slug": "flubs-the-fool",
+    "year_rank": 48,
+    "year_decks": 22857
+  },
+  {
+    "name": "Kuja, Genome Sorcerer",
+    "slug": "kuja-genome-sorcerer",
+    "year_rank": 49,
+    "year_decks": 22665,
+    "month_rank": 50,
+    "month_decks": 2413,
+    "week_rank": 49,
+    "week_decks": 817
+  },
+  {
+    "name": "Wilhelt, the Rotcleaver",
+    "slug": "wilhelt-the-rotcleaver",
+    "year_rank": 50,
+    "year_decks": 22627,
+    "month_rank": 84,
+    "month_decks": 1939,
+    "week_rank": 64,
+    "week_decks": 690
+  },
+  {
+    "name": "Oloro, Ageless Ascetic",
+    "slug": "oloro-ageless-ascetic",
+    "year_rank": 51,
+    "year_decks": 22604,
+    "month_rank": 80,
+    "month_decks": 1959,
+    "week_rank": 80,
+    "week_decks": 632
+  },
+  {
+    "name": "Breya, Etherium Shaper",
+    "slug": "breya-etherium-shaper",
+    "year_rank": 52,
+    "year_decks": 22567,
+    "month_rank": 93,
+    "month_decks": 1878,
+    "week_rank": 88,
+    "week_decks": 605
+  },
+  {
+    "name": "Ureni of the Unwritten",
+    "slug": "ureni-of-the-unwritten",
+    "year_rank": 53,
+    "year_decks": 22437,
+    "month_rank": 61,
+    "month_decks": 2244,
+    "week_rank": 57,
+    "week_decks": 733
+  },
+  {
+    "name": "Meren of Clan Nel Toth",
+    "slug": "meren-of-clan-nel-toth",
+    "year_rank": 54,
+    "year_decks": 22364,
+    "month_rank": 78,
+    "month_decks": 1987,
+    "week_rank": 68,
+    "week_decks": 680
+  },
+  {
+    "name": "Arabella, Abandoned Doll",
+    "slug": "arabella-abandoned-doll",
+    "year_rank": 55,
+    "year_decks": 21974
+  },
+  {
+    "name": "Kinnan, Bonder Prodigy",
+    "slug": "kinnan-bonder-prodigy",
+    "year_rank": 56,
+    "year_decks": 21888,
+    "month_rank": 46,
+    "month_decks": 2457,
+    "week_rank": 44,
+    "week_decks": 833
+  },
+  {
+    "name": "Tidus, Yuna's Guardian",
+    "slug": "tidus-yunas-guardian",
+    "year_rank": 57,
+    "year_decks": 21745,
+    "month_rank": 49,
+    "month_decks": 2417,
+    "week_rank": 46,
+    "week_decks": 820
+  },
+  {
+    "name": "Teysa Karlov",
+    "slug": "teysa-karlov",
+    "year_rank": 58,
+    "year_decks": 21693,
+    "month_rank": 99,
+    "month_decks": 1800,
+    "week_rank": 92,
+    "week_decks": 584
+  },
+  {
+    "name": "Zhulodok, Void Gorger",
+    "slug": "zhulodok-void-gorger",
+    "year_rank": 59,
+    "year_decks": 21418,
+    "month_rank": 65,
+    "month_decks": 2201,
+    "week_rank": 50,
+    "week_decks": 796
+  },
+  {
+    "name": "Gishath, Sun's Avatar",
+    "slug": "gishath-suns-avatar",
+    "year_rank": 60,
+    "year_decks": 21373
+  },
+  {
+    "name": "Tom Bombadil",
+    "slug": "tom-bombadil",
+    "year_rank": 61,
+    "year_decks": 21338
+  },
+  {
+    "name": "Atla Palani, Nest Tender",
+    "slug": "atla-palani-nest-tender",
+    "year_rank": 62,
+    "year_decks": 21332,
+    "month_rank": 100,
+    "month_decks": 1799
+  },
+  {
+    "name": "Korvold, Fae-Cursed King",
+    "slug": "korvold-fae-cursed-king",
+    "year_rank": 63,
+    "year_decks": 21191,
+    "month_rank": 68,
+    "month_decks": 2126,
+    "week_rank": 69,
+    "week_decks": 677
+  },
+  {
+    "name": "Zurgo Stormrender",
+    "slug": "zurgo-stormrender",
+    "year_rank": 64,
+    "year_decks": 21175,
+    "month_rank": 96,
+    "month_decks": 1810,
+    "week_rank": 82,
+    "week_decks": 631
+  },
+  {
+    "name": "Shorikai, Genesis Engine",
+    "slug": "shorikai-genesis-engine",
+    "year_rank": 65,
+    "year_decks": 21020
+  },
+  {
+    "name": "Felothar the Steadfast",
+    "slug": "felothar-the-steadfast",
+    "year_rank": 66,
+    "year_decks": 20936,
+    "month_rank": 71,
+    "month_decks": 2019,
+    "week_rank": 61,
+    "week_decks": 701
+  },
+  {
+    "name": "The Wandering Minstrel",
+    "slug": "the-wandering-minstrel",
+    "year_rank": 67,
+    "year_decks": 20887
+  },
+  {
+    "name": "Queen Marchesa",
+    "slug": "queen-marchesa",
+    "year_rank": 68,
+    "year_decks": 20767,
+    "month_rank": 62,
+    "month_decks": 2238,
+    "week_rank": 65,
+    "week_decks": 689
+  },
+  {
+    "name": "Urza, Lord High Artificer",
+    "slug": "urza-lord-high-artificer",
+    "year_rank": 69,
+    "year_decks": 20657
+  },
+  {
+    "name": "Avatar Aang",
+    "slug": "avatar-aang",
+    "year_rank": 70,
+    "year_decks": 20615,
+    "month_rank": 95,
+    "month_decks": 1818
+  },
+  {
+    "name": "Go-Shintai of Life's Origin",
+    "slug": "go-shintai-of-lifes-origin",
+    "year_rank": 71,
+    "year_decks": 20602
+  },
+  {
+    "name": "Helga, Skittish Seer",
+    "slug": "helga-skittish-seer",
+    "year_rank": 72,
+    "year_decks": 20372,
+    "month_rank": 77,
+    "month_decks": 1989,
+    "week_rank": 75,
+    "week_decks": 657
+  },
+  {
+    "name": "K'rrik, Son of Yawgmoth",
+    "slug": "krrik-son-of-yawgmoth",
+    "year_rank": 73,
+    "year_decks": 20367
+  },
+  {
+    "name": "Choco, Seeker of Paradise",
+    "slug": "choco-seeker-of-paradise",
+    "year_rank": 74,
+    "year_decks": 20339
+  },
+  {
+    "name": "Zaxara, the Exemplary",
+    "slug": "zaxara-the-exemplary",
+    "year_rank": 75,
+    "year_decks": 20266
+  },
+  {
+    "name": "Terra, Herald of Hope",
+    "slug": "terra-herald-of-hope",
+    "year_rank": 76,
+    "year_decks": 20253,
+    "month_rank": 39,
+    "month_decks": 2636,
+    "week_rank": 38,
+    "week_decks": 931
+  },
+  {
+    "name": "Kotis, the Fangkeeper",
+    "slug": "kotis-the-fangkeeper",
+    "year_rank": 77,
+    "year_decks": 20078
+  },
+  {
+    "name": "Betor, Ancestor's Voice",
+    "slug": "betor-ancestors-voice",
+    "year_rank": 78,
+    "year_decks": 20028,
+    "month_rank": 43,
+    "month_decks": 2517,
+    "week_rank": 31,
+    "week_decks": 1013
+  },
+  {
+    "name": "Auntie Ool, Cursewretch",
+    "slug": "auntie-ool-cursewretch",
+    "year_rank": 79,
+    "year_decks": 19886,
+    "month_rank": 67,
+    "month_decks": 2155,
+    "week_rank": 70,
+    "week_decks": 674
+  },
+  {
+    "name": "Terra, Magical Adept",
+    "slug": "terra-magical-adept",
+    "year_rank": 80,
+    "year_decks": 19874
+  },
+  {
+    "name": "Ghyrson Starn, Kelermorph",
+    "slug": "ghyrson-starn-kelermorph",
+    "year_rank": 81,
+    "year_decks": 19822
+  },
+  {
+    "name": "The First Sliver",
+    "slug": "the-first-sliver",
+    "year_rank": 82,
+    "year_decks": 19819
+  },
+  {
+    "name": "Xyris, the Writhing Storm",
+    "slug": "xyris-the-writhing-storm",
+    "year_rank": 83,
+    "year_decks": 19783
+  },
+  {
+    "name": "Kilo, Apogee Mind",
+    "slug": "kilo-apogee-mind",
+    "year_rank": 84,
+    "year_decks": 19530,
+    "month_rank": 85,
+    "month_decks": 1910,
+    "week_rank": 98,
+    "week_decks": 569
+  },
+  {
+    "name": "Sisay, Weatherlight Captain",
+    "slug": "sisay-weatherlight-captain",
+    "year_rank": 85,
+    "year_decks": 19382,
+    "month_rank": 42,
+    "month_decks": 2560,
+    "week_rank": 36,
+    "week_decks": 940
+  },
+  {
+    "name": "Eriette of the Charmed Apple",
+    "slug": "eriette-of-the-charmed-apple",
+    "year_rank": 86,
+    "year_decks": 19099
+  },
+  {
+    "name": "Ragost, Deft Gastronaut",
+    "slug": "ragost-deft-gastronaut",
+    "year_rank": 87,
+    "year_decks": 19082
+  },
+  {
+    "name": "Norman Osborn",
+    "slug": "norman-osborn",
+    "year_rank": 88,
+    "year_decks": 18953,
+    "month_rank": 97,
+    "month_decks": 1803,
+    "week_rank": 93,
+    "week_decks": 584
+  },
+  {
+    "name": "Henzie \"Toolbox\" Torre",
+    "slug": "henzie-toolbox-torre",
+    "year_rank": 89,
+    "year_decks": 18871,
+    "month_rank": 88,
+    "month_decks": 1901,
+    "week_rank": 76,
+    "week_decks": 653
+  },
+  {
+    "name": "Urtet, Remnant of Memnarch",
+    "slug": "urtet-remnant-of-memnarch",
+    "year_rank": 90,
+    "year_decks": 18647
+  },
+  {
+    "name": "Captain N'ghathrod",
+    "slug": "captain-nghathrod",
+    "year_rank": 91,
+    "year_decks": 18608
+  },
+  {
+    "name": "Omnath, Locus of Creation",
+    "slug": "omnath-locus-of-creation",
+    "year_rank": 92,
+    "year_decks": 18605
+  },
+  {
+    "name": "Hope Estheim",
+    "slug": "hope-estheim",
+    "year_rank": 93,
+    "year_decks": 18598
+  },
+  {
+    "name": "Voja, Jaws of the Conclave",
+    "slug": "voja-jaws-of-the-conclave",
+    "year_rank": 94,
+    "year_decks": 18443
+  },
+  {
+    "name": "High Perfect Morcant",
+    "slug": "high-perfect-morcant",
+    "year_rank": 95,
+    "year_decks": 18046
+  },
+  {
+    "name": "Alela, Cunning Conqueror",
+    "slug": "alela-cunning-conqueror",
+    "year_rank": 96,
+    "year_decks": 17983
+  },
+  {
+    "name": "Magda, Brazen Outlaw",
+    "slug": "magda-brazen-outlaw",
+    "year_rank": 97,
+    "year_decks": 17975
+  },
+  {
+    "name": "Obeka, Splitter of Seconds",
+    "slug": "obeka-splitter-of-seconds",
+    "year_rank": 98,
+    "year_decks": 17856
+  },
+  {
+    "name": "Sidar Jabari of Zhalfir",
+    "slug": "sidar-jabari-of-zhalfir",
+    "year_rank": 99,
+    "year_decks": 17789
+  },
+  {
+    "name": "Zinnia, Valley's Voice",
+    "slug": "zinnia-valleys-voice",
+    "year_rank": 100,
+    "year_decks": 17776
+  },
+  {
+    "name": "Jace, Multiverse Architect",
+    "slug": "jace-multiverse-architect",
+    "month_rank": 1,
+    "month_decks": 8039,
+    "week_rank": 1,
+    "week_decks": 4686
+  },
+  {
+    "name": "Tam, the Possibility",
+    "slug": "tam-the-possibility",
+    "month_rank": 4,
+    "month_decks": 4821,
+    "week_rank": 2,
+    "week_decks": 2504
+  },
+  {
+    "name": "The Ur-Sphinx",
+    "slug": "the-ur-sphinx",
+    "month_rank": 6,
+    "month_decks": 4509,
+    "week_rank": 6,
+    "week_decks": 1753
+  },
+  {
+    "name": "Vraska, Soul of Stone",
+    "slug": "vraska-soul-of-stone",
+    "month_rank": 7,
+    "month_decks": 4392,
+    "week_rank": 4,
+    "week_decks": 2226
+  },
+  {
+    "name": "Thranduil, the Elvenking",
+    "slug": "thranduil-the-elvenking",
+    "month_rank": 16,
+    "month_decks": 3732,
+    "week_rank": 33,
+    "week_decks": 965
+  },
+  {
+    "name": "Ingris Stingerquill",
+    "slug": "ingris-stingerquill",
+    "month_rank": 18,
+    "month_decks": 3674,
+    "week_rank": 11,
+    "week_decks": 1500
+  },
+  {
+    "name": "Niv-Mizzet, Ghost Counsel",
+    "slug": "niv-mizzet-ghost-counsel",
+    "month_rank": 21,
+    "month_decks": 3464,
+    "week_rank": 14,
+    "week_decks": 1391
+  },
+  {
+    "name": "Denzilore Fatehold",
+    "slug": "denzilore-fatehold",
+    "month_rank": 23,
+    "month_decks": 3427,
+    "week_rank": 7,
+    "week_decks": 1620
+  },
+  {
+    "name": "Kwia Vigorbloom",
+    "slug": "kwia-vigorbloom",
+    "month_rank": 25,
+    "month_decks": 3417,
+    "week_rank": 8,
+    "week_decks": 1598
+  },
+  {
+    "name": "Aerid Konstrari",
+    "slug": "aerid-konstrari",
+    "month_rank": 26,
+    "month_decks": 3293,
+    "week_rank": 13,
+    "week_decks": 1393
+  },
+  {
+    "name": "Thorin, King of Durin's Folk",
+    "slug": "thorin-king-of-durins-folk",
+    "month_rank": 29,
+    "month_decks": 3062,
+    "week_rank": 41,
+    "week_decks": 887
+  },
+  {
+    "name": "Trostani, Selesnya's Voice",
+    "slug": "trostani-selesnyas-voice",
+    "month_rank": 33,
+    "month_decks": 2893,
+    "week_rank": 32,
+    "week_decks": 968
+  },
+  {
+    "name": "Codie, Ravenous Codex",
+    "slug": "codie-ravenous-codex",
+    "month_rank": 35,
+    "month_decks": 2769,
+    "week_rank": 15,
+    "week_decks": 1374
+  },
+  {
+    "name": "Doctor Doom, King of Latveria",
+    "slug": "doctor-doom-king-of-latveria",
+    "month_rank": 37,
+    "month_decks": 2675,
+    "week_rank": 45,
+    "week_decks": 830
+  },
+  {
+    "name": "Dack Fayden, Helping Hand",
+    "slug": "dack-fayden-helping-hand",
+    "month_rank": 40,
+    "month_decks": 2573,
+    "week_rank": 9,
+    "week_decks": 1530
+  },
+  {
+    "name": "Nissa, Leyline Tamer",
+    "slug": "nissa-leyline-tamer",
+    "month_rank": 48,
+    "month_decks": 2431,
+    "week_rank": 25,
+    "week_decks": 1114
+  },
+  {
+    "name": "The Great Goblin",
+    "slug": "the-great-goblin",
+    "month_rank": 51,
+    "month_decks": 2372,
+    "week_rank": 90,
+    "week_decks": 603
+  },
+  {
+    "name": "Kynaios and Tiro of Meletis",
+    "slug": "kynaios-and-tiro-of-meletis",
+    "month_rank": 53,
+    "month_decks": 2350,
+    "week_rank": 72,
+    "week_decks": 664
+  },
+  {
+    "name": "Witherbloom, the Balancer",
+    "slug": "witherbloom-the-balancer",
+    "month_rank": 54,
+    "month_decks": 2346,
+    "week_rank": 67,
+    "week_decks": 681
+  },
+  {
+    "name": "Beorn the Fierce",
+    "slug": "beorn-the-fierce",
+    "month_rank": 57,
+    "month_decks": 2317,
+    "week_rank": 73,
+    "week_decks": 662
+  },
+  {
+    "name": "Smaug the Impenetrable",
+    "slug": "smaug-the-impenetrable",
+    "month_rank": 58,
+    "month_decks": 2291,
+    "week_rank": 62,
+    "week_decks": 701
+  },
+  {
+    "name": "Galadriel, Light of Valinor",
+    "slug": "galadriel-light-of-valinor",
+    "month_rank": 70,
+    "month_decks": 2088,
+    "week_rank": 87,
+    "week_decks": 611
+  },
+  {
+    "name": "Zimone, Infinite Analyst",
+    "slug": "zimone-infinite-analyst",
+    "month_rank": 74,
+    "month_decks": 2011,
+    "week_rank": 99,
+    "week_decks": 557
+  },
+  {
+    "name": "Avacyn, Angel of Horror",
+    "slug": "avacyn-angel-of-horror",
+    "month_rank": 76,
+    "month_decks": 1992,
+    "week_rank": 30,
+    "week_decks": 1028
+  },
+  {
+    "name": "Radagast of Rhosgobel",
+    "slug": "radagast-of-rhosgobel",
+    "month_rank": 79,
+    "month_decks": 1964,
+    "week_rank": 83,
+    "week_decks": 625
+  },
+  {
+    "name": "Jin Sakai, Ghost of Tsushima",
+    "slug": "jin-sakai-ghost-of-tsushima",
+    "month_rank": 82,
+    "month_decks": 1941,
+    "week_rank": 91,
+    "week_decks": 593
+  },
+  {
+    "name": "Blech, Loafing Pest",
+    "slug": "blech-loafing-pest",
+    "month_rank": 83,
+    "month_decks": 1940
+  },
+  {
+    "name": "Quintorius, History Chaser",
+    "slug": "quintorius-history-chaser",
+    "month_rank": 86,
+    "month_decks": 1904,
+    "week_rank": 66,
+    "week_decks": 682
+  },
+  {
+    "name": "Omnath, Locus of the Void",
+    "slug": "omnath-locus-of-the-void",
+    "month_rank": 87,
+    "month_decks": 1904,
+    "week_rank": 81,
+    "week_decks": 632
+  },
+  {
+    "name": "Dina, Essence Brewer",
+    "slug": "dina-essence-brewer",
+    "month_rank": 91,
+    "month_decks": 1895,
+    "week_rank": 78,
+    "week_decks": 636
+  },
+  {
+    "name": "Éowyn, Shieldmaiden",
+    "slug": "eowyn-shieldmaiden",
+    "month_rank": 94,
+    "month_decks": 1833
+  },
+  {
+    "name": "Doran, Besieged by Time",
+    "slug": "doran-besieged-by-time",
+    "month_rank": 98,
+    "month_decks": 1802,
+    "week_rank": 84,
+    "week_decks": 622
+  },
+  {
+    "name": "Ghalta, Primal Hunger",
+    "slug": "ghalta-primal-hunger",
+    "week_rank": 53,
+    "week_decks": 772
+  },
+  {
+    "name": "Ghoulcaller Gisa",
+    "slug": "ghoulcaller-gisa",
+    "week_rank": 55,
+    "week_decks": 738
+  },
+  {
+    "name": "Tony Stark",
+    "slug": "tony-stark",
+    "week_rank": 95,
+    "week_decks": 576
+  },
+  {
+    "name": "Kraum, Ludevic's Opus // Tymna the Weaver",
+    "slug": "kraum-ludevics-opus-tymna-the-weaver",
+    "week_rank": 100,
+    "week_decks": 556
+  }
+]

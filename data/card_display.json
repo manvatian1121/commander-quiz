@@ -1,0 +1,7826 @@
+{
+  "Y'shtola, Night's Blessed": {
+    "synergy": [
+      "Snuff Out",
+      "Curiosity",
+      "Papalymo Totolymo",
+      "Propaganda",
+      "Emet-Selch of the Third Seat",
+      "Lyse Hext"
+    ],
+    "popular": [
+      "Talisman of Dominance",
+      "Void Rend",
+      "Talisman of Progress",
+      "Talisman of Hierarchy"
+    ]
+  },
+  "Edgar Markov": {
+    "synergy": [
+      "Captivating Vampire",
+      "Cordial Vampire",
+      "Stromkirk Captain",
+      "Blood Artist",
+      "Indulgent Aristocrat",
+      "Legion Lieutenant"
+    ],
+    "popular": [
+      "Welcoming Vampire",
+      "Bloodline Keeper",
+      "Sanctum Seeker",
+      "Vito, Thorn of the Dusk Rose"
+    ]
+  },
+  "The Ur-Dragon": {
+    "synergy": [
+      "Miirym, Sentinel Wyrm",
+      "Dragon Tempest",
+      "Crux of Fate",
+      "Tiamat",
+      "Haven of the Spirit Dragon",
+      "Atarka, World Render"
+    ],
+    "popular": [
+      "Lathliss, Dragon Queen",
+      "Dragonlord Dromoka",
+      "Terror of the Peaks",
+      "Temur Ascendancy"
+    ]
+  },
+  "Atraxa, Praetors' Voice": {
+    "synergy": [
+      "Tekuthal, Inquiry Dominus",
+      "Evolution Sage",
+      "Karn's Bastion",
+      "Ezuri, Stalker of Spheres",
+      "Inexorable Tide",
+      "Vraska, Betrayal's Sting"
+    ],
+    "popular": [
+      "Thrummingbird",
+      "Breeding Pool",
+      "Tezzeret's Gambit",
+      "Overgrown Tomb"
+    ]
+  },
+  "Krenko, Mob Boss": {
+    "synergy": [
+      "Goblin Warchief",
+      "Skirk Prospector",
+      "Goblin Matron",
+      "Goblin Chieftain",
+      "Impact Tremors",
+      "Goblin Bombardment"
+    ],
+    "popular": [
+      "Brightstone Ritual",
+      "Pashalik Mons",
+      "Siege-Gang Commander",
+      "Goblin King"
+    ]
+  },
+  "Vivi Ornitier": {
+    "synergy": [
+      "Curiosity",
+      "Ophidian Eye",
+      "Harmonic Prodigy",
+      "Tandem Lookout",
+      "Wizard's Staff",
+      "Gitaxian Probe"
+    ],
+    "popular": [
+      "Brainstorm",
+      "Steam Vents",
+      "Ponder",
+      "Shivan Reef"
+    ]
+  },
+  "Sauron, the Dark Lord": {
+    "synergy": [
+      "Call of the Ring",
+      "Saruman, the White Hand",
+      "Barad-dûr",
+      "Relic of Sauron",
+      "The Black Gate",
+      "Witch-king of Angmar"
+    ],
+    "popular": [
+      "Reanimate",
+      "Dragonskull Summit",
+      "Crumbling Necropolis",
+      "Drowned Catacomb"
+    ]
+  },
+  "Kaalia of the Vast": {
+    "synergy": [
+      "Gisela, Blade of Goldnight",
+      "Rune-Scarred Demon",
+      "Avacyn, Angel of Hope",
+      "Aurelia, the Warleader",
+      "Sephara, Sky's Blade",
+      "Liesa, Forgotten Archangel"
+    ],
+    "popular": [
+      "Master of Cruelties",
+      "Path to Exile",
+      "Godless Shrine",
+      "Balefire Dragon"
+    ]
+  },
+  "Teval, the Balanced Scale": {
+    "synergy": [
+      "Teval's Judgment",
+      "Colossal Grave-Reaver",
+      "Life from the Loam",
+      "Gravecrawler",
+      "Victimize",
+      "Hedron Crab"
+    ],
+    "popular": [
+      "Woodland Cemetery",
+      "Hinterland Harbor",
+      "Wonder",
+      "Dreamroot Cascade"
+    ]
+  },
+  "Fire Lord Azula": {
+    "synergy": [
+      "Storm-Kiln Artist",
+      "Big Score",
+      "Electrodominance",
+      "Archmage Emeritus",
+      "Frantic Search",
+      "Lightning Bolt"
+    ],
+    "popular": [
+      "Dark Ritual",
+      "Snap",
+      "Unexpected Windfall",
+      "Sulfur Falls"
+    ]
+  },
+  "Ms. Bumbleflower": {
+    "synergy": [
+      "Wizard Class",
+      "Loran of the Third Path",
+      "Wear Down",
+      "Long River's Pull",
+      "Peerless Recycling",
+      "Twenty-Toed Toad"
+    ],
+    "popular": [
+      "Hinterland Harbor",
+      "Glacial Fortress",
+      "Sunpetal Grove",
+      "An Offer You Can't Refuse"
+    ]
+  },
+  "Pantlaza, Sun-Favored": {
+    "synergy": [
+      "Gishath, Sun's Avatar",
+      "Zacama, Primal Calamity",
+      "Regisaur Alpha",
+      "Wrathful Raptors",
+      "Earthshaker Dreadmaw",
+      "Curious Altisaur"
+    ],
+    "popular": [
+      "Etali, Primal Storm",
+      "Rhythm of the Wild",
+      "Topiary Stomper",
+      "Ghalta, Primal Hunger"
+    ]
+  },
+  "Giada, Font of Hope": {
+    "synergy": [
+      "Lyra Dawnbringer",
+      "Righteous Valkyrie",
+      "Youthful Valkyrie",
+      "Herald of War",
+      "Seraph Sanctuary",
+      "Starnheim Aspirant"
+    ],
+    "popular": [
+      "Pearl Medallion",
+      "Path to Exile",
+      "Sephara, Sky's Blade",
+      "Resplendent Angel"
+    ]
+  },
+  "Lathril, Blade of the Elves": {
+    "synergy": [
+      "Elvish Archdruid",
+      "Priest of Titania",
+      "Imperious Perfect",
+      "Marwyn, the Nurturer",
+      "Beast Whisperer",
+      "Elvish Warmaster"
+    ],
+    "popular": [
+      "Llanowar Elves",
+      "Elvish Mystic",
+      "Reclamation Sage",
+      "Dwynen, Gilt-Leaf Daen"
+    ]
+  },
+  "The Wise Mothman": {
+    "synergy": [
+      "Nuclear Fallout",
+      "Glowing One",
+      "Vexing Radgull",
+      "Mutational Advantage",
+      "Hardened Scales",
+      "Mirelurk Queen"
+    ],
+    "popular": [
+      "Hinterland Harbor",
+      "Woodland Cemetery",
+      "Screeching Scorchbeast",
+      "Drowned Catacomb"
+    ]
+  },
+  "Toph, the First Metalbender": {
+    "synergy": [
+      "Ba Sing Se",
+      "Bumi, Unleashed",
+      "Toph, Hardheaded Teacher",
+      "Earthbender Ascension",
+      "Ichor Wellspring",
+      "Toph, the Blind Bandit"
+    ],
+    "popular": [
+      "Tannuk, Memorial Ensign",
+      "Zuran Orb",
+      "Path to Exile",
+      "Toph, Earthbending Master"
+    ]
+  },
+  "Jodah, the Unifier": {
+    "synergy": [
+      "Urza's Ruinous Blast",
+      "Sisay, Weatherlight Captain",
+      "Relic of Legends",
+      "Primevals' Glorious Rebirth",
+      "Annie Joins Up",
+      "Shanid, Sleepers' Scourge"
+    ],
+    "popular": [
+      "Plaza of Heroes",
+      "Heroes' Podium",
+      "Jhoira, Weatherlight Captain",
+      "Path to Exile"
+    ]
+  },
+  "Nekusar, the Mindrazer": {
+    "synergy": [
+      "Underworld Dreams",
+      "Fate Unraveler",
+      "Razorkin Needlehead",
+      "Howling Mine",
+      "Scrawling Crawler",
+      "Windfall"
+    ],
+    "popular": [
+      "Magus of the Wheel",
+      "Jace's Archivist",
+      "Teferi's Puzzle Box",
+      "Spiteful Visions"
+    ]
+  },
+  "Cloud, Ex-SOLDIER": {
+    "synergy": [
+      "Puresteel Paladin",
+      "Colossus Hammer",
+      "Conqueror's Flail",
+      "Red XIII, Proud Warrior",
+      "Tifa, Martial Artist",
+      "Sword of the Animist"
+    ],
+    "popular": [
+      "Clifftop Retreat",
+      "Sunpetal Grove",
+      "Cid, Freeflier Pilot",
+      "Rootbound Crag"
+    ]
+  },
+  "Hearthhull, the Worldseed": {
+    "synergy": [
+      "The Gitrog Monster",
+      "Splendid Reclamation",
+      "Aftermath Analyst",
+      "Oracle of Mul Daya",
+      "Horizon Explorer",
+      "Exploration Broodship"
+    ],
+    "popular": [
+      "Fabled Passage",
+      "Korvold, Fae-Cursed King",
+      "Harrow",
+      "Titania, Protector of Argoth"
+    ]
+  },
+  "Kefka, Court Mage": {
+    "synergy": [
+      "Waste Not",
+      "Harmonic Prodigy",
+      "Essence Flux",
+      "Displacer Kitten",
+      "Tinybones, Bauble Burglar",
+      "Reanimate"
+    ],
+    "popular": [
+      "Dark Ritual",
+      "Talisman of Dominance",
+      "Watery Grave",
+      "Talisman of Indulgence"
+    ]
+  },
+  "Yuriko, the Tiger's Shadow": {
+    "synergy": [
+      "Ingenious Infiltrator",
+      "Thousand-Faced Shadow",
+      "Prosperous Thief",
+      "Changeling Outcast",
+      "Mistblade Shinobi",
+      "Ornithopter"
+    ],
+    "popular": [
+      "Brainstorm",
+      "Silver-Fur Master",
+      "Tetsuko Umezawa, Fugitive",
+      "Ninja of the Deep Hours"
+    ]
+  },
+  "Kenrith, the Returned King": {
+    "synergy": [
+      "Training Grounds",
+      "Biomancer's Familiar",
+      "Zirda, the Dawnwaker",
+      "Agatha of the Vile Cauldron",
+      "Seedborn Muse",
+      "Wilderness Reclamation"
+    ],
+    "popular": [
+      "Birds of Paradise",
+      "Windswept Heath",
+      "Temple Garden",
+      "Flooded Strand"
+    ]
+  },
+  "Sephiroth, Fabled SOLDIER": {
+    "synergy": [
+      "Forsaken Miner",
+      "Ophiomancer",
+      "Accursed Marauder",
+      "The Masamune",
+      "Warren Soultrader",
+      "Pitiless Plunderer"
+    ],
+    "popular": [
+      "Blood Artist",
+      "Dark Ritual",
+      "Jet Medallion",
+      "Zulaport Cutthroat"
+    ]
+  },
+  "Isshin, Two Heavens as One": {
+    "synergy": [
+      "Krenko, Tin Street Kingpin",
+      "Sword of the Animist",
+      "Etali, Primal Storm",
+      "Windcrag Siege",
+      "Adeline, Resplendent Cathar",
+      "Fervent Charge"
+    ],
+    "popular": [
+      "Nomad Outpost",
+      "Path to Exile",
+      "Clifftop Retreat",
+      "Anim Pakal, Thousandth Moon"
+    ]
+  },
+  "Baylen, the Haymaker": {
+    "synergy": [
+      "Impact Tremors",
+      "Second Harvest",
+      "Jacked Rabbit",
+      "Finneas, Ace Archer",
+      "Farmer Cotton",
+      "Halo Fountain"
+    ],
+    "popular": [
+      "Path to Exile",
+      "Temple Garden",
+      "Sacred Foundry",
+      "Stomping Ground"
+    ]
+  },
+  "Valgavoth, Harrower of Souls": {
+    "synergy": [
+      "Kederekt Parasite",
+      "Mogis, God of Slaughter",
+      "Fate Unraveler",
+      "Blood Seeker",
+      "Razorkin Needlehead",
+      "Gleeful Arsonist"
+    ],
+    "popular": [
+      "Dragonskull Summit",
+      "Blasphemous Act",
+      "Rakdos Charm",
+      "Smoldering Marsh"
+    ]
+  },
+  "Miirym, Sentinel Wyrm": {
+    "synergy": [
+      "Ganax, Astral Hunter",
+      "Dragon Tempest",
+      "Dragonspeaker Shaman",
+      "Lathliss, Dragon Queen",
+      "Atarka, World Render",
+      "Scourge of Valkas"
+    ],
+    "popular": [
+      "Garruk's Uprising",
+      "Temur Ascendancy",
+      "Haven of the Spirit Dragon",
+      "Dragonlord's Servant"
+    ]
+  },
+  "Chatterfang, Squirrel General": {
+    "synergy": [
+      "Chitterspitter",
+      "Hazel of the Rootbloom",
+      "Toski, Bearer of Secrets",
+      "Swarmyard",
+      "Deep Forest Hermit",
+      "Squirrel Nest"
+    ],
+    "popular": [
+      "Skullclamp",
+      "Woodland Cemetery",
+      "Zulaport Cutthroat",
+      "Pitiless Plunderer"
+    ]
+  },
+  "Ulalek, Fused Atrocity": {
+    "synergy": [
+      "Eldrazi Temple",
+      "Glaring Fleshraker",
+      "Forsaken Monument",
+      "All Is Dust",
+      "Echoes of Eternity",
+      "Shrine of the Forsaken Gods"
+    ],
+    "popular": [
+      "Eldritch Immunity",
+      "Ugin, the Ineffable",
+      "Sire of Stagnation",
+      "Yavimaya Coast"
+    ]
+  },
+  "Hashaton, Scarab's Fist": {
+    "synergy": [
+      "Tortured Existence",
+      "Ghostly Pilferer",
+      "Psychic Frog",
+      "Archfiend of Ifnir",
+      "Likeness Looter",
+      "Frantic Search"
+    ],
+    "popular": [
+      "Talisman of Dominance",
+      "Reanimate",
+      "Watery Grave",
+      "Godless Shrine"
+    ]
+  },
+  "Frodo, Adventurous Hobbit // Sam, Loyal Attendant": {
+    "synergy": [
+      "Peregrin Took",
+      "Gilded Goose",
+      "Farmer Cotton",
+      "Mirkwood Bats",
+      "The Gaffer",
+      "Pippin, Warden of Isengard"
+    ],
+    "popular": [
+      "Rosie Cotton of South Lane",
+      "Tireless Provisioner",
+      "Samwise Gamgee",
+      "Woodland Cemetery"
+    ]
+  },
+  "Ashling, the Limitless": {
+    "synergy": [
+      "Risen Reef",
+      "Mulldrifter",
+      "Maelstrom Wanderer",
+      "Greenwarden of Murasa",
+      "Titan of Industry",
+      "Yarok, the Desecrated"
+    ],
+    "popular": [
+      "Flamebraider",
+      "Smokebraider",
+      "Lamentation",
+      "Omnath, Locus of Rage"
+    ]
+  },
+  "Bello, Bard of the Brambles": {
+    "synergy": [
+      "Berserkers' Onslaught",
+      "Gratuitous Violence",
+      "Sunbird's Invocation",
+      "Unnatural Growth",
+      "Thran Dynamo",
+      "Warstorm Surge"
+    ],
+    "popular": [
+      "Rootbound Crag",
+      "Blasphemous Act",
+      "Cinder Glade",
+      "Garruk's Uprising"
+    ]
+  },
+  "Esika, God of the Tree": {
+    "synergy": [
+      "Nicol Bolas, Dragon-God",
+      "The World Tree",
+      "Nicol Bolas, God-Pharaoh",
+      "Oath of Teferi",
+      "Vorinclex, Monstrous Raider",
+      "Primevals' Glorious Rebirth"
+    ],
+    "popular": [
+      "Breeding Pool",
+      "Temple Garden",
+      "Overgrown Tomb",
+      "Stomping Ground"
+    ]
+  },
+  "Hakbal of the Surging Soul": {
+    "synergy": [
+      "Nicanzil, Current Conductor",
+      "Master of the Pearl Trident",
+      "Svyelun of Sea and Sky",
+      "Emperor Mihail II",
+      "Kopala, Warden of Waves",
+      "Stonybrook Banneret"
+    ],
+    "popular": [
+      "Herald of Secret Streams",
+      "Merrow Reejerey",
+      "Hinterland Harbor",
+      "Merfolk Sovereign"
+    ]
+  },
+  "Muldrotha, the Gravetide": {
+    "synergy": [
+      "Spore Frog",
+      "Seal of Primordium",
+      "Kaya's Ghostform",
+      "Gravebreaker Lamia",
+      "Secrets of the Dead",
+      "Haywire Mite"
+    ],
+    "popular": [
+      "Sakura-Tribe Elder",
+      "Eternal Witness",
+      "Overgrown Tomb",
+      "Watery Grave"
+    ]
+  },
+  "Rin and Seri, Inseparable": {
+    "synergy": [
+      "Regal Caracal",
+      "Feline Sovereign",
+      "Pack Leader",
+      "Arahbo, the First Fang",
+      "Jinnie Fay, Jetmir's Second",
+      "King of the Pride"
+    ],
+    "popular": [
+      "Jetmir, Nexus of Revels",
+      "Kutzil, Malamet Exemplar",
+      "Felidar Retreat",
+      "Spirited Companion"
+    ]
+  },
+  "Glarb, Calamity's Augur": {
+    "synergy": [
+      "Exploration",
+      "Culling Ritual",
+      "Valley Floodcaller",
+      "Enhanced Surveillance",
+      "Sensei's Divining Top",
+      "The Gitrog Monster"
+    ],
+    "popular": [
+      "Breeding Pool",
+      "Watery Grave",
+      "Overgrown Tomb",
+      "Polluted Delta"
+    ]
+  },
+  "Animar, Soul of Elements": {
+    "synergy": [
+      "Beast Whisperer",
+      "Ancestral Statue",
+      "Forgotten Ancient",
+      "Hardened Scales",
+      "Soul of the Harvest",
+      "Peregrine Drake"
+    ],
+    "popular": [
+      "Birds of Paradise",
+      "Breeding Pool",
+      "Stomping Ground",
+      "Steam Vents"
+    ]
+  },
+  "Aragorn, the Uniter": {
+    "synergy": [
+      "Éowyn, Shieldmaiden",
+      "Aragorn, King of Gondor",
+      "Théoden, King of Rohan",
+      "Pippin, Guard of the Citadel",
+      "General Ferrous Rokiric",
+      "Boromir, Warden of the Tower"
+    ],
+    "popular": [
+      "Annie Joins Up",
+      "Path to Exile",
+      "Boros Charm",
+      "Growth Spiral"
+    ]
+  },
+  "Arcades, the Strategist": {
+    "synergy": [
+      "Overgrown Battlement",
+      "Wall of Denial",
+      "Axebane Guardian",
+      "Tetsuko Umezawa, Fugitive",
+      "Wall of Blossoms",
+      "High Alert"
+    ],
+    "popular": [
+      "Wall of Omens",
+      "Stalwart Shield-Bearers",
+      "The Pride of Hull Clade",
+      "Sunscape Familiar"
+    ]
+  },
+  "Ygra, Eater of All": {
+    "synergy": [
+      "Camellia, the Seedmiser",
+      "Experimental Confectioner",
+      "Cauldron Familiar",
+      "Peregrin Took",
+      "Savvy Hunter",
+      "Gilded Goose"
+    ],
+    "popular": [
+      "Woodland Cemetery",
+      "Chatterfang, Squirrel General",
+      "Night of the Sweets' Revenge",
+      "Academy Manufactor"
+    ]
+  },
+  "Maralen, Fae Ascendant": {
+    "synergy": [
+      "High Fae Trickster",
+      "Llanowar Elves",
+      "Bitterbloom Bearer",
+      "Elvish Mystic",
+      "Bitterblossom",
+      "Obyra, Dreaming Duelist"
+    ],
+    "popular": [
+      "Overgrown Tomb",
+      "Breeding Pool",
+      "Bloom Tender",
+      "Priest of Titania"
+    ]
+  },
+  "Mr. House, President and CEO": {
+    "synergy": [
+      "Barbarian Class",
+      "Wyll, Blade of Frontiers",
+      "Vexing Puzzlebox",
+      "Contraband Livestock",
+      "Hoarding Ogre",
+      "Wyll's Reversal"
+    ],
+    "popular": [
+      "Delina, Wild Mage",
+      "Wand of Wonder",
+      "Component Pouch",
+      "Myrkul's Edict"
+    ]
+  },
+  "Caesar, Legion's Emperor": {
+    "synergy": [
+      "Bastion of Remembrance",
+      "Secure the Wastes",
+      "Pitiless Plunderer",
+      "General's Enforcer",
+      "Skullclamp",
+      "Martial Coup"
+    ],
+    "popular": [
+      "Isolated Chapel",
+      "Clifftop Retreat",
+      "Nomad Outpost",
+      "Dragonskull Summit"
+    ]
+  },
+  "The Necrobloom": {
+    "synergy": [
+      "The Gitrog Monster",
+      "Wight of the Reliquary",
+      "Scute Swarm",
+      "Six",
+      "Lotus Cobra",
+      "Thalia and The Gitrog Monster"
+    ],
+    "popular": [
+      "Aftermath Analyst",
+      "Crop Rotation",
+      "Windswept Heath",
+      "Overgrown Tomb"
+    ]
+  },
+  "Flubs, the Fool": {
+    "synergy": [
+      "Song of Creation",
+      "Eruth, Tormented Prophet",
+      "Azusa, Lost but Seeking",
+      "Lotus Cobra",
+      "Containment Construct",
+      "Dryad of the Ilysian Grove"
+    ],
+    "popular": [
+      "Stomping Ground",
+      "Exploration",
+      "Breeding Pool",
+      "Steam Vents"
+    ]
+  },
+  "Kuja, Genome Sorcerer": {
+    "synergy": [
+      "Black Waltz No. 3",
+      "Circle of Power",
+      "Black Mage's Rod",
+      "Cornered by Black Mages",
+      "Coruscation Mage",
+      "Transpose"
+    ],
+    "popular": [
+      "Harmonic Prodigy",
+      "Lindblum, Industrial Regency",
+      "Queen Brahne",
+      "Mysidian Elder"
+    ]
+  },
+  "Wilhelt, the Rotcleaver": {
+    "synergy": [
+      "Diregraf Captain",
+      "Rooftop Storm",
+      "Diregraf Colossus",
+      "Gravecrawler",
+      "Undead Augur",
+      "Death Baron"
+    ],
+    "popular": [
+      "Sunken Hollow",
+      "Gray Merchant of Asphodel",
+      "Necroduality",
+      "Headless Rider"
+    ]
+  },
+  "Oloro, Ageless Ascetic": {
+    "synergy": [
+      "Sanguine Bond",
+      "Aetherflux Reservoir",
+      "Soul Warden",
+      "Vito, Thorn of the Dusk Rose",
+      "Authority of the Consuls",
+      "Kambal, Consul of Allocation"
+    ],
+    "popular": [
+      "Godless Shrine",
+      "Hallowed Fountain",
+      "Watery Grave",
+      "Ghostly Prison"
+    ]
+  },
+  "Breya, Etherium Shaper": {
+    "synergy": [
+      "Sai, Master Thopterist",
+      "Seat of the Synod",
+      "Etherium Sculptor",
+      "Great Furnace",
+      "Ancient Den",
+      "Skullclamp"
+    ],
+    "popular": [
+      "Vault of Whispers",
+      "Emry, Lurker of the Loch",
+      "Thopter Spy Network",
+      "Spire of Industry"
+    ]
+  },
+  "Ureni of the Unwritten": {
+    "synergy": [
+      "Dragon Tempest",
+      "Hellkite Courser",
+      "Lathliss, Dragon Queen",
+      "Sarkhan, Soul Aflame",
+      "Haven of the Spirit Dragon",
+      "Atarka, World Render"
+    ],
+    "popular": [
+      "Temur Ascendancy",
+      "Broodcaller Scourge",
+      "Miirym, Sentinel Wyrm",
+      "Rootbound Crag"
+    ]
+  },
+  "Meren of Clan Nel Toth": {
+    "synergy": [
+      "Spore Frog",
+      "Plaguecrafter",
+      "Sakura-Tribe Elder",
+      "Gray Merchant of Asphodel",
+      "Eternal Witness",
+      "Buried Alive"
+    ],
+    "popular": [
+      "Woodland Cemetery",
+      "Victimize",
+      "Viscera Seer",
+      "Skullclamp"
+    ]
+  },
+  "Arabella, Abandoned Doll": {
+    "synergy": [
+      "Dusk // Dawn",
+      "Welcoming Vampire",
+      "Enduring Innocence",
+      "Impact Tremors",
+      "Delney, Streetwise Lookout",
+      "Mentor of the Meek"
+    ],
+    "popular": [
+      "Clifftop Retreat",
+      "Path to Exile",
+      "Anim Pakal, Thousandth Moon",
+      "Loyal Apprentice"
+    ]
+  },
+  "Kinnan, Bonder Prodigy": {
+    "synergy": [
+      "Basalt Monolith",
+      "Thrasios, Triton Hero",
+      "Fyndhorn Elves",
+      "Elvish Mystic",
+      "Springleaf Drum",
+      "Hullbreaker Horror"
+    ],
+    "popular": [
+      "Llanowar Elves",
+      "Birds of Paradise",
+      "Talisman of Curiosity",
+      "Breeding Pool"
+    ]
+  },
+  "Tidus, Yuna's Guardian": {
+    "synergy": [
+      "Yuna, Grand Summoner",
+      "Sphere Grid",
+      "Damning Verdict",
+      "Rikku, Resourceful Guardian",
+      "Wakka, Devoted Guardian",
+      "Gyre Sage"
+    ],
+    "popular": [
+      "Hardened Scales",
+      "Path to Exile",
+      "Hinterland Harbor",
+      "Incubation Druid"
+    ]
+  },
+  "Teysa Karlov": {
+    "synergy": [
+      "Zulaport Cutthroat",
+      "Pitiless Plunderer",
+      "Cruel Celebrant",
+      "Bastion of Remembrance",
+      "Teysa, Orzhov Scion",
+      "Blood Artist"
+    ],
+    "popular": [
+      "Skullclamp",
+      "Elas il-Kor, Sadistic Pilgrim",
+      "Isolated Chapel",
+      "Viscera Seer"
+    ]
+  },
+  "Zhulodok, Void Gorger": {
+    "synergy": [
+      "Kozilek, the Great Distortion",
+      "Eldrazi Temple",
+      "Flayer of Loyalties",
+      "It That Betrays",
+      "Darksteel Monolith",
+      "Ulamog, the Ceaseless Hunger"
+    ],
+    "popular": [
+      "All Is Dust",
+      "Forsaken Monument",
+      "Thran Dynamo",
+      "Urza's Mine"
+    ]
+  },
+  "Gishath, Sun's Avatar": {
+    "synergy": [
+      "Zacama, Primal Calamity",
+      "Pantlaza, Sun-Favored",
+      "Ghalta, Primal Hunger",
+      "Etali, Primal Storm",
+      "Regisaur Alpha",
+      "Zetalpa, Primal Dawn"
+    ],
+    "popular": [
+      "Temple Altisaur",
+      "Earthshaker Dreadmaw",
+      "Wakening Sun's Avatar",
+      "Quartzwood Crasher"
+    ]
+  },
+  "Tom Bombadil": {
+    "synergy": [
+      "Binding the Old Gods",
+      "There and Back Again",
+      "Satsuki, the Living Lore",
+      "The Eldest Reborn",
+      "Narci, Fable Singer",
+      "The Kami War"
+    ],
+    "popular": [
+      "Sythis, Harvest's Hand",
+      "Sanctum Weaver",
+      "Goldberry, River-Daughter",
+      "The Bath Song"
+    ]
+  },
+  "Atla Palani, Nest Tender": {
+    "synergy": [
+      "Ashnod's Altar",
+      "Palani's Hatcher",
+      "Goblin Bombardment",
+      "High Market",
+      "Skullclamp",
+      "Nesting Dragon"
+    ],
+    "popular": [
+      "Garruk's Uprising",
+      "Jungle Shrine",
+      "Etali, Primal Storm",
+      "Cinder Glade"
+    ]
+  },
+  "Korvold, Fae-Cursed King": {
+    "synergy": [
+      "Mayhem Devil",
+      "Tireless Provisioner",
+      "Pitiless Plunderer",
+      "Chatterfang, Squirrel General",
+      "Warren Soultrader",
+      "Academy Manufactor"
+    ],
+    "popular": [
+      "Ignoble Hierarch",
+      "Stomping Ground",
+      "Overgrown Tomb",
+      "Blood Crypt"
+    ]
+  },
+  "Zurgo Stormrender": {
+    "synergy": [
+      "Ainok Strike Leader",
+      "Will of the Mardu",
+      "Adeline, Resplendent Cathar",
+      "Redoubled Stormsinger",
+      "Grand Crescendo",
+      "Infantry Shield"
+    ],
+    "popular": [
+      "Skullclamp",
+      "Clifftop Retreat",
+      "Isolated Chapel",
+      "Dragonskull Summit"
+    ]
+  },
+  "Shorikai, Genesis Engine": {
+    "synergy": [
+      "Unwinding Clock",
+      "Imposter Mech",
+      "Kotori, Pilot Prodigy",
+      "Mobilizer Mech",
+      "Manifold Key",
+      "Etherium Sculptor"
+    ],
+    "popular": [
+      "Prairie Stream",
+      "Azorius Signet",
+      "Dispatch",
+      "Foundry Inspector"
+    ]
+  },
+  "Felothar the Steadfast": {
+    "synergy": [
+      "Overgrown Battlement",
+      "Axebane Guardian",
+      "Crashing Drawbridge",
+      "Wall of Omens",
+      "Wall of Blossoms",
+      "Tree of Redemption"
+    ],
+    "popular": [
+      "Sylvan Caryatid",
+      "Arbor Adherent",
+      "Jaws of Defeat",
+      "Behind the Scenes"
+    ]
+  },
+  "The Wandering Minstrel": {
+    "synergy": [
+      "Guadosalam, Farplane Gateway",
+      "Gongaga, Reactor Town",
+      "Gohn, Town of Ruin",
+      "Windurst, Federation Center",
+      "Sharlayan, Nation of Scholars",
+      "Baron, Airship Kingdom"
+    ],
+    "popular": [
+      "Treno, Dark City",
+      "Starting Town",
+      "Rabanastre, Royal City",
+      "Insomnia, Crown City"
+    ]
+  },
+  "Queen Marchesa": {
+    "synergy": [
+      "Deflecting Palm",
+      "Ghostly Prison",
+      "Court of Grace",
+      "Mangara, the Diplomat",
+      "Kardur, Doomscourge",
+      "Breena, the Demagogue"
+    ],
+    "popular": [
+      "Path to Exile",
+      "Nomad Outpost",
+      "Talisman of Conviction",
+      "Talisman of Hierarchy"
+    ]
+  },
+  "Urza, Lord High Artificer": {
+    "synergy": [
+      "Unwinding Clock",
+      "Dramatic Reversal",
+      "Basalt Monolith",
+      "Seat of the Synod",
+      "Fabricate",
+      "Isochron Scepter"
+    ],
+    "popular": [
+      "Sapphire Medallion",
+      "Etherium Sculptor",
+      "Hullbreaker Horror",
+      "Everflowing Chalice"
+    ]
+  },
+  "Avatar Aang": {
+    "synergy": [
+      "Katara, the Fearless",
+      "Aang, Swift Savior",
+      "Haru, Hidden Talent",
+      "Airbending Lesson",
+      "Great Divide Guide",
+      "Aang, at the Crossroads"
+    ],
+    "popular": [
+      "Katara, Water Tribe's Hope",
+      "Avatar's Wrath",
+      "Airbender Ascension",
+      "Waterbender Ascension"
+    ]
+  },
+  "Go-Shintai of Life's Origin": {
+    "synergy": [
+      "Sanctum of All",
+      "Sanctum of Fruitful Harvest",
+      "Sanctum of Stone Fangs",
+      "Sanctum of Calm Waters",
+      "Honden of Infinite Rage",
+      "Go-Shintai of Hidden Cruelty"
+    ],
+    "popular": [
+      "Go-Shintai of Shared Purpose",
+      "Go-Shintai of Ancient Wars",
+      "Honden of Cleansing Fire",
+      "Honden of Life's Web"
+    ]
+  },
+  "Helga, Skittish Seer": {
+    "synergy": [
+      "Garruk's Uprising",
+      "Chulane, Teller of Tales",
+      "Chakram Retriever",
+      "Goreclaw, Terror of Qal Sisma",
+      "Kiora, Behemoth Beckoner",
+      "Inga and Esika"
+    ],
+    "popular": [
+      "Forgotten Ancient",
+      "Beast Whisperer",
+      "Breeding Pool",
+      "Hinterland Harbor"
+    ]
+  },
+  "K'rrik, Son of Yawgmoth": {
+    "synergy": [
+      "Vilis, Broker of Blood",
+      "Blood Celebrant",
+      "Chainer, Dementia Master",
+      "Asmodeus the Archfiend",
+      "Peer into the Abyss",
+      "Necrotic Ooze"
+    ],
+    "popular": [
+      "Gray Merchant of Asphodel",
+      "Dark Ritual",
+      "Jet Medallion",
+      "Bolas's Citadel"
+    ]
+  },
+  "Choco, Seeker of Paradise": {
+    "synergy": [
+      "Sazh's Chocobo",
+      "Kastral, the Windcrested",
+      "Chocobo Racetrack",
+      "Bartz and Boko",
+      "Sidequest: Raise a Chocobo",
+      "Traveling Chocobo"
+    ],
+    "popular": [
+      "Birds of Paradise",
+      "Emeria Angel",
+      "Ambrosia Whiteheart",
+      "Murmuration"
+    ]
+  },
+  "Zaxara, the Exemplary": {
+    "synergy": [
+      "Hydroid Krasis",
+      "Unbound Flourishing",
+      "Primordial Hydra",
+      "Hungering Hydra",
+      "Voracious Hydra",
+      "Steelbane Hydra"
+    ],
+    "popular": [
+      "Villainous Wealth",
+      "Exsanguinate",
+      "Garruk's Uprising",
+      "Goldvein Hydra"
+    ]
+  },
+  "Terra, Herald of Hope": {
+    "synergy": [
+      "Celes, Rune Knight",
+      "Stitcher's Supplier",
+      "Reanimate",
+      "Priest of Fell Rites",
+      "Anger",
+      "Stitch Together"
+    ],
+    "popular": [
+      "Isolated Chapel",
+      "Dragonskull Summit",
+      "Clifftop Retreat",
+      "Battlefield Forge"
+    ]
+  },
+  "Kotis, the Fangkeeper": {
+    "synergy": [
+      "Rancor",
+      "Aqueous Form",
+      "Dragonfire Blade",
+      "Favor of the Overbeing",
+      "Felix Five-Boots",
+      "Snakeskin Veil"
+    ],
+    "popular": [
+      "Opulent Palace",
+      "Hinterland Harbor",
+      "Blackblade Reforged",
+      "Woodland Cemetery"
+    ]
+  },
+  "Betor, Ancestor's Voice": {
+    "synergy": [
+      "Lathiel, the Bounteous Dawn",
+      "Doom Whisperer",
+      "Children of Korlis",
+      "Rhox Faithmender",
+      "Beledros Witherbloom",
+      "Black Market Connections"
+    ],
+    "popular": [
+      "Caves of Koilos",
+      "Llanowar Wastes",
+      "Brushland",
+      "Godless Shrine"
+    ]
+  },
+  "Auntie Ool, Cursewretch": {
+    "synergy": [
+      "Blowfly Infestation",
+      "Hapatra, Vizier of Poisons",
+      "Black Sun's Zenith",
+      "Necroskitter",
+      "The Scorpion God",
+      "Massacre Girl, Known Killer"
+    ],
+    "popular": [
+      "Ignoble Hierarch",
+      "The Reaper, King No More",
+      "Devoted Druid",
+      "Kulrath Knight"
+    ]
+  },
+  "Terra, Magical Adept": {
+    "synergy": [
+      "Summon: Titan",
+      "Summon: Fenrir",
+      "Summon: Primal Odin",
+      "Summon: Bahamut",
+      "Summon: Yojimbo",
+      "Yuna, Hope of Spira"
+    ],
+    "popular": [
+      "Summon: Knights of Round",
+      "Sanctum Weaver",
+      "Sythis, Harvest's Hand",
+      "Rydia, Summoner of Mist"
+    ]
+  },
+  "Ghyrson Starn, Kelermorph": {
+    "synergy": [
+      "End the Festivities",
+      "Thermo-Alchemist",
+      "Tectonic Hazard",
+      "Firebrand Archer",
+      "Electrickery",
+      "Basilisk Collar"
+    ],
+    "popular": [
+      "Curiosity",
+      "Kessig Flamebreather",
+      "Grapeshot",
+      "Sulfur Falls"
+    ]
+  },
+  "The First Sliver": {
+    "synergy": [
+      "Cloudshredder Sliver",
+      "Sliver Hivelord",
+      "Gemhide Sliver",
+      "Manaweft Sliver",
+      "Harmonic Sliver",
+      "Crystalline Sliver"
+    ],
+    "popular": [
+      "Bonescythe Sliver",
+      "Sentinel Sliver",
+      "Galerider Sliver",
+      "Syphon Sliver"
+    ]
+  },
+  "Xyris, the Writhing Storm": {
+    "synergy": [
+      "Impact Tremors",
+      "Windfall",
+      "Goblin Bombardment",
+      "Howling Mine",
+      "Magus of the Wheel",
+      "Scrawling Crawler"
+    ],
+    "popular": [
+      "Frontier Bivouac",
+      "Hinterland Harbor",
+      "Breeding Pool",
+      "Stomping Ground"
+    ]
+  },
+  "Kilo, Apogee Mind": {
+    "synergy": [
+      "Tekuthal, Inquiry Dominus",
+      "Inspirit, Flagship Vessel",
+      "Everflowing Chalice",
+      "Insight Engine",
+      "Surge Conductor",
+      "Seat of the Synod"
+    ],
+    "popular": [
+      "Ancient Den",
+      "Great Furnace",
+      "Patrolling Peacemaker",
+      "Ripples of Potential"
+    ]
+  },
+  "Sisay, Weatherlight Captain": {
+    "synergy": [
+      "Relic of Legends",
+      "Derevi, Empyrial Tactician",
+      "Selvala, Heart of the Wilds",
+      "Teferi, Time Raveler",
+      "Kinnan, Bonder Prodigy",
+      "Lotho, Corrupt Shirriff"
+    ],
+    "popular": [
+      "Birds of Paradise",
+      "Bloom Tender",
+      "Windswept Heath",
+      "Flooded Strand"
+    ]
+  },
+  "Eriette of the Charmed Apple": {
+    "synergy": [
+      "Mesa Enchantress",
+      "Sram, Senior Edificer",
+      "Kor Spiritdancer",
+      "Killian, Ink Duelist",
+      "All That Glitters",
+      "Ethereal Armor"
+    ],
+    "popular": [
+      "Darksteel Mutation",
+      "Sage's Reverie",
+      "Isolated Chapel",
+      "Parasitic Impetus"
+    ]
+  },
+  "Ragost, Deft Gastronaut": {
+    "synergy": [
+      "Weapons Manufacturing",
+      "Nuka-Cola Vending Machine",
+      "Academy Manufactor",
+      "Ichor Wellspring",
+      "Prized Statue",
+      "Basilisk Collar"
+    ],
+    "popular": [
+      "Clifftop Retreat",
+      "Ancient Den",
+      "Great Furnace",
+      "Haliya, Guided by Light"
+    ]
+  },
+  "Norman Osborn": {
+    "synergy": [
+      "Shadow of the Goblin",
+      "Ultimate Green Goblin",
+      "Frantic Search",
+      "Faithless Looting",
+      "Psychic Frog",
+      "Ghostly Pilferer"
+    ],
+    "popular": [
+      "Talisman of Dominance",
+      "Oscorp Industries",
+      "Talisman of Indulgence",
+      "Windfall"
+    ]
+  },
+  "Henzie \"Toolbox\" Torre": {
+    "synergy": [
+      "Junji, the Midnight Sky",
+      "Solemn Simulacrum",
+      "Seedguide Ash",
+      "Etali, Primal Storm",
+      "Primeval Herald",
+      "Industrial Advancement"
+    ],
+    "popular": [
+      "Ignoble Hierarch",
+      "Victimize",
+      "Stomping Ground",
+      "Ojer Kaslem, Deepest Growth"
+    ]
+  },
+  "Urtet, Remnant of Memnarch": {
+    "synergy": [
+      "Gold Myr",
+      "Silver Myr",
+      "Copper Myr",
+      "Iron Myr",
+      "Leaden Myr",
+      "Myr Galvanizer"
+    ],
+    "popular": [
+      "Palladium Myr",
+      "Myr Battlesphere",
+      "Alloy Myr",
+      "Shimmer Myr"
+    ]
+  },
+  "Captain N'ghathrod": {
+    "synergy": [
+      "Consuming Aberration",
+      "Nemesis of Reason",
+      "Zellix, Sanity Flayer",
+      "Mindcrank",
+      "Grazilaxx, Illithid Scholar",
+      "Guiltfeeder"
+    ],
+    "popular": [
+      "Sunken Hollow",
+      "Fractured Sanity",
+      "Drown in the Loch",
+      "Uchuulon"
+    ]
+  },
+  "Omnath, Locus of Creation": {
+    "synergy": [
+      "Lotus Cobra",
+      "Omnath, Locus of Rage",
+      "Tatyova, Benthic Druid",
+      "Azusa, Lost but Seeking",
+      "Scute Swarm",
+      "Ancient Greenwarden"
+    ],
+    "popular": [
+      "Dryad of the Ilysian Grove",
+      "Aesi, Tyrant of Gyre Strait",
+      "Avenger of Zendikar",
+      "Felidar Retreat"
+    ]
+  },
+  "Hope Estheim": {
+    "synergy": [
+      "The Wind Crystal",
+      "Rhox Faithmender",
+      "The Water Crystal",
+      "Soul Warden",
+      "Space-Time Anomaly",
+      "Will, Scion of Peace"
+    ],
+    "popular": [
+      "Glacial Fortress",
+      "Prairie Stream",
+      "Soul's Attendant",
+      "Authority of the Consuls"
+    ]
+  },
+  "Voja, Jaws of the Conclave": {
+    "synergy": [
+      "Priest of Titania",
+      "Elvish Archdruid",
+      "Llanowar Elves",
+      "Elvish Mystic",
+      "Shalai and Hallar",
+      "Marwyn, the Nurturer"
+    ],
+    "popular": [
+      "Maskwood Nexus",
+      "Rhythm of the Wild",
+      "Beast Whisperer",
+      "Fyndhorn Elves"
+    ]
+  },
+  "High Perfect Morcant": {
+    "synergy": [
+      "Lathril, Blade of the Elves",
+      "Flourishing Defenses",
+      "Elvish Archdruid",
+      "Priest of Titania",
+      "Imperious Perfect",
+      "Lys Alana Huntmaster"
+    ],
+    "popular": [
+      "Llanowar Elves",
+      "Elvish Mystic",
+      "Marwyn, the Nurturer",
+      "Woodland Cemetery"
+    ]
+  },
+  "Alela, Cunning Conqueror": {
+    "synergy": [
+      "Obyra, Dreaming Duelist",
+      "Scion of Oona",
+      "Tegwyll, Duke of Splendor",
+      "Spellstutter Sprite",
+      "Spell Stutter",
+      "Brazen Borrower"
+    ],
+    "popular": [
+      "Sunken Hollow",
+      "Talisman of Dominance",
+      "Nymris, Oona's Trickster",
+      "Secluded Glen"
+    ]
+  },
+  "Magda, Brazen Outlaw": {
+    "synergy": [
+      "Axgard Cavalry",
+      "Dwarven Grunt",
+      "Universal Automaton",
+      "Springleaf Drum",
+      "Xorn",
+      "Magda, the Hoardmaster"
+    ],
+    "popular": [
+      "Maskwood Nexus",
+      "Plundering Barbarian",
+      "Bloodfire Dwarf",
+      "Clock of Omens"
+    ]
+  },
+  "Obeka, Splitter of Seconds": {
+    "synergy": [
+      "As Foretold",
+      "Dragonmaster Outcast",
+      "Court of Ire",
+      "Twilight Prophet",
+      "Replicating Ring",
+      "Ring of Valkas"
+    ],
+    "popular": [
+      "Court of Ambition",
+      "Court of Embereth",
+      "Court of Vantress",
+      "Creeping Bloodsucker"
+    ]
+  },
+  "Sidar Jabari of Zhalfir": {
+    "synergy": [
+      "Knight Exemplar",
+      "Herald of Hoofbeats",
+      "Vodalian Wave-Knight",
+      "Knights' Charge",
+      "Haakon, Stromgald Scourge",
+      "Exsanguinator Cavalry"
+    ],
+    "popular": [
+      "Knight of the White Orchid",
+      "Marshal of Zhalfir",
+      "Valiant Knight",
+      "Path to Exile"
+    ]
+  },
+  "Zinnia, Valley's Voice": {
+    "synergy": [
+      "Agate Instigator",
+      "Selfless Spirit",
+      "Curiosity Crafter",
+      "Ornithopter of Paradise",
+      "Rapid Augmenter",
+      "Aether Channeler"
+    ],
+    "popular": [
+      "Glacial Fortress",
+      "Clifftop Retreat",
+      "Path to Exile",
+      "Sulfur Falls"
+    ]
+  },
+  "Brago, King Eternal": {
+    "synergy": [
+      "Peregrine Drake",
+      "Aether Channeler",
+      "Soulherder",
+      "Panharmonicon",
+      "Reflector Mage",
+      "Wall of Omens"
+    ],
+    "popular": [
+      "Prairie Stream",
+      "Glacial Fortress",
+      "Azorius Signet",
+      "Ephemerate"
+    ]
+  },
+  "Yarok, the Desecrated": {
+    "synergy": [
+      "Coiling Oracle",
+      "Panharmonicon",
+      "Mulldrifter",
+      "Lotus Cobra",
+      "Tatyova, Benthic Druid",
+      "Risen Reef"
+    ],
+    "popular": [
+      "Eternal Witness",
+      "Tireless Provisioner",
+      "Baleful Strix",
+      "Avenger of Zendikar"
+    ]
+  },
+  "Anikthea, Hand of Erebos": {
+    "synergy": [
+      "Sanctum Weaver",
+      "Eidolon of Blossoms",
+      "Sythis, Harvest's Hand",
+      "Setessan Champion",
+      "Doomwake Giant",
+      "Enchantress's Presence"
+    ],
+    "popular": [
+      "Jukai Naturalist",
+      "Mirari's Wake",
+      "Extinguish All Hope",
+      "Grasp of Fate"
+    ]
+  },
+  "Light-Paws, Emperor's Voice": {
+    "synergy": [
+      "Ethereal Armor",
+      "All That Glitters",
+      "Sage's Reverie",
+      "Hyena Umbra",
+      "Daybreak Coronet",
+      "Kor Spiritdancer"
+    ],
+    "popular": [
+      "Sram, Senior Edificer",
+      "Mantle of the Ancients",
+      "Spirit Mantle",
+      "Timely Ward"
+    ]
+  },
+  "Grand Arbiter Augustin IV": {
+    "synergy": [
+      "Aura of Silence",
+      "Lavinia, Azorius Renegade",
+      "Propaganda",
+      "Ghostly Prison",
+      "God-Pharaoh's Statue",
+      "Grand Abolisher"
+    ],
+    "popular": [
+      "Rhystic Study",
+      "Smothering Tithe",
+      "Glacial Fortress",
+      "Path to Exile"
+    ]
+  },
+  "Tergrid, God of Fright": {
+    "synergy": [
+      "Smallpox",
+      "Waste Not",
+      "Dark Deal",
+      "Rankle, Master of Pranks",
+      "Oppression",
+      "Plaguecrafter"
+    ],
+    "popular": [
+      "Dark Ritual",
+      "Jet Medallion",
+      "Cabal Coffers",
+      "Sheoldred's Edict"
+    ]
+  },
+  "Talrand, Sky Summoner": {
+    "synergy": [
+      "Opt",
+      "Favorable Winds",
+      "Murmuring Mystic",
+      "Preordain",
+      "Impulse",
+      "Winged Words"
+    ],
+    "popular": [
+      "Brainstorm",
+      "Ponder",
+      "Mystic Sanctuary",
+      "Frantic Search"
+    ]
+  },
+  "Xenagos, God of Revels": {
+    "synergy": [
+      "Goreclaw, Terror of Qal Sisma",
+      "Anzrag, the Quake-Mole",
+      "Ghalta, Primal Hunger",
+      "Quartzwood Crasher",
+      "Ilharg, the Raze-Boar",
+      "Ojer Kaslem, Deepest Growth"
+    ],
+    "popular": [
+      "Garruk's Uprising",
+      "Cinder Glade",
+      "Rootbound Crag",
+      "Stomping Ground"
+    ]
+  },
+  "Niv-Mizzet, Parun": {
+    "synergy": [
+      "Curiosity",
+      "Niv-Mizzet, the Firemind",
+      "Ophidian Eye",
+      "Tandem Lookout",
+      "Guttersnipe",
+      "Brainstorm"
+    ],
+    "popular": [
+      "Izzet Signet",
+      "Sulfur Falls",
+      "Opt",
+      "Shivan Reef"
+    ]
+  },
+  "Wyleth, Soul of Steel": {
+    "synergy": [
+      "Sigarda's Aid",
+      "Sram, Senior Edificer",
+      "Blackblade Reforged",
+      "Spirit Mantle",
+      "Danitha Capashen, Paragon",
+      "Timely Ward"
+    ],
+    "popular": [
+      "Boros Charm",
+      "Puresteel Paladin",
+      "Slayers' Stronghold",
+      "Boros Signet"
+    ]
+  },
+  "Witherbloom, the Balancer": {
+    "synergy": [
+      "Exsanguinate",
+      "Pest Infestation",
+      "Awaken the Woods",
+      "Sprout Swarm",
+      "In Garruk's Wake",
+      "Army of the Damned"
+    ],
+    "popular": [
+      "Llanowar Elves",
+      "Elvish Mystic",
+      "Woodland Cemetery",
+      "Overgrown Tomb"
+    ]
+  },
+  "Ezio Auditore da Firenze": {
+    "synergy": [
+      "Ezio, Blade of Vengeance",
+      "Basim Ibn Ishaq",
+      "Brotherhood Headquarters",
+      "Bayek of Siwa",
+      "Arno Dorian",
+      "Ramses, Assassin Lord"
+    ],
+    "popular": [
+      "Aya of Alexandria",
+      "Desmond Miles",
+      "Cover of Darkness",
+      "Layla Hassan"
+    ]
+  },
+  "Atraxa, Grand Unifier": {
+    "synergy": [
+      "Ephemerate",
+      "Displacer Kitten",
+      "Elesh Norn, Mother of Machines",
+      "Soulherder",
+      "Panharmonicon",
+      "Teleportation Circle"
+    ],
+    "popular": [
+      "Breeding Pool",
+      "Watery Grave",
+      "Hallowed Fountain",
+      "Windswept Heath"
+    ]
+  },
+  "Deadpool, Trading Card": {
+    "synergy": [
+      "Saw in Half",
+      "Blade of Selves",
+      "The Master, Multiplied",
+      "Helm of the Host",
+      "Deadly Rollick",
+      "Conjurer's Closet"
+    ],
+    "popular": [
+      "Blasphemous Act",
+      "Vandalblast",
+      "Dragonskull Summit",
+      "Mirror Box"
+    ]
+  },
+  "Mendicant Core, Guidelight": {
+    "synergy": [
+      "Foundry Inspector",
+      "Etherium Sculptor",
+      "Voyager Quickwelder",
+      "Muraganda Raceway",
+      "Seat of the Synod",
+      "Voyage Home"
+    ],
+    "popular": [
+      "Ancient Den",
+      "Kappa Cannoneer",
+      "Thought Monitor",
+      "Razortide Bridge"
+    ]
+  },
+  "Galadriel, Light of Valinor": {
+    "synergy": [
+      "Arwen, Weaver of Hope",
+      "Elvish Archdruid",
+      "Elvish Mystic",
+      "Elvish Warmaster",
+      "Reclamation Sage",
+      "Galadriel's Dismissal"
+    ],
+    "popular": [
+      "Heroic Intervention",
+      "Hinterland Harbor",
+      "Rejuvenating Springs",
+      "Llanowar Elves"
+    ]
+  },
+  "Jin Sakai, Ghost of Tsushima": {
+    "synergy": [
+      "Unstoppable Slasher",
+      "Eiganjo Castle",
+      "Grim Hireling",
+      "Fallen Shinobi",
+      "Buster Sword",
+      "Genji Glove"
+    ],
+    "popular": [
+      "Path to Exile",
+      "Godless Shrine",
+      "Watery Grave",
+      "Hallowed Fountain"
+    ]
+  },
+  "Storm, Force of Nature": {
+    "synergy": [
+      "Manamorphose",
+      "Lightning Bolt",
+      "Storm-Kiln Artist",
+      "Jeska's Will",
+      "Archmage Emeritus",
+      "Ponder"
+    ],
+    "popular": [
+      "Frantic Search",
+      "Snap",
+      "Brainstorm",
+      "Breeding Pool"
+    ]
+  },
+  "Kynaios and Tiro of Meletis": {
+    "synergy": [
+      "Rites of Flourishing",
+      "Howling Mine",
+      "Tempt with Discovery",
+      "Selvala, Explorer Returned",
+      "Kwain, Itinerant Meddler",
+      "Propaganda"
+    ],
+    "popular": [
+      "Ghostly Prison",
+      "Gluntch, the Bestower",
+      "Dictate of Kruphix",
+      "Xyris, the Writhing Storm"
+    ]
+  },
+  "Captain America, First Avenger": {
+    "synergy": [
+      "Puresteel Paladin",
+      "Sigarda's Aid",
+      "Excalibur, Sword of Eden",
+      "Sram, Senior Edificer",
+      "Steelshaper's Gift",
+      "Sword of War and Peace"
+    ],
+    "popular": [
+      "Colossus Hammer",
+      "Basilisk Collar",
+      "Forge Anew",
+      "Flawless Maneuver"
+    ]
+  },
+  "Aminatou, Veil Piercer": {
+    "synergy": [
+      "One with the Multiverse",
+      "Sphere of Safety",
+      "Hall of Heliod's Generosity",
+      "Extravagant Replication",
+      "Redress Fate",
+      "Shark Typhoon"
+    ],
+    "popular": [
+      "Brainstorm",
+      "Sigil of the Empty Throne",
+      "Mesa Enchantress",
+      "Ondu Spiritdancer"
+    ]
+  },
+  "Tifa Lockhart": {
+    "synergy": [
+      "Harrow",
+      "Tifa's Limit Break",
+      "Ride the Shoopuf",
+      "Azusa, Lost but Seeking",
+      "Traveling Chocobo",
+      "Sword of the Animist"
+    ],
+    "popular": [
+      "Entish Restoration",
+      "Snakeskin Veil",
+      "Fabled Passage",
+      "Myriad Landscape"
+    ]
+  },
+  "Éowyn, Shieldmaiden": {
+    "synergy": [
+      "Lossarnach Captain",
+      "Beregond of the Guard",
+      "Shared Animosity",
+      "Théoden, King of Rohan",
+      "Forth Eorlingas!",
+      "Combat Celebrant"
+    ],
+    "popular": [
+      "Path to Exile",
+      "Clifftop Retreat",
+      "Glacial Fortress",
+      "Secluded Courtyard"
+    ]
+  },
+  "Iroh, Grand Lotus": {
+    "synergy": [
+      "Abandon Attachments",
+      "Accumulate Wisdom",
+      "Origin of Metalbending",
+      "Shared Roots",
+      "Cycle of Renewal",
+      "Waterbending Lesson"
+    ],
+    "popular": [
+      "True Ancestry",
+      "Zuko's Exile",
+      "It'll Quench Ya!",
+      "Uncle Iroh"
+    ]
+  },
+  "Zimone, Mystery Unraveler": {
+    "synergy": [
+      "They Came from the Pipes",
+      "Yedora, Grave Gardener",
+      "Scroll of Fate",
+      "Ashaya, Soul of the Wild",
+      "Aesi, Tyrant of Gyre Strait",
+      "Threats Around Every Corner"
+    ],
+    "popular": [
+      "Tatyova, Benthic Druid",
+      "Simic Growth Chamber",
+      "Sakura-Tribe Elder",
+      "Hinterland Harbor"
+    ]
+  },
+  "Lightning, Army of One": {
+    "synergy": [
+      "Genji Glove",
+      "Puresteel Paladin",
+      "Duelist's Heritage",
+      "Buster Sword",
+      "Lizard Blades",
+      "Lightning Bolt"
+    ],
+    "popular": [
+      "Clifftop Retreat",
+      "Boros Charm",
+      "Battlefield Forge",
+      "Path to Exile"
+    ]
+  },
+  "Satya, Aetherflux Genius": {
+    "synergy": [
+      "Aether Hub",
+      "Izzet Generatorium",
+      "Lightning Runner",
+      "Aetherworks Marvel",
+      "Decoction Module",
+      "Solar Transformer"
+    ],
+    "popular": [
+      "Roil Cartographer",
+      "Guide of Souls",
+      "Sphinx of the Revelation",
+      "Solemn Simulacrum"
+    ]
+  },
+  "Eshki, Temur's Roar": {
+    "synergy": [
+      "Goreclaw, Terror of Qal Sisma",
+      "Temur Battlecrier",
+      "Ghalta, Primal Hunger",
+      "Arixmethes, Slumbering Isle",
+      "Uro, Titan of Nature's Wrath",
+      "Outcaster Trailblazer"
+    ],
+    "popular": [
+      "Temur Ascendancy",
+      "Garruk's Uprising",
+      "Hinterland Harbor",
+      "Rootbound Crag"
+    ]
+  },
+  "Eluge, the Shoreless Sea": {
+    "synergy": [
+      "Finale of Revelation",
+      "Flow of Knowledge",
+      "Wavebreak Hippocamp",
+      "Essence Flux",
+      "Blur",
+      "Archmage Emeritus"
+    ],
+    "popular": [
+      "Sapphire Medallion",
+      "Mystic Sanctuary",
+      "High Tide",
+      "Frantic Search"
+    ]
+  },
+  "Marina Vendrell": {
+    "synergy": [
+      "Central Elevator // Promising Stairs",
+      "Greenhouse // Rickety Gazebo",
+      "Roaring Furnace // Steaming Sauna",
+      "Inquisitive Glimmer",
+      "Restricted Office // Lecture Hall",
+      "Mirror Room // Fractured Realm"
+    ],
+    "popular": [
+      "Bottomless Pool // Locker Room",
+      "Smoky Lounge // Misty Salon",
+      "Entity Tracker",
+      "Ghostly Dancers"
+    ]
+  },
+  "Cosmic Spider-Man": {
+    "synergy": [
+      "Spider-Punk",
+      "Radioactive Spider",
+      "SP//dr, Piloted by Peni",
+      "Aunt May",
+      "Scarlet Spider, Ben Reilly",
+      "Spectacular Spider-Man"
+    ],
+    "popular": [
+      "Miles Morales",
+      "Spider-Ham, Peter Porker",
+      "Spider-Woman, Stunning Savior",
+      "Spider Manifestation"
+    ]
+  },
+  "Temmet, Naktamun's Will": {
+    "synergy": [
+      "God-Eternal Oketra",
+      "Unholy Grotto",
+      "Zombie Master",
+      "On Wings of Gold",
+      "Wayward Servant",
+      "Lord of the Accursed"
+    ],
+    "popular": [
+      "The Scarab God",
+      "Gravecrawler",
+      "Lost Monarch of Ifnir",
+      "Prophet of the Scarab"
+    ]
+  },
+  "Inspirit, Flagship Vessel": {
+    "synergy": [
+      "Kilo, Apogee Mind",
+      "Uthros Research Craft",
+      "Insight Engine",
+      "Surge Conductor",
+      "Seat of the Synod",
+      "Ancient Den"
+    ],
+    "popular": [
+      "Great Furnace",
+      "Enthusiastic Mechanaut",
+      "Etherium Sculptor",
+      "Everflowing Chalice"
+    ]
+  },
+  "Azlask, the Swelling Scourge": {
+    "synergy": [
+      "Glaring Fleshraker",
+      "Awakening Zone",
+      "Path of Annihilation",
+      "From Beyond",
+      "Chittering Dispatcher",
+      "Writhing Chrysalis"
+    ],
+    "popular": [
+      "Spawnbed Protector",
+      "Meren of Clan Nel Toth",
+      "Kozilek's Unsealing",
+      "Echoes of Eternity"
+    ]
+  },
+  "Fire Lord Zuko": {
+    "synergy": [
+      "Laelia, the Blade Reforged",
+      "Zuko, Exiled Prince",
+      "Prosper, Tome-Bound",
+      "Leyline Tyrant",
+      "The Last Agni Kai",
+      "Electro, Assaulting Battery"
+    ],
+    "popular": [
+      "Etali, Primal Storm",
+      "Clifftop Retreat",
+      "Ozai, the Phoenix King",
+      "Appa, Steadfast Guardian"
+    ]
+  },
+  "Doran, Besieged by Time": {
+    "synergy": [
+      "Great Forest Druid",
+      "Felothar the Steadfast",
+      "Doran, the Siege Tower",
+      "Assault Formation",
+      "Ancient Lumberknot",
+      "Bedrock Tortoise"
+    ],
+    "popular": [
+      "Jaws of Defeat",
+      "Indomitable Ancients",
+      "Woodland Cemetery",
+      "Sandsteppe Citadel"
+    ]
+  },
+  "Blech, Loafing Pest": {
+    "synergy": [
+      "Teacher's Pest",
+      "Bogwater Lumaret",
+      "Pest Infestation",
+      "Pest Mascot",
+      "Iridescent Hornbeetle",
+      "Eumidian Terrabotanist"
+    ],
+    "popular": [
+      "Cauldron of Essence",
+      "Beledros Witherbloom",
+      "Woodland Cemetery",
+      "Arasta of the Endless Web"
+    ]
+  },
+  "Dr. Eggman": {
+    "synergy": [
+      "Noxious Gearhulk",
+      "Combustible Gearhulk",
+      "Myr Battlesphere",
+      "Coalstoke Gearhulk",
+      "Foundry Inspector",
+      "Cyberdrive Awakener"
+    ],
+    "popular": [
+      "The Valeyard",
+      "Thought Monitor",
+      "Waste Not",
+      "Oildeep Gearhulk"
+    ]
+  },
+  "Omo, Queen of Vesuva": {
+    "synergy": [
+      "Cloudpost",
+      "Urza's Tower",
+      "Urza's Power Plant",
+      "Urza's Mine",
+      "Vesuva",
+      "Thespian's Stage"
+    ],
+    "popular": [
+      "Planar Nexus",
+      "Basilisk Gate",
+      "Dreamroot Cascade",
+      "Sylvan Scrying"
+    ]
+  },
+  "Shroofus Sproutsire": {
+    "synergy": [
+      "Tendershoot Dryad",
+      "Sporecrown Thallid",
+      "Fungal Plots",
+      "Brightcap Badger",
+      "Beastmaster Ascension",
+      "Sylvan Anthem"
+    ],
+    "popular": [
+      "Ohran Frostfang",
+      "Utopia Mycon",
+      "Mycoloth",
+      "Llanowar Elves"
+    ]
+  },
+  "Wolverine, Best There Is": {
+    "synergy": [
+      "Berserk",
+      "The Ozolith",
+      "Rite of Passage",
+      "Kediss, Emberclaw Familiar",
+      "Chandra's Ignition",
+      "Hardened Scales"
+    ],
+    "popular": [
+      "Rhythm of the Wild",
+      "Cinder Glade",
+      "Unnatural Growth",
+      "Rootbound Crag"
+    ]
+  },
+  "Edward Kenway": {
+    "synergy": [
+      "Adéwalé, Breaker of Chains",
+      "Jackdaw",
+      "The Indomitable",
+      "The Belligerent",
+      "Mary Read and Anne Bonny",
+      "Malcolm, Keen-Eyed Navigator"
+    ],
+    "popular": [
+      "Captain Storm, Cosmium Raider",
+      "Ramirez DePietro, Pillager",
+      "Hostage Taker",
+      "Breeches, Eager Pillager"
+    ]
+  },
+  "Golbez, Crystal Collector": {
+    "synergy": [
+      "Seat of the Synod",
+      "Vault of Whispers",
+      "Darksteel Citadel",
+      "Etherium Sculptor",
+      "Matoya, Archon Elder",
+      "Sai, Master Thopterist"
+    ],
+    "popular": [
+      "Emry, Lurker of the Loch",
+      "Mistvault Bridge",
+      "Talisman of Dominance",
+      "Foundry Inspector"
+    ]
+  },
+  "Vren, the Relentless": {
+    "synergy": [
+      "Piper of the Swarm",
+      "Marrow-Gnawer",
+      "Lord Skitter, Sewer King",
+      "Ogre Slumlord",
+      "Swarmyard",
+      "Sheoldred's Edict"
+    ],
+    "popular": [
+      "Sunken Hollow",
+      "Drowned Catacomb",
+      "Dimir Signet",
+      "Karumonix, the Rat King"
+    ]
+  },
+  "Anti-Venom, Horrifying Healer": {
+    "synergy": [
+      "Pariah",
+      "Pariah's Shield",
+      "With Great Power . . .",
+      "Phyrexian Vindicator",
+      "Gideon's Sacrifice",
+      "Guilty Conscience"
+    ],
+    "popular": [
+      "Path to Exile",
+      "Inquisitor's Flail",
+      "Nemesis Mask",
+      "Entangler"
+    ]
+  },
+  "Rendmaw, Creaking Nest": {
+    "synergy": [
+      "Tree of Tales",
+      "Vault of Whispers",
+      "Darkmoss Bridge",
+      "Darksteel Citadel",
+      "Ornithopter of Paradise",
+      "Valgavoth's Lair"
+    ],
+    "popular": [
+      "Haywire Mite",
+      "Twitching Doll",
+      "Dryad Arbor",
+      "Copper Myr"
+    ]
+  },
+  "Disa the Restless": {
+    "synergy": [
+      "Pyrogoyf",
+      "Polygoyf",
+      "Barrowgoyf",
+      "Necrogoyf",
+      "Mortivore",
+      "Lhurgoyf"
+    ],
+    "popular": [
+      "Anger",
+      "Ignoble Hierarch",
+      "Faithless Looting",
+      "Maskwood Nexus"
+    ]
+  },
+  "Wick, the Whorled Mind": {
+    "synergy": [
+      "Lord Skitter, Sewer King",
+      "Vren, the Relentless",
+      "Song of Totentanz",
+      "Marrow-Gnawer",
+      "Piper of the Swarm",
+      "Ogre Slumlord"
+    ],
+    "popular": [
+      "Karumonix, the Rat King",
+      "Pack Rat",
+      "Persistent Marshstalker",
+      "Lord Skitter's Butcher"
+    ]
+  },
+  "Celes, Rune Knight": {
+    "synergy": [
+      "Reanimate",
+      "Murderous Redcap",
+      "Putrid Goblin",
+      "Ephemerate",
+      "Animate Dead",
+      "Lesser Masticore"
+    ],
+    "popular": [
+      "Talisman of Indulgence",
+      "Godless Shrine",
+      "Blood Crypt",
+      "Sacred Foundry"
+    ]
+  },
+  "Hazel of the Rootbloom": {
+    "synergy": [
+      "Chatterfang, Squirrel General",
+      "Chitterspitter",
+      "Swarmyard Massacre",
+      "Swarmyard",
+      "The Odd Acorn Gang",
+      "Toski, Bearer of Secrets"
+    ],
+    "popular": [
+      "Woodland Cemetery",
+      "Second Harvest",
+      "Deep Forest Hermit",
+      "Skullclamp"
+    ]
+  },
+  "Sonic the Hedgehog": {
+    "synergy": [
+      "Knuckles the Echidna",
+      "Super State",
+      "Enduring Curiosity",
+      "Captain Lannery Storm",
+      "Goldspan Dragon",
+      "Pyrohemia"
+    ],
+    "popular": [
+      "Frostcliff Siege",
+      "Clifftop Retreat",
+      "Mystic Monastery",
+      "Sulfur Falls"
+    ]
+  },
+  "The Mindskinner": {
+    "synergy": [
+      "Ruin Crab",
+      "Fractured Sanity",
+      "Maddening Cacophony",
+      "Fireshrieker",
+      "Bruvac the Grandiloquent",
+      "The Water Crystal"
+    ],
+    "popular": [
+      "Propaganda",
+      "Sapphire Medallion",
+      "Tasha's Hideous Laughter",
+      "Bonehoard"
+    ]
+  },
+  "Shadow the Hedgehog": {
+    "synergy": [
+      "Great Furnace",
+      "Vault of Whispers",
+      "Knuckles the Echidna",
+      "Darksteel Citadel",
+      "Treasure Vault",
+      "Drossforge Bridge"
+    ],
+    "popular": [
+      "Deadly Dispute",
+      "Talisman of Indulgence",
+      "Rakdos Signet",
+      "Professional Face-Breaker"
+    ]
+  },
+  "Captain Howler, Sea Scourge": {
+    "synergy": [
+      "Marauding Mako",
+      "Ghostly Pilferer",
+      "Key to the City",
+      "Magmakin Artillerist",
+      "Scrounging Skyray",
+      "Monument to Endurance"
+    ],
+    "popular": [
+      "Faithless Looting",
+      "Frantic Search",
+      "Sulfur Falls",
+      "Wonder"
+    ]
+  },
+  "Yuna, Grand Summoner": {
+    "synergy": [
+      "Tidus, Yuna's Guardian",
+      "Sphere Grid",
+      "Damning Verdict",
+      "Hardened Scales",
+      "Walking Ballista",
+      "Inspiring Call"
+    ],
+    "popular": [
+      "Path to Exile",
+      "Hinterland Harbor",
+      "Incubation Druid",
+      "Sunpetal Grove"
+    ]
+  },
+  "Sokka, Tenacious Tactician": {
+    "synergy": [
+      "South Pole Voyager",
+      "Bender's Waterskin",
+      "Hakoda, Selfless Commander",
+      "Sokka's Charge",
+      "Wartime Protestors",
+      "United Front"
+    ],
+    "popular": [
+      "Whirlwind of Thought",
+      "Brainstorm",
+      "Path to Exile",
+      "Opt"
+    ]
+  },
+  "Dina, Essence Brewer": {
+    "synergy": [
+      "High Market",
+      "Turbulent Fen",
+      "Ophiomancer",
+      "Beledros Witherbloom",
+      "Pest Rescuer",
+      "Defiling Daemogoth"
+    ],
+    "popular": [
+      "Woodland Cemetery",
+      "Llanowar Wastes",
+      "Vernal Fen",
+      "Assassin's Trophy"
+    ]
+  },
+  "Tinybones, Bauble Burglar": {
+    "synergy": [
+      "Waste Not",
+      "Bandit's Talent",
+      "Burglar Rat",
+      "Painful Quandary",
+      "Oppression",
+      "Geth's Grimoire"
+    ],
+    "popular": [
+      "Syphon Mind",
+      "Dark Ritual",
+      "Rankle, Master of Pranks",
+      "Virus Beetle"
+    ]
+  },
+  "Kona, Rescue Beastie": {
+    "synergy": [
+      "Springleaf Drum",
+      "Jaspera Sentinel",
+      "Holdout Settlement",
+      "Survivors' Encampment",
+      "Worldspine Wurm",
+      "Relic of Legends"
+    ],
+    "popular": [
+      "Garruk's Uprising",
+      "Terastodon",
+      "Llanowar Elves",
+      "Kodama of the East Tree"
+    ]
+  },
+  "Alania, Divergent Storm": {
+    "synergy": [
+      "Valley Floodcaller",
+      "Thundertrap Trainer",
+      "Stormcatch Mentor",
+      "Pearl of Wisdom",
+      "Coruscation Mage",
+      "Daring Waverider"
+    ],
+    "popular": [
+      "Sulfur Falls",
+      "Kitsa, Otterball Elite",
+      "Stormsplitter",
+      "Ral, Crackling Wit"
+    ]
+  },
+  "Zimone, Infinite Analyst": {
+    "synergy": [
+      "Unbound Flourishing",
+      "Goldvein Hydra",
+      "Hydroid Krasis",
+      "Owlin Spiralmancer",
+      "Benevolent Hydra",
+      "Animist's Awakening"
+    ],
+    "popular": [
+      "Hinterland Harbor",
+      "Sodden Verdure",
+      "Kinetic Ooze",
+      "Flooded Grove"
+    ]
+  },
+  "Silverquill, the Disputant": {
+    "synergy": [
+      "Sedgemoor Witch",
+      "Monastery Mentor",
+      "Will of the Mardu",
+      "Secure the Wastes",
+      "Grand Crescendo",
+      "Ophiomancer"
+    ],
+    "popular": [
+      "Isolated Chapel",
+      "Dark Ritual",
+      "Deadly Dispute",
+      "Path to Exile"
+    ]
+  },
+  "Killian, Decisive Mentor": {
+    "synergy": [
+      "Eriette of the Charmed Apple",
+      "Kor Spiritdancer",
+      "Ghoulish Impetus",
+      "Pearl-Ear, Imperial Advisor",
+      "Killian, Ink Duelist",
+      "Sram, Senior Edificer"
+    ],
+    "popular": [
+      "Isolated Chapel",
+      "Darksteel Mutation",
+      "Sheltered by Ghosts",
+      "Redemption Arc"
+    ]
+  },
+  "Trostani, Selesnya's Voice": {
+    "synergy": [
+      "Sundering Growth",
+      "Crested Sunmare",
+      "Rootborn Defenses",
+      "Aetherflux Reservoir",
+      "Rhys the Redeemed",
+      "Soul Warden"
+    ],
+    "popular": [
+      "Canopy Vista",
+      "Sunpetal Grove",
+      "Path to Exile",
+      "Bountiful Promenade"
+    ]
+  },
+  "The Jolly Balloon Man": {
+    "synergy": [
+      "Village Bell-Ringer",
+      "Spirited Companion",
+      "Solemn Simulacrum",
+      "Ertha Jo, Frontier Mentor",
+      "Marvin, Murderous Mimic",
+      "Impact Tremors"
+    ],
+    "popular": [
+      "Clifftop Retreat",
+      "Path to Exile",
+      "Skullclamp",
+      "Battlefield Forge"
+    ]
+  },
+  "Lorehold, the Historian": {
+    "synergy": [
+      "Hit the Mother Lode",
+      "Library of Leng",
+      "Storm Herd",
+      "Monument to Endurance",
+      "Bender's Waterskin",
+      "Brass's Bounty"
+    ],
+    "popular": [
+      "Clifftop Retreat",
+      "Big Score",
+      "Sacred Foundry",
+      "Sensei's Divining Top"
+    ]
+  },
+  "Prismari, the Inspiration": {
+    "synergy": [
+      "Pyretic Ritual",
+      "Seething Song",
+      "Mana Geyser",
+      "Strike It Rich",
+      "Storm-Kiln Artist",
+      "Resonating Lute"
+    ],
+    "popular": [
+      "Sulfur Falls",
+      "Archmage Emeritus",
+      "Big Score",
+      "Frantic Search"
+    ]
+  },
+  "Doctor Doom, King of Latveria": {
+    "synergy": [
+      "Ultron, Unlimited",
+      "Chameleon, Master of Disguise",
+      "Iron Monger, Sadistic Tycoon",
+      "Villainous Hideout",
+      "Baron Strucker, HYDRA Overlord",
+      "Prowler, Clawed Thief"
+    ],
+    "popular": [
+      "Luxury Suite",
+      "Talisman of Dominance",
+      "Dragonskull Summit",
+      "Drowned Catacomb"
+    ]
+  },
+  "Infinite Guideline Station": {
+    "synergy": [
+      "Inspirit, Flagship Vessel",
+      "General Ferrous Rokiric",
+      "Leyline of the Guildpact",
+      "The Seriema",
+      "Kilo, Apogee Mind",
+      "Uthros, Titanic Godcore"
+    ],
+    "popular": [
+      "Faeburrow Elder",
+      "Breeding Pool",
+      "Stomping Ground",
+      "Jhoira, Weatherlight Captain"
+    ]
+  },
+  "Ketramose, the New Dawn": {
+    "synergy": [
+      "Ghost Vacuum",
+      "Relic of Progenitus",
+      "Ephemerate",
+      "Lion Sash",
+      "Phelia, Exuberant Shepherd",
+      "Emperor of Bones"
+    ],
+    "popular": [
+      "Path to Exile",
+      "Isolated Chapel",
+      "Caves of Koilos",
+      "Godless Shrine"
+    ]
+  },
+  "Saheeli, Radiant Creator": {
+    "synergy": [
+      "Aetherworks Marvel",
+      "Aether Hub",
+      "Decoction Module",
+      "Nissa, Worldsoul Speaker",
+      "Aetherflux Conduit",
+      "Solar Transformer"
+    ],
+    "popular": [
+      "Izzet Generatorium",
+      "Lightning Runner",
+      "Whirler Virtuoso",
+      "Sulfur Falls"
+    ]
+  },
+  "Thranduil, the Elvenking": {
+    "synergy": [
+      "Elvish Archdruid",
+      "Priest of Titania",
+      "Lathril, Blade of the Elves",
+      "Marwyn, the Nurturer",
+      "Devoted Druid",
+      "Llanowar Elves"
+    ],
+    "popular": [
+      "Buried Alive",
+      "Elvish Mystic",
+      "Immaculate Magistrate",
+      "Thranduil, Sindarin Liege"
+    ]
+  },
+  "Tannuk, Steadfast Second": {
+    "synergy": [
+      "Etali, Primal Storm",
+      "Combustible Gearhulk",
+      "Coveted Jewel",
+      "Maelstrom Colossus",
+      "Conjurer's Closet",
+      "Drakuseth, Maw of Flames"
+    ],
+    "popular": [
+      "Ruby Medallion",
+      "Blasphemous Act",
+      "Trumpeting Carnosaur",
+      "Meteor Golem"
+    ]
+  },
+  "Kastral, the Windcrested": {
+    "synergy": [
+      "Warden of Evos Isle",
+      "Watcher of the Spheres",
+      "Empyrean Eagle",
+      "Murmuration",
+      "Gwaihir the Windlord",
+      "Kangee, Sky Warden"
+    ],
+    "popular": [
+      "Prairie Stream",
+      "Jackdaw Savior",
+      "Glacial Fortress",
+      "Dazzling Denial"
+    ]
+  },
+  "Katara, the Fearless": {
+    "synergy": [
+      "Earth King's Lieutenant",
+      "South Pole Voyager",
+      "Great Divide Guide",
+      "Suki, Kyoshi Warrior",
+      "Hakoda, Selfless Commander",
+      "Sokka, Lateral Strategist"
+    ],
+    "popular": [
+      "Katara, Water Tribe's Hope",
+      "Aang, Swift Savior",
+      "Jasmine Dragon Tea Shop",
+      "Haru, Hidden Talent"
+    ]
+  },
+  "Quintorius, History Chaser": {
+    "synergy": [
+      "Currency Converter",
+      "Containment Construct",
+      "Serra Paragon",
+      "Hofri Ghostforge",
+      "Quintorius, Field Historian",
+      "Conspiracy Theorist"
+    ],
+    "popular": [
+      "Clifftop Retreat",
+      "Sevinne's Reclamation",
+      "Faithless Looting",
+      "Radiant Summit"
+    ]
+  },
+  "Betor, Kin to All": {
+    "synergy": [
+      "Felothar the Steadfast",
+      "Tree of Redemption",
+      "Doran, Besieged by Time",
+      "Tree of Perdition",
+      "Assault Formation",
+      "Bedrock Tortoise"
+    ],
+    "popular": [
+      "Sandsteppe Citadel",
+      "Sylvan Caryatid",
+      "Arbor Adherent",
+      "Woodland Cemetery"
+    ]
+  },
+  "Gev, Scaled Scorch": {
+    "synergy": [
+      "Flamecache Gecko",
+      "Iridescent Vinelasher",
+      "Fireglass Mentor",
+      "Agate Instigator",
+      "Valley Flamecaller",
+      "Hired Claw"
+    ],
+    "popular": [
+      "Impact Tremors",
+      "Hearthborn Battler",
+      "Smoldering Marsh",
+      "Spitfire Lagac"
+    ]
+  },
+  "Aloy, Savior of Meridian": {
+    "synergy": [
+      "Blightsteel Colossus",
+      "Meteor Golem",
+      "Kappa Cannoneer",
+      "Etherium Sculptor",
+      "Foundry Inspector",
+      "Seat of the Synod"
+    ],
+    "popular": [
+      "Hinterland Harbor",
+      "Steel Overseer",
+      "Tree of Tales",
+      "Traxos, Scourge of Kroog"
+    ]
+  },
+  "Niko, Light of Hope": {
+    "synergy": [
+      "Soulherder",
+      "Ephemerate",
+      "Cloudshift",
+      "Entity Tracker",
+      "Dour Port-Mage",
+      "Essence Flux"
+    ],
+    "popular": [
+      "Glacial Fortress",
+      "Prairie Stream",
+      "Momentary Blink",
+      "Azorius Signet"
+    ]
+  },
+  "Eddie Brock": {
+    "synergy": [
+      "Ghalta, Primal Hunger",
+      "Anticausal Vestige",
+      "Bygone Colossus",
+      "Junji, the Midnight Sky",
+      "Riveteers Ascendancy",
+      "Diamond Weapon"
+    ],
+    "popular": [
+      "Ignoble Hierarch",
+      "Reanimate",
+      "Stomping Ground",
+      "Overgrown Tomb"
+    ]
+  },
+  "Shiko and Narset, Unified": {
+    "synergy": [
+      "Veyran, Voice of Duality",
+      "Narset's Reversal",
+      "Archmage Emeritus",
+      "Prismari Command",
+      "Aligned Heart",
+      "Storm-Kiln Artist"
+    ],
+    "popular": [
+      "Sulfur Falls",
+      "Glacial Fortress",
+      "Whirlwind of Thought",
+      "Clifftop Retreat"
+    ]
+  },
+  "Bria, Riptide Rogue": {
+    "synergy": [
+      "Stormcatch Mentor",
+      "Pearl of Wisdom",
+      "Kitsa, Otterball Elite",
+      "Ral, Crackling Wit",
+      "Stormsplitter",
+      "Alania, Divergent Storm"
+    ],
+    "popular": [
+      "Sulfur Falls",
+      "Opt",
+      "Coruscation Mage",
+      "Ponder"
+    ]
+  },
+  "Shilgengar, Sire of Famine": {
+    "synergy": [
+      "Giada, Font of Hope",
+      "Angel of the Ruins",
+      "Angel of Suffering",
+      "Lyra Dawnbringer",
+      "Righteous Valkyrie",
+      "Renegade Reaper"
+    ],
+    "popular": [
+      "Isolated Chapel",
+      "Talisman of Hierarchy",
+      "Orzhov Signet",
+      "Caves of Koilos"
+    ]
+  },
+  "Ghalta, Primal Hunger": {
+    "synergy": [
+      "Hulking Raptor",
+      "Topiary Stomper",
+      "Goreclaw, Terror of Qal Sisma",
+      "Gigantosaurus",
+      "Tangleweave Armor",
+      "Llanowar Tribe"
+    ],
+    "popular": [
+      "Llanowar Elves",
+      "Garruk's Uprising",
+      "Elvish Mystic",
+      "Rishkar's Expertise"
+    ]
+  },
+  "Kratos, God of War": {
+    "synergy": [
+      "World at War",
+      "Urabrask the Hidden",
+      "Crawlspace",
+      "Kazuul, Tyrant of the Cliffs",
+      "Alexios, Deimos of Kosmos",
+      "Sulfuric Vortex"
+    ],
+    "popular": [
+      "Ruby Medallion",
+      "Blasphemous Act",
+      "Professional Face-Breaker",
+      "Seething Song"
+    ]
+  },
+  "Kudo, King Among Bears": {
+    "synergy": [
+      "Ayula, Queen Among Bears",
+      "Elesh Norn, Grand Cenobite",
+      "Beorn the Fierce",
+      "Reverence",
+      "Toski, Bearer of Secrets",
+      "Champion of Lambholt"
+    ],
+    "popular": [
+      "Canopy Vista",
+      "Path to Exile",
+      "Sunpetal Grove",
+      "Kutzil, Malamet Exemplar"
+    ]
+  },
+  "Iron Man, Titan of Innovation": {
+    "synergy": [
+      "Inventors' Fair",
+      "Sculpting Steel",
+      "Commander's Plate",
+      "Etherium Sculptor",
+      "Emry, Lurker of the Loch",
+      "Esoteric Duplicator"
+    ],
+    "popular": [
+      "Seat of the Synod",
+      "Enthusiastic Mechanaut",
+      "Talisman of Creativity",
+      "Sulfur Falls"
+    ]
+  },
+  "Tannuk, Memorial Ensign": {
+    "synergy": [
+      "Sabotender",
+      "Keen Sense",
+      "Spitfire Lagac",
+      "Harrow",
+      "Snake Umbra",
+      "Tunneling Geopede"
+    ],
+    "popular": [
+      "Cinder Glade",
+      "Lotus Cobra",
+      "Tireless Provisioner",
+      "Gruul Turf"
+    ]
+  },
+  "Elsha, Threefold Master": {
+    "synergy": [
+      "Monastery Mentor",
+      "Enter the Enigma",
+      "Whirlwind of Thought",
+      "Opt",
+      "Veyran, Voice of Duality",
+      "Ponder"
+    ],
+    "popular": [
+      "Sulfur Falls",
+      "Glacial Fortress",
+      "Clifftop Retreat",
+      "Preordain"
+    ]
+  },
+  "Noctis, Prince of Lucis": {
+    "synergy": [
+      "Aetherflux Reservoir",
+      "Solemnity",
+      "Etherium Sculptor",
+      "Vexing Bauble",
+      "Foundry Inspector",
+      "Golbez, Crystal Collector"
+    ],
+    "popular": [
+      "Watery Grave",
+      "Godless Shrine",
+      "Hallowed Fountain",
+      "Talisman of Dominance"
+    ]
+  },
+  "Phenax, God of Deception": {
+    "synergy": [
+      "Consuming Aberration",
+      "Charix, the Raging Isle",
+      "Ruin Crab",
+      "Tree of Perdition",
+      "Maddening Cacophony",
+      "Bruvac the Grandiloquent"
+    ],
+    "popular": [
+      "Mindcrank",
+      "Sunken Hollow",
+      "Drowned Catacomb",
+      "Dimir Signet"
+    ]
+  },
+  "Finneas, Ace Archer": {
+    "synergy": [
+      "Burrowguard Mentor",
+      "Valley Questcaller",
+      "Jacked Rabbit",
+      "Warren Warleader",
+      "Hare Apparent",
+      "Oakhollow Village"
+    ],
+    "popular": [
+      "Canopy Vista",
+      "Byrke, Long Ear of the Law",
+      "Hop to It",
+      "Caretaker's Talent"
+    ]
+  },
+  "Coram, the Undertaker": {
+    "synergy": [
+      "Brawn",
+      "Lord of Extinction",
+      "Yargle and Multani",
+      "Anger",
+      "Buried Alive",
+      "Titanoth Rex"
+    ],
+    "popular": [
+      "Ignoble Hierarch",
+      "Faithless Looting",
+      "Chandra's Ignition",
+      "Stitcher's Supplier"
+    ]
+  },
+  "The Infamous Cruelclaw": {
+    "synergy": [
+      "Access Tunnel",
+      "Hit the Mother Lode",
+      "Etali, Primal Storm",
+      "Whispersilk Cloak",
+      "In Garruk's Wake",
+      "Breach the Multiverse"
+    ],
+    "popular": [
+      "Dragonskull Summit",
+      "Smoldering Marsh",
+      "Blood Crypt",
+      "Sulfurous Springs"
+    ]
+  },
+  "Lumra, Bellow of the Woods": {
+    "synergy": [
+      "Zuran Orb",
+      "Six",
+      "Lotus Field",
+      "Spelunking",
+      "Sylvan Safekeeper",
+      "Aftermath Analyst"
+    ],
+    "popular": [
+      "Lotus Cobra",
+      "Crop Rotation",
+      "Command Beacon",
+      "Tireless Provisioner"
+    ]
+  },
+  "Alexios, Deimos of Kosmos": {
+    "synergy": [
+      "The Spear of Leonidas",
+      "Beamtown Beatstick",
+      "Shiny Impetus",
+      "Mask of Memory",
+      "Lizard Blades",
+      "Brotherhood Regalia"
+    ],
+    "popular": [
+      "Blasphemous Act",
+      "Sword of the Animist",
+      "Ruby Medallion",
+      "Goldvein Pick"
+    ]
+  },
+  "Cloud, Midgar Mercenary": {
+    "synergy": [
+      "Puresteel Paladin",
+      "Buster Sword",
+      "Forge Anew",
+      "Sigarda's Aid",
+      "Sram, Senior Edificer",
+      "Genji Glove"
+    ],
+    "popular": [
+      "Sword of the Animist",
+      "Path to Exile",
+      "Stoneforge Mystic",
+      "Sword of Feast and Famine"
+    ]
+  },
+  "Kess, Dissident Mage": {
+    "synergy": [
+      "Ponder",
+      "Frantic Search",
+      "Preordain",
+      "Brainstorm",
+      "Faithless Looting",
+      "Storm-Kiln Artist"
+    ],
+    "popular": [
+      "Dark Ritual",
+      "Steam Vents",
+      "Watery Grave",
+      "Blood Crypt"
+    ]
+  },
+  "Szarel, Genesis Shepherd": {
+    "synergy": [
+      "Hearthhull, the Worldseed",
+      "The Gitrog Monster",
+      "Exploration Broodship",
+      "Mazirek, Kraul Death Priest",
+      "Horizon Explorer",
+      "Oracle of Mul Daya"
+    ],
+    "popular": [
+      "Fabled Passage",
+      "Korvold, Fae-Cursed King",
+      "Harrow",
+      "Riveteers Overlook"
+    ]
+  },
+  "Vnwxt, Verbose Host": {
+    "synergy": [
+      "Muraganda Raceway",
+      "Slither Blade",
+      "Psychosis Crawler",
+      "Spectral Sailor",
+      "Laboratory Maniac",
+      "Amonkhet Raceway"
+    ],
+    "popular": [
+      "Brainstorm",
+      "Frantic Search",
+      "Sapphire Medallion",
+      "Teferi's Ageless Insight"
+    ]
+  },
+  "Neriv, Heart of the Storm": {
+    "synergy": [
+      "Mardu Siegebreaker",
+      "Enduring Courage",
+      "Warstorm Surge",
+      "Nahiri's Resolve",
+      "Blade of Selves",
+      "Goldlust Triad"
+    ],
+    "popular": [
+      "Nomad Outpost",
+      "Clifftop Retreat",
+      "Dragonskull Summit",
+      "Talisman of Conviction"
+    ]
+  },
+  "Jace, Multiverse Architect": {
+    "synergy": [
+      "Skrelv's Hive",
+      "Reflecting Pool",
+      "Brainstorm",
+      "Proteus Staff",
+      "Dreadhorde Invasion",
+      "Grand Crescendo"
+    ],
+    "popular": [
+      "Talisman of Dominance",
+      "Talisman of Progress",
+      "Talisman of Creativity",
+      "Path to Exile"
+    ]
+  },
+  "The Master of Keys": {
+    "synergy": [
+      "Ripples of Undeath",
+      "Animate Dead",
+      "Inquisitive Glimmer",
+      "Dress Down",
+      "Necromancy",
+      "Entity Tracker"
+    ],
+    "popular": [
+      "Godless Shrine",
+      "Watery Grave",
+      "Hallowed Fountain",
+      "Mystic Remora"
+    ]
+  },
+  "Clement, the Worrywort": {
+    "synergy": [
+      "Pond Prophet",
+      "Dour Port-Mage",
+      "Long River Lurker",
+      "Clifftop Lookout",
+      "Sunshower Druid",
+      "Three Tree Scribe"
+    ],
+    "popular": [
+      "Dreamdew Entrancer",
+      "Lilysplash Mentor",
+      "Valley Mightcaller",
+      "Mistbreath Elder"
+    ]
+  },
+  "Winter, Misanthropic Guide": {
+    "synergy": [
+      "Waste Not",
+      "Razorkin Needlehead",
+      "Scrawling Crawler",
+      "Fate Unraveler",
+      "Underworld Dreams",
+      "Megrim"
+    ],
+    "popular": [
+      "Faithless Looting",
+      "Ignoble Hierarch",
+      "Drag to the Roots",
+      "Spiteful Visions"
+    ]
+  },
+  "Squall, SeeD Mercenary": {
+    "synergy": [
+      "Accursed Marauder",
+      "Plaguecrafter",
+      "Mask of Memory",
+      "Key to the City",
+      "Blitzball",
+      "Cathar Commando"
+    ],
+    "popular": [
+      "Isolated Chapel",
+      "Godless Shrine",
+      "Caves of Koilos",
+      "Talisman of Hierarchy"
+    ]
+  },
+  "The Unbeatable Squirrel Girl": {
+    "synergy": [
+      "Squirrel Sovereign",
+      "Chitterspitter",
+      "Honored Dreyleader",
+      "Squirrel Mob",
+      "Thornvault Forager",
+      "Cryptolith Rite"
+    ],
+    "popular": [
+      "Toski, Bearer of Secrets",
+      "Heroic Intervention",
+      "Squirrel Nest",
+      "Enduring Vitality"
+    ]
+  },
+  "Niv-Mizzet, Visionary": {
+    "synergy": [
+      "Boltwave",
+      "Firebrand Archer",
+      "Flame Rift",
+      "Laboratory Maniac",
+      "Niv-Mizzet, the Firemind",
+      "Guttersnipe"
+    ],
+    "popular": [
+      "Lightning Bolt",
+      "Niv-Mizzet, Parun",
+      "Izzet Signet",
+      "Sulfur Falls"
+    ]
+  },
+  "Bruce Banner": {
+    "synergy": [
+      "Caltrops",
+      "Moonmist",
+      "World War Hulk",
+      "Strength of Will",
+      "Red Hulk",
+      "Pyrohemia"
+    ],
+    "popular": [
+      "Heroic Intervention",
+      "Stomping Ground",
+      "Breeding Pool",
+      "Birds of Paradise"
+    ]
+  },
+  "Ozai, the Phoenix King": {
+    "synergy": [
+      "Fire Nation Palace",
+      "Sozin's Comet",
+      "The Last Agni Kai",
+      "Zuko, Exiled Prince",
+      "Avatar Roku, Firebender",
+      "Firebender Ascension"
+    ],
+    "popular": [
+      "Redirect Lightning",
+      "Dark Ritual",
+      "Firebending Student",
+      "The Legend of Roku"
+    ]
+  },
+  "Ultima, Origin of Oblivion": {
+    "synergy": [
+      "Zhulodok, Void Gorger",
+      "Breaker of Creation",
+      "Summon: Bahamut",
+      "It That Heralds the End",
+      "Ulamog, the Defiler",
+      "Kozilek, the Great Distortion"
+    ],
+    "popular": [
+      "Forsaken Monument",
+      "All Is Dust",
+      "Echoes of Eternity",
+      "Urza's Tower"
+    ]
+  },
+  "Tifa, Martial Artist": {
+    "synergy": [
+      "Adriana, Captain of the Guard",
+      "Anzrag, the Quake-Mole",
+      "Goreclaw, Terror of Qal Sisma",
+      "Lightning, Army of One",
+      "Sephiroth, Fallen Hero",
+      "Iroas, God of Victory"
+    ],
+    "popular": [
+      "Garruk's Uprising",
+      "Clifftop Retreat",
+      "Rootbound Crag",
+      "Sunpetal Grove"
+    ]
+  },
+  "Tony Stark": {
+    "synergy": [
+      "Shuri, Wakandan Inventor",
+      "Iron Man, Master of Machines",
+      "Arc Reactor",
+      "Seat of the Synod",
+      "Iron Man, Bleeding Edge",
+      "Iron Man, Titan of Innovation"
+    ],
+    "popular": [
+      "Sulfur Falls",
+      "Great Furnace",
+      "Talisman of Creativity",
+      "Enthusiastic Mechanaut"
+    ]
+  },
+  "Zoraline, Cosmos Caller": {
+    "synergy": [
+      "Lifecreed Duo",
+      "Moonstone Harbinger",
+      "Essence Channeler",
+      "Starscape Cleric",
+      "Darkstar Augur",
+      "Moonrise Cleric"
+    ],
+    "popular": [
+      "Lunar Convocation",
+      "Star Charter",
+      "Starlit Soothsayer",
+      "Starseer Mentor"
+    ]
+  },
+  "Raph & Mikey, Troublemakers": {
+    "synergy": [
+      "Port Razer",
+      "Raphael, Tag Team Tough",
+      "Blightsteel Colossus",
+      "Seething Song",
+      "Old Gnawbone",
+      "Irencrag Feat"
+    ],
+    "popular": [
+      "Stomping Ground",
+      "Talisman of Impulse",
+      "Wild Growth",
+      "Karplusan Forest"
+    ]
+  },
+  "Slinza, the Spiked Stampede": {
+    "synergy": [
+      "Krosan Warchief",
+      "Thunderfoot Baloth",
+      "Rampaging Baloths",
+      "Elder Gargaroth",
+      "Garruk's Packleader",
+      "Woodland Liege"
+    ],
+    "popular": [
+      "Garruk's Uprising",
+      "Quartzwood Crasher",
+      "Rhythm of the Wild",
+      "Wirewood Savage"
+    ]
+  },
+  "Thorin, King of Durin's Folk": {
+    "synergy": [
+      "Fíli the Pathfinder",
+      "Bifur, Melodic Rider",
+      "Thorin Oakenshield",
+      "Fíli and Kíli, Joyous",
+      "Glóin, Dwarf Emissary",
+      "An Unexpected Party"
+    ],
+    "popular": [
+      "Kíli the Resourceful",
+      "Dáin's Company",
+      "The Lonely Mountain",
+      "Dáin, Lord of the Iron Hills"
+    ]
+  },
+  "Evereth, Viceroy of Plunder": {
+    "synergy": [
+      "Pitiless Plunderer",
+      "Tarrian's Soulcleaver",
+      "Blade of the Bloodchief",
+      "Academy Manufactor",
+      "Juri, Master of the Revue",
+      "Ruthless Technomancer"
+    ],
+    "popular": [
+      "Deadly Dispute",
+      "Dragonskull Summit",
+      "Mahadi, Emporium Master",
+      "Impulsive Pilferer"
+    ]
+  },
+  "Clive, Ifrit's Dominant": {
+    "synergy": [
+      "Fanatic of Mogis",
+      "The Fire Crystal",
+      "Glint-Horn Buccaneer",
+      "Magmakin Artillerist",
+      "Anger",
+      "Count on Luck"
+    ],
+    "popular": [
+      "Ruby Medallion",
+      "Blasphemous Act",
+      "Mana Geyser",
+      "Torbran, Thane of Red Fell"
+    ]
+  },
+  "Zurgo, Thunder's Decree": {
+    "synergy": [
+      "Bone-Cairn Butcher",
+      "Dalkovan Packbeasts",
+      "Mardu Siegebreaker",
+      "Avenger of the Fallen",
+      "Stadium Headliner",
+      "Venerated Stormsinger"
+    ],
+    "popular": [
+      "Nomad Outpost",
+      "Voice of Victory",
+      "Windcrag Siege",
+      "Infantry Shield"
+    ]
+  },
+  "Ardbert, Warrior of Darkness": {
+    "synergy": [
+      "Felisa, Fang of Silverquill",
+      "Arvad the Cursed",
+      "Venat, Heart of Hydaelyn",
+      "Shay Cormac",
+      "Urza's Ruinous Blast",
+      "Primevals' Glorious Rebirth"
+    ],
+    "popular": [
+      "Isolated Chapel",
+      "Despark",
+      "Elas il-Kor, Sadistic Pilgrim",
+      "Breena, the Demagogue"
+    ]
+  },
+  "Mabel, Heir to Cragflame": {
+    "synergy": [
+      "Manifold Mouse",
+      "Heartfire Hero",
+      "Seedglaive Mentor",
+      "Whiskervale Forerunner",
+      "Brambleguard Captain",
+      "Flowerfoot Swordmaster"
+    ],
+    "popular": [
+      "Nettle Guard",
+      "Emberheart Challenger",
+      "Steelburr Champion",
+      "Mouse Trapper"
+    ]
+  },
+  "Hei Bai, Forest Guardian": {
+    "synergy": [
+      "Sanctum of All",
+      "Go-Shintai of Life's Origin",
+      "The Spirit Oasis",
+      "Sanctum of Calm Waters",
+      "Sanctum of Fruitful Harvest",
+      "Sanctum of Stone Fangs"
+    ],
+    "popular": [
+      "Northern Air Temple",
+      "Honden of Infinite Rage",
+      "Honden of Seeing Winds",
+      "Southern Air Temple"
+    ]
+  },
+  "The Lord of Pain": {
+    "synergy": [
+      "Vial Smasher the Fierce",
+      "Kaervek the Merciless",
+      "Valgavoth, Harrower of Souls",
+      "Mogis, God of Slaughter",
+      "Basilisk Collar",
+      "Kederekt Parasite"
+    ],
+    "popular": [
+      "Dragonskull Summit",
+      "Blasphemous Act",
+      "Smoldering Marsh",
+      "Rakdos Charm"
+    ]
+  },
+  "Jenova, Ancient Calamity": {
+    "synergy": [
+      "Evolution Witness",
+      "Hardened Scales",
+      "Kami of Whispered Hopes",
+      "Hancock, Ghoulish Mayor",
+      "Forgotten Ancient",
+      "Host of the Hereafter"
+    ],
+    "popular": [
+      "Woodland Cemetery",
+      "Corpsejack Menace",
+      "The Earth Crystal",
+      "Assassin's Trophy"
+    ]
+  },
+  "Ral, Monsoon Mage": {
+    "synergy": [
+      "Desperate Ritual",
+      "Pyretic Ritual",
+      "Past in Flames",
+      "Tavern Scoundrel",
+      "Seething Song",
+      "Will of the Jeskai"
+    ],
+    "popular": [
+      "Storm-Kiln Artist",
+      "Frantic Search",
+      "Snap",
+      "Steam Vents"
+    ]
+  },
+  "Rootha, Mastering the Moment": {
+    "synergy": [
+      "Surge to Victory",
+      "Dirgur Focusmage",
+      "Volcanic Salvo",
+      "Thunderclap Drake",
+      "Dig Through Time",
+      "Turbulent Springs"
+    ],
+    "popular": [
+      "Sulfur Falls",
+      "Shivan Reef",
+      "Cascade Bluffs",
+      "Mana Geyser"
+    ]
+  },
+  "Brigid, Clachan's Heart": {
+    "synergy": [
+      "Kinbinding",
+      "Figure of Fable",
+      "Eclipsed Kithkin",
+      "Brigid's Command",
+      "Kinscaer Sentry",
+      "Thoughtweft Lieutenant"
+    ],
+    "popular": [
+      "Temple Garden",
+      "Llanowar Elves",
+      "Sunpetal Grove",
+      "Canopy Vista"
+    ]
+  },
+  "Zur the Enchanter": {
+    "synergy": [
+      "Grasp of Fate",
+      "All That Glitters",
+      "Ethereal Armor",
+      "Diplomatic Immunity",
+      "Mirrormade",
+      "Steel of the Godhead"
+    ],
+    "popular": [
+      "Propaganda",
+      "Hallowed Fountain",
+      "Ghostly Prison",
+      "Godless Shrine"
+    ]
+  },
+  "Aesi, Tyrant of Gyre Strait": {
+    "synergy": [
+      "Azusa, Lost but Seeking",
+      "Lotus Cobra",
+      "Tatyova, Benthic Druid",
+      "Ramunap Excavator",
+      "Rampaging Baloths",
+      "Scute Swarm"
+    ],
+    "popular": [
+      "Simic Growth Chamber",
+      "Growth Spiral",
+      "Avenger of Zendikar",
+      "Explore"
+    ]
+  },
+  "Urza, Chief Artificer": {
+    "synergy": [
+      "Seat of the Synod",
+      "Ancient Den",
+      "Etherium Sculptor",
+      "Vault of Whispers",
+      "Darksteel Citadel",
+      "Razortide Bridge"
+    ],
+    "popular": [
+      "Mistvault Bridge",
+      "Sai, Master Thopterist",
+      "Goldmire Bridge",
+      "Foundry Inspector"
+    ]
+  },
+  "Alela, Artful Provocateur": {
+    "synergy": [
+      "Intangible Virtue",
+      "Obyra, Dreaming Duelist",
+      "Bitterblossom",
+      "Tegwyll, Duke of Splendor",
+      "Favorable Winds",
+      "Bident of Thassa"
+    ],
+    "popular": [
+      "Arcane Sanctum",
+      "All That Glitters",
+      "Watery Grave",
+      "Skullclamp"
+    ]
+  },
+  "Morophon, the Boundless": {
+    "synergy": [
+      "Fist of Suns",
+      "Realmwalker",
+      "Herald's Horn",
+      "Kindred Discovery",
+      "Maskwood Nexus",
+      "Urza's Incubator"
+    ],
+    "popular": [
+      "The World Tree",
+      "Unclaimed Territory",
+      "Cavern of Souls",
+      "Secluded Courtyard"
+    ]
+  },
+  "Zada, Hedron Grinder": {
+    "synergy": [
+      "Fists of Flame",
+      "Expedite",
+      "Ancestors' Aid",
+      "Renegade Tactics",
+      "Sudden Breakthrough",
+      "Dragon Fodder"
+    ],
+    "popular": [
+      "Krenko's Command",
+      "Storm-Kiln Artist",
+      "Crimson Wisps",
+      "Empty the Warrens"
+    ]
+  },
+  "Magus Lucea Kane": {
+    "synergy": [
+      "Zoanthrope",
+      "Unbound Flourishing",
+      "Mawloc",
+      "Sporocyst",
+      "Nexos",
+      "Tyrant Guard"
+    ],
+    "popular": [
+      "Hydroid Krasis",
+      "Tervigon",
+      "Aberrant",
+      "Winged Hive Tyrant"
+    ]
+  },
+  "Satoru Umezawa": {
+    "synergy": [
+      "Silver-Fur Master",
+      "Slither Blade",
+      "Triton Shorestalker",
+      "Changeling Outcast",
+      "Thousand-Faced Shadow",
+      "Silent-Blade Oni"
+    ],
+    "popular": [
+      "Baleful Strix",
+      "Ornithopter",
+      "Sunken Hollow",
+      "Mist-Cloaked Herald"
+    ]
+  },
+  "Inalla, Archmage Ritualist": {
+    "synergy": [
+      "Bloodline Necromancer",
+      "Step Through",
+      "Naban, Dean of Iteration",
+      "Archaeomancer",
+      "Riptide Laboratory",
+      "Harmonic Prodigy"
+    ],
+    "popular": [
+      "Dualcaster Mage",
+      "Talisman of Dominance",
+      "Azami, Lady of Scrolls",
+      "Watery Grave"
+    ]
+  },
+  "Omnath, Locus of All": {
+    "synergy": [
+      "Villainous Wealth",
+      "Void Rend",
+      "Ruinous Ultimatum",
+      "Abzan Charm",
+      "Omnath, Locus of Creation",
+      "Atraxa, Grand Unifier"
+    ],
+    "popular": [
+      "Faeburrow Elder",
+      "Breeding Pool",
+      "The World Tree",
+      "Stomping Ground"
+    ]
+  },
+  "Kykar, Wind's Fury": {
+    "synergy": [
+      "Skullclamp",
+      "Whirlwind of Thought",
+      "Impact Tremors",
+      "Harmonic Prodigy",
+      "Brainstorm",
+      "Opt"
+    ],
+    "popular": [
+      "Path to Exile",
+      "Talisman of Creativity",
+      "Sulfur Falls",
+      "Mystic Monastery"
+    ]
+  },
+  "The Scarab God": {
+    "synergy": [
+      "Diregraf Captain",
+      "Rooftop Storm",
+      "Death Baron",
+      "Gravecrawler",
+      "Diregraf Colossus",
+      "Gray Merchant of Asphodel"
+    ],
+    "popular": [
+      "Sunken Hollow",
+      "Dimir Signet",
+      "Lord of the Accursed",
+      "Drowned Catacomb"
+    ]
+  },
+  "Winota, Joiner of Forces": {
+    "synergy": [
+      "Blade Historian",
+      "Angrath's Marauders",
+      "Ornithopter",
+      "Lena, Selfless Champion",
+      "Loyal Apprentice",
+      "Combat Celebrant"
+    ],
+    "popular": [
+      "Battlefield Forge",
+      "Ornithopter of Paradise",
+      "Legion Warboss",
+      "Gingerbrute"
+    ]
+  },
+  "Prosper, Tome-Bound": {
+    "synergy": [
+      "Xorn",
+      "Wild-Magic Sorcerer",
+      "Marionette Master",
+      "Laelia, the Blade Reforged",
+      "Light Up the Stage",
+      "Reckless Fireweaver"
+    ],
+    "popular": [
+      "Smoldering Marsh",
+      "Talisman of Indulgence",
+      "Mayhem Devil",
+      "Professional Face-Breaker"
+    ]
+  },
+  "Sythis, Harvest's Hand": {
+    "synergy": [
+      "Sanctum Weaver",
+      "Enchantress's Presence",
+      "Sterling Grove",
+      "Destiny Spinner",
+      "Jukai Naturalist",
+      "Setessan Champion"
+    ],
+    "popular": [
+      "Wild Growth",
+      "Utopia Sprawl",
+      "Eidolon of Blossoms",
+      "Sigil of the Empty Throne"
+    ]
+  },
+  "Marchesa, the Black Rose": {
+    "synergy": [
+      "Unspeakable Symbol",
+      "Iron Apprentice",
+      "Carrion Feeder",
+      "Flayer of the Hatebound",
+      "Uncivil Unrest",
+      "Thran Vigil"
+    ],
+    "popular": [
+      "Blasphemous Act",
+      "Ashnod's Altar",
+      "Baleful Strix",
+      "Viscera Seer"
+    ]
+  },
+  "Tiamat": {
+    "synergy": [
+      "Dracogenesis",
+      "Miirym, Sentinel Wyrm",
+      "Dragon Tempest",
+      "Dragonspeaker Shaman",
+      "Lathliss, Dragon Queen",
+      "Crux of Fate"
+    ],
+    "popular": [
+      "Atarka, World Render",
+      "Terror of the Peaks",
+      "Dragonlord's Servant",
+      "Haven of the Spirit Dragon"
+    ]
+  },
+  "Najeela, the Blade-Blossom": {
+    "synergy": [
+      "Samut, Vizier of Naktamun",
+      "Professional Face-Breaker",
+      "Derevi, Empyrial Tactician",
+      "Champion of Lambholt",
+      "Kutzil, Malamet Exemplar",
+      "Druids' Repository"
+    ],
+    "popular": [
+      "Birds of Paradise",
+      "Wooded Foothills",
+      "Windswept Heath",
+      "Bloodstained Mire"
+    ]
+  },
+  "Shelob, Child of Ungoliant": {
+    "synergy": [
+      "Arasta of the Endless Web",
+      "Ishkanah, Grafwidow",
+      "Arachnogenesis",
+      "Shelob, Dread Weaver",
+      "Twin-Silk Spider",
+      "Rotwidow Pack"
+    ],
+    "popular": [
+      "Twitching Doll",
+      "Drider",
+      "Skyfisher Spider",
+      "Curse of Clinging Webs"
+    ]
+  },
+  "Rocco, Street Chef": {
+    "synergy": [
+      "Night of the Sweets' Revenge",
+      "Academy Manufactor",
+      "Peregrin Took",
+      "Rosie Cotton of South Lane",
+      "Baylen, the Haymaker",
+      "Inspiring Statuary"
+    ],
+    "popular": [
+      "Jaheira, Friend of the Forest",
+      "Pia Nalaar, Consul of Revival",
+      "Gilded Goose",
+      "Annie Joins Up"
+    ]
+  },
+  "Liesa, Shroud of Dusk": {
+    "synergy": [
+      "Kambal, Consul of Allocation",
+      "Authority of the Consuls",
+      "Soul Warden",
+      "Vito, Thorn of the Dusk Rose",
+      "Sanguine Bond",
+      "Blind Obedience"
+    ],
+    "popular": [
+      "Isolated Chapel",
+      "Orzhov Signet",
+      "Caves of Koilos",
+      "Path to Exile"
+    ]
+  },
+  "Ramos, Dragon Engine": {
+    "synergy": [
+      "Door to Nothingness",
+      "Abzan Charm",
+      "Maelstrom Nexus",
+      "Maelstrom Archangel",
+      "Progenitus",
+      "Conflux"
+    ],
+    "popular": [
+      "Faeburrow Elder",
+      "Leyline of the Guildpact",
+      "The World Tree",
+      "Growth Spiral"
+    ]
+  },
+  "Sefris of the Hidden Ways": {
+    "synergy": [
+      "Radiant Solar",
+      "Nadaar, Selfless Paladin",
+      "Midnight Pathlighter",
+      "Hama Pashar, Ruin Seeker",
+      "White Plume Adventurer",
+      "Triumphant Adventurer"
+    ],
+    "popular": [
+      "Sun Titan",
+      "Victimize",
+      "Karmic Guide",
+      "Tortured Existence"
+    ]
+  },
+  "Varina, Lich Queen": {
+    "synergy": [
+      "Wayward Servant",
+      "Gravecrawler",
+      "Diregraf Captain",
+      "Death Baron",
+      "Rooftop Storm",
+      "Diregraf Colossus"
+    ],
+    "popular": [
+      "Corpse Knight",
+      "Undead Augur",
+      "Cryptbreaker",
+      "Lord of the Accursed"
+    ]
+  },
+  "Judith, Carnage Connoisseur": {
+    "synergy": [
+      "Tectonic Hazard",
+      "End the Festivities",
+      "Blazing Volley",
+      "Electrickery",
+      "Guttersnipe",
+      "Smash to Dust"
+    ],
+    "popular": [
+      "Blasphemous Act",
+      "Smoldering Marsh",
+      "Dragonskull Summit",
+      "Village Rites"
+    ]
+  },
+  "Stella Lee, Wild Card": {
+    "synergy": [
+      "Cerulean Wisps",
+      "Refocus",
+      "Twisted Fealty",
+      "Twitch",
+      "Serum Visions",
+      "Opt"
+    ],
+    "popular": [
+      "Shivan Reef",
+      "Ponder",
+      "Sulfur Falls",
+      "Preordain"
+    ]
+  },
+  "Sheoldred, the Apocalypse": {
+    "synergy": [
+      "Underworld Dreams",
+      "Peer into the Abyss",
+      "Seizan, Perverter of Truth",
+      "Howling Mine",
+      "Teferi's Puzzle Box",
+      "Dark Deal"
+    ],
+    "popular": [
+      "Dark Ritual",
+      "Phyrexian Arena",
+      "Jet Medallion",
+      "Cabal Coffers"
+    ]
+  },
+  "Marneus Calgar": {
+    "synergy": [
+      "Kambal, Profiteering Mayor",
+      "Nadir Kraken",
+      "Ultramarines Honour Guard",
+      "Ashnod's Altar",
+      "Skullclamp",
+      "Space Marine Devastator"
+    ],
+    "popular": [
+      "Talisman of Progress",
+      "Talisman of Dominance",
+      "Talisman of Hierarchy",
+      "Godless Shrine"
+    ]
+  },
+  "Etali, Primal Conqueror // Etali, Primal Sickness": {
+    "synergy": [
+      "Twinflame",
+      "Electroduplicate",
+      "Cursed Mirror",
+      "Jaxis, the Troublemaker",
+      "Heat Shimmer",
+      "Hellkite Courser"
+    ],
+    "popular": [
+      "Stomping Ground",
+      "Birds of Paradise",
+      "Molten Duplication",
+      "Rionya, Fire Dancer"
+    ]
+  },
+  "Fynn, the Fangbearer": {
+    "synergy": [
+      "Ambush Viper",
+      "Infectious Bite",
+      "Fang of Shigeki",
+      "Deadly Recluse",
+      "Moss Viper",
+      "Hornet Queen"
+    ],
+    "popular": [
+      "Evolution Sage",
+      "Nightshade Dryad",
+      "Wasteland Viper",
+      "Tajuru Blightblade"
+    ]
+  },
+  "Tovolar, Dire Overlord // Tovolar, the Midnight Scourge": {
+    "synergy": [
+      "Kessig Naturalist",
+      "Tovolar's Huntmaster",
+      "Immerwolf",
+      "Outland Liberator",
+      "Mayor of Avabruck",
+      "Howlpack Piper"
+    ],
+    "popular": [
+      "Huntmaster of the Fells",
+      "Avabruck Caretaker",
+      "Full Moon's Rise",
+      "Scorned Villager"
+    ]
+  },
+  "Be'lakor, the Dark Master": {
+    "synergy": [
+      "Herald of Slaanesh",
+      "Bloodthirster",
+      "Kardur, Doomscourge",
+      "Rakdos, Lord of Riots",
+      "Rakdos, the Showstopper",
+      "Archfiend of Depravity"
+    ],
+    "popular": [
+      "Talisman of Dominance",
+      "Talisman of Indulgence",
+      "Crumbling Necropolis",
+      "Great Unclean One"
+    ]
+  },
+  "Lord of the Nazgûl": {
+    "synergy": [
+      "Nazgûl",
+      "Birthday Escape",
+      "Call of the Ring",
+      "Witch-king of Angmar",
+      "Ringsight",
+      "Opt"
+    ],
+    "popular": [
+      "Sunken Hollow",
+      "Dark Ritual",
+      "Drowned Catacomb",
+      "Brainstorm"
+    ]
+  },
+  "Kibo, Uktabi Prince": {
+    "synergy": [
+      "Viridian Revel",
+      "Gorilla Shaman",
+      "Silverback Elder",
+      "Uktabi Orangutan",
+      "Kogla, the Titan Ape",
+      "Gearbane Orangutan"
+    ],
+    "popular": [
+      "Vandalblast",
+      "Hardened Scales",
+      "Kogla and Yidaro",
+      "Scrounging Bandar"
+    ]
+  },
+  "Marrow-Gnawer": {
+    "synergy": [
+      "Piper of the Swarm",
+      "Pack Rat",
+      "Karumonix, the Rat King",
+      "Rat Colony",
+      "Ogre Slumlord",
+      "Swarmyard"
+    ],
+    "popular": [
+      "Jet Medallion",
+      "Lord Skitter, Sewer King",
+      "Bontu's Monument",
+      "Dark Ritual"
+    ]
+  },
+  "Feather, the Redeemed": {
+    "synergy": [
+      "Defiant Strike",
+      "Shelter",
+      "Expedite",
+      "Zada, Hedron Grinder",
+      "Fists of Flame",
+      "Gods Willing"
+    ],
+    "popular": [
+      "Clifftop Retreat",
+      "Storm-Kiln Artist",
+      "Path to Exile",
+      "Young Pyromancer"
+    ]
+  },
+  "Jon Irenicus, Shattered One": {
+    "synergy": [
+      "Flesh Reaver",
+      "Abyssal Persecutor",
+      "Demonic Taskmaster",
+      "Archfiend of the Dross",
+      "Rotting Regisaur",
+      "Ebon Drake"
+    ],
+    "popular": [
+      "Propaganda",
+      "Dimir Signet",
+      "Sunken Hollow",
+      "Talisman of Dominance"
+    ]
+  },
+  "Tivit, Seller of Secrets": {
+    "synergy": [
+      "Time Sieve",
+      "Academy Manufactor",
+      "Displacer Kitten",
+      "Illusion of Choice",
+      "Brago's Representative",
+      "Council's Judgment"
+    ],
+    "popular": [
+      "Hallowed Fountain",
+      "Watery Grave",
+      "Godless Shrine",
+      "Talisman of Dominance"
+    ]
+  },
+  "Yurlok of Scorch Thrash": {
+    "synergy": [
+      "Mana Flare",
+      "Citadel of Pain",
+      "Heartbeat of Spring",
+      "Overabundance",
+      "Zhur-Taa Ancient",
+      "Belbe, Corrupted Observer"
+    ],
+    "popular": [
+      "Manabarbs",
+      "Horizon Stone",
+      "Magus of the Vineyard",
+      "Exsanguinate"
+    ]
+  },
+  "Hylda of the Icy Crown": {
+    "synergy": [
+      "Hylda's Crown of Winter",
+      "Sharae of Numbing Depths",
+      "Verity Circle",
+      "Blustersquall",
+      "Court Street Denizen",
+      "Opposition"
+    ],
+    "popular": [
+      "Solitary Sanctuary",
+      "Glacial Fortress",
+      "Dreamshackle Geist",
+      "Citadel Siege"
+    ]
+  },
+  "Zedruu the Greathearted": {
+    "synergy": [
+      "Humble Defector",
+      "Nine Lives",
+      "Role Reversal",
+      "Pendant of Prosperity",
+      "Bazaar Trader",
+      "Akroan Horse"
+    ],
+    "popular": [
+      "Mystic Monastery",
+      "Propaganda",
+      "Ghostly Prison",
+      "Hithlain Rope"
+    ]
+  },
+  "Arahbo, Roar of the World": {
+    "synergy": [
+      "Regal Caracal",
+      "Feline Sovereign",
+      "Mirri, Weatherlight Duelist",
+      "Arahbo, the First Fang",
+      "King of the Pride",
+      "Pride Sovereign"
+    ],
+    "popular": [
+      "Kutzil, Malamet Exemplar",
+      "Leonin Warleader",
+      "Qasali Slingers",
+      "Brimaz, King of Oreskos"
+    ]
+  },
+  "Thalia and The Gitrog Monster": {
+    "synergy": [
+      "Ramunap Excavator",
+      "The Gitrog Monster",
+      "Scute Swarm",
+      "Conduit of Worlds",
+      "The Necrobloom",
+      "Titania, Protector of Argoth"
+    ],
+    "popular": [
+      "Overgrown Tomb",
+      "Temple Garden",
+      "Godless Shrine",
+      "Windswept Heath"
+    ]
+  },
+  "Derevi, Empyrial Tactician": {
+    "synergy": [
+      "Bloom Tender",
+      "Emiel the Blessed",
+      "Faeburrow Elder",
+      "Mockingbird",
+      "Delney, Streetwise Lookout",
+      "Birds of Paradise"
+    ],
+    "popular": [
+      "Hallowed Fountain",
+      "Breeding Pool",
+      "Temple Garden",
+      "Windswept Heath"
+    ]
+  },
+  "Ovika, Enigma Goliath": {
+    "synergy": [
+      "Impact Tremors",
+      "Shared Animosity",
+      "Distant Melody",
+      "Skirk Prospector",
+      "Heraldic Banner",
+      "Hedron Archive"
+    ],
+    "popular": [
+      "Izzet Signet",
+      "Sulfur Falls",
+      "Talisman of Creativity",
+      "Shivan Reef"
+    ]
+  },
+  "Saruman, the White Hand": {
+    "synergy": [
+      "Orcish Siegemaster",
+      "Summons of Saruman",
+      "Treason of Isengard",
+      "Foray of Orcs",
+      "Saruman's Trickery",
+      "Barad-dûr"
+    ],
+    "popular": [
+      "Blasphemous Act",
+      "Sulfur Falls",
+      "Crumbling Necropolis",
+      "Dragonskull Summit"
+    ]
+  },
+  "Umbris, Fear Manifest": {
+    "synergy": [
+      "Tasha's Hideous Laughter",
+      "Leyline of the Void",
+      "Ashiok, Nightmare Muse",
+      "Captain N'ghathrod",
+      "Spellskite",
+      "Ashiok, Dream Render"
+    ],
+    "popular": [
+      "Sunken Hollow",
+      "Grazilaxx, Illithid Scholar",
+      "Maddening Cacophony",
+      "Uchuulon"
+    ]
+  },
+  "Orvar, the All-Form": {
+    "synergy": [
+      "Mind Games",
+      "Thermal Flux",
+      "Dream's Grip",
+      "Twiddle",
+      "Hidden Strings",
+      "Vesuvan Duplimancy"
+    ],
+    "popular": [
+      "Mystic Sanctuary",
+      "Sapphire Medallion",
+      "Archmage Emeritus",
+      "Archaeomancer"
+    ]
+  },
+  "Veyran, Voice of Duality": {
+    "synergy": [
+      "Guttersnipe",
+      "Archmage Emeritus",
+      "Storm-Kiln Artist",
+      "Expressive Iteration",
+      "Harmonic Prodigy",
+      "Opt"
+    ],
+    "popular": [
+      "Sulfur Falls",
+      "Ponder",
+      "Shivan Reef",
+      "Brainstorm"
+    ]
+  },
+  "Gonti, Canny Acquisitor": {
+    "synergy": [
+      "Thief of Sanity",
+      "Slither Blade",
+      "Doc Aurlock, Grizzled Genius",
+      "Felix Five-Boots",
+      "Triton Shorestalker",
+      "Brainstealer Dragon"
+    ],
+    "popular": [
+      "Baleful Strix",
+      "Villainous Wealth",
+      "Hinterland Harbor",
+      "Woodland Cemetery"
+    ]
+  },
+  "Child of Alara": {
+    "synergy": [
+      "Thespian's Stage",
+      "Azusa, Lost but Seeking",
+      "Golgari Guildgate",
+      "Selesnya Guildgate",
+      "Simic Guildgate",
+      "Gruul Guildgate"
+    ],
+    "popular": [
+      "The World Tree",
+      "Azorius Guildgate",
+      "Dimir Guildgate",
+      "Maze's End"
+    ]
+  },
+  "Sliver Overlord": {
+    "synergy": [
+      "Gemhide Sliver",
+      "Sliver Hivelord",
+      "Manaweft Sliver",
+      "Cloudshredder Sliver",
+      "Crystalline Sliver",
+      "Harmonic Sliver"
+    ],
+    "popular": [
+      "Sliver Legion",
+      "Quick Sliver",
+      "Galerider Sliver",
+      "The First Sliver"
+    ]
+  },
+  "Dihada, Binder of Wills": {
+    "synergy": [
+      "Shanid, Sleepers' Scourge",
+      "Primevals' Glorious Rebirth",
+      "Urza's Ruinous Blast",
+      "Odric, Lunarch Marshal",
+      "Shizo, Death's Storehouse",
+      "Cadric, Soul Kindler"
+    ],
+    "popular": [
+      "Godless Shrine",
+      "Caves of Koilos",
+      "Nomad Outpost",
+      "Battlefield Forge"
+    ]
+  },
+  "Ziatora, the Incinerator": {
+    "synergy": [
+      "Riveteers Ascendancy",
+      "Yargle and Multani",
+      "Phytotitan",
+      "Mr. Orfeo, the Boulder",
+      "Daemogoth Titan",
+      "Ghalta, Primal Hunger"
+    ],
+    "popular": [
+      "Ignoble Hierarch",
+      "Ziatora's Proving Ground",
+      "Savage Lands",
+      "Cinder Glade"
+    ]
+  },
+  "Clavileño, First of the Blessed": {
+    "synergy": [
+      "Cordial Vampire",
+      "Mavren Fein, Dusk Apostle",
+      "Master of Dark Rites",
+      "Indulgent Aristocrat",
+      "Legion Lieutenant",
+      "Olivia's Wrath"
+    ],
+    "popular": [
+      "Isolated Chapel",
+      "Elenda, the Dusk Rose",
+      "Blood Artist",
+      "Charismatic Conqueror"
+    ]
+  },
+  "Ob Nixilis, Captive Kingpin": {
+    "synergy": [
+      "Kederekt Parasite",
+      "Unstable Amulet",
+      "Razorkin Needlehead",
+      "Prosper, Tome-Bound",
+      "Kessig Flamebreather",
+      "Grapeshot"
+    ],
+    "popular": [
+      "Dark Ritual",
+      "Talisman of Indulgence",
+      "Blood Crypt",
+      "Coruscation Mage"
+    ]
+  },
+  "Rakdos, Lord of Riots": {
+    "synergy": [
+      "Spear Spewer",
+      "Thermo-Alchemist",
+      "Stormfist Crusader",
+      "Cryptolith Fragment",
+      "Rune-Scarred Demon",
+      "Creeping Bloodsucker"
+    ],
+    "popular": [
+      "Rakdos Charm",
+      "Rakdos Signet",
+      "Dragonskull Summit",
+      "Smoldering Marsh"
+    ]
+  },
+  "Narset, Enlightened Exile": {
+    "synergy": [
+      "Monastery Mentor",
+      "Jeskai Ascendancy",
+      "Third Path Iconoclast",
+      "Balmor, Battlemage Captain",
+      "Kykar, Wind's Fury",
+      "Whirlwind of Thought"
+    ],
+    "popular": [
+      "Frantic Search",
+      "Path to Exile",
+      "Ponder",
+      "Veyran, Voice of Duality"
+    ]
+  },
+  "Raffine, Scheming Seer": {
+    "synergy": [
+      "Archfiend of Ifnir",
+      "Reanimate",
+      "Animate Dead",
+      "Ledger Shredder",
+      "Victimize",
+      "Adeline, Resplendent Cathar"
+    ],
+    "popular": [
+      "Watery Grave",
+      "Hallowed Fountain",
+      "Godless Shrine",
+      "Raffine's Tower"
+    ]
+  },
+  "Ojer Axonil, Deepest Might // Temple of Power": {
+    "synergy": [
+      "Firebrand Archer",
+      "Thermo-Alchemist",
+      "Kessig Flamebreather",
+      "Tectonic Hazard",
+      "End the Festivities",
+      "Manabarbs"
+    ],
+    "popular": [
+      "Ruby Medallion",
+      "Coruscation Mage",
+      "Fiery Confluence",
+      "Grapeshot"
+    ]
+  },
+  "Vihaan, Goldwaker": {
+    "synergy": [
+      "Mahadi, Emporium Master",
+      "Xorn",
+      "Olivia, Opulent Outlaw",
+      "Pitiless Plunderer",
+      "Mari, the Killing Quill",
+      "Blood Money"
+    ],
+    "popular": [
+      "Deadly Dispute",
+      "Professional Face-Breaker",
+      "Big Score",
+      "Lotho, Corrupt Shirriff"
+    ]
+  },
+  "The Gitrog Monster": {
+    "synergy": [
+      "Dakmor Salvage",
+      "Ramunap Excavator",
+      "Crop Rotation",
+      "Life from the Loam",
+      "Sylvan Safekeeper",
+      "Icetill Explorer"
+    ],
+    "popular": [
+      "Assassin's Trophy",
+      "Overgrown Tomb",
+      "Verdant Catacombs",
+      "Harrow"
+    ]
+  },
+  "Lord Windgrace": {
+    "synergy": [
+      "The Gitrog Monster",
+      "Ramunap Excavator",
+      "Lotus Cobra",
+      "Azusa, Lost but Seeking",
+      "Avenger of Zendikar",
+      "Splendid Reclamation"
+    ],
+    "popular": [
+      "Stomping Ground",
+      "Omnath, Locus of Rage",
+      "Crop Rotation",
+      "Overgrown Tomb"
+    ]
+  },
+  "Jetmir, Nexus of Revels": {
+    "synergy": [
+      "Adeline, Resplendent Cathar",
+      "Artifact Mutation",
+      "Aura Mutation",
+      "Krenko, Tin Street Kingpin",
+      "Grand Crescendo",
+      "March of the Multitudes"
+    ],
+    "popular": [
+      "Path to Exile",
+      "Jetmir's Garden",
+      "Temple Garden",
+      "Kutzil, Malamet Exemplar"
+    ]
+  },
+  "Rocco, Cabaretti Caterer": {
+    "synergy": [
+      "Wirewood Symbiote",
+      "Eternal Witness",
+      "Norin the Wary",
+      "Avacyn's Pilgrim",
+      "Welcoming Vampire",
+      "Gala Greeters"
+    ],
+    "popular": [
+      "Stomping Ground",
+      "Temple Garden",
+      "Sacred Foundry",
+      "Birds of Paradise"
+    ]
+  },
+  "Nicol Bolas, the Ravager // Nicol Bolas, the Arisen": {
+    "synergy": [
+      "Nicol Bolas, Dragon-God",
+      "Nicol Bolas, God-Pharaoh",
+      "Nicol Bolas, Planeswalker",
+      "The Eldest Reborn",
+      "Deliver Unto Evil",
+      "Nicol Bolas, the Deceiver"
+    ],
+    "popular": [
+      "Watery Grave",
+      "Steam Vents",
+      "Blood Crypt",
+      "Dragonskull Summit"
+    ]
+  },
+  "Omnath, Locus of Mana": {
+    "synergy": [
+      "Mana Reflection",
+      "Doubling Cube",
+      "Wilderness Reclamation",
+      "Seedborn Muse",
+      "Nyxbloom Ancient",
+      "Selvala, Heart of the Wilds"
+    ],
+    "popular": [
+      "Llanowar Elves",
+      "Elvish Mystic",
+      "Fyndhorn Elves",
+      "Nissa, Who Shakes the World"
+    ]
+  },
+  "Chulane, Teller of Tales": {
+    "synergy": [
+      "Shrieking Drake",
+      "Lotus Cobra",
+      "Llanowar Elves",
+      "Whitemane Lion",
+      "Elvish Mystic",
+      "Tatyova, Benthic Druid"
+    ],
+    "popular": [
+      "Hallowed Fountain",
+      "Birds of Paradise",
+      "Breeding Pool",
+      "Temple Garden"
+    ]
+  },
+  "Roxanne, Starfall Savant": {
+    "synergy": [
+      "Second Harvest",
+      "Panharmonicon",
+      "Reckless Fireweaver",
+      "For the Common Good",
+      "Parallel Lives",
+      "Blade of Selves"
+    ],
+    "popular": [
+      "Cinder Glade",
+      "Rootbound Crag",
+      "Goblin Anarchomancer",
+      "Big Score"
+    ]
+  },
+  "Shalai and Hallar": {
+    "synergy": [
+      "Forgotten Ancient",
+      "Managorger Hydra",
+      "Hardened Scales",
+      "Inspiring Call",
+      "Kami of Whispered Hopes",
+      "Kalonian Hydra"
+    ],
+    "popular": [
+      "Gavony Township",
+      "Canopy Vista",
+      "Branching Evolution",
+      "Jungle Shrine"
+    ]
+  },
+  "Queza, Augur of Agonies": {
+    "synergy": [
+      "Psychosis Crawler",
+      "Marauding Blight-Priest",
+      "Peer into the Abyss",
+      "Teferi's Ageless Insight",
+      "Drogskol Reaver",
+      "Laboratory Maniac"
+    ],
+    "popular": [
+      "Brainstorm",
+      "Windfall",
+      "Arcane Sanctum",
+      "Path to Exile"
+    ]
+  },
+  "Dina, Soul Steeper": {
+    "synergy": [
+      "Marauding Blight-Priest",
+      "Essence Warden",
+      "Mortality Spear",
+      "Deathgreeter",
+      "Prosperous Innkeeper",
+      "Blood Artist"
+    ],
+    "popular": [
+      "Jungle Hollow",
+      "Woodland Cemetery",
+      "Zulaport Cutthroat",
+      "Llanowar Wastes"
+    ]
+  },
+  "Jodah, Archmage Eternal": {
+    "synergy": [
+      "Omniscience",
+      "Fist of Suns",
+      "Ruinous Ultimatum",
+      "Apex Devastator",
+      "Conflux",
+      "Genesis Ultimatum"
+    ],
+    "popular": [
+      "Faeburrow Elder",
+      "Birds of Paradise",
+      "Maelstrom Wanderer",
+      "Timeless Lotus"
+    ]
+  },
+  "Tatyova, Benthic Druid": {
+    "synergy": [
+      "Azusa, Lost but Seeking",
+      "Rampaging Baloths",
+      "Lotus Cobra",
+      "Harrow",
+      "Tireless Provisioner",
+      "Scute Swarm"
+    ],
+    "popular": [
+      "Simic Growth Chamber",
+      "Growth Spiral",
+      "Avenger of Zendikar",
+      "Explore"
+    ]
+  },
+  "Mirko, Obsessive Theorist": {
+    "synergy": [
+      "Doom Whisperer",
+      "Unshakable Tail",
+      "Sinister Starfish",
+      "Otherworldly Gaze",
+      "Case of the Shifting Visage",
+      "Pile On"
+    ],
+    "popular": [
+      "Sunken Hollow",
+      "Consider",
+      "Reanimate",
+      "Tainted Isle"
+    ]
+  },
+  "The Mycotyrant": {
+    "synergy": [
+      "Skull Prophet",
+      "Mycoloth",
+      "Golgari Grave-Troll",
+      "Cankerbloom",
+      "Nyx Weaver",
+      "Insidious Roots"
+    ],
+    "popular": [
+      "Woodland Cemetery",
+      "Mirkwood Bats",
+      "Skullclamp",
+      "Syr Konrad, the Grim"
+    ]
+  },
+  "Hazezon, Shaper of Sand": {
+    "synergy": [
+      "Hashep Oasis",
+      "Desert of the Indomitable",
+      "Desert of the True",
+      "Ramunap Ruins",
+      "Shefet Dunes",
+      "Desert of the Fervent"
+    ],
+    "popular": [
+      "Creosote Heath",
+      "Dunes of the Dead",
+      "Bristling Backwoods",
+      "Dune Chanter"
+    ]
+  },
+  "Reaper King": {
+    "synergy": [
+      "Scuttlemutt",
+      "Scarecrone",
+      "Oasis Gardener",
+      "Scaretiller",
+      "Panharmonicon",
+      "Heap Doll"
+    ],
+    "popular": [
+      "Maskwood Nexus",
+      "Realmwalker",
+      "Wild-Field Scarecrow",
+      "Reflections of Littjara"
+    ]
+  },
+  "Marvo, Deep Operative": {
+    "synergy": [
+      "Research the Deep",
+      "One with the Multiverse",
+      "Revive the Fallen",
+      "Whirlpool Whelm",
+      "Hoarder's Greed",
+      "Scattering Stroke"
+    ],
+    "popular": [
+      "Brainstorm",
+      "Sunken Hollow",
+      "Dimir Signet",
+      "Lantern of Insight"
+    ]
+  },
+  "Norin the Wary": {
+    "synergy": [
+      "Genesis Chamber",
+      "Tome of Legends",
+      "Witty Roastmaster",
+      "Rose Room Treasurer",
+      "Molten Gatekeeper",
+      "Panharmonicon"
+    ],
+    "popular": [
+      "Impact Tremors",
+      "Purphoros, God of the Forge",
+      "Torbran, Thane of Red Fell",
+      "Blasphemous Act"
+    ]
+  },
+  "Gargos, Vicious Watcher": {
+    "synergy": [
+      "Voracious Hydra",
+      "Managorger Hydra",
+      "Kalonian Hydra",
+      "Hungering Hydra",
+      "Lifeblood Hydra",
+      "Hydra Omnivore"
+    ],
+    "popular": [
+      "Garruk's Uprising",
+      "Primordial Hydra",
+      "Steelbane Hydra",
+      "Genesis Hydra"
+    ]
+  },
+  "Athreos, God of Passage": {
+    "synergy": [
+      "Shadowborn Apostle",
+      "Edgewalker",
+      "Immortal Servitude",
+      "Razaketh, the Foulblooded",
+      "Thrumming Stone",
+      "Harvester of Souls"
+    ],
+    "popular": [
+      "Isolated Chapel",
+      "Blood Artist",
+      "Godless Shrine",
+      "Skullclamp"
+    ]
+  },
+  "Toxrill, the Corrosive": {
+    "synergy": [
+      "Sludge Monster",
+      "Maha, Its Feathers Night",
+      "Blood Artist",
+      "Massacre Wurm",
+      "Thrummingbird",
+      "Mass Diminish"
+    ],
+    "popular": [
+      "Dark Ritual",
+      "Sunken Hollow",
+      "Dimir Signet",
+      "Drowned Catacomb"
+    ]
+  },
+  "Arna Kennerüd, Skycaptain": {
+    "synergy": [
+      "Sram, Senior Edificer",
+      "Puresteel Paladin",
+      "Danitha Capashen, Paragon",
+      "All That Glitters",
+      "Nettlecyst",
+      "Thran Power Suit"
+    ],
+    "popular": [
+      "Mantle of the Ancients",
+      "Arcane Sanctum",
+      "Ardenn, Intrepid Archaeologist",
+      "Glacial Fortress"
+    ]
+  },
+  "Raggadragga, Goreguts Boss": {
+    "synergy": [
+      "Viridian Joiner",
+      "Marwyn, the Nurturer",
+      "Leyline of Abundance",
+      "Ruby, Daring Tracker",
+      "Elvish Mystic",
+      "Llanowar Elves"
+    ],
+    "popular": [
+      "Fyndhorn Elves",
+      "Rhythm of the Wild",
+      "Cinder Glade",
+      "Beast Whisperer"
+    ]
+  },
+  "Minsc & Boo, Timeless Heroes": {
+    "synergy": [
+      "Taurean Mauler",
+      "Forgotten Ancient",
+      "Branching Evolution",
+      "Hardened Scales",
+      "Managorger Hydra",
+      "Fling"
+    ],
+    "popular": [
+      "Cinder Glade",
+      "Goblin Anarchomancer",
+      "Rootbound Crag",
+      "Blasphemous Act"
+    ]
+  },
+  "Myrel, Shield of Argive": {
+    "synergy": [
+      "Valiant Veteran",
+      "Captain of the Watch",
+      "Field Marshal",
+      "Daru Warchief",
+      "Bastion Protector",
+      "Odric, Master Tactician"
+    ],
+    "popular": [
+      "Path to Exile",
+      "Pearl Medallion",
+      "Mentor of the Meek",
+      "Keeper of the Accord"
+    ]
+  },
+  "Omnath, Locus of Rage": {
+    "synergy": [
+      "Ancient Greenwarden",
+      "Harrow",
+      "Mina and Denn, Wildborn",
+      "Azusa, Lost but Seeking",
+      "Lotus Cobra",
+      "Ramunap Excavator"
+    ],
+    "popular": [
+      "Garruk's Uprising",
+      "Cinder Glade",
+      "Gruul Turf",
+      "Warstorm Surge"
+    ]
+  },
+  "Elas il-Kor, Sadistic Pilgrim": {
+    "synergy": [
+      "Zulaport Cutthroat",
+      "Corpse Knight",
+      "Cruel Celebrant",
+      "Marauding Blight-Priest",
+      "Viscera Seer",
+      "Blood Artist"
+    ],
+    "popular": [
+      "Isolated Chapel",
+      "Caves of Koilos",
+      "Skullclamp",
+      "Bastion of Remembrance"
+    ]
+  },
+  "Obeka, Brute Chronologist": {
+    "synergy": [
+      "Sundial of the Infinite",
+      "Ideas Unbound",
+      "Sneak Attack",
+      "Feldon of the Third Path",
+      "Last Chance",
+      "Glorious End"
+    ],
+    "popular": [
+      "Saheeli, the Sun's Brilliance",
+      "Final Fortune",
+      "Nightscape Familiar",
+      "Flameshadow Conjuring"
+    ]
+  },
+  "Adrix and Nev, Twincasters": {
+    "synergy": [
+      "Rite of Replication",
+      "Esix, Fractal Bloom",
+      "Curiosity Crafter",
+      "Second Harvest",
+      "Idol of Oblivion",
+      "Reef Worm"
+    ],
+    "popular": [
+      "Hinterland Harbor",
+      "Yavimaya Coast",
+      "Simic Growth Chamber",
+      "Scute Swarm"
+    ]
+  },
+  "Brimaz, Blight of Oreskos": {
+    "synergy": [
+      "Progenitor Exarch",
+      "Filigree Vector",
+      "Karn's Bastion",
+      "Essence of Orthodoxy",
+      "Grafted Butcher",
+      "Norn's Inquisitor"
+    ],
+    "popular": [
+      "Elesh Norn",
+      "Phyrexian Censor",
+      "Tainted Field",
+      "Metastatic Evangel"
+    ]
+  },
+  "Braids, Arisen Nightmare": {
+    "synergy": [
+      "Ichor Wellspring",
+      "Jadar, Ghoulcaller of Nephalia",
+      "Ophiomancer",
+      "Reassembling Skeleton",
+      "Bloodghast",
+      "Prized Statue"
+    ],
+    "popular": [
+      "Dark Ritual",
+      "Gray Merchant of Asphodel",
+      "Jet Medallion",
+      "Blood Artist"
+    ]
+  },
+  "Strefan, Maurer Progenitor": {
+    "synergy": [
+      "Crossway Troublemakers",
+      "Glass-Cast Heart",
+      "Markov Enforcer",
+      "Anje, Maid of Dishonor",
+      "Patron of the Vein",
+      "Bloodtithe Harvester"
+    ],
+    "popular": [
+      "Smoldering Marsh",
+      "Voldaren Estate",
+      "Olivia's Attendants",
+      "Sanctum Seeker"
+    ]
+  },
+  "Marwyn, the Nurturer": {
+    "synergy": [
+      "Elvish Archdruid",
+      "Priest of Titania",
+      "Leaf-Crowned Visionary",
+      "Imperious Perfect",
+      "Ezuri, Renegade Leader",
+      "Elvish Visionary"
+    ],
+    "popular": [
+      "Llanowar Elves",
+      "Elvish Mystic",
+      "Beast Whisperer",
+      "Fyndhorn Elves"
+    ]
+  },
+  "Maelstrom Wanderer": {
+    "synergy": [
+      "Imoti, Celebrant of Bounty",
+      "Goreclaw, Terror of Qal Sisma",
+      "Etali, Primal Storm",
+      "Apex Devastator",
+      "Genesis Ultimatum",
+      "Averna, the Chaos Bloom"
+    ],
+    "popular": [
+      "Stomping Ground",
+      "Breeding Pool",
+      "Steam Vents",
+      "Skyshroud Claim"
+    ]
+  },
+  "Imotekh the Stormlord": {
+    "synergy": [
+      "Their Name Is Death",
+      "Cryptothrall",
+      "Skorpekh Lord",
+      "Vault of Whispers",
+      "Scrap Trawler",
+      "Anrakyr the Traveller"
+    ],
+    "popular": [
+      "Mystic Forge",
+      "Chronomancer",
+      "Necron Deathmark",
+      "Foundry Inspector"
+    ]
+  },
+  "Elesh Norn, Mother of Machines": {
+    "synergy": [
+      "Panharmonicon",
+      "Ephemerate",
+      "Teleportation Circle",
+      "Restoration Angel",
+      "Spirited Companion",
+      "Charming Prince"
+    ],
+    "popular": [
+      "Pearl Medallion",
+      "Path to Exile",
+      "Solemn Simulacrum",
+      "Suture Priest"
+    ]
+  },
+  "Kellan, the Kid": {
+    "synergy": [
+      "Vega, the Watcher",
+      "Doc Aurlock, Grizzled Genius",
+      "Fblthp, Lost on the Range",
+      "The Key to the Vault",
+      "Saw It Coming",
+      "Sage of the Beyond"
+    ],
+    "popular": [
+      "Rashmi, Eternities Crafter",
+      "The Reality Chip",
+      "Behold the Multiverse",
+      "Make Your Own Luck"
+    ]
+  },
+  "Grist, the Hunger Tide": {
+    "synergy": [
+      "Caustic Caterpillar",
+      "Aatchik, Emerald Radian",
+      "Zask, Skittering Swarmlord",
+      "Grist, Voracious Larva",
+      "Hornet Queen",
+      "Hornet Nest"
+    ],
+    "popular": [
+      "Haywire Mite",
+      "Scute Swarm",
+      "Giant Adephage",
+      "Woodland Cemetery"
+    ]
+  },
+  "Bristly Bill, Spine Sower": {
+    "synergy": [
+      "Hardened Scales",
+      "Branching Evolution",
+      "Mossborn Hydra",
+      "Kami of Whispered Hopes",
+      "Evolution Sage",
+      "Kodama of the West Tree"
+    ],
+    "popular": [
+      "Scute Swarm",
+      "Inspiring Call",
+      "Azusa, Lost but Seeking",
+      "Garruk's Uprising"
+    ]
+  },
+  "Tuvasa the Sunlit": {
+    "synergy": [
+      "Sythis, Harvest's Hand",
+      "Enchantress's Presence",
+      "Sanctum Weaver",
+      "Eidolon of Blossoms",
+      "Sterling Grove",
+      "Setessan Champion"
+    ],
+    "popular": [
+      "Wild Growth",
+      "Jukai Naturalist",
+      "Fertile Ground",
+      "Mesa Enchantress"
+    ]
+  },
+  "Talion, the Kindly Lord": {
+    "synergy": [
+      "Faerie Mastermind",
+      "Bloodchief Ascension",
+      "Sheoldred, the Apocalypse",
+      "Mystic Remora",
+      "Orcish Bowmasters",
+      "Swan Song"
+    ],
+    "popular": [
+      "Talisman of Dominance",
+      "Watery Grave",
+      "Dark Ritual",
+      "An Offer You Can't Refuse"
+    ]
+  },
+  "Gisa and Geralf": {
+    "synergy": [
+      "Diregraf Captain",
+      "Lord of the Accursed",
+      "Gray Merchant of Asphodel",
+      "Champion of the Perished",
+      "Rooftop Storm",
+      "Zombie Apocalypse"
+    ],
+    "popular": [
+      "Sunken Hollow",
+      "Choked Estuary",
+      "Cemetery Reaper",
+      "Undead Augur"
+    ]
+  },
+  "Gluntch, the Bestower": {
+    "synergy": [
+      "Flumph",
+      "Selvala, Explorer Returned",
+      "Rites of Flourishing",
+      "Cut a Deal",
+      "Orzhov Advokist",
+      "Nils, Discipline Enforcer"
+    ],
+    "popular": [
+      "Canopy Vista",
+      "Path to Exile",
+      "Sunpetal Grove",
+      "Secret Rendezvous"
+    ]
+  },
+  "Breena, the Demagogue": {
+    "synergy": [
+      "Duelist's Heritage",
+      "Felisa, Fang of Silverquill",
+      "Dusk Legion Duelist",
+      "Orzhov Advokist",
+      "Shadrix Silverquill",
+      "Promise of Loyalty"
+    ],
+    "popular": [
+      "Caves of Koilos",
+      "Isolated Chapel",
+      "Inkshield",
+      "Tainted Field"
+    ]
+  },
+  "Koma, Cosmos Serpent": {
+    "synergy": [
+      "Adrix and Nev, Twincasters",
+      "Elemental Bond",
+      "Whelming Wave",
+      "Koma, World-Eater",
+      "Spark Double",
+      "Junk Winder"
+    ],
+    "popular": [
+      "Hinterland Harbor",
+      "Breeding Pool",
+      "Parallel Lives",
+      "Growth Spiral"
+    ]
+  },
+  "Lathiel, the Bounteous Dawn": {
+    "synergy": [
+      "Soul Warden",
+      "Essence Warden",
+      "Soul's Attendant",
+      "Rhox Faithmender",
+      "Cleric Class",
+      "Conclave Mentor"
+    ],
+    "popular": [
+      "Canopy Vista",
+      "Blossoming Sands",
+      "Inspiring Call",
+      "Sunpetal Grove"
+    ]
+  },
+  "Sidisi, Brood Tyrant": {
+    "synergy": [
+      "Dread Return",
+      "Wonder",
+      "Snarling Gorehound",
+      "Skull Prophet",
+      "Wight of the Reliquary",
+      "Syr Konrad, the Grim"
+    ],
+    "popular": [
+      "Stitcher's Supplier",
+      "Eternal Witness",
+      "Overgrown Tomb",
+      "Opulent Palace"
+    ]
+  },
+  "Admiral Brass, Unsinkable": {
+    "synergy": [
+      "Malcolm, Keen-Eyed Navigator",
+      "Skeleton Crew",
+      "Port Razer",
+      "Coercive Recruiter",
+      "Corsair Captain",
+      "Admiral Beckett Brass"
+    ],
+    "popular": [
+      "Hostage Taker",
+      "Siren Stormtamer",
+      "Gemcutter Buccaneer",
+      "Captain Lannery Storm"
+    ]
+  },
+  "Ellivere of the Wild Court": {
+    "synergy": [
+      "Sanctum Weaver",
+      "Setessan Champion",
+      "Winds of Rath",
+      "Utopia Sprawl",
+      "Umbra Mystic",
+      "Destiny Spinner"
+    ],
+    "popular": [
+      "Canopy Vista",
+      "Eidolon of Blossoms",
+      "Ethereal Armor",
+      "Kenrith's Transformation"
+    ]
+  },
+  "Sméagol, Helpful Guide": {
+    "synergy": [
+      "Call of the Ring",
+      "Gollum, Patient Plotter",
+      "Sam's Desperate Rescue",
+      "Claim the Precious",
+      "Bombadil's Song",
+      "Dúnedain Rangers"
+    ],
+    "popular": [
+      "Scute Swarm",
+      "Nazgûl",
+      "Bloodghast",
+      "Sakura-Tribe Elder"
+    ]
+  },
+  "Commodore Guff": {
+    "synergy": [
+      "Oath of Teferi",
+      "Chandra, Legacy of Fire",
+      "Interplanar Beacon",
+      "Chandra, Torch of Defiance",
+      "The Chain Veil",
+      "Vronos, Masked Inquisitor"
+    ],
+    "popular": [
+      "Elspeth, Sun's Champion",
+      "Deepglow Skate",
+      "Karn's Bastion",
+      "Flux Channeler"
+    ]
+  },
+  "The Gitrog, Ravenous Ride": {
+    "synergy": [
+      "Daemogoth Titan",
+      "Yargle and Multani",
+      "Ghalta, Primal Hunger",
+      "Spelunking",
+      "Rampaging Baloths",
+      "Pugnacious Hammerskull"
+    ],
+    "popular": [
+      "Woodland Cemetery",
+      "Tireless Provisioner",
+      "Assassin's Trophy",
+      "The Skullspore Nexus"
+    ]
+  },
+  "Kardur, Doomscourge": {
+    "synergy": [
+      "Conjurer's Closet",
+      "Geode Rager",
+      "Disrupt Decorum",
+      "Kazuul, Tyrant of the Cliffs",
+      "Vengeful Ancestor",
+      "Morbid Opportunist"
+    ],
+    "popular": [
+      "Smoldering Marsh",
+      "Rakdos Signet",
+      "Rakdos Charm",
+      "Blasphemous Act"
+    ]
+  },
+  "Nethroi, Apex of Death": {
+    "synergy": [
+      "Gemrazer",
+      "Necropanther",
+      "Boneyard Lurker",
+      "Migratory Greathorn",
+      "Buried Alive",
+      "Stitcher's Supplier"
+    ],
+    "popular": [
+      "Sandsteppe Citadel",
+      "Indatha Triome",
+      "Eerie Ultimatum",
+      "Sakura-Tribe Elder"
+    ]
+  },
+  "Sigarda, Font of Blessings": {
+    "synergy": [
+      "Giada, Font of Hope",
+      "Lyra Dawnbringer",
+      "Herald of War",
+      "Avacyn, Angel of Hope",
+      "Starnheim Aspirant",
+      "Righteous Valkyrie"
+    ],
+    "popular": [
+      "Shalai, Voice of Plenty",
+      "Canopy Vista",
+      "Path to Exile",
+      "Avacyn's Pilgrim"
+    ]
+  },
+  "Bilbo, Birthday Celebrant": {
+    "synergy": [
+      "Soul Warden",
+      "Essence Warden",
+      "Soul's Attendant",
+      "Cleric Class",
+      "Prosperous Innkeeper",
+      "Rhox Faithmender"
+    ],
+    "popular": [
+      "The Gaffer",
+      "Authority of the Consuls",
+      "Dina, Soul Steeper",
+      "Elas il-Kor, Sadistic Pilgrim"
+    ]
+  },
+  "Bruvac the Grandiloquent": {
+    "synergy": [
+      "Maddening Cacophony",
+      "Traumatize",
+      "Fractured Sanity",
+      "Ruin Crab",
+      "Cut Your Losses",
+      "Memory Erosion"
+    ],
+    "popular": [
+      "Sapphire Medallion",
+      "Propaganda",
+      "Psychic Corrosion",
+      "The Mindskinner"
+    ]
+  },
+  "Ayula, Queen Among Bears": {
+    "synergy": [
+      "Werebear",
+      "Mother Bear",
+      "Wilson, Refined Grizzly",
+      "Ashcoat Bear",
+      "Grizzly Bears",
+      "Owlbear Cub"
+    ],
+    "popular": [
+      "Goreclaw, Terror of Qal Sisma",
+      "Runeclaw Bear",
+      "Bear Cub",
+      "Balduvian Bears"
+    ]
+  },
+  "Kiora, Sovereign of the Deep": {
+    "synergy": [
+      "Slinn Voda, the Rising Deep",
+      "Arixmethes, Slumbering Isle",
+      "Whelming Wave",
+      "Serpent of Yawning Depths",
+      "Scourge of Fleets",
+      "Spawning Kraken"
+    ],
+    "popular": [
+      "Hullbreaker Horror",
+      "Garruk's Uprising",
+      "Koma, Cosmos Serpent",
+      "Aesi, Tyrant of Gyre Strait"
+    ]
+  },
+  "Pramikon, Sky Rampart": {
+    "synergy": [
+      "Propaganda",
+      "Ghostly Prison",
+      "Fog Bank",
+      "Wall of Denial",
+      "Crystal Barricade",
+      "Wall of Omens"
+    ],
+    "popular": [
+      "Mystic Monastery",
+      "Glacial Fortress",
+      "Path to Exile",
+      "Clifftop Retreat"
+    ]
+  },
+  "Ezuri, Claw of Progress": {
+    "synergy": [
+      "Fathom Mage",
+      "Champion of Lambholt",
+      "Thrummingbird",
+      "Gyre Sage",
+      "Cold-Eyed Selkie",
+      "Kami of Whispered Hopes"
+    ],
+    "popular": [
+      "Hinterland Harbor",
+      "Llanowar Elves",
+      "Herald of Secret Streams",
+      "Elvish Mystic"
+    ]
+  },
+  "Ayara, First of Locthwain": {
+    "synergy": [
+      "Ophiomancer",
+      "Zulaport Cutthroat",
+      "Jadar, Ghoulcaller of Nephalia",
+      "Abhorrent Overlord",
+      "Endrek Sahr, Master Breeder",
+      "Reassembling Skeleton"
+    ],
+    "popular": [
+      "Gray Merchant of Asphodel",
+      "Dark Ritual",
+      "Blood Artist",
+      "Jet Medallion"
+    ]
+  },
+  "Azusa, Lost but Seeking": {
+    "synergy": [
+      "Courser of Kruphix",
+      "Ramunap Excavator",
+      "Scute Swarm",
+      "Horn of Greed",
+      "Oracle of Mul Daya",
+      "Avenger of Zendikar"
+    ],
+    "popular": [
+      "Rampaging Baloths",
+      "Lotus Cobra",
+      "Tireless Tracker",
+      "Augur of Autumn"
+    ]
+  },
+  "Laughing Jasper Flint": {
+    "synergy": [
+      "At Knifepoint",
+      "Hellspur Posse Boss",
+      "Vial Smasher, Gleeful Grenadier",
+      "Mari, the Killing Quill",
+      "Back in Town",
+      "Grenzo, Havoc Raiser"
+    ],
+    "popular": [
+      "Smoldering Marsh",
+      "Dragonskull Summit",
+      "Shoot the Sheriff",
+      "Rakish Crew"
+    ]
+  },
+  "Grolnok, the Omnivore": {
+    "synergy": [
+      "Spore Frog",
+      "Poison Dart Frog",
+      "Long River Lurker",
+      "Doc Aurlock, Grizzled Genius",
+      "Rampant Frogantua",
+      "Froghemoth"
+    ],
+    "popular": [
+      "Frogify",
+      "Valley Mightcaller",
+      "Hinterland Harbor",
+      "Pond Prophet"
+    ]
+  },
+  "Yawgmoth, Thran Physician": {
+    "synergy": [
+      "Nest of Scarabs",
+      "Butcher Ghoul",
+      "Geralf's Messenger",
+      "Zulaport Cutthroat",
+      "Pawn of Ulamog",
+      "Ophiomancer"
+    ],
+    "popular": [
+      "Blood Artist",
+      "Dark Ritual",
+      "Jet Medallion",
+      "Pitiless Plunderer"
+    ]
+  },
+  "Jhoira, Weatherlight Captain": {
+    "synergy": [
+      "Etherium Sculptor",
+      "Foundry Inspector",
+      "Enthusiastic Mechanaut",
+      "Mystic Forge",
+      "Tormod's Crypt",
+      "Ornithopter"
+    ],
+    "popular": [
+      "Talisman of Creativity",
+      "Izzet Signet",
+      "Everflowing Chalice",
+      "Shivan Reef"
+    ]
+  },
+  "Kwain, Itinerant Meddler": {
+    "synergy": [
+      "Howling Mine",
+      "Dictate of Kruphix",
+      "Kami of the Crescent Moon",
+      "Temple Bell",
+      "Laboratory Maniac",
+      "Folio of Fancies"
+    ],
+    "popular": [
+      "Prairie Stream",
+      "Propaganda",
+      "Glacial Fortress",
+      "Ghostly Prison"
+    ]
+  },
+  "Wayta, Trainer Prodigy": {
+    "synergy": [
+      "Ripjaw Raptor",
+      "Ranging Raptors",
+      "Brash Taunter",
+      "Cacophodon",
+      "Rite of Passage",
+      "Bellowing Aegisaur"
+    ],
+    "popular": [
+      "Blasphemous Act",
+      "Wrathful Raptors",
+      "Silverclad Ferocidons",
+      "Marauding Raptor"
+    ]
+  },
+  "Marisi, Breaker of the Coil": {
+    "synergy": [
+      "Vengeful Ancestor",
+      "Disrupt Decorum",
+      "Mirri, Weatherlight Duelist",
+      "Ohran Frostfang",
+      "Toski, Bearer of Secrets",
+      "Aurelia, the Law Above"
+    ],
+    "popular": [
+      "Jungle Shrine",
+      "Path to Exile",
+      "Temple Garden",
+      "Clifftop Retreat"
+    ]
+  },
+  "Chishiro, the Shattered Blade": {
+    "synergy": [
+      "Bear Umbra",
+      "Grumgully, the Generous",
+      "Champion of Lambholt",
+      "Akki Battle Squad",
+      "Silkguard",
+      "Snake Umbra"
+    ],
+    "popular": [
+      "Cinder Glade",
+      "Game Trail",
+      "Rhythm of the Wild",
+      "Forgotten Ancient"
+    ]
+  },
+  "Astarion, the Decadent": {
+    "synergy": [
+      "Sanguine Bond",
+      "Exquisite Blood",
+      "Marauding Blight-Priest",
+      "Exsanguinate",
+      "Astarion's Thirst",
+      "Indulging Patrician"
+    ],
+    "popular": [
+      "Vito, Thorn of the Dusk Rose",
+      "Mortify",
+      "Isolated Chapel",
+      "Orzhov Signet"
+    ]
+  },
+  "Ruric Thar, the Unbowed": {
+    "synergy": [
+      "Somberwald Sage",
+      "Beast Whisperer",
+      "Zhur-Taa Druid",
+      "Reclamation Sage",
+      "Manglehorn",
+      "Scytheclaw Raptor"
+    ],
+    "popular": [
+      "Llanowar Elves",
+      "Goblin Anarchomancer",
+      "Elvish Mystic",
+      "Cinder Glade"
+    ]
+  },
+  "The Mimeoplasm": {
+    "synergy": [
+      "Yargle and Multani",
+      "Buried Alive",
+      "Lord of Extinction",
+      "Titanoth Rex",
+      "Consuming Aberration",
+      "Windfall"
+    ],
+    "popular": [
+      "Opulent Palace",
+      "Breeding Pool",
+      "Overgrown Tomb",
+      "Hinterland Harbor"
+    ]
+  },
+  "Elenda, the Dusk Rose": {
+    "synergy": [
+      "Blade of the Bloodchief",
+      "Cordial Vampire",
+      "Teysa Karlov",
+      "Cruel Celebrant",
+      "Blood Artist",
+      "Viscera Seer"
+    ],
+    "popular": [
+      "Isolated Chapel",
+      "Skullclamp",
+      "Orzhov Signet",
+      "Tainted Field"
+    ]
+  },
+  "Juri, Master of the Revue": {
+    "synergy": [
+      "Fling",
+      "Lagomos, Hand of Hatred",
+      "Mahadi, Emporium Master",
+      "Pitiless Plunderer",
+      "Impulsive Pilferer",
+      "Mayhem Devil"
+    ],
+    "popular": [
+      "Deadly Dispute",
+      "Smoldering Marsh",
+      "Viscera Seer",
+      "Dragonskull Summit"
+    ]
+  },
+  "Ixhel, Scion of Atraxa": {
+    "synergy": [
+      "Infectious Inquiry",
+      "Vraska's Fall",
+      "Contaminant Grafter",
+      "Phyresis Outbreak",
+      "Vishgraz, the Doomhive",
+      "Blightbelly Rat"
+    ],
+    "popular": [
+      "Karn's Bastion",
+      "Norn's Decree",
+      "Unnatural Restoration",
+      "Venerated Rotpriest"
+    ]
+  },
+  "Karumonix, the Rat King": {
+    "synergy": [
+      "Blightbelly Rat",
+      "Piper of the Swarm",
+      "Marrow-Gnawer",
+      "Pack Rat",
+      "Ogre Slumlord",
+      "Ichor Rats"
+    ],
+    "popular": [
+      "Lord Skitter, Sewer King",
+      "Infectious Inquiry",
+      "Typhoid Rats",
+      "Vraska's Fall"
+    ]
+  },
+  "Aminatou, the Fateshifter": {
+    "synergy": [
+      "Oath of Teferi",
+      "Felidar Guardian",
+      "Soulherder",
+      "Ephemerate",
+      "Peregrine Drake",
+      "Panharmonicon"
+    ],
+    "popular": [
+      "Baleful Strix",
+      "Hallowed Fountain",
+      "Godless Shrine",
+      "Watery Grave"
+    ]
+  },
+  "Kambal, Profiteering Mayor": {
+    "synergy": [
+      "Marching Duodrone",
+      "Mirkwood Bats",
+      "Bovine Intervention",
+      "Hunted Horror",
+      "Bennie Bracks, Zoologist",
+      "Thalisse, Reverent Medium"
+    ],
+    "popular": [
+      "Isolated Chapel",
+      "Elas il-Kor, Sadistic Pilgrim",
+      "Caves of Koilos",
+      "Skullclamp"
+    ]
+  },
+  "Nahiri, Forged in Fury": {
+    "synergy": [
+      "Bladehold War-Whip",
+      "Puresteel Paladin",
+      "Nettlecyst",
+      "Sram, Senior Edificer",
+      "Kaldra Compleat",
+      "Akiri, Fearless Voyager"
+    ],
+    "popular": [
+      "Clifftop Retreat",
+      "Sigarda's Aid",
+      "Forge Anew",
+      "Bruenor Battlehammer"
+    ]
+  },
+  "Yusri, Fortune's Flame": {
+    "synergy": [
+      "Tavern Scoundrel",
+      "Krark's Thumb",
+      "Zndrsplt, Eye of Wisdom",
+      "Chance Encounter",
+      "Stitch in Time",
+      "Okaun, Eye of Chaos"
+    ],
+    "popular": [
+      "Fiery Gambit",
+      "Invert Polarity",
+      "Sulfur Falls",
+      "Krark, the Thumbless"
+    ]
+  },
+  "The Locust God": {
+    "synergy": [
+      "Impact Tremors",
+      "Skullclamp",
+      "Psychosis Crawler",
+      "Whirlpool Warrior",
+      "Teferi's Ageless Insight",
+      "Tolarian Winds"
+    ],
+    "popular": [
+      "Brainstorm",
+      "Windfall",
+      "Sulfur Falls",
+      "Izzet Signet"
+    ]
+  },
+  "Brudiclad, Telchor Engineer": {
+    "synergy": [
+      "Idol of Oblivion",
+      "Thopter Spy Network",
+      "Quasiduplicate",
+      "Saheeli, Sublime Artificer",
+      "Cackling Counterpart",
+      "Myr Battlesphere"
+    ],
+    "popular": [
+      "Sulfur Falls",
+      "Izzet Signet",
+      "Shivan Reef",
+      "Third Path Iconoclast"
+    ]
+  },
+  "Emry, Lurker of the Loch": {
+    "synergy": [
+      "Mirran Spy",
+      "Etherium Sculptor",
+      "Mishra's Bauble",
+      "Seat of the Synod",
+      "Aether Spellbomb",
+      "Foundry Inspector"
+    ],
+    "popular": [
+      "Darksteel Citadel",
+      "Sai, Master Thopterist",
+      "Fabricate",
+      "Lotus Petal"
+    ]
+  },
+  "Narci, Fable Singer": {
+    "synergy": [
+      "Binding the Old Gods",
+      "Sythis, Harvest's Hand",
+      "The Eldest Reborn",
+      "Satsuki, the Living Lore",
+      "Elspeth Conquers Death",
+      "Sanctum Weaver"
+    ],
+    "popular": [
+      "Jukai Naturalist",
+      "Enchantress's Presence",
+      "Setessan Champion",
+      "The Cruelty of Gix"
+    ]
+  },
+  "Ivy, Gleeful Spellthief": {
+    "synergy": [
+      "Stormchaser Drake",
+      "Shielding Plax",
+      "Season of Growth",
+      "Vesuvan Duplimancy",
+      "Combat Research",
+      "Snake Umbra"
+    ],
+    "popular": [
+      "Hinterland Harbor",
+      "Ancestral Mask",
+      "Curiosity",
+      "Gemrazer"
+    ]
+  },
+  "Don Andres, the Renegade": {
+    "synergy": [
+      "Ramirez DePietro, Pillager",
+      "Hostage Taker",
+      "Laughing Jasper Flint",
+      "Thief of Sanity",
+      "Breeches, Brazen Plunderer",
+      "Malcolm, Keen-Eyed Navigator"
+    ],
+    "popular": [
+      "Crumbling Necropolis",
+      "Etali, Primal Storm",
+      "Coercive Recruiter",
+      "Sulfur Falls"
+    ]
+  },
+  "Peter Parker // Amazing Spider-Man": {
+    "synergy": [
+      "Absolute Virtue",
+      "Spider-Sense",
+      "Urza's Ruinous Blast",
+      "Relic of Legends",
+      "Urban Retreat",
+      "Spectacular Spider-Man"
+    ],
+    "popular": [
+      "Path to Exile",
+      "Birds of Paradise",
+      "Llanowar Elves",
+      "Chulane, Teller of Tales"
+    ]
+  },
+  "Aang, at the Crossroads // Aang, Destined Savior": {
+    "synergy": [
+      "Katara, the Fearless",
+      "Starfield Vocalist",
+      "Restoration Angel",
+      "Felidar Guardian",
+      "Ephemerate",
+      "Chameleon, Master of Disguise"
+    ],
+    "popular": [
+      "Breeding Pool",
+      "Temple Garden",
+      "Hallowed Fountain",
+      "Spark Double"
+    ]
+  },
+  "Karametra, God of Harvests": {
+    "synergy": [
+      "Lotus Cobra",
+      "Rampaging Baloths",
+      "Beast Whisperer",
+      "Scute Swarm",
+      "Tireless Provisioner",
+      "Avenger of Zendikar"
+    ],
+    "popular": [
+      "Canopy Vista",
+      "Llanowar Elves",
+      "Avacyn's Pilgrim",
+      "Temple Garden"
+    ]
+  },
+  "Delney, Streetwise Lookout": {
+    "synergy": [
+      "Dusk // Dawn",
+      "The Battle of Bywater",
+      "Enduring Innocence",
+      "Raise the Past",
+      "Assemble the Players",
+      "Hare Apparent"
+    ],
+    "popular": [
+      "Pearl Medallion",
+      "Path to Exile",
+      "Oketra's Monument",
+      "Welcoming Vampire"
+    ]
+  },
+  "Imodane, the Pyrohammer": {
+    "synergy": [
+      "Shivan Meteor",
+      "Flame Slash",
+      "Spitting Earth",
+      "Lightning Axe",
+      "Stonesplitter Bolt",
+      "Electrodominance"
+    ],
+    "popular": [
+      "Lightning Bolt",
+      "Abrade",
+      "Ruby Medallion",
+      "Guttersnipe"
+    ]
+  },
+  "Zur, Eternal Schemer": {
+    "synergy": [
+      "Inquisitive Glimmer",
+      "Mesa Enchantress",
+      "Enduring Curiosity",
+      "Enduring Tenacity",
+      "Soaring Lightbringer",
+      "Starfield Mystic"
+    ],
+    "popular": [
+      "Hall of Heliod's Generosity",
+      "Sphere of Safety",
+      "Entity Tracker",
+      "Demon of Fate's Design"
+    ]
+  },
+  "Dr. Madison Li": {
+    "synergy": [
+      "Electrosiphon",
+      "Liberty Prime, Recharged",
+      "Automated Assembly Line",
+      "HELIOS One",
+      "Assaultron Dominator",
+      "Gonti's Aether Heart"
+    ],
+    "popular": [
+      "Mystic Monastery",
+      "Dispatch",
+      "Izzet Generatorium",
+      "Sulfur Falls"
+    ]
+  },
+  "Sorin of House Markov // Sorin, Ravenous Neonate": {
+    "synergy": [
+      "Vito, Thorn of the Dusk Rose",
+      "Exsanguinate",
+      "Soul Warden",
+      "Sanguine Bond",
+      "Blind Obedience",
+      "Sorin, Vengeful Bloodlord"
+    ],
+    "popular": [
+      "Isolated Chapel",
+      "Caves of Koilos",
+      "Talisman of Hierarchy",
+      "Godless Shrine"
+    ]
+  },
+  "Aragorn, King of Gondor": {
+    "synergy": [
+      "Faramir, Steward of Gondor",
+      "Champions of Minas Tirith",
+      "Éomer, King of Rohan",
+      "Éowyn, Shieldmaiden",
+      "Forth Eorlingas!",
+      "Prince Imrahil the Fair"
+    ],
+    "popular": [
+      "Path to Exile",
+      "Glacial Fortress",
+      "Clifftop Retreat",
+      "Sulfur Falls"
+    ]
+  },
+  "The Emperor of Palamecia // The Lord Master of Hell": {
+    "synergy": [
+      "Traumatize",
+      "Cut Your Losses",
+      "Pirate's Pillage",
+      "Unexpected Windfall",
+      "Big Score",
+      "Hedron Archive"
+    ],
+    "popular": [
+      "Sulfur Falls",
+      "Shivan Reef",
+      "Frostboil Snarl",
+      "Stormcarved Coast"
+    ]
+  },
+  "Heliod, the Radiant Dawn // Heliod, the Warped Eclipse": {
+    "synergy": [
+      "Prosperity",
+      "Vision Skeins",
+      "Windfall",
+      "Day's Undoing",
+      "Even the Score",
+      "Words of Wisdom"
+    ],
+    "popular": [
+      "Talisman of Progress",
+      "Azorius Signet",
+      "Glacial Fortress",
+      "Hallowed Fountain"
+    ]
+  },
+  "Maha, Its Feathers Night": {
+    "synergy": [
+      "Kaervek, the Spiteful",
+      "Night of Souls' Betrayal",
+      "Massacre Girl, Known Killer",
+      "Gruesome Realization",
+      "Massacre Wurm",
+      "Black Sun's Zenith"
+    ],
+    "popular": [
+      "Jet Medallion",
+      "Dark Ritual",
+      "Crypt Ghast",
+      "Morbid Opportunist"
+    ]
+  },
+  "Slimefoot, the Stowaway": {
+    "synergy": [
+      "Utopia Mycon",
+      "Deathspore Thallid",
+      "Nemata, Primeval Warden",
+      "Sporemound",
+      "Mycoloth",
+      "Tendershoot Dryad"
+    ],
+    "popular": [
+      "Fungal Plots",
+      "Saproling Symbiosis",
+      "Fungal Rebirth",
+      "Verdant Force"
+    ]
+  },
+  "Tasigur, the Golden Fang": {
+    "synergy": [
+      "Neoform",
+      "Eldritch Evolution",
+      "Nezahal, Primal Tide",
+      "Deathrite Shaman",
+      "Birthing Pod",
+      "Culling Ritual"
+    ],
+    "popular": [
+      "Breeding Pool",
+      "Watery Grave",
+      "Overgrown Tomb",
+      "Polluted Delta"
+    ]
+  },
+  "Mr. Foxglove": {
+    "synergy": [
+      "Reconnaissance",
+      "Kodama of the East Tree",
+      "Nezahal, Primal Tide",
+      "Storvald, Frost Giant Jarl",
+      "Ghalta, Stampede Tyrant",
+      "Avacyn, Angel of Hope"
+    ],
+    "popular": [
+      "Hinterland Harbor",
+      "Seaside Citadel",
+      "Path to Exile",
+      "Glacial Fortress"
+    ]
+  },
+  "Minn, Wily Illusionist": {
+    "synergy": [
+      "Perilous Research",
+      "Skullclamp",
+      "Abjure",
+      "Tetsuko Umezawa, Fugitive",
+      "Phantasmal Image",
+      "Teferi's Ageless Insight"
+    ],
+    "popular": [
+      "Brainstorm",
+      "Frantic Search",
+      "Sapphire Medallion",
+      "Mystic Sanctuary"
+    ]
+  },
+  "Karn, Legacy Reforged": {
+    "synergy": [
+      "Darksteel Forge",
+      "Karn, Living Legacy",
+      "Mycosynth Golem",
+      "Darksteel Colossus",
+      "Lodestone Golem",
+      "Foundry Inspector"
+    ],
+    "popular": [
+      "Forsaken Monument",
+      "Urza's Mine",
+      "Urza's Tower",
+      "Urza's Power Plant"
+    ]
+  },
+  "Nelly Borca, Impulsive Accuser": {
+    "synergy": [
+      "Disrupt Decorum",
+      "Hot Pursuit",
+      "Vengeful Ancestor",
+      "Take the Bait",
+      "Spectacular Showdown",
+      "Duelist's Heritage"
+    ],
+    "popular": [
+      "Talisman of Conviction",
+      "Curse of Opulence",
+      "Deflecting Palm",
+      "Gisela, Blade of Goldnight"
+    ]
+  },
+  "Beorn the Fierce": {
+    "synergy": [
+      "Ayula, Queen Among Bears",
+      "Goreclaw, Terror of Qal Sisma",
+      "Wilson, Refined Grizzly",
+      "Werebear",
+      "Dancing from Dark to Dawn",
+      "Gigantic Big Bear"
+    ],
+    "popular": [
+      "Studious First-Year",
+      "The Earth King",
+      "Little Bear",
+      "Owlbear Cub"
+    ]
+  },
+  "Selvala, Heart of the Wilds": {
+    "synergy": [
+      "Ghalta, Primal Hunger",
+      "Staff of Domination",
+      "Quirion Ranger",
+      "Wirewood Lodge",
+      "Umbral Mantle",
+      "Scryb Ranger"
+    ],
+    "popular": [
+      "Llanowar Elves",
+      "Elvish Mystic",
+      "Fyndhorn Elves",
+      "Rishkar's Expertise"
+    ]
+  },
+  "Ratadrabik of Urborg": {
+    "synergy": [
+      "Teysa Karlov",
+      "Relic of Legends",
+      "Boromir, Warden of the Tower",
+      "Gandalf the White",
+      "Samwise the Stouthearted",
+      "Nasty End"
+    ],
+    "popular": [
+      "Elas il-Kor, Sadistic Pilgrim",
+      "Isolated Chapel",
+      "Caves of Koilos",
+      "Godless Shrine"
+    ]
+  },
+  "Aeve, Progenitor Ooze": {
+    "synergy": [
+      "Biowaste Blob",
+      "Biogenic Ooze",
+      "Slime Against Humanity",
+      "Predator Ooze",
+      "Oran-Rief Ooze",
+      "Green Slime"
+    ],
+    "popular": [
+      "Emerald Medallion",
+      "Scavenging Ooze",
+      "Acidic Slime",
+      "Garruk's Uprising"
+    ]
+  },
+  "Narset, Enlightened Master": {
+    "synergy": [
+      "Omniscience",
+      "Time Stretch",
+      "Beacon of Tomorrows",
+      "Nexus of Fate",
+      "Temporal Mastery",
+      "Brainstorm"
+    ],
+    "popular": [
+      "Steam Vents",
+      "Hallowed Fountain",
+      "Talisman of Creativity",
+      "Talisman of Progress"
+    ]
+  },
+  "Nine-Fingers Keene": {
+    "synergy": [
+      "Gond Gate",
+      "Manor Gate",
+      "Black Dragon Gate",
+      "Sea Gate",
+      "Baldur's Gate",
+      "Basilisk Gate"
+    ],
+    "popular": [
+      "Simic Guildgate",
+      "Golgari Guildgate",
+      "Dimir Guildgate",
+      "Heap Gate"
+    ]
+  },
+  "Syr Konrad, the Grim": {
+    "synergy": [
+      "Mindcrank",
+      "Tortured Existence",
+      "Mesmeric Orb",
+      "Reassembling Skeleton",
+      "Morality Shift",
+      "Millikin"
+    ],
+    "popular": [
+      "Gray Merchant of Asphodel",
+      "Dark Ritual",
+      "Blood Artist",
+      "Plaguecrafter"
+    ]
+  },
+  "Kelsien, the Plague": {
+    "synergy": [
+      "Basilisk Collar",
+      "Rune of Mortality",
+      "Minthara, Merciless Soul",
+      "Otharri, Suns' Glory",
+      "Vorpal Sword",
+      "Gorgon's Head"
+    ],
+    "popular": [
+      "Morbid Opportunist",
+      "Mari, the Killing Quill",
+      "Nomad Outpost",
+      "Drumbellower"
+    ]
+  },
+  "The Reaper, King No More": {
+    "synergy": [
+      "Blowfly Infestation",
+      "The Scorpion God",
+      "Necroskitter",
+      "Hapatra, Vizier of Poisons",
+      "Black Sun's Zenith",
+      "Massacre Girl, Known Killer"
+    ],
+    "popular": [
+      "Ignoble Hierarch",
+      "Dread Tiller",
+      "Kulrath Knight",
+      "Everlasting Torment"
+    ]
+  },
+  "Mister Negative": {
+    "synergy": [
+      "Ephemerate",
+      "Cloudshift",
+      "Wall of Blood",
+      "Children of Korlis",
+      "Tainted Remedy",
+      "Teleportation Circle"
+    ],
+    "popular": [
+      "Talisman of Hierarchy",
+      "Caves of Koilos",
+      "Isolated Chapel",
+      "Godless Shrine"
+    ]
+  },
+  "Anzrag, the Quake-Mole": {
+    "synergy": [
+      "Roar of Challenge",
+      "Irresistible Prey",
+      "Anara, Wolvid Familiar",
+      "General Marhault Elsdragon",
+      "Lure",
+      "You Look Upon the Tarrasque"
+    ],
+    "popular": [
+      "Cinder Glade",
+      "Goblin Anarchomancer",
+      "Rhythm of the Wild",
+      "Garruk's Uprising"
+    ]
+  },
+  "Imoti, Celebrant of Bounty": {
+    "synergy": [
+      "Ghalta, Primal Hunger",
+      "Apex Devastator",
+      "Thryx, the Sudden Storm",
+      "Annoyed Altisaur",
+      "Monstrous Vortex",
+      "Brinelin, the Moon Kraken"
+    ],
+    "popular": [
+      "Hinterland Harbor",
+      "Garruk's Uprising",
+      "Yavimaya Coast",
+      "Hullbreaker Horror"
+    ]
+  },
+  "Gisa, the Hellraiser": {
+    "synergy": [
+      "Death Baron",
+      "Cemetery Reaper",
+      "Undead Augur",
+      "Withered Wretch",
+      "Endless Ranks of the Dead",
+      "Champion of the Perished"
+    ],
+    "popular": [
+      "Jet Medallion",
+      "Feed the Swarm",
+      "Dark Ritual",
+      "Gray Merchant of Asphodel"
+    ]
+  },
+  "Felix Five-Boots": {
+    "synergy": [
+      "Trygon Predator",
+      "Ohran Frostfang",
+      "Bident of Thassa",
+      "Toski, Bearer of Secrets",
+      "Glissa Sunslayer",
+      "Drana, Liberator of Malakir"
+    ],
+    "popular": [
+      "Hinterland Harbor",
+      "Opulent Palace",
+      "Woodland Cemetery",
+      "Drowned Catacomb"
+    ]
+  },
+  "Hapatra, Vizier of Poisons": {
+    "synergy": [
+      "Nest of Scarabs",
+      "Blowfly Infestation",
+      "Obelisk Spider",
+      "Black Sun's Zenith",
+      "Devoted Druid",
+      "Necroskitter"
+    ],
+    "popular": [
+      "Contagion Clasp",
+      "Skullclamp",
+      "Channeler Initiate",
+      "Generous Patron"
+    ]
+  },
+  "Magnus the Red": {
+    "synergy": [
+      "Young Pyromancer",
+      "Third Path Iconoclast",
+      "Song of Totentanz",
+      "Empty the Warrens",
+      "Finale of Revelation",
+      "Talrand, Sky Summoner"
+    ],
+    "popular": [
+      "Sulfur Falls",
+      "Storm-Kiln Artist",
+      "Talisman of Creativity",
+      "Archmage Emeritus"
+    ]
+  },
+  "Black Panther, Wakandan King": {
+    "synergy": [
+      "Karn's Bastion",
+      "Secure the Wastes",
+      "Primal Vigor",
+      "Kami of Whispered Hopes",
+      "Ashaya, Soul of the Wild",
+      "The Ozolith"
+    ],
+    "popular": [
+      "Heroic Intervention",
+      "Path to Exile",
+      "Kutzil, Malamet Exemplar",
+      "Canopy Vista"
+    ]
+  },
+  "Amalia Benavides Aguirre": {
+    "synergy": [
+      "Soul Warden",
+      "Soul's Attendant",
+      "Daxos, Blessed by the Sun",
+      "Lunarch Veteran",
+      "Authority of the Consuls",
+      "Case of the Uneaten Feast"
+    ],
+    "popular": [
+      "Elas il-Kor, Sadistic Pilgrim",
+      "Isolated Chapel",
+      "Caves of Koilos",
+      "Blood Artist"
+    ]
+  },
+  "Arixmethes, Slumbering Isle": {
+    "synergy": [
+      "Whelming Wave",
+      "Slinn Voda, the Rising Deep",
+      "Stormsurge Kraken",
+      "Scourge of Fleets",
+      "Kiora's Follower",
+      "Tromokratis"
+    ],
+    "popular": [
+      "Hinterland Harbor",
+      "Growth Spiral",
+      "Simic Growth Chamber",
+      "Garruk's Uprising"
+    ]
+  },
+  "Arthur, Marigold Knight": {
+    "synergy": [
+      "Brago, King Eternal",
+      "Dour Port-Mage",
+      "Angel of the Ruins",
+      "Ephemerate",
+      "Éowyn, Fearless Knight",
+      "Sun Titan"
+    ],
+    "popular": [
+      "Glacial Fortress",
+      "Clifftop Retreat",
+      "Mystic Monastery",
+      "Sulfur Falls"
+    ]
+  },
+  "Massacre Girl, Known Killer": {
+    "synergy": [
+      "Massacre Girl",
+      "Nest of Scarabs",
+      "Blowfly Infestation",
+      "Necroskitter",
+      "Black Sun's Zenith",
+      "Massacre Wurm"
+    ],
+    "popular": [
+      "Tragic Slip",
+      "Defile",
+      "Jet Medallion",
+      "Toxic Deluge"
+    ]
+  },
+  "Progenitus": {
+    "synergy": [
+      "Mirari's Wake",
+      "Finest Hour",
+      "Fist of Suns",
+      "Rafiq of the Many",
+      "Jodah, Archmage Eternal",
+      "Leyline of Mutation"
+    ],
+    "popular": [
+      "The World Tree",
+      "Rhythm of the Wild",
+      "Timeless Lotus",
+      "Faeburrow Elder"
+    ]
+  },
+  "Camellia, the Seedmiser": {
+    "synergy": [
+      "Thornvault Forager",
+      "Honored Dreyleader",
+      "Chatterfang, Squirrel General",
+      "Chitterspitter",
+      "Vinereap Mentor",
+      "Valley Rotcaller"
+    ],
+    "popular": [
+      "Ravenous Squirrel",
+      "Gilded Goose",
+      "Peregrin Took",
+      "Hazel of the Rootbloom"
+    ]
+  },
+  "Davros, Dalek Creator": {
+    "synergy": [
+      "Exterminate!",
+      "The Dalek Emperor",
+      "Dalek Squadron",
+      "Dalek Drone",
+      "Cult of Skaro",
+      "Cyberman Patrol"
+    ],
+    "popular": [
+      "Genesis of the Daleks",
+      "Stormcarved Coast",
+      "Crumbling Necropolis",
+      "Haunted Ridge"
+    ]
+  },
+  "Averna, the Chaos Bloom": {
+    "synergy": [
+      "Imoti, Celebrant of Bounty",
+      "Aurora Phoenix",
+      "Bloodbraid Elf",
+      "Maelstrom Wanderer",
+      "Apex Devastator",
+      "Natural Reclamation"
+    ],
+    "popular": [
+      "Shardless Agent",
+      "Etherium-Horn Sorcerer",
+      "Sakashima's Protege",
+      "Annoyed Altisaur"
+    ]
+  },
+  "Rivaz of the Claw": {
+    "synergy": [
+      "Lathliss, Dragon Queen",
+      "Bladewing the Risen",
+      "Dragon Tempest",
+      "Crux of Fate",
+      "Dragonlord's Servant",
+      "Dragonspeaker Shaman"
+    ],
+    "popular": [
+      "Dragonskull Summit",
+      "Ganax, Astral Hunter",
+      "Faithless Looting",
+      "Smoldering Marsh"
+    ]
+  },
+  "Tasha, the Witch Queen": {
+    "synergy": [
+      "Thief of Sanity",
+      "Siphon Insight",
+      "Cunning Rhetoric",
+      "Gonti, Lord of Luxury",
+      "Hostage Taker",
+      "Memory Plunder"
+    ],
+    "popular": [
+      "Sunken Hollow",
+      "Dimir Signet",
+      "Drowned Catacomb",
+      "Talisman of Dominance"
+    ]
+  },
+  "Karlov of the Ghost Council": {
+    "synergy": [
+      "Soul Warden",
+      "Soul's Attendant",
+      "Authority of the Consuls",
+      "Kambal, Consul of Allocation",
+      "Auriok Champion",
+      "Suture Priest"
+    ],
+    "popular": [
+      "Isolated Chapel",
+      "Caves of Koilos",
+      "Godless Shrine",
+      "Vito, Thorn of the Dusk Rose"
+    ]
+  },
+  "Baral, Chief of Compliance": {
+    "synergy": [
+      "Rewind",
+      "Unwind",
+      "Disallow",
+      "Mana Leak",
+      "Talrand, Sky Summoner",
+      "Guile"
+    ],
+    "popular": [
+      "Sapphire Medallion",
+      "Mystic Sanctuary",
+      "Archmage Emeritus",
+      "An Offer You Can't Refuse"
+    ]
+  },
+  "Hamza, Guardian of Arashin": {
+    "synergy": [
+      "Inspiring Call",
+      "Armorcraft Judge",
+      "Rishkar, Peema Renegade",
+      "Mikaeus, the Lunarch",
+      "Good-Fortune Unicorn",
+      "Abzan Falconer"
+    ],
+    "popular": [
+      "Canopy Vista",
+      "Forgotten Ancient",
+      "Hardened Scales",
+      "Kutzil, Malamet Exemplar"
+    ]
+  },
+  "Bre of Clan Stoutarm": {
+    "synergy": [
+      "The Wind Crystal",
+      "Exemplar of Light",
+      "Haliya, Guided by Light",
+      "Soul Warden",
+      "Rhox Faithmender",
+      "Cleric Class"
+    ],
+    "popular": [
+      "Clifftop Retreat",
+      "Battlefield Forge",
+      "Talisman of Conviction",
+      "Path to Exile"
+    ]
+  },
+  "Jinnie Fay, Jetmir's Second": {
+    "synergy": [
+      "Artifact Mutation",
+      "Jetmir, Nexus of Revels",
+      "Aura Mutation",
+      "Gala Greeters",
+      "Grand Crescendo",
+      "Rabble Rousing"
+    ],
+    "popular": [
+      "Path to Exile",
+      "Canopy Vista",
+      "Jetmir's Garden",
+      "Impact Tremors"
+    ]
+  },
+  "Ashling, Rekindled // Ashling, Rimebound": {
+    "synergy": [
+      "Hedron Archive",
+      "Thran Dynamo",
+      "Sunbird's Invocation",
+      "Tanufel Rimespeaker",
+      "Stonespeaker Crystal",
+      "Aminatou's Augury"
+    ],
+    "popular": [
+      "Sulfur Falls",
+      "Big Score",
+      "Shivan Reef",
+      "Cascade Bluffs"
+    ]
+  },
+  "Loot, Exuberant Explorer": {
+    "synergy": [
+      "Rampaging Baloths",
+      "Avenger of Zendikar",
+      "Augur of Autumn",
+      "Mossborn Hydra",
+      "Scute Swarm",
+      "Cultivator Colossus"
+    ],
+    "popular": [
+      "Garruk's Uprising",
+      "Llanowar Elves",
+      "Ghalta, Primal Hunger",
+      "Heroic Intervention"
+    ]
+  },
+  "Anim Pakal, Thousandth Moon": {
+    "synergy": [
+      "Rosie Cotton of South Lane",
+      "Impact Tremors",
+      "Luminarch Aspirant",
+      "Losheel, Clockwork Scholar",
+      "Arabella, Abandoned Doll",
+      "Reckless Fireweaver"
+    ],
+    "popular": [
+      "Clifftop Retreat",
+      "Path to Exile",
+      "Warleader's Call",
+      "Skullclamp"
+    ]
+  },
+  "Mizzix of the Izmagnus": {
+    "synergy": [
+      "Tezzeret's Gambit",
+      "Flux Channeler",
+      "Comet Storm",
+      "Mystic Retrieval",
+      "Reiterate",
+      "Experimental Augury"
+    ],
+    "popular": [
+      "Sulfur Falls",
+      "Izzet Signet",
+      "Frantic Search",
+      "Storm-Kiln Artist"
+    ]
+  },
+  "Atarka, World Render": {
+    "synergy": [
+      "Dragon Tempest",
+      "Dragonspeaker Shaman",
+      "Dragonlord's Servant",
+      "Haven of the Spirit Dragon",
+      "Savage Ventmaw",
+      "Dragon's Hoard"
+    ],
+    "popular": [
+      "Garruk's Uprising",
+      "Cinder Glade",
+      "Drakuseth, Maw of Flames",
+      "Scourge of Valkas"
+    ]
+  },
+  "General Ferrous Rokiric": {
+    "synergy": [
+      "Justice Strike",
+      "Balefire Liege",
+      "Lightning Helix",
+      "Legion's Initiative",
+      "Neyali, Suns' Vanguard",
+      "Rip Apart"
+    ],
+    "popular": [
+      "Boros Charm",
+      "Clifftop Retreat",
+      "Blade Historian",
+      "Deflecting Palm"
+    ]
+  },
+  "Emmara, Soul of the Accord": {
+    "synergy": [
+      "Holdout Settlement",
+      "March of the Multitudes",
+      "Jaspera Sentinel",
+      "Harvest Season",
+      "Idol of Oblivion",
+      "Hour of Reckoning"
+    ],
+    "popular": [
+      "Canopy Vista",
+      "Path to Exile",
+      "Champion of Lambholt",
+      "Fortified Village"
+    ]
+  },
+  "Scion of the Ur-Dragon": {
+    "synergy": [
+      "Colossal Grave-Reaver",
+      "Bladewing the Risen",
+      "Reanimate",
+      "Dragon Tempest",
+      "Animate Dead",
+      "Crux of Fate"
+    ],
+    "popular": [
+      "Birds of Paradise",
+      "Miirym, Sentinel Wyrm",
+      "Verdant Catacombs",
+      "Bloodstained Mire"
+    ]
+  },
+  "Rhys the Redeemed": {
+    "synergy": [
+      "Parallel Lives",
+      "Elvish Archdruid",
+      "Priest of Titania",
+      "Imperious Perfect",
+      "Anointed Procession",
+      "Skullclamp"
+    ],
+    "popular": [
+      "Llanowar Elves",
+      "Canopy Vista",
+      "Path to Exile",
+      "Sunpetal Grove"
+    ]
+  },
+  "Jarad, Golgari Lich Lord": {
+    "synergy": [
+      "Lord of Extinction",
+      "Splinterfright",
+      "Old Stickfingers",
+      "Skull Prophet",
+      "Golgari Grave-Troll",
+      "Nighthowler"
+    ],
+    "popular": [
+      "Woodland Cemetery",
+      "Sakura-Tribe Elder",
+      "Eternal Witness",
+      "Overgrown Tomb"
+    ]
+  },
+  "Anje Falkenrath": {
+    "synergy": [
+      "Big Game Hunter",
+      "Call to the Netherworld",
+      "Dark Withering",
+      "Grave Scrabbler",
+      "Fiery Temper",
+      "Terminal Agony"
+    ],
+    "popular": [
+      "Avacyn's Judgment",
+      "Gorgon Recluse",
+      "Anje's Ravager",
+      "Murderous Compulsion"
+    ]
+  },
+  "Olivia, Opulent Outlaw": {
+    "synergy": [
+      "Vihaan, Goldwaker",
+      "Mari, the Killing Quill",
+      "Back in Town",
+      "Queen Marchesa",
+      "Captain Lannery Storm",
+      "Rain of Riches"
+    ],
+    "popular": [
+      "Dragonskull Summit",
+      "Nomad Outpost",
+      "Isolated Chapel",
+      "Clifftop Retreat"
+    ]
+  },
+  "Gwen Stacy // Ghost-Spider": {
+    "synergy": [
+      "Interdimensional Web Watch",
+      "Laelia, the Blade Reforged",
+      "Vega, the Watcher",
+      "Araña, Heart of the Spider",
+      "Spider-Man 2099",
+      "Party Thrasher"
+    ],
+    "popular": [
+      "Path to Exile",
+      "Expressive Iteration",
+      "Talisman of Creativity",
+      "Sulfur Falls"
+    ]
+  },
+  "Alesha, Who Smiles at Death": {
+    "synergy": [
+      "Karmic Guide",
+      "Faithless Looting",
+      "Ravenous Chupacabra",
+      "Buried Alive",
+      "Solemn Simulacrum",
+      "Mentor of the Meek"
+    ],
+    "popular": [
+      "Nomad Outpost",
+      "Viscera Seer",
+      "Godless Shrine",
+      "Clifftop Retreat"
+    ]
+  },
+  "Aurelia, the Warleader": {
+    "synergy": [
+      "Lyra Dawnbringer",
+      "Giada, Font of Hope",
+      "Gisela, Blade of Goldnight",
+      "Aurelia, the Law Above",
+      "Helm of the Host",
+      "Aurelia, Exemplar of Justice"
+    ],
+    "popular": [
+      "Boros Charm",
+      "Clifftop Retreat",
+      "Path to Exile",
+      "Boros Signet"
+    ]
+  },
+  "Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight": {
+    "synergy": [
+      "Vizier of Remedies",
+      "Viscera Seer",
+      "Umbral Collar Zealot",
+      "Mikaeus, the Unhallowed",
+      "Cathars' Crusade",
+      "Luminous Broodmoth"
+    ],
+    "popular": [
+      "Isolated Chapel",
+      "Elas il-Kor, Sadistic Pilgrim",
+      "Godless Shrine",
+      "Caves of Koilos"
+    ]
+  },
+  "Toph, Hardheaded Teacher": {
+    "synergy": [
+      "Cycle of Renewal",
+      "Tannuk, Memorial Ensign",
+      "Shared Roots",
+      "Ba Sing Se",
+      "Origin of Metalbending",
+      "Spelunking"
+    ],
+    "popular": [
+      "Earthbender Ascension",
+      "Harrow",
+      "Cinder Glade",
+      "Stomping Ground"
+    ]
+  },
+  "Gonti, Night Minister": {
+    "synergy": [
+      "Changeling Outcast",
+      "Tormented Soul",
+      "Thieving Varmint",
+      "Cunning Rhetoric",
+      "Gix, Yawgmoth Praetor",
+      "Gonti, Lord of Luxury"
+    ],
+    "popular": [
+      "Dauthi Voidwalker",
+      "Feed the Swarm",
+      "Brainstealer Dragon",
+      "Jet Medallion"
+    ]
+  },
+  "Altaïr Ibn-La'Ahad": {
+    "synergy": [
+      "Desmond Miles",
+      "Arno Dorian",
+      "Bayek of Siwa",
+      "Aya of Alexandria",
+      "The Animus",
+      "Olivia, Opulent Outlaw"
+    ],
+    "popular": [
+      "Queen Marchesa",
+      "Ruthless Lawbringer",
+      "Mari, the Killing Quill",
+      "Faithless Looting"
+    ]
+  },
+  "Quandrix, the Proof": {
+    "synergy": [
+      "Archmage Emeritus",
+      "Dig Through Time",
+      "Treasure Cruise",
+      "Archmage of Runes",
+      "Imoti, Celebrant of Bounty",
+      "Ancestral Vision"
+    ],
+    "popular": [
+      "Hinterland Harbor",
+      "Dreamroot Cascade",
+      "Growth Spiral",
+      "Breeding Pool"
+    ]
+  },
+  "Sami, Wildcat Captain": {
+    "synergy": [
+      "Great Furnace",
+      "Ancient Den",
+      "Darksteel Citadel",
+      "Mystic Forge",
+      "The Endstone",
+      "Rustvale Bridge"
+    ],
+    "popular": [
+      "Talisman of Conviction",
+      "Sacred Foundry",
+      "Boros Signet",
+      "Battlefield Forge"
+    ]
+  },
+  "Raphael, Fiendish Savior": {
+    "synergy": [
+      "Zurzoth, Chaos Rider",
+      "Mahadi, Emporium Master",
+      "Rakdos, the Showstopper",
+      "Witty Roastmaster",
+      "Zariel, Archduke of Avernus",
+      "Burn Down the House"
+    ],
+    "popular": [
+      "Mayhem Devil",
+      "Smoldering Marsh",
+      "Kardur, Doomscourge",
+      "Dragonskull Summit"
+    ]
+  },
+  "Miles Morales // Ultimate Spider-Man": {
+    "synergy": [
+      "Spider-Punk",
+      "Spider-Man India",
+      "Araña, Heart of the Spider",
+      "Scarlet Spider, Ben Reilly",
+      "Radioactive Spider",
+      "Spectacular Spider-Man"
+    ],
+    "popular": [
+      "Hardened Scales",
+      "Spider-Man, Miles Morales",
+      "Path to Exile",
+      "Aunt May"
+    ]
+  },
+  "Yuna, Hope of Spira": {
+    "synergy": [
+      "Sythis, Harvest's Hand",
+      "Summon: Titan",
+      "Summon: Fenrir",
+      "Summon: Bahamut",
+      "Summon: Yojimbo",
+      "Summon: Knights of Round"
+    ],
+    "popular": [
+      "Sanctum Weaver",
+      "Eidolon of Blossoms",
+      "Jukai Naturalist",
+      "Enchantress's Presence"
+    ]
+  },
+  "Goreclaw, Terror of Qal Sisma": {
+    "synergy": [
+      "Garruk's Packleader",
+      "Ghalta, Primal Hunger",
+      "Outcaster Trailblazer",
+      "Garruk's Uprising",
+      "Ilysian Caryatid",
+      "Soul of the Harvest"
+    ],
+    "popular": [
+      "Llanowar Elves",
+      "Emerald Medallion",
+      "Elvish Mystic",
+      "Mosswort Bridge"
+    ]
+  },
+  "Jan Jansen, Chaos Crafter": {
+    "synergy": [
+      "Academy Manufactor",
+      "Ichor Wellspring",
+      "Reckless Fireweaver",
+      "Liquimetal Torque",
+      "Clock of Omens",
+      "Marionette Apprentice"
+    ],
+    "popular": [
+      "Skullclamp",
+      "Mirkwood Bats",
+      "Mayhem Devil",
+      "Deadly Dispute"
+    ]
+  },
+  "Kyler, Sigardian Emissary": {
+    "synergy": [
+      "Heronblade Elite",
+      "Katilda, Dawnhart Prime",
+      "Torens, Fist of the Angels",
+      "Champion of Lambholt",
+      "Horn of Gondor",
+      "Adeline, Resplendent Cathar"
+    ],
+    "popular": [
+      "Canopy Vista",
+      "Avacyn's Pilgrim",
+      "Fortified Village",
+      "Bastion Protector"
+    ]
+  },
+  "Faldorn, Dread Wolf Herald": {
+    "synergy": [
+      "Laelia, the Blade Reforged",
+      "Escape to the Wilds",
+      "Delayed Blast Fireball",
+      "Wild-Magic Sorcerer",
+      "Light Up the Stage",
+      "Ignite the Future"
+    ],
+    "popular": [
+      "Cinder Glade",
+      "Mosswort Bridge",
+      "Jeska's Will",
+      "Passionate Archaeologist"
+    ]
+  },
+  "Xantcha, Sleeper Agent": {
+    "synergy": [
+      "Shiny Impetus",
+      "Curse of Opulence",
+      "Bloodthirsty Blade",
+      "Disrupt Decorum",
+      "Alexios, Deimos of Kosmos",
+      "Heartstone"
+    ],
+    "popular": [
+      "Dragonskull Summit",
+      "Smoldering Marsh",
+      "Kardur, Doomscourge",
+      "Rakdos Signet"
+    ]
+  },
+  "Zask, Skittering Swarmlord": {
+    "synergy": [
+      "Grist, the Hunger Tide",
+      "Caustic Caterpillar",
+      "Grist, Voracious Larva",
+      "Scute Swarm",
+      "Aatchik, Emerald Radian",
+      "Amzu, Swarm's Hunger"
+    ],
+    "popular": [
+      "Haywire Mite",
+      "Hornet Queen",
+      "Crawling Sensation",
+      "Swarmyard"
+    ]
+  },
+  "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar": {
+    "synergy": [
+      "Brainstorm",
+      "Flux Channeler",
+      "Frantic Search",
+      "Dreamtide Whale",
+      "Chart a Course",
+      "Psychosis Crawler"
+    ],
+    "popular": [
+      "Breeding Pool",
+      "Hinterland Harbor",
+      "Yavimaya Coast",
+      "Rejuvenating Springs"
+    ]
+  },
+  "Ghoulcaller Gisa": {
+    "synergy": [
+      "Lord of the Accursed",
+      "Death Baron",
+      "Champion of the Perished",
+      "Cemetery Reaper",
+      "Undead Augur",
+      "Endless Ranks of the Dead"
+    ],
+    "popular": [
+      "Gravecrawler",
+      "Gray Merchant of Asphodel",
+      "Undead Warchief",
+      "Diregraf Colossus"
+    ]
+  },
+  "Taii Wakeen, Perfect Shot": {
+    "synergy": [
+      "End the Festivities",
+      "Tectonic Hazard",
+      "Blazing Volley",
+      "Electrickery",
+      "Lightning Bolt",
+      "Grapeshot"
+    ],
+    "popular": [
+      "Clifftop Retreat",
+      "Battlefield Forge",
+      "Heartflame Duelist",
+      "Fiery Confluence"
+    ]
+  },
+  "Minthara, Merciless Soul": {
+    "synergy": [
+      "Metastatic Evangel",
+      "Grateful Apparition",
+      "Lae'zel, Vlaakith's Champion",
+      "Shadowheart, Dark Justiciar",
+      "Nested Shambler",
+      "Hidden Stockpile"
+    ],
+    "popular": [
+      "Isolated Chapel",
+      "Deadly Dispute",
+      "Orzhov Basilica",
+      "Karn's Bastion"
+    ]
+  },
+  "Liliana, Heretical Healer // Liliana, Defiant Necromancer": {
+    "synergy": [
+      "Liliana, Death's Majesty",
+      "Liliana, Dreadhorde General",
+      "Liliana's Triumph",
+      "Liliana, the Last Hope",
+      "Liliana Vess",
+      "Liliana, Waker of the Dead"
+    ],
+    "popular": [
+      "Gray Merchant of Asphodel",
+      "Liliana of the Dark Realms",
+      "Jet Medallion",
+      "Dark Ritual"
+    ]
+  },
+  "Neera, Wild Mage": {
+    "synergy": [
+      "One with the Multiverse",
+      "Etali, Primal Storm",
+      "Otherworldly Gaze",
+      "Omniscience",
+      "Jori En, Ruin Diver",
+      "Ovika, Enigma Goliath"
+    ],
+    "popular": [
+      "Brainstorm",
+      "Opt",
+      "Sulfur Falls",
+      "Izzet Signet"
+    ]
+  },
+  "Solphim, Mayhem Dominus": {
+    "synergy": [
+      "Heartless Hidetsugu",
+      "Sulfuric Vortex",
+      "Fiery Confluence",
+      "Flame Rift",
+      "Guttersnipe",
+      "Price of Progress"
+    ],
+    "popular": [
+      "Blasphemous Act",
+      "Ruby Medallion",
+      "Lightning Bolt",
+      "Torbran, Thane of Red Fell"
+    ]
+  },
+  "Vincent Valentine // Galian Beast": {
+    "synergy": [
+      "Sheoldred's Edict",
+      "Fleshbag Marauder",
+      "Accursed Marauder",
+      "Soul Shatter",
+      "Plaguecrafter",
+      "The Masamune"
+    ],
+    "popular": [
+      "Morbid Opportunist",
+      "Feed the Swarm",
+      "Dark Ritual",
+      "Jet Medallion"
+    ]
+  },
+  "Kumena, Tyrant of Orazca": {
+    "synergy": [
+      "Merrow Reejerey",
+      "Deeproot Waters",
+      "Master of the Pearl Trident",
+      "Svyelun of Sea and Sky",
+      "Stonybrook Banneret",
+      "Deeproot Pilgrimage"
+    ],
+    "popular": [
+      "Emperor Mihail II",
+      "Kopala, Warden of Waves",
+      "Deeproot Elite",
+      "Merfolk Sovereign"
+    ]
+  },
+  "Syr Vondam, Sunstar Exemplar": {
+    "synergy": [
+      "Ephemerate",
+      "Cloudshift",
+      "Elegy Acolyte",
+      "Flowering of the White Tree",
+      "Haliya, Guided by Light",
+      "Parting Gust"
+    ],
+    "popular": [
+      "Isolated Chapel",
+      "Caves of Koilos",
+      "Godless Shrine",
+      "Elas il-Kor, Sadistic Pilgrim"
+    ]
+  },
+  "Rakdos, the Muscle": {
+    "synergy": [
+      "Shriekmaw",
+      "Ingot Chewer",
+      "Forsaken Miner",
+      "Poxwalkers",
+      "Ashnod's Altar",
+      "Burnt Offering"
+    ],
+    "popular": [
+      "Talisman of Indulgence",
+      "Dark Ritual",
+      "Blood Crypt",
+      "Sulfurous Springs"
+    ]
+  },
+  "Heliod, Sun-Crowned": {
+    "synergy": [
+      "Daxos, Blessed by the Sun",
+      "Soul Warden",
+      "Soul's Attendant",
+      "Walking Ballista",
+      "Voice of the Blessed",
+      "Authority of the Consuls"
+    ],
+    "popular": [
+      "Path to Exile",
+      "Pearl Medallion",
+      "Esper Sentinel",
+      "Serra Ascendant"
+    ]
+  },
+  "Rat King, Verminister": {
+    "synergy": [
+      "Marrow-Gnawer",
+      "Rat Colony",
+      "Thrumming Stone",
+      "Piper of the Swarm",
+      "Karumonix, the Rat King",
+      "Ogre Slumlord"
+    ],
+    "popular": [
+      "Jet Medallion",
+      "Swarmyard",
+      "Ashcoat of the Shadow Swarm",
+      "Cabal Coffers"
+    ]
+  },
+  "Slicer, Hired Muscle // Slicer, High-Speed Antagonist": {
+    "synergy": [
+      "Mask of Memory",
+      "Beamtown Beatstick",
+      "Goldvein Pick",
+      "O-Naginata",
+      "Welding Jar",
+      "Jeska, Thrice Reborn"
+    ],
+    "popular": [
+      "Simian Spirit Guide",
+      "Blasphemous Act",
+      "Desperate Ritual",
+      "Abrade"
+    ]
+  },
+  "Kozilek, the Great Distortion": {
+    "synergy": [
+      "Eldrazi Temple",
+      "Geode Golem",
+      "Conduit of Ruin",
+      "Sanctum of Ugin",
+      "Eye of Ugin",
+      "Ulamog, the Ceaseless Hunger"
+    ],
+    "popular": [
+      "All Is Dust",
+      "Forsaken Monument",
+      "Thran Dynamo",
+      "Hedron Archive"
+    ]
+  },
+  "Ultron, Artificial Malevolence": {
+    "synergy": [
+      "Idol of Oblivion",
+      "Krang, Utrom Warlord",
+      "Cybermen Squadron",
+      "Cloud Key",
+      "Cyberman Patrol",
+      "Iron Spider, Stark Upgrade"
+    ],
+    "popular": [
+      "Foundry Inspector",
+      "Forsaken Monument",
+      "Thran Dynamo",
+      "Urza's Power Plant"
+    ]
+  },
+  "Savra, Queen of the Golgari": {
+    "synergy": [
+      "Creakwood Liege",
+      "Dina, Soul Steeper",
+      "Viscera Seer",
+      "Reassembling Skeleton",
+      "Beledros Witherbloom",
+      "Blight Mound"
+    ],
+    "popular": [
+      "Woodland Cemetery",
+      "Sakura-Tribe Elder",
+      "Blood Artist",
+      "Zulaport Cutthroat"
+    ]
+  },
+  "Liberty Prime, Recharged": {
+    "synergy": [
+      "Dr. Madison Li",
+      "Electrosiphon",
+      "Plasma Caster",
+      "HELIOS One",
+      "Assaultron Dominator",
+      "Automated Assembly Line"
+    ],
+    "popular": [
+      "Mystic Monastery",
+      "Dispatch",
+      "Glacial Fortress",
+      "Brotherhood Scribe"
+    ]
+  },
+  "Grub, Storied Matriarch // Grub, Notorious Auntie": {
+    "synergy": [
+      "Boggart Cursecrafter",
+      "Boggart Mischief",
+      "Krenko, Mob Boss",
+      "Eclipsed Boggart",
+      "Goblin Matron",
+      "Skirk Prospector"
+    ],
+    "popular": [
+      "Goblin Warchief",
+      "Grub's Command",
+      "Sling-Gang Lieutenant",
+      "Siege-Gang Commander"
+    ]
+  },
+  "The Council of Four": {
+    "synergy": [
+      "Howling Mine",
+      "Dictate of Kruphix",
+      "Kami of the Crescent Moon",
+      "Vodalian Wave-Knight",
+      "Mangara, the Diplomat",
+      "Prince Imrahil the Fair"
+    ],
+    "popular": [
+      "Prairie Stream",
+      "Glacial Fortress",
+      "Path to Exile",
+      "Azorius Signet"
+    ]
+  },
+  "Alesha, Who Laughs at Fate": {
+    "synergy": [
+      "Accursed Marauder",
+      "Perforating Artist",
+      "Inti, Seneschal of the Sun",
+      "Buried Alive",
+      "Plaguecrafter",
+      "Stitcher's Supplier"
+    ],
+    "popular": [
+      "Smoldering Marsh",
+      "Dragonskull Summit",
+      "Faithless Looting",
+      "Victimize"
+    ]
+  },
+  "Lonis, Cryptozoologist": {
+    "synergy": [
+      "Academy Manufactor",
+      "Shrieking Drake",
+      "Erdwal Illuminator",
+      "Tireless Tracker",
+      "Jaheira, Friend of the Forest",
+      "Inspiring Statuary"
+    ],
+    "popular": [
+      "Hinterland Harbor",
+      "Eternal Witness",
+      "Yavimaya Coast",
+      "Coiling Oracle"
+    ]
+  },
+  "Vishgraz, the Doomhive": {
+    "synergy": [
+      "Infectious Inquiry",
+      "Necrogen Rotpriest",
+      "Vraska's Fall",
+      "Skrelv's Hive",
+      "Skrelv, Defector Mite",
+      "Venerated Rotpriest"
+    ],
+    "popular": [
+      "Phyresis Outbreak",
+      "Contaminant Grafter",
+      "White Sun's Twilight",
+      "Bloated Contaminator"
+    ]
+  },
+  "Plagon, Lord of the Beach": {
+    "synergy": [
+      "Ephemerate",
+      "Cloudshift",
+      "Essence Flux",
+      "Ornithopter",
+      "Momentary Blink",
+      "Dour Port-Mage"
+    ],
+    "popular": [
+      "Talisman of Progress",
+      "Adarkar Wastes",
+      "Ornithopter of Paradise",
+      "Hallowed Fountain"
+    ]
+  },
+  "Herigast, Erupting Nullkite": {
+    "synergy": [
+      "Artisan of Kozilek",
+      "Hideous Taskmaster",
+      "Solemn Simulacrum",
+      "Anticausal Vestige",
+      "Palladium Myr",
+      "Skitterbeam Battalion"
+    ],
+    "popular": [
+      "Anger",
+      "Atsushi, the Blazing Sky",
+      "Feldon of the Third Path",
+      "Combustible Gearhulk"
+    ]
+  },
+  "Odric, Lunarch Marshal": {
+    "synergy": [
+      "Aerial Responder",
+      "Shrike Force",
+      "Zetalpa, Primal Dawn",
+      "Oketra the True",
+      "Healer's Hawk",
+      "Akroma, Vision of Ixidor"
+    ],
+    "popular": [
+      "Path to Exile",
+      "Danitha Capashen, Paragon",
+      "Pearl Medallion",
+      "Oketra's Monument"
+    ]
+  },
+  "Black Waltz No. 3": {
+    "synergy": [
+      "Black Mage's Rod",
+      "Cornered by Black Mages",
+      "Kuja, Genome Sorcerer",
+      "Guttersnipe",
+      "Circle of Power",
+      "Coruscation Mage"
+    ],
+    "popular": [
+      "Dark Ritual",
+      "Lightning Bolt",
+      "Dragonskull Summit",
+      "Faithless Looting"
+    ]
+  },
+  "Tinybones, Trinket Thief": {
+    "synergy": [
+      "Waste Not",
+      "Bottomless Pit",
+      "Geth's Grimoire",
+      "Necrogen Mists",
+      "Oppression",
+      "Liliana's Caress"
+    ],
+    "popular": [
+      "Dark Ritual",
+      "Syphon Mind",
+      "Painful Quandary",
+      "Jet Medallion"
+    ]
+  },
+  "Toph, Earthbending Master": {
+    "synergy": [
+      "Earthbender Ascension",
+      "Ba Sing Se",
+      "Avatar Kyoshi, Earthbender",
+      "Badgermole",
+      "Toph, the Blind Bandit",
+      "The Legend of Kyoshi"
+    ],
+    "popular": [
+      "Evolution Sage",
+      "Terrasymbiosis",
+      "Secret Tunnel",
+      "Badgermole Cub"
+    ]
+  },
+  "Otharri, Suns' Glory": {
+    "synergy": [
+      "Neyali, Suns' Vanguard",
+      "Goldnight Commander",
+      "Karn's Bastion",
+      "Idol of Oblivion",
+      "Warleader's Call",
+      "Impact Tremors"
+    ],
+    "popular": [
+      "Talisman of Conviction",
+      "Path to Exile",
+      "Boros Signet",
+      "Clifftop Retreat"
+    ]
+  }
+}

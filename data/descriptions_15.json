@@ -1,0 +1,152 @@
+{
+  "Scion of the Ur-Dragon": {
+    "tagline": "花两费就能变成坟场里任何一条龙",
+    "intro": "太初龙后裔（Scion of the Ur-Dragon）是五色五费巨龙，自己会飞。花两点法术力，它就能从牌库里挑一条龙丢进坟场，然后变成那条龙的模样打到回合结束。喜欢龙、又爱翻牌库找答案的人会喜欢它。",
+    "build": "牌表塞满大龙：裂坟庞巨龙（Colossal Grave-Reaver）进场或攻击都帮你把牌库顶三张送进坟场，上古龙卫米瑞穆（Miirym, Sentinel Wyrm）让每条龙进场都多带一个复制，命途交错（Crux of Fate）想留龙就留龙、想清场就清场。新人注意：主将的复制每次都要付费用，法术力要留够。"
+  },
+  "Rhys the Redeemed": {
+    "tagline": "一费出场，小妖精越滚越多",
+    "intro": "复耀黎兹（Rhys the Redeemed）是白绿两色、只要一点法术力的精灵战士。她既能不断造出小妖精，也能把场上所有衍生物原样再复制一份。喜欢从零开始铺场、看着小兵越来越多的人会喜欢她。",
+    "build": "前期靠罗堰妖精（Llanowar Elves）和泰坦尼亚牧师（Priest of Titania）产法术力，妖精高位德鲁伊（Elvish Archdruid）让妖精更大，骄傲至美（Imperious Perfect）还能造新的。平行生命（Parallel Lives）让每次造衍生物都翻倍，人一多就能一波推过去。新人注意：主将很便宜，早点让她上场，每回合都干活。"
+  },
+  "Jarad, Golgari Lich Lord": {
+    "tagline": "把坟场堆满，再一口气砸向对手",
+    "intro": "葛加理巫妖领主贾雷（Jarad, Golgari Lich Lord）是黑绿两色的四费丧尸妖精，坟场里每多一张生物牌，他就更大一圈。他还能牺牲一个生物，让所有对手一起掉生命。喜欢慢慢堆坟场、再一次性爆发的人会喜欢他。",
+    "build": "思路是往坟场里塞生物：碎身惧妖（Splinterfright）和葛加理墓地巨魔（Golgari Grave-Troll）自己会把牌库顶的牌磨下去，绝灭领主（Lord of Extinction）的身材跟所有坟场里的牌挂钩。堆够了就牺牲一个大生物，让对手一起掉血。不朽见证人（Eternal Witness）帮你把用掉的关键牌捡回来。新人注意：别把自己牌库磨空。"
+  },
+  "Anje Falkenrath": {
+    "tagline": "弃牌换抽牌，越弃越顺手",
+    "intro": "安姬伐肯纳（Anje Falkenrath）是黑红两色的三费吸血鬼，自己带敏捷，上场当回合就能动手。她能把手上用不着的牌换成新牌，而弃掉那些「被弃掉反而更好用」的牌时，她还会重新站起来再换一次。喜欢不停换牌、节奏快的人会喜欢她。",
+    "build": "牌表里放一批被弃掉反而能用的牌：巨兽猎人（Big Game Hunter）能杀掉大生物，火爆（Fiery Temper）变成三点伤害，终极苦痛（Terminal Agony）和黯境枯萎（Dark Withering）直接拆掉对手的生物，用不上就拿来喂主将。安姬的噬血客（Anje's Ravager）进攻时把手牌全换新。新人注意：算好弃哪张、留哪张。"
+  },
+  "Olivia, Opulent Outlaw": {
+    "tagline": "带一队不法之徒，打中就有珍宝",
+    "intro": "奢华狂徒奥莉薇亚（Olivia, Opulent Outlaw）是白黑红三色的四费吸血鬼，会飞，打到人还能回血。她带来的刺客、海盗、浪客这些「不法之徒」只要打中对手，就给你留下珍宝，攒够了能让所有生物一起变大。喜欢边打边攒资源的人会喜欢她。",
+    "build": "主将要的是刺客、海盗、浪客这类不法之徒：兰娜莉速腾船长（Captain Lannery Storm）一进攻就有珍宝，夺命笔锋玛丽（Mari, the Killing Quill）让这些生物带上死触、顺手管住对手的坟场，玛切莎女王（Queen Marchesa）也是带敏捷的刺客。醒金师威翰（Vihaan, Goldwaker）让全队获得警戒和敏捷。新人注意：珍宝别急着花，攒起来给主将用更划算。"
+  },
+  "Gwen Stacy // Ghost-Spider": {
+    "tagline": "从放逐区白拿牌，越用越大",
+    "intro": "格温·史黛西（Gwen Stacy // Ghost-Spider）是白蓝红三色的两费生物，上场就先放逐牌库顶一张牌让你能用。凑齐白蓝红三点有色法术力她就会变身：能飞、能警戒，而且每次从放逐区用牌都长大一点。喜欢提前摸牌、算着用的玩家会喜欢她。",
+    "build": "这套牌靠「从放逐区拿牌」吃饭：重铸利锋拉耶梨（Laelia, the Blade Reforged）和蜘蛛之心阿拉尼亚（Araña, Heart of the Spider）不断往放逐区送牌，维度之网手表（Interdimensional Web Watch）一次放逐两张还帮你出法术力。流放之径（Path to Exile）留着处理挡路的生物。新人注意：放逐区的牌要记得用，过了期限就废了。"
+  },
+  "Alesha, Who Smiles at Death": {
+    "tagline": "一进攻，就把小生物从坟场拉回来打",
+    "intro": "蔑死者阿列莎（Alesha, Who Smiles at Death）是白黑红三色的三费人类战士，自带先攻。她每次进攻都能从你的坟场里拉回一个力量不超过 2 的小生物，横着进场直接参战。喜欢用小生物反复利用、越打越顺的人会喜欢她。",
+    "build": "关键是把小生物送进坟场再用：活埋（Buried Alive）一次把三张生物牌埋进去，丧信掠夺（Faithless Looting）换牌时顺手弃掉它们，然后靠主将每回合拉一个回来。宿命导士（Karmic Guide）也是一张救场牌，黯色幻影（Solemn Simulacrum）进场帮你找地。新人注意：只能拉力量 2 以下的，别放太多大生物。"
+  },
+  "Aurelia, the Warleader": {
+    "tagline": "全队解开，一回合打两次",
+    "intro": "战领欧瑞梨（Aurelia, the Warleader）是白红两色的六费天使，会飞、会警戒，自己还带敏捷。她每回合第一次进攻时会把你的生物全部解开，然后额外多出一个战斗阶段，也就是全队能再打一次。喜欢一鼓作气压过去的人会喜欢她。",
+    "build": "天使是主体：希望圣源吉娅妲（Giada, Font of Hope）让每只天使多带指示物，黎明使者莱拉（Lyra Dawnbringer）是能打能回血的大天使。给主将装上军团之盔（Helm of the Host），每次战斗开始都能复制出一个带敏捷的她，全队会再冲一轮。新人注意：六费不便宜，前期先铺法术力。"
+  },
+  "Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight": {
+    "tagline": "让全队死不掉，死了还能再来",
+    "intro": "晨光神使埃尔度（Eirdu, Carrier of Dawn // Isilu, Carrier of Twilight）是白黑两色的五费神使，会飞、还能回血。付一点黑色法术力它就变身，变身后你其他生物死后都能带伤回来一次。喜欢反复利用生物的玩家会喜欢它。",
+    "build": "变身后全队都变得「死得起」：拽脏预言师（Viscera Seer）可以随时牺牲生物、换一次看牌，影环狂信者（Umbral Collar Zealot）牺牲东西时帮你看牌库顶，孽物米凯耶（Mikaeus, the Unhallowed）有威慑，同色或神器生物才挡得住。护教军圣战（Cathars' Crusade）在你每次有生物进场时让全队变大。新人注意：带伤回来的生物身上挂着减益指示物。"
+  },
+  "Toph, Hardheaded Teacher": {
+    "tagline": "地也能变成生物替你打人",
+    "intro": "固执师父拓芙（Toph, Hardheaded Teacher）是红绿两色的四费战士。她每放一个咒语，就能把一块地变成带指示物的生物——那块地既能打人，还在帮你产法术力。她进场时还能把手牌换成坟场里的瞬间或法术。喜欢拿地搞事的玩家会喜欢她。",
+    "build": "牌表以找地为主：复苏轮回（Cycle of Renewal）和同根共生（Shared Roots）把地捞上场，永固城（Ba Sing Se）自己就能把地变成生物，纪念军少尉塔努科（Tannuk, Memorial Ensign）在你每次放地时让所有对手掉一点生命。新人注意：被变成生物的地如果被打掉，会横置着回到场上，别怕用它去挡。"
+  },
+  "Gonti, Night Minister": {
+    "tagline": "用对手的牌打赢对手",
+    "intro": "晚市司贡提（Gonti, Night Minister）是黑色的四费浪客。你的生物一旦打中对手，它的操控者就能翻走对手牌库顶的一张牌留着用，连施放它都能用任意颜色的法术力。对面牌越贵，你拿到的好处越大。喜欢使坏、专挑别人的东西用的玩家会喜欢它。",
+    "build": "牌表里塞满「一定打得中」的小生物：化形黜人（Changeling Outcast）和受虐灵魂（Tormented Soul）都不能被挡，窃物害兽（Thieving Varmint）还能替你产出专门用来施放别人牌的法术力。道西虚空行者（Dauthi Voidwalker）专门盯着对手的坟场。喂饱虫群（Feed the Swarm）留着拆掉挡路的东西。新人注意：抢来的牌要趁早用，别攒在手上。"
+  },
+  "Altaïr Ibn-La'Ahad": {
+    "tagline": "一进攻，坟场里的刺客全回来帮忙",
+    "intro": "阿泰尔·伊本·拉阿哈德（Altaïr Ibn-La'Ahad）是白黑红三色的三费刺客，自带先攻。他每次进攻都会把坟场里的一位刺客记下来，再让每一个被他记住的刺客变成复制冲上战场打一下，回合结束就消失。喜欢提前把牌铺好、一击爆发的人会喜欢他。",
+    "build": "先把刺客送进坟场：丧信掠夺（Faithless Looting）换牌时顺手丢，戴斯蒙德·迈尔斯（Desmond Miles）自己有威慑，要两个生物才挡得住；锡瓦的巴耶克（Bayek of Siwa）和亚历山大的艾雅（Aya of Alexandria）都是能打的刺客。新人注意：复制只在当回合存在，进攻的时机要抓准。"
+  },
+  "Quandrix, the Proof": {
+    "tagline": "每放一个法术，就再白翻一张",
+    "intro": "启证巨龙量析（Quandrix, the Proof）是蓝绿两色的六费巨龙，会飞会践踏。它自己进场时就能免费翻出一张更便宜的牌直接施放，而且你之后从手上放的每一个瞬间和法术，都会再带一次这种免费翻牌。喜欢一放牌就停不下来的人会喜欢它。",
+    "build": "牌表以瞬间和法术为主：历时挖掘（Dig Through Time）和宝船巡游（Treasure Cruise）能翻一大堆牌，荣休大法师（Archmage Emeritus）让你每放一个法术都抽一张，恩赐主祭依莫提（Imoti, Celebrant of Bounty）自己也带免费翻牌。新人注意：翻出来的牌不一定划算，看清再决定放不放。"
+  },
+  "Sami, Wildcat Captain": {
+    "tagline": "神器铺满，什么牌都变便宜",
+    "intro": "私掠队长萨米（Sami, Wildcat Captain）是白红两色的六费神器师，自带连击，还带警戒，能打能守。她在场时，你每放一个咒语都会因为场上的神器而变便宜——神器越多，后面的牌越接近白拿。喜欢先铺一地小神器、再一口气放光的人会喜欢她。",
+    "build": "牌表里神器地特别多：大熔炉（Great Furnace）、远古狮穴（Ancient Den）和锈谷结桥（Rustvale Bridge）既是地也是神器，两份好处都占。神秘熔炉（Mystic Forge）让你直接从牌库顶放神器，信念饰符（Talisman of Conviction）前期帮你把法术力铺开，也能顺手压低后面咒语的费用。新人注意：神器越多越便宜，别舍不得往下铺。"
+  },
+  "Raphael, Fiendish Savior": {
+    "tagline": "魔鬼死了也要咬人一口",
+    "intro": "炼狱救星拉斐尔（Raphael, Fiendish Savior）是黑红两色的五费魔鬼贵族，自己会飞。他让场上的魔鬼、恶魔都变大、还能回血；只要有生物进你的坟场，回合结束就白送你一个死了会炸人的小魔鬼。喜欢牺牲打法的玩家会喜欢他。",
+    "build": "牌表以魔鬼为主：混沌骑兵祖佐斯（Zurzoth, Chaos Rider）和诙谐损言师（Witty Roastmaster）总在造小魔鬼、顺手让对手掉血，货棚老板马哈迪（Mahadi, Emporium Master）把当回合死掉的生物变成珍宝，破坏魔鬼（Mayhem Devil）则在任何人牺牲永久物时都能造成伤害。新人注意：自己的生物该牺牲就牺牲，它们死了更值钱。"
+  },
+  "Miles Morales // Ultimate Spider-Man": {
+    "tagline": "指示物翻倍，蜘蛛越打越大",
+    "intro": "迈尔斯·莫拉莱斯（Miles Morales // Ultimate Spider-Man）是三色两费英雄，上场就给两个生物各加一个指示物。变身后他每次进攻都把你所有蜘蛛和传奇生物身上的指示物翻一倍，越打越夸张。喜欢小生物快速长大的玩家会喜欢他。",
+    "build": "关键是把指示物叠起来：坚固鳞甲（Hardened Scales）让每次放指示物都多一个，朋克蜘蛛侠（Spider-Punk）让所有蜘蛛都能自己选带指示物或带敏捷，蜘蛛之心阿拉尼亚（Araña, Heart of the Spider）每次进攻都往进攻的生物上加指示物。流放之径（Path to Exile）留给挡路的大生物。新人注意：变身前先铺好场面再进攻。"
+  },
+  "Yuna, Hope of Spira": {
+    "tagline": "结界越铺越多，结界生物越打越狠",
+    "intro": "史匹拉之望尤娜（Yuna, Hope of Spira）是白绿两色的五费僧侣。轮到你的回合，她和你场上的结界生物都会获得践踏、系命和保护，打人又回血；每个回合结束，她还能从坟场免费带回一张结界牌。喜欢慢慢布置、每张牌都在帮忙的玩家会喜欢她。",
+    "build": "牌表以结界为主：丰收之手叙提丝（Sythis, Harvest's Hand）让你每放一个结界都抽一张、回一点血，Summon: Bahamut这类结界生物既是结界也是能打的大家伙。圣所织叶灵（Sanctum Weaver）按你场上的结界数量产法术力，结界越多它越能干活。新人注意：从坟场带回来的结界一旦再离场就会被放逐，别再指望第二次。"
+  },
+  "Goreclaw, Terror of Qal Sisma": {
+    "tagline": "大生物便宜放，一进攻全队践踏",
+    "intro": "黑山之威血爪（Goreclaw, Terror of Qal Sisma）是绿色的四费巨熊。她让你手上力量 4 以上的生物都便宜两点，自己一进攻，这些大生物还会一起变大并获得践踏。也就是说：她负责打折，你的大兽负责压过去。喜欢直接砸大生物的人会喜欢她。",
+    "build": "牌表就是大生物：始饥戈厄塔（Ghalta, Primal Hunger）的费用跟场上总力量挂钩，生物越强越便宜；贾路的兽群长（Garruk's Packleader）让你放大生物就抽牌，贾路的反抗（Garruk's Uprising）让全队践踏。罗堰妖精（Llanowar Elves）前期帮你抢速度。新人注意：多放力量 4 以上的生物，少混小东西。"
+  },
+  "Jan Jansen, Chaos Crafter": {
+    "tagline": "神器来回换，珍宝和机器人都不缺",
+    "intro": "混沌械匠姚恩姚森（Jan Jansen, Chaos Crafter）是白黑红三色的三费侏儒，自己带敏捷，上场就能干活。他能把神器生物变成两个珍宝，也能把普通神器换成两个小机器人，来回一换手里总有东西用。喜欢算小账、把东西反复变现的玩家会喜欢他。",
+    "build": "这套牌靠「进场就赚、离场也赚」的神器：脓水涌泉（Ichor Wellspring）进场和进坟场都抽一张，鲁莽织焰匠（Reckless Fireweaver）在你放神器时让每位对手掉一点生命，黑森林蝙蝠（Mirkwood Bats）则在你造或牺牲衍生物时磨对手的血。备忘夹（Skullclamp）把小机器人变成两张牌。新人注意：牺牲前先算清楚。"
+  },
+  "Kyler, Sigardian Emissary": {
+    "tagline": "人类越多，主将越大，全队都跟着涨",
+    "intro": "席嘉妲密使凯勒尔（Kyler, Sigardian Emissary）是白绿两色的五费人类。每有一个人类进场，他身上就多一个指示物；他身上的指示物越多，你其他人类就越大。所以铺得越开，整队涨得越快。喜欢整齐推进、所有人一起变强的玩家会喜欢他。",
+    "build": "牌表就是人类合集：羊屯斗士（Champion of Lambholt）会随场上生物变多而越长越大、越挡不住，华辉护教军艾德琳（Adeline, Resplendent Cathar）进攻时按对手数量给你造士兵，天使之拳托亨斯（Torens, Fist of the Angels）每放一个生物咒语就多带一个学徒。新人注意：别光放大生物，人类越多主将涨得越快。"
+  },
+  "Faldorn, Dread Wolf Herald": {
+    "tagline": "从放逐区出牌，每次都给一条狼",
+    "intro": "惧栗狼使法多（Faldorn, Dread Wolf Herald）是红绿两色的三费德鲁伊。她能帮你从牌库顶「预支」一张牌，只要从放逐区用出来，就会多一条 2/2 的狼替你打人。用牌和造狼绑在一起，节奏很顺。喜欢边摸牌边铺狼群的玩家会喜欢她。",
+    "build": "牌表以「先放逐、后使用」为主：照亮舞台（Light Up the Stage）和逃往幻野（Escape to the Wilds）一次给你好几张牌用，重铸利锋拉耶梨（Laelia, the Blade Reforged）进攻时不断往放逐区送牌。洁丝卡的意志（Jeska's Will）帮你一口气凑出大量红色法术力。新人注意：放逐的牌有期限，当回合能用的就别留着。"
+  },
+  "Xantcha, Sleeper Agent": {
+    "tagline": "把主将塞给对手，让他替你挨打",
+    "intro": "潜藏密探珊迦（Xantcha, Sleeper Agent）是黑红两色的三费密探，一开场就跑到你指定的对手那边，还必须每回合进攻、只能打别人。谁操控她都得掉血，你却能白抽一张牌。喜欢挑拨离间、让别人替你干活的玩家会喜欢她。",
+    "build": "牌表专挑「让别人替你打」的牌：闪耀促动（Shiny Impetus）和渴血之刃（Bloodthirsty Blade）贴在对手的生物上，逼它们每回合都得进攻，礼数不周（Disrupt Decorum）则让全桌对手互殴一轮。末日灾祸卡尔杜（Kardur, Doomscourge）进场也能把对手全推向别人。新人注意：这套牌不靠单挑，靠把大家搅在一起。"
+  },
+  "Zask, Skittering Swarmlord": {
+    "tagline": "虫子死了回牌库底，还能再来一次",
+    "intro": "掠行群长札嘶克（Zask, Skittering Swarmlord）是黑绿两色的五费昆虫。你能直接从坟场使用地和施放昆虫咒语，你操控的昆虫死掉时还会回到牌库底等着再来一轮。也就是说，你的虫子几乎用不完。喜欢重复利用、越磨越多的玩家会喜欢它。",
+    "build": "牌表全是虫子：硬盔虫聚群（Scute Swarm）每放一块地就多一只昆虫，腐蚀毛虫（Caustic Caterpillar）和失控虫械（Haywire Mite）可以牺牲自己拆掉对手的神器或结界，之后还能从坟场请回来接着用。饥潮格蕊斯（Grist, the Hunger Tide）自己就能造虫、顺手磨牌。新人注意：磨牌是好事，别怕把自己牌库磨下去。"
+  },
+  "Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar": {
+    "tagline": "抽到第三张牌，就变成鹏洛客",
+    "intro": "好问学徒多美代（Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar）是蓝绿两色的一费法师，自己会飞；你每回合抽到第三张牌，她就翻面变成鹏洛客。喜欢不停抽牌的人会喜欢她。",
+    "build": "牌表靠便宜的抽牌咒语：脑力激荡（Brainstorm）、狂搜乱寻（Frantic Search）这类一放就抽，让你容易在一回合里凑到第三张。量束联能师（Flux Channeler）会在你放非生物咒语时给场上的指示物再加一个，变态爬虫（Psychosis Crawler）则把每次抽牌变成对手掉血。新人注意：变身之后她的能力偏向防守和回收法术，别拿她去硬拼。"
+  },
+  "Taii Wakeen, Perfect Shot": {
+    "tagline": "小额伤害被放大，正好点掉对手生物",
+    "intro": "精准射手泰依瓦肯（Taii Wakeen, Perfect Shot）是白红两色的两费佣兵。花掉若干法术力，她就能让你这一回合的所有非战斗伤害全部加码；而只要你的一次伤害刚好点掉对手的生物，你就抽一张牌。喜欢用小法术精确清场的玩家会喜欢她。",
+    "build": "牌表里全是便宜的范围伤害：喜庆终结（End the Festivities）和地壳灾害（Tectonic Hazard）只要一点法术力就能扫掉对手的小生物。电流恶戏（Electrickery）还能选择只打一只，加码之后闪电击（Lightning Bolt）也能清掉大生物。新人注意：加多少点要算好，刚好点掉最划算。"
+  },
+  "Minthara, Merciless Soul": {
+    "tagline": "每牺牲一样东西，全队就更凶一点",
+    "intro": "冷酷无情的明萨拉（Minthara, Merciless Soul）是白黑两色的四费精灵僧侣。只要你的永久物在回合里离开过战场，她就会累积经验，你所有生物随之变强。她还自带保护，对手想除掉她要先多付代价。喜欢用牺牲换整体变强的玩家会喜欢她。",
+    "build": "关键是每回合都让东西离场：致命争执（Deadly Dispute）牺牲一个神器或生物，换两张牌和一个珍宝；巢居跛行尸（Nested Shambler）死掉时按自己的力量留下小松鼠；秘藏备品（Hidden Stockpile）在你的东西离场后回送一个机器人。促蚀福音师（Metastatic Evangel）帮你把经验指示物继续加上去。新人注意：宁可少打一点，也要保证每回合都有东西离场。"
+  },
+  "Liliana, Heretical Healer // Liliana, Defiant Necromancer": {
+    "tagline": "自己的生物一死，主将就变身",
+    "intro": "异端治疗师莉莲娜（Liliana, Heretical Healer // Liliana, Defiant Necromancer）是黑色三费主将，会回血。你别的生物一死她就变身，之后每回合让全桌各弃一张牌。喜欢坟场玩法的玩家会喜欢她。",
+    "build": "牌表一半是别的莉莲娜：亡者女王莉莲娜（Liliana, Death's Majesty）能造丧尸、还能从坟场拉回生物，震惧军将莉莲娜（Liliana, Dreadhorde General）在你生物死去时抽牌，莉莲娜得胜（Liliana's Triumph）逼每位对手各牺牲一个生物。黑暗祭礼（Dark Ritual）让你提前发力。新人注意：变身要靠自己别的生物死去，先铺几个便宜生物当垫子。"
+  },
+  "Ghoulcaller Gisa": {
+    "tagline": "牺牲一个大生物，换一群丧尸",
+    "intro": "尸鬼牧者基沙（Ghoulcaller Gisa）是黑色的五费法师。她能把一个生物牺牲掉，换成一群 2/2 的丧尸——牺牲的生物力量越大，换来的丧尸越多。她自己不用打架，只要场上有东西可换，丧尸就源源不断。喜欢铺一桌丧尸、稳稳推进的玩家会喜欢她。",
+    "build": "牌表以丧尸为主：死亡爵主（Death Baron）和遭诅者领主（Lord of the Accursed）让丧尸更大更凶，不死卜算师（Undead Augur）在你每次有丧尸死去时抽牌。墓场匍尸（Gravecrawler）只要场上有丧尸就能一直从坟场爬回来，正好当牺牲的材料。新人注意：牺牲前想清楚，力量大的生物换来的丧尸更多。"
+  },
+  "Neera, Wild Mage": {
+    "tagline": "把咒语塞回牌库，换一张白拿的牌",
+    "intro": "狂野法师妮拉（Neera, Wild Mage）是蓝红两色的六费法师。每个回合一次，你可以把刚放的一个咒语塞回牌库底，然后从牌库顶一路翻到第一张非地牌，免费把它放出来。运气好就是白赚一张大牌。喜欢赌一把、看牌库顶有什么的玩家会喜欢她。",
+    "build": "关键是把大牌留在牌库顶：脑力激荡（Brainstorm）能把大咒语放回牌库顶，抉择（Opt）帮你调整牌库顶，再用妮拉的能力免费翻出来。多重宇宙加身（One with the Multiverse）让你直接从牌库顶放牌，始啸埃泰力（Etali, Primal Storm）进攻时也从每位对手那里白拿牌用。新人注意：这个能力每回合只能触发一次。"
+  },
+  "Solphim, Mayhem Dominus": {
+    "tagline": "所有伤害翻倍，包括打自己的",
+    "intro": "破坏圣主索非穆（Solphim, Mayhem Dominus）是红色的四费惊惧兽。只要是对手或对手的东西受伤，来自你的来源就全部翻倍——一点变两点，四点变八点。代价是它自己也不太好过，但它能靠弃牌换不灭。喜欢一鼓作气烧穿对手的玩家会喜欢它。",
+    "build": "牌表全是范围烧：硫磺旋风（Sulfuric Vortex）每回合都让每位玩家掉两点生命，无情碑出告（Heartless Hidetsugu）一次就能让所有人掉掉一半生命，翻倍之后相当凶。贫窟伏击客（Guttersnipe）在你每放一个瞬间或法术时让对手掉血，渎神行径（Blasphemous Act）用来清场。新人注意：有的伤害也会打到自己，血量要留着。"
+  }
+}
