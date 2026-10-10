@@ -140,9 +140,13 @@ def main() -> int:
     for q in questions:
         section_counts[q.get("sec")] += 1
         opts = q["opts"]
-        # 上限放到 6：广度题要覆盖 单色/双色/三色/四色/五色/无色 六档
-        if not (3 <= len(opts) <= 6):
-            problems.append(f"{q['id']} 选项数 {len(opts)}（要求 3~6）")
+        # 上限放到 7：广度题要覆盖 单色/双色/三色/四色/五色/无色 六档；
+        # s50（周末看什么）在原有六类之外补一档「恐怖片」，六档不够装，故再放宽一档。
+        # 放宽的只有条数上限：下限 3、每选项 1~3 轴、权重区间、
+        # 同题两两余弦 < AMBIGUITY_LIMIT 都不放松——选项一多本来就更容易互相模糊，
+        # 区分度由那条余弦阈值兜住，而不是靠压条数。
+        if not (3 <= len(opts) <= 7):
+            problems.append(f"{q['id']} 选项数 {len(opts)}（要求 3~7）")
         texts = [o["t"].strip() for o in opts]
         if any(not t for t in texts):
             problems.append(f"{q['id']} 有空选项")
