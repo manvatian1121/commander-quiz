@@ -19,6 +19,9 @@ AXES = ["aggro", "voltron", "wide", "ramp", "stompy", "control", "removal", "com
         "spells", "artifacts", "enchant", "grave", "tribal", "drain", "stax",
         "clonesteal", "politics", "chaos", "counters", "blink"]
 COLORS = ["W", "U", "B", "R", "G"]
+# 广度题的无色选项用 "C" 表达「想要无色主将」的偏好。
+# 它不参与五色覆盖统计（无色不是五色之一），所以单独列出。
+COLOR_EXTRA = ["C"]
 CVALS = ["complex", "budget", "salt"]
 # 权重经过轴平衡缩放后是连续值，不再是固定档位
 W_MIN, W_MAX = 0.3, 3.0
@@ -162,9 +165,9 @@ def main() -> int:
                 else:
                     axis_hits[axis] += 1
             for color in (opt.get("col") or {}):
-                if color not in COLORS:
+                if color not in COLORS and color not in COLOR_EXTRA:
                     problems.append(f"{q['id']} 选项{index + 1} 未知颜色 '{color}'")
-                else:
+                elif color in COLORS:
                     color_hits[color] += 1
             for key in (opt.get("cval") or {}):
                 if key not in CVALS:

@@ -165,30 +165,25 @@ def score_commanders(payload: dict, pref, colors, constraints):
     for card in commanders:
         sim = cosine(pref, card["vec"])
 
-        # 无色主将没有颜色，所以「哪几个色」这一项对它不适用。
-        # 早先固定记 0.5（中性），结果反而成了惩罚——有色主将都能拿 1.0，
-        # 无色白白少 0.25，实测「想要无色」的人仍然拿到有色主将。
-        # 改为完全由广度项决定：想要无色的人才拿得到它，不想要的人拿不到。
+        # 无色主将的处理（两件事分开）：
+        # ① 广度上拉到 0.2，与单色同档——「零种颜色」不该比「一种颜色」更极端，
+        #   两者在构筑上都是「一条资源线，不用调色」。
+        # ② 但候选池不混：无色的匹配走独立的 "C" 偏好（来自广度题的无色选项），
+        #   没选过无色的人 C=0，无色主将拿不到色相分，也就不会被推给他们。
         card_colors = card["colors"]
         if card_colors == "C":
-            color_match = 0.5
-            card_breadth = 0.0
-            breadth_gap = abs(player_breadth - card_breadth)
-            breadth_match = (1.0 - breadth_gap) ** 2
-            affinity = breadth_match
-        elif max_color == 0:
-            color_match = 0.5
-            card_breadth = len(card_colors) / 5.0
-            breadth_gap = abs(player_breadth - card_breadth)
-            breadth_match = (1.0 - breadth_gap) ** 2
-            affinity = W_COLOR_MATCH * color_match + W_BREADTH_MATCH * breadth_match
+            card_breadth = 0.2
+            color_match = (colors.get("C", 0.0) / max_color) if max_color else 0.0
         else:
-            color_match = sum(colors.get(c, 0.0) for c in card_colors) / (
-                max_color * len(card_colors))
             card_breadth = len(card_colors) / 5.0
-            breadth_gap = abs(player_breadth - card_breadth)
-            breadth_match = (1.0 - breadth_gap) ** 2
-            affinity = W_COLOR_MATCH * color_match + W_BREADTH_MATCH * breadth_match
+            color_match = 0.5 if max_color == 0 else (
+                sum(colors.get(c, 0.0) for c in card_colors)
+                / (max_color * len(card_colors)))
+        # 广度吻合度用平方衰减：差一档从 1.0 掉到 0.64，差两档只剩 0.36。
+        # 线性衰减下「差一档」只损失 0.2（换算到总分 0.014），压不过玩法项。
+        breadth_gap = abs(player_breadth - card_breadth)
+        breadth_match = (1.0 - breadth_gap) ** 2
+        affinity = W_COLOR_MATCH * color_match + W_BREADTH_MATCH * breadth_match
 
         popularity = math.log10(max(1, card.get("num_decks") or 1)) / math.log10(max_decks)
 
