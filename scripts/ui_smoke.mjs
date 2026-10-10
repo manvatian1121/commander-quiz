@@ -27,6 +27,10 @@ class Node {
   removeChild(child) { return child; }
   setAttribute() {}
   select() {}
+  // 桩不做真实的选择器匹配：返回空集合，让调用方的 forEach 安全跳过。
+  // 主将池的过滤/排序逻辑由 poolList() 单独测。
+  querySelectorAll() { return []; }
+  querySelector() { return null; }
 }
 const byId = {};
 let copiedViaExec = false;
@@ -198,6 +202,87 @@ check("点击后不抛异常且复制成功", () => {
   if (!btn || typeof btn.onclick !== "function") throw new Error("找不到复制按钮");
   btn.onclick.call(btn);
   if (!copiedViaExec && btn.textContent !== "已复制 ✓") throw new Error("复制未生效");
+});
+
+/* ---------- 场景 8：主将池浏览 ---------- */
+console.log("\n[场景 8] 主将池浏览");
+check("能打开主将池且不抛异常", () => {
+  engine.screenPool();
+  const out = document.getElementById("pool-list").innerHTML;
+  if (!out.includes("poolrow")) throw new Error("列表没有渲染出主将行");
+});
+
+check("主将池列出全部主将并按流行度排序", () => {
+  const total = globalThis.__QUIZ_DATA__.commanders.length;
+  const P = engine.POOL;
+  P.kw = ""; P.color = ""; P.sort = "pop";
+  const list = engine.poolList();
+  if (list.length !== total) throw new Error(`列出 ${list.length} 位，应为 ${total} 位`);
+  for (let i = 1; i < list.length; i++) {
+    if ((list[i - 1].num_decks || 0) < (list[i].num_decks || 0)) {
+      throw new Error("按流行度排序时有逆序");
+    }
+  }
+});
+
+check("颜色筛选正确", () => {
+  const P = engine.POOL, cmds = globalThis.__QUIZ_DATA__.commanders;
+  P.kw = ""; P.sort = "pop";
+  for (const color of ["W", "U", "B", "R", "G"]) {
+    P.color = color;
+    const got = engine.poolList();
+    const want = cmds.filter((c) => c.colors.indexOf(color) >= 0).length;
+    if (got.length !== want) throw new Error(`${color} 色筛出 ${got.length}，应为 ${want}`);
+    if (got.some((c) => c.colors.indexOf(color) < 0)) {
+      throw new Error(`${color} 筛出了不含该色的主将`);
+    }
+  }
+  P.color = "C";
+  if (engine.poolList().some((c) => c.colors !== "C")) throw new Error("无色筛选混进了有色主将");
+  P.color = "multi";
+  if (engine.poolList().some((c) => c.colors === "C" || c.colors.length < 2)) {
+    throw new Error("多色筛选混进了单色或无色主将");
+  }
+  P.color = "";
+});
+
+check("搜索能按中英文名过滤", () => {
+  const P = engine.POOL;
+  P.kw = "玛切莎"; P.color = "";
+  if (!engine.poolList().some((c) => c.en === "Queen Marchesa")) throw new Error("中文名搜不到");
+  P.kw = "queen marchesa";
+  const enHit = engine.poolList();
+  if (enHit.length !== 1 || enHit[0].en !== "Queen Marchesa") {
+    throw new Error(`英文名搜索结果异常：${enHit.length} 条`);
+  }
+  P.kw = "zzzz没有这个主将zzzz";
+  if (engine.poolList().length !== 0) throw new Error("无匹配时应返回空列表");
+  P.kw = "";
+});
+
+check("三种排序都能用", () => {
+  const P = engine.POOL;
+  P.kw = ""; P.color = "";
+  for (const sort of ["pop", "diff", "name"]) {
+    P.sort = sort;
+    const list = engine.poolList();
+    if (!list.length) throw new Error(`排序 ${sort} 返回空列表`);
+  }
+  P.sort = "diff";
+  const byDiff = engine.poolList();
+  for (let i = 1; i < byDiff.length; i++) {
+    if ((byDiff[i - 1].difficulty || 0) > (byDiff[i].difficulty || 0)) {
+      throw new Error("按难度排序时有逆序");
+    }
+  }
+  P.sort = "pop";
+});
+
+check("每位主将都有可展开的介绍文", () => {
+  const desc = globalThis.__QUIZ_DATA__.descriptions;
+  const missing = globalThis.__QUIZ_DATA__.commanders.filter(
+    (c) => !desc[c.en] || !desc[c.en].intro);
+  if (missing.length) throw new Error(`${missing.length} 位主将缺介绍文`);
 });
 
 /* ---------- 场景 7：内容完整性 ---------- */

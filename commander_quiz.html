@@ -84,6 +84,25 @@
   .chips{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}
   .chip{font-size:12px;padding:3px 10px;border-radius:99px;background:#1d2736;border:1px solid var(--line);color:#b9c6da}
   .chip.axis{background:#12283a;border-color:#22506e;color:#9ddcf8}
+  /* ---- 主将池浏览 ---- */
+  .poolinput{width:100%;box-sizing:border-box;padding:11px 14px;font-size:15px;
+    border-radius:12px;border:1px solid var(--line);background:#0d1119;color:var(--fg);
+    font-family:inherit}
+  .poolinput:focus{outline:none;border-color:#22506e}
+  .poolchips{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}
+  .poolchip{font-size:12.5px;padding:5px 11px;border-radius:99px;background:#1d2736;
+    border:1px solid var(--line);color:#b9c6da;cursor:pointer;user-select:none}
+  .poolchip.on{background:#12283a;border-color:#22506e;color:#9ddcf8;font-weight:600}
+  .poolrow{display:flex;align-items:center;gap:10px;padding:9px 11px;border-radius:10px;
+    border:1px solid transparent;cursor:pointer}
+  .poolrow:hover{background:#151c27;border-color:var(--line)}
+  .poolrow .nm{flex:1;min-width:0;font-size:14.5px;font-weight:600;
+    white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .poolrow .meta{font-size:12px;color:var(--dim);white-space:nowrap;flex-shrink:0}
+  .pooldetail{padding:2px 11px 14px;font-size:14px;line-height:1.75;color:#cbd5e1}
+  .poolmore{text-align:center;padding:10px}
+  .poolmore button{padding:9px 18px}
+  .btn.sm{padding:8px 14px;font-size:13.5px}
   .tagline{font-size:15px;font-weight:600;color:var(--gold);margin:8px 0 4px;letter-spacing:.01em}
   .hero .tagline{font-size:17px}
   .block{margin-top:16px}
@@ -290,16 +309,159 @@
       '<p class="muted">我们会按你的接触时长调整标准：新人优先推荐好上手、资料多的主将，' +
       '老手则会看到更多高强度的选择。</p>' +
       '<h3 class="mt">数据从哪来</h3>' +
-      '<p class="muted">主将池取自 EDHREC 全时段最流行的 100 位主将，另加 10 位补齐玩法原型（闪现、单挑、结界等）；' +
-      '每位主将的「玩法画像」由 EDHREC 社区真实标签的票数算出，不是拍脑袋写的。' +
-      '搭配牌、造价与难度也都基于真实数据估算。</p>' +
+      '<p class="muted">主将池来自 EDHREC 的真实套牌统计，覆盖历史排名前列与近年新出的主将，' +
+      '含鹏洛客、载具等非生物主将以及拍档 / 身世组合；每位主将的「玩法画像」由 EDHREC ' +
+      '社区真实标签的票数算出，不是拍脑袋写的。搭配牌、造价与难度也都基于真实数据估算。</p>' +
       '<div class="row mt">' +
         '<button class="btn" id="go-full">开始完整版（' + FULL_TOTAL + ' 题）</button>' +
         '<button class="btn ghost" id="go-quick">快速版（' + QUICK_TOTAL + ' 题）</button>' +
+      '</div>' +
+      '<div class="row mt-s">' +
+        '<button class="btn ghost sm" id="go-pool">先看看全部 ' + CMDS.length + ' 位主将 →</button>' +
       '</div>';
     app.appendChild(box);
     document.getElementById("go-full").onclick = function () { start("full"); };
     document.getElementById("go-quick").onclick = function () { start("quick"); };
+    document.getElementById("go-pool").onclick = function () { screenPool(); };
+  }
+
+  /* ---------- 主将池浏览 ---------- */
+  var POOL = { kw:"", color:"", sort:"pop", shown:60, open:null };
+  var POOL_PAGE = 60;
+  var POOL_COLORS = [
+    { k:"",      label:"全部" },
+    { k:"W",     label:"白" }, { k:"U", label:"蓝" }, { k:"B", label:"黑" },
+    { k:"R",     label:"红" }, { k:"G", label:"绿" },
+    { k:"C",     label:"无色" },
+    { k:"multi", label:"多色" }
+  ];
+
+  function poolList() {
+    var kw = POOL.kw.trim().toLowerCase();
+    var out = CMDS.filter(function (c) {
+      if (POOL.color === "C" && c.colors !== "C") return false;
+      if (POOL.color === "multi" && (c.colors === "C" || c.colors.length < 2)) return false;
+      if (POOL.color && POOL.color !== "C" && POOL.color !== "multi"
+          && c.colors.indexOf(POOL.color) < 0) return false;
+      if (kw && (c.zh + " " + c.en).toLowerCase().indexOf(kw) < 0) return false;
+      return true;
+    });
+    if (POOL.sort === "pop") {
+      out.sort(function (a, b) { return (b.num_decks || 0) - (a.num_decks || 0); });
+    } else if (POOL.sort === "diff") {
+      out.sort(function (a, b) {
+        return (a.difficulty || 0) - (b.difficulty || 0)
+            || (b.num_decks || 0) - (a.num_decks || 0); });
+    } else {
+      out.sort(function (a, b) { return String(a.zh).localeCompare(String(b.zh), "zh"); });
+    }
+    return out;
+  }
+
+  function poolDetail(c) {
+    var d = DESC[c.en] || {}, picks = CARDS[c.en] || {};
+    var h = '<div class="pooldetail">';
+    if (d.tagline) h += '<div class="tagline">' + esc(d.tagline) + "</div>";
+    if (d.intro) h += '<div class="block"><div class="bt">这套牌在干什么</div><p>' +
+                      esc(d.intro) + "</p></div>";
+    if (d.build) h += '<div class="block"><div class="bt">怎么组</div><p>' +
+                      esc(d.build) + "</p></div>";
+    var syn = picks.synergy || [], pop = picks.popular || [];
+    if (syn.length || pop.length) {
+      h += '<div class="block"><div class="bt">常见搭配（EDHREC 实测）</div><div class="cards">';
+      syn.forEach(function (n) {
+        var ci = CARDINFO[n] || {};
+        h += '<span class="cc key"><b>' + esc(ci.zh || n) + "</b><i>" + esc(n) +
+             (ci.cmc != null ? " · " + ci.cmc + " 费" : "") + "</i></span>";
+      });
+      pop.forEach(function (n) {
+        var ci = CARDINFO[n] || {};
+        h += '<span class="cc"><b>' + esc(ci.zh || n) + "</b><i>" + esc(n) + "</i></span>";
+      });
+      h += "</div></div>";
+    }
+    h += '<div class="block"><div class="bt">数据</div><p class="muted">难度 ' +
+         c.complexity + "/5　常见强度 Bracket " + c.bracket + "　对手仇恨度 " +
+         (c.salt || 0).toFixed(2) + "　EDHREC " + (c.num_decks || 0).toLocaleString() +
+         " 副套牌　历史第 " + (c.all_time_rank || "—") + " 位</p></div>";
+    h += '<p class="muted" style="font-size:12.5px">' +
+         '<a href="https://edhrec.com/commanders/' + esc(c.id) +
+         '" target="_blank" rel="noopener">EDHREC 牌组页</a> · ' +
+         '<a href="https://scryfall.com/search?q=' +
+         encodeURIComponent('!"' + c.en + '"') +
+         '" target="_blank" rel="noopener">Scryfall 查卡</a></p>';
+    return h + "</div>";
+  }
+
+  function poolRender() {
+    var list = poolList();
+    var shown = list.slice(0, POOL.shown);
+    var host = document.getElementById("pool-list");
+    if (!host) return;
+    host.innerHTML = shown.map(function (c) {
+      var open = POOL.open === c.en;
+      return '<div class="poolrow" data-en="' + esc(c.en) + '">' +
+        '<span class="nm">' + esc(c.zh || c.en) + "</span>" + pips(c.colors) +
+        '<span class="meta">难度 ' + c.complexity + " · " + (c.num_decks || 0).toLocaleString() +
+        " 副</span></div>" + (open ? poolDetail(c) : "");
+    }).join("") + (list.length > shown.length
+      ? '<div class="poolmore"><button class="btn ghost sm" id="pool-more">显示更多（还有 ' +
+        (list.length - shown.length) + " 位）</button></div>"
+      : "");
+
+    var cnt = document.getElementById("pool-count");
+    if (cnt) cnt.textContent = "找到 " + list.length + " 位";
+
+    host.querySelectorAll(".poolrow").forEach(function (row) {
+      row.onclick = function () {
+        var en = row.getAttribute("data-en");
+        POOL.open = POOL.open === en ? null : en;
+        poolRender();
+      };
+    });
+    var more = document.getElementById("pool-more");
+    if (more) more.onclick = function () { POOL.shown += POOL_PAGE; poolRender(); };
+  }
+
+  function screenPool() {
+    app.innerHTML = "";
+    var box = el("div", "card");
+    box.innerHTML =
+      "<h1>主将池</h1>" +
+      '<p class="muted">全部 <b>' + CMDS.length + "</b> 位主将，按 EDHREC 套牌总数排序。" +
+      "点任意一位可以展开它的介绍与搭配牌。</p>" +
+      '<div class="mt-s"><input id="pool-q" class="poolinput" type="search" ' +
+      'placeholder="搜中文名或英文名…" value="' + esc(POOL.kw) + '"></div>' +
+      '<div class="poolchips" id="pool-colors">' +
+        POOL_COLORS.map(function (o) {
+          return '<span class="poolchip' + (POOL.color === o.k ? " on" : "") +
+                 '" data-c="' + o.k + '">' + o.label + "</span>";
+        }).join("") + "</div>" +
+      '<div class="row mt-s">' +
+        '<button class="btn ghost sm" id="pool-sort">排序：' +
+          ({ pop:"流行度", diff:"难度", name:"名称" })[POOL.sort] + " ▾</button>" +
+        '<span class="muted" id="pool-count" style="align-self:center"></span></div>' +
+      '<div class="mt-s" id="pool-list"></div>' +
+      '<div class="row mt"><button class="btn ghost" id="pool-back">← 回首页</button></div>';
+    app.appendChild(box);
+
+    var q = document.getElementById("pool-q");
+    q.oninput = function () { POOL.kw = q.value; POOL.shown = POOL_PAGE; poolRender(); };
+    document.getElementById("pool-colors").querySelectorAll(".poolchip")
+      .forEach(function (chip) {
+        chip.onclick = function () {
+          POOL.color = chip.getAttribute("data-c");
+          POOL.shown = POOL_PAGE;
+          screenPool();
+        };
+      });
+    document.getElementById("pool-sort").onclick = function () {
+      POOL.sort = POOL.sort === "pop" ? "diff" : (POOL.sort === "diff" ? "name" : "pop");
+      POOL.shown = POOL_PAGE;
+      screenPool();
+    };
+    document.getElementById("pool-back").onclick = function () { screenIntro(); };
+    poolRender();
   }
 
   function start(mode) {
@@ -647,6 +809,8 @@
       quickIds: QUICK.slice(),
       start: start, choose: choose, goNext: goNext, goBack: goBack,
       screenQuestion: screenQuestion, goNextRaw: goNext,
+      screenIntro: screenIntro, screenPool: screenPool,
+      poolList: poolList, POOL: POOL,
       getState: function () { return state; }, Q: Q,
       spine: SPINE.slice(), startId: START,
       totals: { full: FULL_TOTAL, quick: QUICK_TOTAL,
