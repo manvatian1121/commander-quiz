@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import json
 import pathlib
+import re
 import sys
 
 # --- 路径已改为相对本文件，便于他人 clone 后直接运行 ---
@@ -44,7 +45,7 @@ WATCH = ["发现", "倾探", "加速", "曲线", "引擎", "最强", "碾压",
 
 
 def main() -> int:
-    files = [DATA / f"descriptions_{i}.json" for i in range(1, 17)]
+    files = [DATA / f"descriptions_{i}.json" for i in range(1, 19)]
     total_fix = 0
 
     for path in files:

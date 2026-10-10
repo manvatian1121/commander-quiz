@@ -32,7 +32,7 @@ for name, card in scry.items():
     scr_lookup.setdefault(name.split(" // ")[0], card)
 
 desc = {}
-for i in range(1, 17):
+for i in range(1, 21):
     desc.update(load(f"descriptions_{i}.json", {}))
 
 print(f"主将 {len(cmds)} 位")

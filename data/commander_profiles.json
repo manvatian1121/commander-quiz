@@ -255406,5 +255406,6491 @@
       }
     ],
     "edhrec_name": "Otharri, Suns' Glory"
+  },
+  "Thrasios, Triton Hero // Tymna the Weaver": {
+    "name": "Thrasios, Triton Hero // Tymna the Weaver",
+    "slug": "thrasios-triton-hero-tymna-the-weaver",
+    "num_decks": 11442,
+    "all_time_rank": 209,
+    "salt": 1.343648208469055,
+    "color_identity": [
+      "G",
+      "W",
+      "U",
+      "B"
+    ],
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Merfolk Wizard",
+    "is_commander": true,
+    "legal_commander": true,
+    "bracket_counts": {
+      "5": 3463,
+      "4": 342,
+      "2": 68,
+      "3": 155,
+      "1": 10
+    },
+    "tag_counts": [
+      {
+        "count": 709,
+        "slug": "birthing-pod",
+        "value": "Birthing Pod"
+      },
+      {
+        "count": 644,
+        "slug": "combo",
+        "value": "Combo"
+      },
+      {
+        "count": 496,
+        "slug": "midrange",
+        "value": "Midrange"
+      },
+      {
+        "count": 162,
+        "slug": "good-stuff",
+        "value": "Good Stuff"
+      },
+      {
+        "count": 148,
+        "slug": "control",
+        "value": "Control"
+      },
+      {
+        "count": 134,
+        "slug": "ad-nauseam",
+        "value": "Ad Nauseam"
+      },
+      {
+        "count": 69,
+        "slug": "ramp",
+        "value": "Ramp"
+      },
+      {
+        "count": 60,
+        "slug": "toolbox",
+        "value": "Toolbox"
+      },
+      {
+        "count": 48,
+        "slug": "reanimator",
+        "value": "Reanimator"
+      },
+      {
+        "count": 42,
+        "slug": "lands-matter",
+        "value": "Lands Matter"
+      },
+      {
+        "count": 39,
+        "slug": "tempo",
+        "value": "Tempo"
+      },
+      {
+        "count": 31,
+        "slug": "hatebears",
+        "value": "Hatebears"
+      },
+      {
+        "count": 30,
+        "slug": "stax",
+        "value": "Stax"
+      },
+      {
+        "count": 25,
+        "slug": "blink",
+        "value": "Blink"
+      },
+      {
+        "count": 25,
+        "slug": "enchantress",
+        "value": "Enchantress"
+      },
+      {
+        "count": 21,
+        "slug": "plus-1-plus-1-counters",
+        "value": "+1/+1 Counters"
+      },
+      {
+        "count": 21,
+        "slug": "artifacts",
+        "value": "Artifacts"
+      },
+      {
+        "count": 21,
+        "slug": "tokens",
+        "value": "Tokens"
+      },
+      {
+        "count": 16,
+        "slug": "clones",
+        "value": "Clones"
+      },
+      {
+        "count": 13,
+        "slug": "activated-abilities",
+        "value": "Activated Abilities"
+      },
+      {
+        "count": 13,
+        "slug": "aggro",
+        "value": "Aggro"
+      },
+      {
+        "count": 13,
+        "slug": "card-draw",
+        "value": "Card Draw"
+      },
+      {
+        "count": 13,
+        "slug": "spellslinger",
+        "value": "Spellslinger"
+      },
+      {
+        "count": 12,
+        "slug": "lifegain",
+        "value": "Lifegain"
+      },
+      {
+        "count": 10,
+        "slug": "big-mana",
+        "value": "Big Mana"
+      },
+      {
+        "count": 10,
+        "slug": "zoo",
+        "value": "Zoo"
+      },
+      {
+        "count": 9,
+        "slug": "merfolk",
+        "value": "Merfolk"
+      },
+      {
+        "count": 9,
+        "slug": "mill",
+        "value": "Mill"
+      },
+      {
+        "count": 8,
+        "slug": "counterspells",
+        "value": "Counterspells"
+      },
+      {
+        "count": 8,
+        "slug": "storm",
+        "value": "Storm"
+      },
+      {
+        "count": 7,
+        "slug": "planeswalkers",
+        "value": "Planeswalkers"
+      },
+      {
+        "count": 6,
+        "slug": "minus-1-minus-1-counters",
+        "value": "-1/-1 Counters"
+      },
+      {
+        "count": 6,
+        "slug": "dungeon",
+        "value": "Dungeon"
+      },
+      {
+        "count": 6,
+        "slug": "extra-turns",
+        "value": "Extra Turns"
+      },
+      {
+        "count": 6,
+        "slug": "sacrifice",
+        "value": "Sacrifice"
+      },
+      {
+        "count": 6,
+        "slug": "unnatural",
+        "value": "Unnatural"
+      },
+      {
+        "count": 5,
+        "slug": "aristocrats",
+        "value": "Aristocrats"
+      },
+      {
+        "count": 5,
+        "slug": "chaos",
+        "value": "Chaos"
+      },
+      {
+        "count": 5,
+        "slug": "devotion",
+        "value": "Devotion"
+      },
+      {
+        "count": 5,
+        "slug": "dredge",
+        "value": "Dredge"
+      },
+      {
+        "count": 5,
+        "slug": "flying",
+        "value": "Flying"
+      },
+      {
+        "count": 5,
+        "slug": "pillow-fort",
+        "value": "Pillow Fort"
+      },
+      {
+        "count": 5,
+        "slug": "self-damage",
+        "value": "Self-Damage"
+      },
+      {
+        "count": 5,
+        "slug": "wheels",
+        "value": "Wheels"
+      },
+      {
+        "count": 4,
+        "slug": "commander-matters",
+        "value": "Commander Matters"
+      },
+      {
+        "count": 4,
+        "slug": "legends",
+        "value": "Legends"
+      },
+      {
+        "count": 4,
+        "slug": "x-spells",
+        "value": "X Spells"
+      },
+      {
+        "count": 3,
+        "slug": "elves",
+        "value": "Elves"
+      },
+      {
+        "count": 3,
+        "slug": "flash",
+        "value": "Flash"
+      },
+      {
+        "count": 3,
+        "slug": "infect",
+        "value": "Infect"
+      },
+      {
+        "count": 3,
+        "slug": "umori-companion",
+        "value": "Umori Companion"
+      },
+      {
+        "count": 3,
+        "slug": "vehicles",
+        "value": "Vehicles"
+      },
+      {
+        "count": 3,
+        "slug": "voltron",
+        "value": "Voltron"
+      },
+      {
+        "count": 2,
+        "slug": "aikido",
+        "value": "Aikido"
+      },
+      {
+        "count": 2,
+        "slug": "clues",
+        "value": "Clues"
+      },
+      {
+        "count": 2,
+        "slug": "etb",
+        "value": "ETB"
+      },
+      {
+        "count": 2,
+        "slug": "group-hug",
+        "value": "Group Hug"
+      },
+      {
+        "count": 2,
+        "slug": "historic",
+        "value": "Historic"
+      },
+      {
+        "count": 2,
+        "slug": "land-destruction",
+        "value": "Land Destruction"
+      },
+      {
+        "count": 2,
+        "slug": "landfall",
+        "value": "Landfall"
+      },
+      {
+        "count": 2,
+        "slug": "mana-dorks",
+        "value": "Mana Dorks"
+      },
+      {
+        "count": 2,
+        "slug": "rock",
+        "value": "Rock"
+      },
+      {
+        "count": 2,
+        "slug": "scry",
+        "value": "Scry"
+      },
+      {
+        "count": 2,
+        "slug": "self-mill",
+        "value": "Self-Mill"
+      },
+      {
+        "count": 2,
+        "slug": "theft",
+        "value": "Theft"
+      },
+      {
+        "count": 2,
+        "slug": "treasure",
+        "value": "Treasure"
+      },
+      {
+        "count": 2,
+        "slug": "triggered-abilities",
+        "value": "Triggered Abilities"
+      },
+      {
+        "count": 2,
+        "slug": "turbo-fog",
+        "value": "Turbo Fog"
+      },
+      {
+        "count": 1,
+        "slug": "anthems",
+        "value": "Anthems"
+      },
+      {
+        "count": 1,
+        "slug": "attack-triggers",
+        "value": "Attack Triggers"
+      },
+      {
+        "count": 1,
+        "slug": "auras",
+        "value": "Auras"
+      },
+      {
+        "count": 1,
+        "slug": "burn",
+        "value": "Burn"
+      },
+      {
+        "count": 1,
+        "slug": "cascade",
+        "value": "Cascade"
+      },
+      {
+        "count": 1,
+        "slug": "curses",
+        "value": "Curses"
+      },
+      {
+        "count": 1,
+        "slug": "donate",
+        "value": "Donate"
+      },
+      {
+        "count": 1,
+        "slug": "energy",
+        "value": "Energy"
+      },
+      {
+        "count": 1,
+        "slug": "equipment",
+        "value": "Equipment"
+      },
+      {
+        "count": 1,
+        "slug": "faeries",
+        "value": "Faeries"
+      },
+      {
+        "count": 1,
+        "slug": "food",
+        "value": "Food"
+      },
+      {
+        "count": 1,
+        "slug": "graveyard",
+        "value": "Graveyard"
+      },
+      {
+        "count": 1,
+        "slug": "group-slug",
+        "value": "Group Slug"
+      },
+      {
+        "count": 1,
+        "slug": "ltb-effects",
+        "value": "LTB Effects"
+      },
+      {
+        "count": 1,
+        "slug": "morph",
+        "value": "Morph"
+      },
+      {
+        "count": 1,
+        "slug": "mutate",
+        "value": "Mutate"
+      },
+      {
+        "count": 1,
+        "slug": "party",
+        "value": "Party"
+      },
+      {
+        "count": 1,
+        "slug": "prison",
+        "value": "Prison"
+      },
+      {
+        "count": 1,
+        "slug": "proliferate",
+        "value": "Proliferate"
+      },
+      {
+        "count": 1,
+        "slug": "sagas",
+        "value": "Sagas"
+      },
+      {
+        "count": 1,
+        "slug": "shrines",
+        "value": "Shrines"
+      },
+      {
+        "count": 1,
+        "slug": "slivers",
+        "value": "Slivers"
+      },
+      {
+        "count": 1,
+        "slug": "snow",
+        "value": "Snow"
+      },
+      {
+        "count": 1,
+        "slug": "tap-untap",
+        "value": "Tap / Untap"
+      },
+      {
+        "count": 1,
+        "slug": "topdeck",
+        "value": "Topdeck"
+      },
+      {
+        "count": 1,
+        "slug": "weenies",
+        "value": "Weenies"
+      },
+      {
+        "count": 1,
+        "slug": "zombies",
+        "value": "Zombies"
+      }
+    ],
+    "edhrec_name": "Thrasios, Triton Hero // Tymna the Weaver"
+  },
+  "Okaun, Eye of Chaos // Zndrsplt, Eye of Wisdom": {
+    "name": "Okaun, Eye of Chaos // Zndrsplt, Eye of Wisdom",
+    "slug": "okaun-eye-of-chaos-zndrsplt-eye-of-wisdom",
+    "num_decks": 10064,
+    "all_time_rank": 247,
+    "salt": 0.07142857142857142,
+    "color_identity": [
+      "U",
+      "R"
+    ],
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Cyclops Berserker",
+    "is_commander": true,
+    "legal_commander": true,
+    "bracket_counts": {
+      "4": 420,
+      "2": 310,
+      "3": 1013,
+      "5": 33,
+      "1": 22
+    },
+    "tag_counts": [
+      {
+        "count": 1191,
+        "slug": "chaos",
+        "value": "Chaos"
+      },
+      {
+        "count": 645,
+        "slug": "coin-flip",
+        "value": "Coin Flip"
+      },
+      {
+        "count": 148,
+        "slug": "voltron",
+        "value": "Voltron"
+      },
+      {
+        "count": 114,
+        "slug": "combo",
+        "value": "Combo"
+      },
+      {
+        "count": 79,
+        "slug": "card-draw",
+        "value": "Card Draw"
+      },
+      {
+        "count": 62,
+        "slug": "aggro",
+        "value": "Aggro"
+      },
+      {
+        "count": 56,
+        "slug": "artifacts",
+        "value": "Artifacts"
+      },
+      {
+        "count": 51,
+        "slug": "spellslinger",
+        "value": "Spellslinger"
+      },
+      {
+        "count": 43,
+        "slug": "extra-combats",
+        "value": "Extra Combats"
+      },
+      {
+        "count": 39,
+        "slug": "extra-turns",
+        "value": "Extra Turns"
+      },
+      {
+        "count": 37,
+        "slug": "control",
+        "value": "Control"
+      },
+      {
+        "count": 31,
+        "slug": "clones",
+        "value": "Clones"
+      },
+      {
+        "count": 27,
+        "slug": "burn",
+        "value": "Burn"
+      },
+      {
+        "count": 20,
+        "slug": "fling",
+        "value": "Fling"
+      },
+      {
+        "count": 19,
+        "slug": "commander-matters",
+        "value": "Commander Matters"
+      },
+      {
+        "count": 18,
+        "slug": "equipment",
+        "value": "Equipment"
+      },
+      {
+        "count": 13,
+        "slug": "plus-1-plus-1-counters",
+        "value": "+1/+1 Counters"
+      },
+      {
+        "count": 13,
+        "slug": "tokens",
+        "value": "Tokens"
+      },
+      {
+        "count": 12,
+        "slug": "die-roll",
+        "value": "Die Roll"
+      },
+      {
+        "count": 12,
+        "slug": "midrange",
+        "value": "Midrange"
+      },
+      {
+        "count": 10,
+        "slug": "unblockable",
+        "value": "Unblockable"
+      },
+      {
+        "count": 8,
+        "slug": "goblins",
+        "value": "Goblins"
+      },
+      {
+        "count": 8,
+        "slug": "power",
+        "value": "Power"
+      },
+      {
+        "count": 7,
+        "slug": "counterspells",
+        "value": "Counterspells"
+      },
+      {
+        "count": 7,
+        "slug": "spell-copy",
+        "value": "Spell Copy"
+      },
+      {
+        "count": 6,
+        "slug": "tempo",
+        "value": "Tempo"
+      },
+      {
+        "count": 6,
+        "slug": "wheels",
+        "value": "Wheels"
+      },
+      {
+        "count": 5,
+        "slug": "hand-size",
+        "value": "Hand Size"
+      },
+      {
+        "count": 5,
+        "slug": "ramp",
+        "value": "Ramp"
+      },
+      {
+        "count": 5,
+        "slug": "storm",
+        "value": "Storm"
+      },
+      {
+        "count": 5,
+        "slug": "triggered-abilities",
+        "value": "Triggered Abilities"
+      },
+      {
+        "count": 4,
+        "slug": "attack-triggers",
+        "value": "Attack Triggers"
+      },
+      {
+        "count": 4,
+        "slug": "glass-cannon",
+        "value": "Glass Cannon"
+      },
+      {
+        "count": 4,
+        "slug": "group-slug",
+        "value": "Group Slug"
+      },
+      {
+        "count": 4,
+        "slug": "impulse-draw",
+        "value": "Impulse Draw"
+      },
+      {
+        "count": 4,
+        "slug": "toolbox",
+        "value": "Toolbox"
+      },
+      {
+        "count": 3,
+        "slug": "enchantress",
+        "value": "Enchantress"
+      },
+      {
+        "count": 3,
+        "slug": "good-stuff",
+        "value": "Good Stuff"
+      },
+      {
+        "count": 3,
+        "slug": "land-destruction",
+        "value": "Land Destruction"
+      },
+      {
+        "count": 3,
+        "slug": "mill",
+        "value": "Mill"
+      },
+      {
+        "count": 3,
+        "slug": "power-matters",
+        "value": "Power Matters"
+      },
+      {
+        "count": 3,
+        "slug": "self-damage",
+        "value": "Self-Damage"
+      },
+      {
+        "count": 3,
+        "slug": "stompy",
+        "value": "Stompy"
+      },
+      {
+        "count": 3,
+        "slug": "treasure",
+        "value": "Treasure"
+      },
+      {
+        "count": 2,
+        "slug": "attractions",
+        "value": "Attractions"
+      },
+      {
+        "count": 2,
+        "slug": "cantrips",
+        "value": "Cantrips"
+      },
+      {
+        "count": 2,
+        "slug": "cycling",
+        "value": "Cycling"
+      },
+      {
+        "count": 2,
+        "slug": "group-hug",
+        "value": "Group Hug"
+      },
+      {
+        "count": 2,
+        "slug": "historic",
+        "value": "Historic"
+      },
+      {
+        "count": 2,
+        "slug": "legends",
+        "value": "Legends"
+      },
+      {
+        "count": 2,
+        "slug": "planeswalkers",
+        "value": "Planeswalkers"
+      },
+      {
+        "count": 2,
+        "slug": "self-mill",
+        "value": "Self-Mill"
+      },
+      {
+        "count": 2,
+        "slug": "tron",
+        "value": "Tron"
+      },
+      {
+        "count": 1,
+        "slug": "ad-nauseam",
+        "value": "Ad Nauseam"
+      },
+      {
+        "count": 1,
+        "slug": "affinity",
+        "value": "Affinity"
+      },
+      {
+        "count": 1,
+        "slug": "aristocrats",
+        "value": "Aristocrats"
+      },
+      {
+        "count": 1,
+        "slug": "blue-moon",
+        "value": "Blue Moon"
+      },
+      {
+        "count": 1,
+        "slug": "discard",
+        "value": "Discard"
+      },
+      {
+        "count": 1,
+        "slug": "dragons-approach",
+        "value": "Dragon's Approach"
+      },
+      {
+        "count": 1,
+        "slug": "dragons",
+        "value": "Dragons"
+      },
+      {
+        "count": 1,
+        "slug": "eggs",
+        "value": "Eggs"
+      },
+      {
+        "count": 1,
+        "slug": "fight",
+        "value": "Fight"
+      },
+      {
+        "count": 1,
+        "slug": "gods",
+        "value": "Gods"
+      },
+      {
+        "count": 1,
+        "slug": "pillow-fort",
+        "value": "Pillow Fort"
+      },
+      {
+        "count": 1,
+        "slug": "slivers",
+        "value": "Slivers"
+      },
+      {
+        "count": 1,
+        "slug": "snow",
+        "value": "Snow"
+      },
+      {
+        "count": 1,
+        "slug": "stickers",
+        "value": "Stickers"
+      },
+      {
+        "count": 1,
+        "slug": "tap-untap",
+        "value": "Tap / Untap"
+      },
+      {
+        "count": 1,
+        "slug": "theft",
+        "value": "Theft"
+      },
+      {
+        "count": 1,
+        "slug": "topdeck",
+        "value": "Topdeck"
+      },
+      {
+        "count": 1,
+        "slug": "x-spells",
+        "value": "X Spells"
+      },
+      {
+        "count": 1,
+        "slug": "zoo",
+        "value": "Zoo"
+      }
+    ],
+    "edhrec_name": "Okaun, Eye of Chaos // Zndrsplt, Eye of Wisdom"
+  },
+  "Rograkh, Son of Rohgahh // Thrasios, Triton Hero": {
+    "name": "Rograkh, Son of Rohgahh // Thrasios, Triton Hero",
+    "slug": "rograkh-son-of-rohgahh-thrasios-triton-hero",
+    "num_decks": 9275,
+    "all_time_rank": 275,
+    "salt": 0.6612021857923498,
+    "color_identity": [
+      "G",
+      "U",
+      "R"
+    ],
+    "cmc": 0.0,
+    "type_line": "Legendary Creature — Kobold Warrior",
+    "is_commander": true,
+    "legal_commander": true,
+    "bracket_counts": {
+      "5": 2983,
+      "4": 167,
+      "1": 9,
+      "3": 119,
+      "2": 32
+    },
+    "tag_counts": [
+      {
+        "count": 472,
+        "slug": "combo",
+        "value": "Combo"
+      },
+      {
+        "count": 266,
+        "slug": "birthing-pod",
+        "value": "Birthing Pod"
+      },
+      {
+        "count": 227,
+        "slug": "midrange",
+        "value": "Midrange"
+      },
+      {
+        "count": 149,
+        "slug": "ramp",
+        "value": "Ramp"
+      },
+      {
+        "count": 124,
+        "slug": "lands-matter",
+        "value": "Lands Matter"
+      },
+      {
+        "count": 114,
+        "slug": "storm",
+        "value": "Storm"
+      },
+      {
+        "count": 83,
+        "slug": "clones",
+        "value": "Clones"
+      },
+      {
+        "count": 61,
+        "slug": "polymorph",
+        "value": "Polymorph"
+      },
+      {
+        "count": 56,
+        "slug": "ad-nauseam",
+        "value": "Ad Nauseam"
+      },
+      {
+        "count": 45,
+        "slug": "blink",
+        "value": "Blink"
+      },
+      {
+        "count": 45,
+        "slug": "good-stuff",
+        "value": "Good Stuff"
+      },
+      {
+        "count": 35,
+        "slug": "cascade",
+        "value": "Cascade"
+      },
+      {
+        "count": 34,
+        "slug": "spellslinger",
+        "value": "Spellslinger"
+      },
+      {
+        "count": 33,
+        "slug": "control",
+        "value": "Control"
+      },
+      {
+        "count": 31,
+        "slug": "big-mana",
+        "value": "Big Mana"
+      },
+      {
+        "count": 30,
+        "slug": "tempo",
+        "value": "Tempo"
+      },
+      {
+        "count": 28,
+        "slug": "zoo",
+        "value": "Zoo"
+      },
+      {
+        "count": 27,
+        "slug": "toolbox",
+        "value": "Toolbox"
+      },
+      {
+        "count": 25,
+        "slug": "tokens",
+        "value": "Tokens"
+      },
+      {
+        "count": 21,
+        "slug": "artifacts",
+        "value": "Artifacts"
+      },
+      {
+        "count": 14,
+        "slug": "tap-untap",
+        "value": "Tap / Untap"
+      },
+      {
+        "count": 13,
+        "slug": "aggro",
+        "value": "Aggro"
+      },
+      {
+        "count": 13,
+        "slug": "legends",
+        "value": "Legends"
+      },
+      {
+        "count": 11,
+        "slug": "burn",
+        "value": "Burn"
+      },
+      {
+        "count": 10,
+        "slug": "chaos",
+        "value": "Chaos"
+      },
+      {
+        "count": 10,
+        "slug": "mill",
+        "value": "Mill"
+      },
+      {
+        "count": 9,
+        "slug": "wheels",
+        "value": "Wheels"
+      },
+      {
+        "count": 8,
+        "slug": "plus-1-plus-1-counters",
+        "value": "+1/+1 Counters"
+      },
+      {
+        "count": 8,
+        "slug": "activated-abilities",
+        "value": "Activated Abilities"
+      },
+      {
+        "count": 7,
+        "slug": "spell-copy",
+        "value": "Spell Copy"
+      },
+      {
+        "count": 7,
+        "slug": "x-spells",
+        "value": "X Spells"
+      },
+      {
+        "count": 5,
+        "slug": "card-draw",
+        "value": "Card Draw"
+      },
+      {
+        "count": 4,
+        "slug": "discover",
+        "value": "Discover"
+      },
+      {
+        "count": 4,
+        "slug": "enchantress",
+        "value": "Enchantress"
+      },
+      {
+        "count": 4,
+        "slug": "morph",
+        "value": "Morph"
+      },
+      {
+        "count": 4,
+        "slug": "rock",
+        "value": "Rock"
+      },
+      {
+        "count": 4,
+        "slug": "voltron",
+        "value": "Voltron"
+      },
+      {
+        "count": 3,
+        "slug": "commander-matters",
+        "value": "Commander Matters"
+      },
+      {
+        "count": 3,
+        "slug": "extra-turns",
+        "value": "Extra Turns"
+      },
+      {
+        "count": 3,
+        "slug": "group-hug",
+        "value": "Group Hug"
+      },
+      {
+        "count": 3,
+        "slug": "group-slug",
+        "value": "Group Slug"
+      },
+      {
+        "count": 3,
+        "slug": "historic",
+        "value": "Historic"
+      },
+      {
+        "count": 3,
+        "slug": "land-destruction",
+        "value": "Land Destruction"
+      },
+      {
+        "count": 3,
+        "slug": "landfall",
+        "value": "Landfall"
+      },
+      {
+        "count": 2,
+        "slug": "counterspells",
+        "value": "Counterspells"
+      },
+      {
+        "count": 2,
+        "slug": "devotion",
+        "value": "Devotion"
+      },
+      {
+        "count": 2,
+        "slug": "extra-combats",
+        "value": "Extra Combats"
+      },
+      {
+        "count": 2,
+        "slug": "theft",
+        "value": "Theft"
+      },
+      {
+        "count": 2,
+        "slug": "topdeck",
+        "value": "Topdeck"
+      },
+      {
+        "count": 2,
+        "slug": "unnatural",
+        "value": "Unnatural"
+      },
+      {
+        "count": 1,
+        "slug": "affinity",
+        "value": "Affinity"
+      },
+      {
+        "count": 1,
+        "slug": "aikido",
+        "value": "Aikido"
+      },
+      {
+        "count": 1,
+        "slug": "aristocrats",
+        "value": "Aristocrats"
+      },
+      {
+        "count": 1,
+        "slug": "auras",
+        "value": "Auras"
+      },
+      {
+        "count": 1,
+        "slug": "bounce",
+        "value": "Bounce"
+      },
+      {
+        "count": 1,
+        "slug": "cantrips",
+        "value": "Cantrips"
+      },
+      {
+        "count": 1,
+        "slug": "cheerios",
+        "value": "Cheerios"
+      },
+      {
+        "count": 1,
+        "slug": "cycling",
+        "value": "Cycling"
+      },
+      {
+        "count": 1,
+        "slug": "discard",
+        "value": "Discard"
+      },
+      {
+        "count": 1,
+        "slug": "donate",
+        "value": "Donate"
+      },
+      {
+        "count": 1,
+        "slug": "dragons",
+        "value": "Dragons"
+      },
+      {
+        "count": 1,
+        "slug": "dredge",
+        "value": "Dredge"
+      },
+      {
+        "count": 1,
+        "slug": "elves",
+        "value": "Elves"
+      },
+      {
+        "count": 1,
+        "slug": "energy",
+        "value": "Energy"
+      },
+      {
+        "count": 1,
+        "slug": "faeries",
+        "value": "Faeries"
+      },
+      {
+        "count": 1,
+        "slug": "flying",
+        "value": "Flying"
+      },
+      {
+        "count": 1,
+        "slug": "go-wide",
+        "value": "Go Wide"
+      },
+      {
+        "count": 1,
+        "slug": "hatebears",
+        "value": "Hatebears"
+      },
+      {
+        "count": 1,
+        "slug": "infect",
+        "value": "Infect"
+      },
+      {
+        "count": 1,
+        "slug": "lifegain",
+        "value": "Lifegain"
+      },
+      {
+        "count": 1,
+        "slug": "mutate",
+        "value": "Mutate"
+      },
+      {
+        "count": 1,
+        "slug": "pillow-fort",
+        "value": "Pillow Fort"
+      },
+      {
+        "count": 1,
+        "slug": "pingers",
+        "value": "Pingers"
+      },
+      {
+        "count": 1,
+        "slug": "planeswalkers",
+        "value": "Planeswalkers"
+      },
+      {
+        "count": 1,
+        "slug": "sacrifice",
+        "value": "Sacrifice"
+      },
+      {
+        "count": 1,
+        "slug": "scry",
+        "value": "Scry"
+      },
+      {
+        "count": 1,
+        "slug": "self-mill",
+        "value": "Self-Mill"
+      },
+      {
+        "count": 1,
+        "slug": "snakes",
+        "value": "Snakes"
+      },
+      {
+        "count": 1,
+        "slug": "snow",
+        "value": "Snow"
+      },
+      {
+        "count": 1,
+        "slug": "stompy",
+        "value": "Stompy"
+      },
+      {
+        "count": 1,
+        "slug": "treasure",
+        "value": "Treasure"
+      },
+      {
+        "count": 1,
+        "slug": "tron",
+        "value": "Tron"
+      }
+    ],
+    "edhrec_name": "Rograkh, Son of Rohgahh // Thrasios, Triton Hero"
+  },
+  "Ardenn, Intrepid Archaeologist // Rograkh, Son of Rohgahh": {
+    "name": "Ardenn, Intrepid Archaeologist // Rograkh, Son of Rohgahh",
+    "slug": "ardenn-intrepid-archaeologist-rograkh-son-of-rohgahh",
+    "num_decks": 8555,
+    "all_time_rank": 312,
+    "salt": 0.294736842105263,
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Kor Scout",
+    "is_commander": true,
+    "legal_commander": true,
+    "bracket_counts": {
+      "4": 407,
+      "5": 79,
+      "3": 907,
+      "2": 426,
+      "1": 13
+    },
+    "tag_counts": [
+      {
+        "count": 1522,
+        "slug": "equipment",
+        "value": "Equipment"
+      },
+      {
+        "count": 641,
+        "slug": "voltron",
+        "value": "Voltron"
+      },
+      {
+        "count": 252,
+        "slug": "aggro",
+        "value": "Aggro"
+      },
+      {
+        "count": 177,
+        "slug": "artifacts",
+        "value": "Artifacts"
+      },
+      {
+        "count": 120,
+        "slug": "auras",
+        "value": "Auras"
+      },
+      {
+        "count": 93,
+        "slug": "modified-creatures",
+        "value": "Modified Creatures"
+      },
+      {
+        "count": 54,
+        "slug": "extra-combats",
+        "value": "Extra Combats"
+      },
+      {
+        "count": 44,
+        "slug": "historic",
+        "value": "Historic"
+      },
+      {
+        "count": 36,
+        "slug": "combo",
+        "value": "Combo"
+      },
+      {
+        "count": 27,
+        "slug": "enchantress",
+        "value": "Enchantress"
+      },
+      {
+        "count": 25,
+        "slug": "commander-matters",
+        "value": "Commander Matters"
+      },
+      {
+        "count": 25,
+        "slug": "stax",
+        "value": "Stax"
+      },
+      {
+        "count": 23,
+        "slug": "legends",
+        "value": "Legends"
+      },
+      {
+        "count": 20,
+        "slug": "plus-1-plus-1-counters",
+        "value": "+1/+1 Counters"
+      },
+      {
+        "count": 15,
+        "slug": "unnatural",
+        "value": "Unnatural"
+      },
+      {
+        "count": 13,
+        "slug": "midrange",
+        "value": "Midrange"
+      },
+      {
+        "count": 11,
+        "slug": "stoneblade",
+        "value": "Stoneblade"
+      },
+      {
+        "count": 11,
+        "slug": "sunforger",
+        "value": "Sunforger"
+      },
+      {
+        "count": 11,
+        "slug": "toolbox",
+        "value": "Toolbox"
+      },
+      {
+        "count": 9,
+        "slug": "hatebears",
+        "value": "Hatebears"
+      },
+      {
+        "count": 8,
+        "slug": "control",
+        "value": "Control"
+      },
+      {
+        "count": 6,
+        "slug": "extra-turns",
+        "value": "Extra Turns"
+      },
+      {
+        "count": 6,
+        "slug": "warriors",
+        "value": "Warriors"
+      },
+      {
+        "count": 5,
+        "slug": "affinity",
+        "value": "Affinity"
+      },
+      {
+        "count": 5,
+        "slug": "attack-triggers",
+        "value": "Attack Triggers"
+      },
+      {
+        "count": 5,
+        "slug": "burn",
+        "value": "Burn"
+      },
+      {
+        "count": 5,
+        "slug": "tempo",
+        "value": "Tempo"
+      },
+      {
+        "count": 4,
+        "slug": "glass-cannon",
+        "value": "Glass Cannon"
+      },
+      {
+        "count": 4,
+        "slug": "good-stuff",
+        "value": "Good Stuff"
+      },
+      {
+        "count": 3,
+        "slug": "activated-abilities",
+        "value": "Activated Abilities"
+      },
+      {
+        "count": 3,
+        "slug": "forced-combat",
+        "value": "Forced Combat"
+      },
+      {
+        "count": 3,
+        "slug": "infect",
+        "value": "Infect"
+      },
+      {
+        "count": 3,
+        "slug": "lifegain",
+        "value": "Lifegain"
+      },
+      {
+        "count": 3,
+        "slug": "modular",
+        "value": "Modular"
+      },
+      {
+        "count": 3,
+        "slug": "ramp",
+        "value": "Ramp"
+      },
+      {
+        "count": 3,
+        "slug": "tokens",
+        "value": "Tokens"
+      },
+      {
+        "count": 2,
+        "slug": "chaos",
+        "value": "Chaos"
+      },
+      {
+        "count": 2,
+        "slug": "land-destruction",
+        "value": "Land Destruction"
+      },
+      {
+        "count": 2,
+        "slug": "spellslinger",
+        "value": "Spellslinger"
+      },
+      {
+        "count": 2,
+        "slug": "tron",
+        "value": "Tron"
+      },
+      {
+        "count": 2,
+        "slug": "unblockable",
+        "value": "Unblockable"
+      },
+      {
+        "count": 1,
+        "slug": "card-draw",
+        "value": "Card Draw"
+      },
+      {
+        "count": 1,
+        "slug": "goblins",
+        "value": "Goblins"
+      },
+      {
+        "count": 1,
+        "slug": "indestructible",
+        "value": "Indestructible"
+      },
+      {
+        "count": 1,
+        "slug": "lands-matter",
+        "value": "Lands Matter"
+      },
+      {
+        "count": 1,
+        "slug": "menace",
+        "value": "Menace"
+      },
+      {
+        "count": 1,
+        "slug": "mice",
+        "value": "Mice"
+      },
+      {
+        "count": 1,
+        "slug": "phasing",
+        "value": "Phasing"
+      },
+      {
+        "count": 1,
+        "slug": "pillow-fort",
+        "value": "Pillow Fort"
+      },
+      {
+        "count": 1,
+        "slug": "polymorph",
+        "value": "Polymorph"
+      },
+      {
+        "count": 1,
+        "slug": "populate",
+        "value": "Populate"
+      },
+      {
+        "count": 1,
+        "slug": "power",
+        "value": "Power"
+      },
+      {
+        "count": 1,
+        "slug": "prison",
+        "value": "Prison"
+      },
+      {
+        "count": 1,
+        "slug": "rock",
+        "value": "Rock"
+      },
+      {
+        "count": 1,
+        "slug": "rogues",
+        "value": "Rogues"
+      },
+      {
+        "count": 1,
+        "slug": "samurai",
+        "value": "Samurai"
+      },
+      {
+        "count": 1,
+        "slug": "self-damage",
+        "value": "Self-Damage"
+      },
+      {
+        "count": 1,
+        "slug": "sneak-attack",
+        "value": "Sneak Attack"
+      },
+      {
+        "count": 1,
+        "slug": "snow",
+        "value": "Snow"
+      },
+      {
+        "count": 1,
+        "slug": "stompy",
+        "value": "Stompy"
+      },
+      {
+        "count": 1,
+        "slug": "treasure",
+        "value": "Treasure"
+      },
+      {
+        "count": 1,
+        "slug": "vehicles",
+        "value": "Vehicles"
+      },
+      {
+        "count": 1,
+        "slug": "wheels",
+        "value": "Wheels"
+      }
+    ],
+    "edhrec_name": "Ardenn, Intrepid Archaeologist // Rograkh, Son of Rohgahh"
+  },
+  "Krark, the Thumbless // Sakashima of a Thousand Faces": {
+    "name": "Krark, the Thumbless // Sakashima of a Thousand Faces",
+    "slug": "krark-the-thumbless-sakashima-of-a-thousand-faces",
+    "num_decks": 5696,
+    "all_time_rank": 520,
+    "salt": 0.7070707070707071,
+    "color_identity": [
+      "U",
+      "R"
+    ],
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Goblin Wizard",
+    "is_commander": true,
+    "legal_commander": true,
+    "bracket_counts": {
+      "3": 283,
+      "4": 411,
+      "5": 715,
+      "2": 106,
+      "1": 11
+    },
+    "tag_counts": [
+      {
+        "count": 631,
+        "slug": "spellslinger",
+        "value": "Spellslinger"
+      },
+      {
+        "count": 362,
+        "slug": "storm",
+        "value": "Storm"
+      },
+      {
+        "count": 213,
+        "slug": "clones",
+        "value": "Clones"
+      },
+      {
+        "count": 206,
+        "slug": "combo",
+        "value": "Combo"
+      },
+      {
+        "count": 203,
+        "slug": "coin-flip",
+        "value": "Coin Flip"
+      },
+      {
+        "count": 115,
+        "slug": "chaos",
+        "value": "Chaos"
+      },
+      {
+        "count": 91,
+        "slug": "spell-copy",
+        "value": "Spell Copy"
+      },
+      {
+        "count": 65,
+        "slug": "burn",
+        "value": "Burn"
+      },
+      {
+        "count": 44,
+        "slug": "control",
+        "value": "Control"
+      },
+      {
+        "count": 29,
+        "slug": "midrange",
+        "value": "Midrange"
+      },
+      {
+        "count": 27,
+        "slug": "extra-turns",
+        "value": "Extra Turns"
+      },
+      {
+        "count": 23,
+        "slug": "cantrips",
+        "value": "Cantrips"
+      },
+      {
+        "count": 22,
+        "slug": "tokens",
+        "value": "Tokens"
+      },
+      {
+        "count": 10,
+        "slug": "aggro",
+        "value": "Aggro"
+      },
+      {
+        "count": 10,
+        "slug": "mill",
+        "value": "Mill"
+      },
+      {
+        "count": 8,
+        "slug": "artifacts",
+        "value": "Artifacts"
+      },
+      {
+        "count": 8,
+        "slug": "good-stuff",
+        "value": "Good Stuff"
+      },
+      {
+        "count": 8,
+        "slug": "treasure",
+        "value": "Treasure"
+      },
+      {
+        "count": 7,
+        "slug": "tempo",
+        "value": "Tempo"
+      },
+      {
+        "count": 7,
+        "slug": "wizards",
+        "value": "Wizards"
+      },
+      {
+        "count": 6,
+        "slug": "counterspells",
+        "value": "Counterspells"
+      },
+      {
+        "count": 6,
+        "slug": "ramp",
+        "value": "Ramp"
+      },
+      {
+        "count": 5,
+        "slug": "stax",
+        "value": "Stax"
+      },
+      {
+        "count": 5,
+        "slug": "theft",
+        "value": "Theft"
+      },
+      {
+        "count": 4,
+        "slug": "card-draw",
+        "value": "Card Draw"
+      },
+      {
+        "count": 4,
+        "slug": "goblins",
+        "value": "Goblins"
+      },
+      {
+        "count": 4,
+        "slug": "wheels",
+        "value": "Wheels"
+      },
+      {
+        "count": 3,
+        "slug": "enchantress",
+        "value": "Enchantress"
+      },
+      {
+        "count": 3,
+        "slug": "infect",
+        "value": "Infect"
+      },
+      {
+        "count": 3,
+        "slug": "land-destruction",
+        "value": "Land Destruction"
+      },
+      {
+        "count": 3,
+        "slug": "unnatural",
+        "value": "Unnatural"
+      },
+      {
+        "count": 3,
+        "slug": "x-spells",
+        "value": "X Spells"
+      },
+      {
+        "count": 2,
+        "slug": "ad-nauseam",
+        "value": "Ad Nauseam"
+      },
+      {
+        "count": 2,
+        "slug": "big-mana",
+        "value": "Big Mana"
+      },
+      {
+        "count": 2,
+        "slug": "die-roll",
+        "value": "Die Roll"
+      },
+      {
+        "count": 2,
+        "slug": "exile",
+        "value": "Exile"
+      },
+      {
+        "count": 2,
+        "slug": "group-hug",
+        "value": "Group Hug"
+      },
+      {
+        "count": 2,
+        "slug": "group-slug",
+        "value": "Group Slug"
+      },
+      {
+        "count": 2,
+        "slug": "legends",
+        "value": "Legends"
+      },
+      {
+        "count": 2,
+        "slug": "modular",
+        "value": "Modular"
+      },
+      {
+        "count": 2,
+        "slug": "pingers",
+        "value": "Pingers"
+      },
+      {
+        "count": 2,
+        "slug": "populate",
+        "value": "Populate"
+      },
+      {
+        "count": 1,
+        "slug": "aikido",
+        "value": "Aikido"
+      },
+      {
+        "count": 1,
+        "slug": "arcane",
+        "value": "Arcane"
+      },
+      {
+        "count": 1,
+        "slug": "auras",
+        "value": "Auras"
+      },
+      {
+        "count": 1,
+        "slug": "cascade",
+        "value": "Cascade"
+      },
+      {
+        "count": 1,
+        "slug": "commander-matters",
+        "value": "Commander Matters"
+      },
+      {
+        "count": 1,
+        "slug": "creatureless",
+        "value": "Creatureless"
+      },
+      {
+        "count": 1,
+        "slug": "cycling",
+        "value": "Cycling"
+      },
+      {
+        "count": 1,
+        "slug": "discard",
+        "value": "Discard"
+      },
+      {
+        "count": 1,
+        "slug": "donate",
+        "value": "Donate"
+      },
+      {
+        "count": 1,
+        "slug": "doomsday",
+        "value": "Doomsday"
+      },
+      {
+        "count": 1,
+        "slug": "dragons-approach",
+        "value": "Dragon's Approach"
+      },
+      {
+        "count": 1,
+        "slug": "energy",
+        "value": "Energy"
+      },
+      {
+        "count": 1,
+        "slug": "flashback",
+        "value": "Flashback"
+      },
+      {
+        "count": 1,
+        "slug": "lands-matter",
+        "value": "Lands Matter"
+      },
+      {
+        "count": 1,
+        "slug": "planeswalkers",
+        "value": "Planeswalkers"
+      },
+      {
+        "count": 1,
+        "slug": "polymorph",
+        "value": "Polymorph"
+      },
+      {
+        "count": 1,
+        "slug": "prowess",
+        "value": "Prowess"
+      },
+      {
+        "count": 1,
+        "slug": "sacrifice",
+        "value": "Sacrifice"
+      },
+      {
+        "count": 1,
+        "slug": "toolbox",
+        "value": "Toolbox"
+      },
+      {
+        "count": 1,
+        "slug": "topdeck",
+        "value": "Topdeck"
+      },
+      {
+        "count": 1,
+        "slug": "triggered-abilities",
+        "value": "Triggered Abilities"
+      },
+      {
+        "count": 1,
+        "slug": "zoo",
+        "value": "Zoo"
+      }
+    ],
+    "edhrec_name": "Krark, the Thumbless // Sakashima of a Thousand Faces"
+  },
+  "Owen Grady, Raptor Trainer // Blue, Loyal Raptor": {
+    "name": "Owen Grady, Raptor Trainer // Blue, Loyal Raptor",
+    "slug": "owen-grady-raptor-trainer-blue-loyal-raptor",
+    "num_decks": 5640,
+    "all_time_rank": 527,
+    "salt": 0.4,
+    "color_identity": [
+      "G",
+      "U",
+      "R"
+    ],
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Soldier Scientist",
+    "is_commander": true,
+    "legal_commander": true,
+    "bracket_counts": {
+      "3": 406,
+      "2": 592,
+      "1": 21,
+      "4": 128,
+      "5": 2
+    },
+    "tag_counts": [
+      {
+        "count": 582,
+        "slug": "dinosaurs",
+        "value": "Dinosaurs"
+      },
+      {
+        "count": 73,
+        "slug": "plus-1-plus-1-counters",
+        "value": "+1/+1 Counters"
+      },
+      {
+        "count": 59,
+        "slug": "aggro",
+        "value": "Aggro"
+      },
+      {
+        "count": 45,
+        "slug": "counters-matter",
+        "value": "Counters Matter"
+      },
+      {
+        "count": 42,
+        "slug": "keruga-companion",
+        "value": "Keruga Companion"
+      },
+      {
+        "count": 31,
+        "slug": "ramp",
+        "value": "Ramp"
+      },
+      {
+        "count": 24,
+        "slug": "birthing-pod",
+        "value": "Birthing Pod"
+      },
+      {
+        "count": 17,
+        "slug": "keywords",
+        "value": "Keywords"
+      },
+      {
+        "count": 17,
+        "slug": "midrange",
+        "value": "Midrange"
+      },
+      {
+        "count": 15,
+        "slug": "tokens",
+        "value": "Tokens"
+      },
+      {
+        "count": 13,
+        "slug": "stompy",
+        "value": "Stompy"
+      },
+      {
+        "count": 10,
+        "slug": "combo",
+        "value": "Combo"
+      },
+      {
+        "count": 7,
+        "slug": "zoo",
+        "value": "Zoo"
+      },
+      {
+        "count": 6,
+        "slug": "good-stuff",
+        "value": "Good Stuff"
+      },
+      {
+        "count": 6,
+        "slug": "tempo",
+        "value": "Tempo"
+      },
+      {
+        "count": 5,
+        "slug": "big-mana",
+        "value": "Big Mana"
+      },
+      {
+        "count": 5,
+        "slug": "card-draw",
+        "value": "Card Draw"
+      },
+      {
+        "count": 5,
+        "slug": "historic",
+        "value": "Historic"
+      },
+      {
+        "count": 5,
+        "slug": "voltron",
+        "value": "Voltron"
+      },
+      {
+        "count": 4,
+        "slug": "clones",
+        "value": "Clones"
+      },
+      {
+        "count": 4,
+        "slug": "discover",
+        "value": "Discover"
+      },
+      {
+        "count": 4,
+        "slug": "enrage",
+        "value": "Enrage"
+      },
+      {
+        "count": 4,
+        "slug": "legends",
+        "value": "Legends"
+      },
+      {
+        "count": 4,
+        "slug": "modified-creatures",
+        "value": "Modified Creatures"
+      },
+      {
+        "count": 3,
+        "slug": "anthems",
+        "value": "Anthems"
+      },
+      {
+        "count": 3,
+        "slug": "commander-matters",
+        "value": "Commander Matters"
+      },
+      {
+        "count": 3,
+        "slug": "enchantress",
+        "value": "Enchantress"
+      },
+      {
+        "count": 3,
+        "slug": "lands-matter",
+        "value": "Lands Matter"
+      },
+      {
+        "count": 2,
+        "slug": "activated-abilities",
+        "value": "Activated Abilities"
+      },
+      {
+        "count": 2,
+        "slug": "artifacts",
+        "value": "Artifacts"
+      },
+      {
+        "count": 2,
+        "slug": "control",
+        "value": "Control"
+      },
+      {
+        "count": 2,
+        "slug": "etb",
+        "value": "ETB"
+      },
+      {
+        "count": 2,
+        "slug": "extra-combats",
+        "value": "Extra Combats"
+      },
+      {
+        "count": 2,
+        "slug": "fight",
+        "value": "Fight"
+      },
+      {
+        "count": 2,
+        "slug": "flying",
+        "value": "Flying"
+      },
+      {
+        "count": 2,
+        "slug": "modular",
+        "value": "Modular"
+      },
+      {
+        "count": 2,
+        "slug": "mutate",
+        "value": "Mutate"
+      },
+      {
+        "count": 2,
+        "slug": "populate",
+        "value": "Populate"
+      },
+      {
+        "count": 2,
+        "slug": "power",
+        "value": "Power"
+      },
+      {
+        "count": 2,
+        "slug": "proliferate",
+        "value": "Proliferate"
+      },
+      {
+        "count": 2,
+        "slug": "spellslinger",
+        "value": "Spellslinger"
+      },
+      {
+        "count": 2,
+        "slug": "toolbox",
+        "value": "Toolbox"
+      },
+      {
+        "count": 1,
+        "slug": "minus-1-minus-1-counters",
+        "value": "-1/-1 Counters"
+      },
+      {
+        "count": 1,
+        "slug": "blink",
+        "value": "Blink"
+      },
+      {
+        "count": 1,
+        "slug": "cascade",
+        "value": "Cascade"
+      },
+      {
+        "count": 1,
+        "slug": "chaos",
+        "value": "Chaos"
+      },
+      {
+        "count": 1,
+        "slug": "cycling",
+        "value": "Cycling"
+      },
+      {
+        "count": 1,
+        "slug": "discard",
+        "value": "Discard"
+      },
+      {
+        "count": 1,
+        "slug": "earthbending",
+        "value": "Earthbending"
+      },
+      {
+        "count": 1,
+        "slug": "energy",
+        "value": "Energy"
+      },
+      {
+        "count": 1,
+        "slug": "equipment",
+        "value": "Equipment"
+      },
+      {
+        "count": 1,
+        "slug": "explore",
+        "value": "Explore"
+      },
+      {
+        "count": 1,
+        "slug": "flash",
+        "value": "Flash"
+      },
+      {
+        "count": 1,
+        "slug": "go-wide",
+        "value": "Go Wide"
+      },
+      {
+        "count": 1,
+        "slug": "group-slug",
+        "value": "Group Slug"
+      },
+      {
+        "count": 1,
+        "slug": "hand-size",
+        "value": "Hand Size"
+      },
+      {
+        "count": 1,
+        "slug": "infect",
+        "value": "Infect"
+      },
+      {
+        "count": 1,
+        "slug": "landfall",
+        "value": "Landfall"
+      },
+      {
+        "count": 1,
+        "slug": "monarch",
+        "value": "Monarch"
+      },
+      {
+        "count": 1,
+        "slug": "pillow-fort",
+        "value": "Pillow Fort"
+      },
+      {
+        "count": 1,
+        "slug": "power-matters",
+        "value": "Power Matters"
+      },
+      {
+        "count": 1,
+        "slug": "saprolings",
+        "value": "Saprolings"
+      },
+      {
+        "count": 1,
+        "slug": "scry",
+        "value": "Scry"
+      },
+      {
+        "count": 1,
+        "slug": "shapeshifters",
+        "value": "Shapeshifters"
+      },
+      {
+        "count": 1,
+        "slug": "tap-untap",
+        "value": "Tap / Untap"
+      },
+      {
+        "count": 1,
+        "slug": "topdeck",
+        "value": "Topdeck"
+      },
+      {
+        "count": 1,
+        "slug": "toughness-matters",
+        "value": "Toughness Matters"
+      },
+      {
+        "count": 1,
+        "slug": "treasure",
+        "value": "Treasure"
+      },
+      {
+        "count": 1,
+        "slug": "triggered-abilities",
+        "value": "Triggered Abilities"
+      },
+      {
+        "count": 1,
+        "slug": "unblockable",
+        "value": "Unblockable"
+      },
+      {
+        "count": 1,
+        "slug": "vehicles",
+        "value": "Vehicles"
+      },
+      {
+        "count": 1,
+        "slug": "x-spells",
+        "value": "X Spells"
+      }
+    ],
+    "edhrec_name": "Owen Grady, Raptor Trainer // Blue, Loyal Raptor"
+  },
+  "Thrasios, Triton Hero // Vial Smasher the Fierce": {
+    "name": "Thrasios, Triton Hero // Vial Smasher the Fierce",
+    "slug": "thrasios-triton-hero-vial-smasher-the-fierce",
+    "num_decks": 4538,
+    "all_time_rank": 645,
+    "salt": 1.343648208469055,
+    "color_identity": [
+      "U",
+      "B",
+      "R",
+      "G"
+    ],
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Merfolk Wizard",
+    "is_commander": true,
+    "legal_commander": true,
+    "bracket_counts": {
+      "1": 10,
+      "4": 294,
+      "5": 753,
+      "3": 231,
+      "2": 99
+    },
+    "tag_counts": [
+      {
+        "count": 235,
+        "slug": "combo",
+        "value": "Combo"
+      },
+      {
+        "count": 127,
+        "slug": "midrange",
+        "value": "Midrange"
+      },
+      {
+        "count": 109,
+        "slug": "birthing-pod",
+        "value": "Birthing Pod"
+      },
+      {
+        "count": 107,
+        "slug": "control",
+        "value": "Control"
+      },
+      {
+        "count": 95,
+        "slug": "ramp",
+        "value": "Ramp"
+      },
+      {
+        "count": 72,
+        "slug": "good-stuff",
+        "value": "Good Stuff"
+      },
+      {
+        "count": 63,
+        "slug": "lands-matter",
+        "value": "Lands Matter"
+      },
+      {
+        "count": 61,
+        "slug": "spellslinger",
+        "value": "Spellslinger"
+      },
+      {
+        "count": 60,
+        "slug": "burn",
+        "value": "Burn"
+      },
+      {
+        "count": 45,
+        "slug": "big-mana",
+        "value": "Big Mana"
+      },
+      {
+        "count": 41,
+        "slug": "storm",
+        "value": "Storm"
+      },
+      {
+        "count": 30,
+        "slug": "extra-turns",
+        "value": "Extra Turns"
+      },
+      {
+        "count": 29,
+        "slug": "ad-nauseam",
+        "value": "Ad Nauseam"
+      },
+      {
+        "count": 29,
+        "slug": "reanimator",
+        "value": "Reanimator"
+      },
+      {
+        "count": 27,
+        "slug": "tempo",
+        "value": "Tempo"
+      },
+      {
+        "count": 25,
+        "slug": "toolbox",
+        "value": "Toolbox"
+      },
+      {
+        "count": 24,
+        "slug": "chaos",
+        "value": "Chaos"
+      },
+      {
+        "count": 21,
+        "slug": "group-slug",
+        "value": "Group Slug"
+      },
+      {
+        "count": 21,
+        "slug": "x-spells",
+        "value": "X Spells"
+      },
+      {
+        "count": 15,
+        "slug": "tokens",
+        "value": "Tokens"
+      },
+      {
+        "count": 14,
+        "slug": "cascade",
+        "value": "Cascade"
+      },
+      {
+        "count": 13,
+        "slug": "clones",
+        "value": "Clones"
+      },
+      {
+        "count": 13,
+        "slug": "mill",
+        "value": "Mill"
+      },
+      {
+        "count": 12,
+        "slug": "dredge",
+        "value": "Dredge"
+      },
+      {
+        "count": 12,
+        "slug": "wheels",
+        "value": "Wheels"
+      },
+      {
+        "count": 10,
+        "slug": "artifacts",
+        "value": "Artifacts"
+      },
+      {
+        "count": 10,
+        "slug": "theft",
+        "value": "Theft"
+      },
+      {
+        "count": 8,
+        "slug": "aggro",
+        "value": "Aggro"
+      },
+      {
+        "count": 8,
+        "slug": "discard",
+        "value": "Discard"
+      },
+      {
+        "count": 8,
+        "slug": "enchantress",
+        "value": "Enchantress"
+      },
+      {
+        "count": 8,
+        "slug": "landfall",
+        "value": "Landfall"
+      },
+      {
+        "count": 7,
+        "slug": "land-destruction",
+        "value": "Land Destruction"
+      },
+      {
+        "count": 7,
+        "slug": "self-mill",
+        "value": "Self-Mill"
+      },
+      {
+        "count": 6,
+        "slug": "card-draw",
+        "value": "Card Draw"
+      },
+      {
+        "count": 5,
+        "slug": "graveyard",
+        "value": "Graveyard"
+      },
+      {
+        "count": 4,
+        "slug": "plus-1-plus-1-counters",
+        "value": "+1/+1 Counters"
+      },
+      {
+        "count": 4,
+        "slug": "aristocrats",
+        "value": "Aristocrats"
+      },
+      {
+        "count": 4,
+        "slug": "flash",
+        "value": "Flash"
+      },
+      {
+        "count": 4,
+        "slug": "infect",
+        "value": "Infect"
+      },
+      {
+        "count": 4,
+        "slug": "morph",
+        "value": "Morph"
+      },
+      {
+        "count": 4,
+        "slug": "sacrifice",
+        "value": "Sacrifice"
+      },
+      {
+        "count": 4,
+        "slug": "spell-copy",
+        "value": "Spell Copy"
+      },
+      {
+        "count": 4,
+        "slug": "unnatural",
+        "value": "Unnatural"
+      },
+      {
+        "count": 3,
+        "slug": "blink",
+        "value": "Blink"
+      },
+      {
+        "count": 3,
+        "slug": "counterspells",
+        "value": "Counterspells"
+      },
+      {
+        "count": 3,
+        "slug": "devotion",
+        "value": "Devotion"
+      },
+      {
+        "count": 3,
+        "slug": "flashback",
+        "value": "Flashback"
+      },
+      {
+        "count": 3,
+        "slug": "group-hug",
+        "value": "Group Hug"
+      },
+      {
+        "count": 3,
+        "slug": "self-damage",
+        "value": "Self-Damage"
+      },
+      {
+        "count": 2,
+        "slug": "all-spells",
+        "value": "All Spells"
+      },
+      {
+        "count": 2,
+        "slug": "attractions",
+        "value": "Attractions"
+      },
+      {
+        "count": 2,
+        "slug": "delver",
+        "value": "Delver"
+      },
+      {
+        "count": 2,
+        "slug": "discover",
+        "value": "Discover"
+      },
+      {
+        "count": 2,
+        "slug": "eldrazi",
+        "value": "Eldrazi"
+      },
+      {
+        "count": 2,
+        "slug": "goblins",
+        "value": "Goblins"
+      },
+      {
+        "count": 2,
+        "slug": "historic",
+        "value": "Historic"
+      },
+      {
+        "count": 2,
+        "slug": "legends",
+        "value": "Legends"
+      },
+      {
+        "count": 2,
+        "slug": "pingers",
+        "value": "Pingers"
+      },
+      {
+        "count": 2,
+        "slug": "planeswalkers",
+        "value": "Planeswalkers"
+      },
+      {
+        "count": 2,
+        "slug": "proliferate",
+        "value": "Proliferate"
+      },
+      {
+        "count": 2,
+        "slug": "rock",
+        "value": "Rock"
+      },
+      {
+        "count": 2,
+        "slug": "snow",
+        "value": "Snow"
+      },
+      {
+        "count": 2,
+        "slug": "topdeck",
+        "value": "Topdeck"
+      },
+      {
+        "count": 2,
+        "slug": "tron",
+        "value": "Tron"
+      },
+      {
+        "count": 2,
+        "slug": "umori-companion",
+        "value": "Umori Companion"
+      },
+      {
+        "count": 2,
+        "slug": "zoo",
+        "value": "Zoo"
+      },
+      {
+        "count": 1,
+        "slug": "activated-abilities",
+        "value": "Activated Abilities"
+      },
+      {
+        "count": 1,
+        "slug": "aikido",
+        "value": "Aikido"
+      },
+      {
+        "count": 1,
+        "slug": "auras",
+        "value": "Auras"
+      },
+      {
+        "count": 1,
+        "slug": "bloodthirst",
+        "value": "Bloodthirst"
+      },
+      {
+        "count": 1,
+        "slug": "cantrips",
+        "value": "Cantrips"
+      },
+      {
+        "count": 1,
+        "slug": "cheerios",
+        "value": "Cheerios"
+      },
+      {
+        "count": 1,
+        "slug": "clues",
+        "value": "Clues"
+      },
+      {
+        "count": 1,
+        "slug": "coin-flip",
+        "value": "Coin Flip"
+      },
+      {
+        "count": 1,
+        "slug": "color-hack",
+        "value": "Color Hack"
+      },
+      {
+        "count": 1,
+        "slug": "cycling",
+        "value": "Cycling"
+      },
+      {
+        "count": 1,
+        "slug": "deathtouch",
+        "value": "Deathtouch"
+      },
+      {
+        "count": 1,
+        "slug": "eggs",
+        "value": "Eggs"
+      },
+      {
+        "count": 1,
+        "slug": "exile",
+        "value": "Exile"
+      },
+      {
+        "count": 1,
+        "slug": "firebending",
+        "value": "Firebending"
+      },
+      {
+        "count": 1,
+        "slug": "forced-combat",
+        "value": "Forced Combat"
+      },
+      {
+        "count": 1,
+        "slug": "hatebears",
+        "value": "Hatebears"
+      },
+      {
+        "count": 1,
+        "slug": "hydras",
+        "value": "Hydras"
+      },
+      {
+        "count": 1,
+        "slug": "lifegain",
+        "value": "Lifegain"
+      },
+      {
+        "count": 1,
+        "slug": "mana-dorks",
+        "value": "Mana Dorks"
+      },
+      {
+        "count": 1,
+        "slug": "merfolk",
+        "value": "Merfolk"
+      },
+      {
+        "count": 1,
+        "slug": "oozes",
+        "value": "Oozes"
+      },
+      {
+        "count": 1,
+        "slug": "plot",
+        "value": "Plot"
+      },
+      {
+        "count": 1,
+        "slug": "polymorph",
+        "value": "Polymorph"
+      },
+      {
+        "count": 1,
+        "slug": "power",
+        "value": "Power"
+      },
+      {
+        "count": 1,
+        "slug": "rats",
+        "value": "Rats"
+      },
+      {
+        "count": 1,
+        "slug": "scry",
+        "value": "Scry"
+      },
+      {
+        "count": 1,
+        "slug": "stax",
+        "value": "Stax"
+      },
+      {
+        "count": 1,
+        "slug": "stompy",
+        "value": "Stompy"
+      },
+      {
+        "count": 1,
+        "slug": "tap-untap",
+        "value": "Tap / Untap"
+      },
+      {
+        "count": 1,
+        "slug": "treasure",
+        "value": "Treasure"
+      },
+      {
+        "count": 1,
+        "slug": "triggered-abilities",
+        "value": "Triggered Abilities"
+      },
+      {
+        "count": 1,
+        "slug": "turbo",
+        "value": "Turbo"
+      },
+      {
+        "count": 1,
+        "slug": "tyranids",
+        "value": "Tyranids"
+      },
+      {
+        "count": 1,
+        "slug": "voltron",
+        "value": "Voltron"
+      },
+      {
+        "count": 1,
+        "slug": "wizards",
+        "value": "Wizards"
+      }
+    ],
+    "edhrec_name": "Thrasios, Triton Hero // Vial Smasher the Fierce"
+  },
+  "Thrasios, Triton Hero // Yoshimaru, Ever Faithful": {
+    "name": "Thrasios, Triton Hero // Yoshimaru, Ever Faithful",
+    "slug": "thrasios-triton-hero-yoshimaru-ever-faithful",
+    "num_decks": 4490,
+    "all_time_rank": 655,
+    "salt": 1.343648208469055,
+    "color_identity": [
+      "G",
+      "W",
+      "U"
+    ],
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Merfolk Wizard",
+    "is_commander": true,
+    "legal_commander": true,
+    "bracket_counts": {
+      "5": 1416,
+      "4": 97,
+      "3": 78,
+      "2": 35,
+      "1": 3
+    },
+    "tag_counts": [
+      {
+        "count": 237,
+        "slug": "combo",
+        "value": "Combo"
+      },
+      {
+        "count": 153,
+        "slug": "midrange",
+        "value": "Midrange"
+      },
+      {
+        "count": 102,
+        "slug": "birthing-pod",
+        "value": "Birthing Pod"
+      },
+      {
+        "count": 71,
+        "slug": "legends",
+        "value": "Legends"
+      },
+      {
+        "count": 57,
+        "slug": "lands-matter",
+        "value": "Lands Matter"
+      },
+      {
+        "count": 55,
+        "slug": "plus-1-plus-1-counters",
+        "value": "+1/+1 Counters"
+      },
+      {
+        "count": 53,
+        "slug": "ramp",
+        "value": "Ramp"
+      },
+      {
+        "count": 47,
+        "slug": "blink",
+        "value": "Blink"
+      },
+      {
+        "count": 41,
+        "slug": "good-stuff",
+        "value": "Good Stuff"
+      },
+      {
+        "count": 38,
+        "slug": "control",
+        "value": "Control"
+      },
+      {
+        "count": 27,
+        "slug": "ad-nauseam",
+        "value": "Ad Nauseam"
+      },
+      {
+        "count": 26,
+        "slug": "clones",
+        "value": "Clones"
+      },
+      {
+        "count": 26,
+        "slug": "toolbox",
+        "value": "Toolbox"
+      },
+      {
+        "count": 21,
+        "slug": "historic",
+        "value": "Historic"
+      },
+      {
+        "count": 17,
+        "slug": "zoo",
+        "value": "Zoo"
+      },
+      {
+        "count": 16,
+        "slug": "tempo",
+        "value": "Tempo"
+      },
+      {
+        "count": 14,
+        "slug": "enchantress",
+        "value": "Enchantress"
+      },
+      {
+        "count": 12,
+        "slug": "big-mana",
+        "value": "Big Mana"
+      },
+      {
+        "count": 11,
+        "slug": "storm",
+        "value": "Storm"
+      },
+      {
+        "count": 10,
+        "slug": "aggro",
+        "value": "Aggro"
+      },
+      {
+        "count": 9,
+        "slug": "hatebears",
+        "value": "Hatebears"
+      },
+      {
+        "count": 9,
+        "slug": "stax",
+        "value": "Stax"
+      },
+      {
+        "count": 7,
+        "slug": "planeswalkers",
+        "value": "Planeswalkers"
+      },
+      {
+        "count": 6,
+        "slug": "activated-abilities",
+        "value": "Activated Abilities"
+      },
+      {
+        "count": 6,
+        "slug": "tokens",
+        "value": "Tokens"
+      },
+      {
+        "count": 5,
+        "slug": "artifacts",
+        "value": "Artifacts"
+      },
+      {
+        "count": 5,
+        "slug": "group-hug",
+        "value": "Group Hug"
+      },
+      {
+        "count": 5,
+        "slug": "tap-untap",
+        "value": "Tap / Untap"
+      },
+      {
+        "count": 5,
+        "slug": "voltron",
+        "value": "Voltron"
+      },
+      {
+        "count": 5,
+        "slug": "x-spells",
+        "value": "X Spells"
+      },
+      {
+        "count": 4,
+        "slug": "chaos",
+        "value": "Chaos"
+      },
+      {
+        "count": 3,
+        "slug": "auras",
+        "value": "Auras"
+      },
+      {
+        "count": 3,
+        "slug": "card-draw",
+        "value": "Card Draw"
+      },
+      {
+        "count": 3,
+        "slug": "commander-matters",
+        "value": "Commander Matters"
+      },
+      {
+        "count": 3,
+        "slug": "devotion",
+        "value": "Devotion"
+      },
+      {
+        "count": 3,
+        "slug": "scry",
+        "value": "Scry"
+      },
+      {
+        "count": 3,
+        "slug": "spellslinger",
+        "value": "Spellslinger"
+      },
+      {
+        "count": 2,
+        "slug": "minus-1-minus-1-counters",
+        "value": "-1/-1 Counters"
+      },
+      {
+        "count": 2,
+        "slug": "aristocrats",
+        "value": "Aristocrats"
+      },
+      {
+        "count": 2,
+        "slug": "cycling",
+        "value": "Cycling"
+      },
+      {
+        "count": 2,
+        "slug": "landfall",
+        "value": "Landfall"
+      },
+      {
+        "count": 2,
+        "slug": "merfolk",
+        "value": "Merfolk"
+      },
+      {
+        "count": 2,
+        "slug": "stompy",
+        "value": "Stompy"
+      },
+      {
+        "count": 2,
+        "slug": "unnatural",
+        "value": "Unnatural"
+      },
+      {
+        "count": 1,
+        "slug": "aikido",
+        "value": "Aikido"
+      },
+      {
+        "count": 1,
+        "slug": "cascade",
+        "value": "Cascade"
+      },
+      {
+        "count": 1,
+        "slug": "dogs",
+        "value": "Dogs"
+      },
+      {
+        "count": 1,
+        "slug": "etb",
+        "value": "ETB"
+      },
+      {
+        "count": 1,
+        "slug": "extra-turns",
+        "value": "Extra Turns"
+      },
+      {
+        "count": 1,
+        "slug": "group-slug",
+        "value": "Group Slug"
+      },
+      {
+        "count": 1,
+        "slug": "infect",
+        "value": "Infect"
+      },
+      {
+        "count": 1,
+        "slug": "land-destruction",
+        "value": "Land Destruction"
+      },
+      {
+        "count": 1,
+        "slug": "mana-dorks",
+        "value": "Mana Dorks"
+      },
+      {
+        "count": 1,
+        "slug": "pillow-fort",
+        "value": "Pillow Fort"
+      },
+      {
+        "count": 1,
+        "slug": "politics",
+        "value": "Politics"
+      },
+      {
+        "count": 1,
+        "slug": "populate",
+        "value": "Populate"
+      },
+      {
+        "count": 1,
+        "slug": "power",
+        "value": "Power"
+      },
+      {
+        "count": 1,
+        "slug": "proliferate",
+        "value": "Proliferate"
+      },
+      {
+        "count": 1,
+        "slug": "theft",
+        "value": "Theft"
+      },
+      {
+        "count": 1,
+        "slug": "vehicles",
+        "value": "Vehicles"
+      },
+      {
+        "count": 1,
+        "slug": "wheels",
+        "value": "Wheels"
+      }
+    ],
+    "edhrec_name": "Thrasios, Triton Hero // Yoshimaru, Ever Faithful"
+  },
+  "Brallin, Skyshark Rider // Shabraz, the Skyshark": {
+    "name": "Brallin, Skyshark Rider // Shabraz, the Skyshark",
+    "slug": "brallin-skyshark-rider-shabraz-the-skyshark",
+    "num_decks": 3936,
+    "all_time_rank": 722,
+    "salt": 0.3148148148148149,
+    "color_identity": [
+      "U",
+      "R",
+      "W"
+    ],
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Shaman",
+    "is_commander": true,
+    "legal_commander": true,
+    "bracket_counts": {
+      "3": 323,
+      "2": 310,
+      "4": 213,
+      "5": 80,
+      "1": 15
+    },
+    "tag_counts": [
+      {
+        "count": 423,
+        "slug": "wheels",
+        "value": "Wheels"
+      },
+      {
+        "count": 265,
+        "slug": "discard",
+        "value": "Discard"
+      },
+      {
+        "count": 144,
+        "slug": "cycling",
+        "value": "Cycling"
+      },
+      {
+        "count": 135,
+        "slug": "plus-1-plus-1-counters",
+        "value": "+1/+1 Counters"
+      },
+      {
+        "count": 102,
+        "slug": "card-draw",
+        "value": "Card Draw"
+      },
+      {
+        "count": 94,
+        "slug": "combo",
+        "value": "Combo"
+      },
+      {
+        "count": 63,
+        "slug": "burn",
+        "value": "Burn"
+      },
+      {
+        "count": 41,
+        "slug": "lifegain",
+        "value": "Lifegain"
+      },
+      {
+        "count": 41,
+        "slug": "self-discard",
+        "value": "Self-Discard"
+      },
+      {
+        "count": 41,
+        "slug": "voltron",
+        "value": "Voltron"
+      },
+      {
+        "count": 28,
+        "slug": "spellslinger",
+        "value": "Spellslinger"
+      },
+      {
+        "count": 26,
+        "slug": "control",
+        "value": "Control"
+      },
+      {
+        "count": 23,
+        "slug": "sharks",
+        "value": "Sharks"
+      },
+      {
+        "count": 22,
+        "slug": "midrange",
+        "value": "Midrange"
+      },
+      {
+        "count": 17,
+        "slug": "flying",
+        "value": "Flying"
+      },
+      {
+        "count": 14,
+        "slug": "commander-matters",
+        "value": "Commander Matters"
+      },
+      {
+        "count": 13,
+        "slug": "aggro",
+        "value": "Aggro"
+      },
+      {
+        "count": 10,
+        "slug": "group-slug",
+        "value": "Group Slug"
+      },
+      {
+        "count": 9,
+        "slug": "humans",
+        "value": "Humans"
+      },
+      {
+        "count": 9,
+        "slug": "tokens",
+        "value": "Tokens"
+      },
+      {
+        "count": 8,
+        "slug": "zirda-companion",
+        "value": "Zirda Companion"
+      },
+      {
+        "count": 6,
+        "slug": "activated-abilities",
+        "value": "Activated Abilities"
+      },
+      {
+        "count": 6,
+        "slug": "pingers",
+        "value": "Pingers"
+      },
+      {
+        "count": 5,
+        "slug": "artifacts",
+        "value": "Artifacts"
+      },
+      {
+        "count": 5,
+        "slug": "looting",
+        "value": "Looting"
+      },
+      {
+        "count": 5,
+        "slug": "reanimator",
+        "value": "Reanimator"
+      },
+      {
+        "count": 4,
+        "slug": "enchantress",
+        "value": "Enchantress"
+      },
+      {
+        "count": 4,
+        "slug": "tempo",
+        "value": "Tempo"
+      },
+      {
+        "count": 4,
+        "slug": "toolbox",
+        "value": "Toolbox"
+      },
+      {
+        "count": 3,
+        "slug": "auras",
+        "value": "Auras"
+      },
+      {
+        "count": 3,
+        "slug": "chaos",
+        "value": "Chaos"
+      },
+      {
+        "count": 3,
+        "slug": "equipment",
+        "value": "Equipment"
+      },
+      {
+        "count": 3,
+        "slug": "pirates",
+        "value": "Pirates"
+      },
+      {
+        "count": 3,
+        "slug": "treasure",
+        "value": "Treasure"
+      },
+      {
+        "count": 3,
+        "slug": "triggered-abilities",
+        "value": "Triggered Abilities"
+      },
+      {
+        "count": 2,
+        "slug": "birds",
+        "value": "Birds"
+      },
+      {
+        "count": 2,
+        "slug": "blink",
+        "value": "Blink"
+      },
+      {
+        "count": 2,
+        "slug": "cantrips",
+        "value": "Cantrips"
+      },
+      {
+        "count": 2,
+        "slug": "counterspells",
+        "value": "Counterspells"
+      },
+      {
+        "count": 2,
+        "slug": "good-stuff",
+        "value": "Good Stuff"
+      },
+      {
+        "count": 2,
+        "slug": "impulse-draw",
+        "value": "Impulse Draw"
+      },
+      {
+        "count": 2,
+        "slug": "lifedrain",
+        "value": "Lifedrain"
+      },
+      {
+        "count": 2,
+        "slug": "mill",
+        "value": "Mill"
+      },
+      {
+        "count": 2,
+        "slug": "pillow-fort",
+        "value": "Pillow Fort"
+      },
+      {
+        "count": 2,
+        "slug": "ramp",
+        "value": "Ramp"
+      },
+      {
+        "count": 2,
+        "slug": "self-mill",
+        "value": "Self-Mill"
+      },
+      {
+        "count": 2,
+        "slug": "stax",
+        "value": "Stax"
+      },
+      {
+        "count": 2,
+        "slug": "vehicles",
+        "value": "Vehicles"
+      },
+      {
+        "count": 1,
+        "slug": "ad-nauseam",
+        "value": "Ad Nauseam"
+      },
+      {
+        "count": 1,
+        "slug": "aristocrats",
+        "value": "Aristocrats"
+      },
+      {
+        "count": 1,
+        "slug": "attack-triggers",
+        "value": "Attack Triggers"
+      },
+      {
+        "count": 1,
+        "slug": "blood",
+        "value": "Blood"
+      },
+      {
+        "count": 1,
+        "slug": "clones",
+        "value": "Clones"
+      },
+      {
+        "count": 1,
+        "slug": "connive",
+        "value": "Connive"
+      },
+      {
+        "count": 1,
+        "slug": "devotion",
+        "value": "Devotion"
+      },
+      {
+        "count": 1,
+        "slug": "dragons",
+        "value": "Dragons"
+      },
+      {
+        "count": 1,
+        "slug": "flashback",
+        "value": "Flashback"
+      },
+      {
+        "count": 1,
+        "slug": "fling",
+        "value": "Fling"
+      },
+      {
+        "count": 1,
+        "slug": "graveyard",
+        "value": "Graveyard"
+      },
+      {
+        "count": 1,
+        "slug": "hatebears",
+        "value": "Hatebears"
+      },
+      {
+        "count": 1,
+        "slug": "historic",
+        "value": "Historic"
+      },
+      {
+        "count": 1,
+        "slug": "infect",
+        "value": "Infect"
+      },
+      {
+        "count": 1,
+        "slug": "keywords",
+        "value": "Keywords"
+      },
+      {
+        "count": 1,
+        "slug": "madness",
+        "value": "Madness"
+      },
+      {
+        "count": 1,
+        "slug": "multicolor-matters",
+        "value": "Multicolor Matters"
+      },
+      {
+        "count": 1,
+        "slug": "planeswalkers",
+        "value": "Planeswalkers"
+      },
+      {
+        "count": 1,
+        "slug": "proliferate",
+        "value": "Proliferate"
+      },
+      {
+        "count": 1,
+        "slug": "rooms",
+        "value": "Rooms"
+      },
+      {
+        "count": 1,
+        "slug": "self-damage",
+        "value": "Self-Damage"
+      },
+      {
+        "count": 1,
+        "slug": "snow",
+        "value": "Snow"
+      },
+      {
+        "count": 1,
+        "slug": "stompy",
+        "value": "Stompy"
+      },
+      {
+        "count": 1,
+        "slug": "storm",
+        "value": "Storm"
+      },
+      {
+        "count": 1,
+        "slug": "theft",
+        "value": "Theft"
+      },
+      {
+        "count": 1,
+        "slug": "wizards",
+        "value": "Wizards"
+      }
+    ],
+    "edhrec_name": "Brallin, Skyshark Rider // Shabraz, the Skyshark"
+  },
+  "Pir, Imaginative Rascal // Toothy, Imaginary Friend": {
+    "name": "Pir, Imaginative Rascal // Toothy, Imaginary Friend",
+    "slug": "pir-imaginative-rascal-toothy-imaginary-friend",
+    "num_decks": 3088,
+    "all_time_rank": 862,
+    "salt": 0.36363636363636365,
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human",
+    "is_commander": true,
+    "legal_commander": true,
+    "bracket_counts": {
+      "2": 232,
+      "3": 305,
+      "4": 136,
+      "5": 36,
+      "1": 5
+    },
+    "tag_counts": [
+      {
+        "count": 433,
+        "slug": "plus-1-plus-1-counters",
+        "value": "+1/+1 Counters"
+      },
+      {
+        "count": 105,
+        "slug": "card-draw",
+        "value": "Card Draw"
+      },
+      {
+        "count": 78,
+        "slug": "blink",
+        "value": "Blink"
+      },
+      {
+        "count": 52,
+        "slug": "planeswalkers",
+        "value": "Planeswalkers"
+      },
+      {
+        "count": 45,
+        "slug": "voltron",
+        "value": "Voltron"
+      },
+      {
+        "count": 38,
+        "slug": "cantrips",
+        "value": "Cantrips"
+      },
+      {
+        "count": 37,
+        "slug": "combo",
+        "value": "Combo"
+      },
+      {
+        "count": 29,
+        "slug": "midrange",
+        "value": "Midrange"
+      },
+      {
+        "count": 29,
+        "slug": "wheels",
+        "value": "Wheels"
+      },
+      {
+        "count": 22,
+        "slug": "ramp",
+        "value": "Ramp"
+      },
+      {
+        "count": 19,
+        "slug": "proliferate",
+        "value": "Proliferate"
+      },
+      {
+        "count": 18,
+        "slug": "control",
+        "value": "Control"
+      },
+      {
+        "count": 17,
+        "slug": "birthing-pod",
+        "value": "Birthing Pod"
+      },
+      {
+        "count": 13,
+        "slug": "spellslinger",
+        "value": "Spellslinger"
+      },
+      {
+        "count": 11,
+        "slug": "commander-matters",
+        "value": "Commander Matters"
+      },
+      {
+        "count": 10,
+        "slug": "keruga-companion",
+        "value": "Keruga Companion"
+      },
+      {
+        "count": 9,
+        "slug": "aggro",
+        "value": "Aggro"
+      },
+      {
+        "count": 9,
+        "slug": "storm",
+        "value": "Storm"
+      },
+      {
+        "count": 8,
+        "slug": "clones",
+        "value": "Clones"
+      },
+      {
+        "count": 7,
+        "slug": "counters-matter",
+        "value": "Counters Matter"
+      },
+      {
+        "count": 7,
+        "slug": "tempo",
+        "value": "Tempo"
+      },
+      {
+        "count": 7,
+        "slug": "tokens",
+        "value": "Tokens"
+      },
+      {
+        "count": 6,
+        "slug": "extra-turns",
+        "value": "Extra Turns"
+      },
+      {
+        "count": 6,
+        "slug": "infect",
+        "value": "Infect"
+      },
+      {
+        "count": 5,
+        "slug": "group-hug",
+        "value": "Group Hug"
+      },
+      {
+        "count": 5,
+        "slug": "mill",
+        "value": "Mill"
+      },
+      {
+        "count": 4,
+        "slug": "enchantress",
+        "value": "Enchantress"
+      },
+      {
+        "count": 4,
+        "slug": "good-stuff",
+        "value": "Good Stuff"
+      },
+      {
+        "count": 4,
+        "slug": "hand-size",
+        "value": "Hand Size"
+      },
+      {
+        "count": 4,
+        "slug": "stompy",
+        "value": "Stompy"
+      },
+      {
+        "count": 3,
+        "slug": "x-spells",
+        "value": "X Spells"
+      },
+      {
+        "count": 2,
+        "slug": "activated-abilities",
+        "value": "Activated Abilities"
+      },
+      {
+        "count": 2,
+        "slug": "ad-nauseam",
+        "value": "Ad Nauseam"
+      },
+      {
+        "count": 2,
+        "slug": "artifacts",
+        "value": "Artifacts"
+      },
+      {
+        "count": 2,
+        "slug": "charge-counters",
+        "value": "Charge Counters"
+      },
+      {
+        "count": 2,
+        "slug": "cycling",
+        "value": "Cycling"
+      },
+      {
+        "count": 2,
+        "slug": "illusions",
+        "value": "Illusions"
+      },
+      {
+        "count": 2,
+        "slug": "impulse-draw",
+        "value": "Impulse Draw"
+      },
+      {
+        "count": 2,
+        "slug": "lands-matter",
+        "value": "Lands Matter"
+      },
+      {
+        "count": 2,
+        "slug": "legends",
+        "value": "Legends"
+      },
+      {
+        "count": 2,
+        "slug": "self-mill",
+        "value": "Self-Mill"
+      },
+      {
+        "count": 2,
+        "slug": "toolbox",
+        "value": "Toolbox"
+      },
+      {
+        "count": 2,
+        "slug": "turbo-fog",
+        "value": "Turbo Fog"
+      },
+      {
+        "count": 1,
+        "slug": "minus-1-minus-1-counters",
+        "value": "-1/-1 Counters"
+      },
+      {
+        "count": 1,
+        "slug": "chaos",
+        "value": "Chaos"
+      },
+      {
+        "count": 1,
+        "slug": "counterspells",
+        "value": "Counterspells"
+      },
+      {
+        "count": 1,
+        "slug": "delver",
+        "value": "Delver"
+      },
+      {
+        "count": 1,
+        "slug": "etb",
+        "value": "ETB"
+      },
+      {
+        "count": 1,
+        "slug": "flash",
+        "value": "Flash"
+      },
+      {
+        "count": 1,
+        "slug": "freerunning",
+        "value": "Freerunning"
+      },
+      {
+        "count": 1,
+        "slug": "hatebears",
+        "value": "Hatebears"
+      },
+      {
+        "count": 1,
+        "slug": "historic",
+        "value": "Historic"
+      },
+      {
+        "count": 1,
+        "slug": "hydras",
+        "value": "Hydras"
+      },
+      {
+        "count": 1,
+        "slug": "landfall",
+        "value": "Landfall"
+      },
+      {
+        "count": 1,
+        "slug": "oozes",
+        "value": "Oozes"
+      },
+      {
+        "count": 1,
+        "slug": "populate",
+        "value": "Populate"
+      },
+      {
+        "count": 1,
+        "slug": "power-matters",
+        "value": "Power Matters"
+      },
+      {
+        "count": 1,
+        "slug": "rock",
+        "value": "Rock"
+      },
+      {
+        "count": 1,
+        "slug": "sagas",
+        "value": "Sagas"
+      },
+      {
+        "count": 1,
+        "slug": "spell-copy",
+        "value": "Spell Copy"
+      },
+      {
+        "count": 1,
+        "slug": "triggered-abilities",
+        "value": "Triggered Abilities"
+      },
+      {
+        "count": 1,
+        "slug": "tron",
+        "value": "Tron"
+      },
+      {
+        "count": 1,
+        "slug": "unblockable",
+        "value": "Unblockable"
+      },
+      {
+        "count": 1,
+        "slug": "zoo",
+        "value": "Zoo"
+      }
+    ],
+    "edhrec_name": "Pir, Imaginative Rascal // Toothy, Imaginary Friend"
+  },
+  "Gale, Waterdeep Prodigy // Scion of Halaster": {
+    "name": "Gale, Waterdeep Prodigy // Scion of Halaster",
+    "slug": "gale-waterdeep-prodigy-scion-of-halaster",
+    "num_decks": 2915,
+    "all_time_rank": 898,
+    "salt": 0.2063492063492063,
+    "color_identity": [
+      "U",
+      "B"
+    ],
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Wizard",
+    "is_commander": true,
+    "legal_commander": true,
+    "bracket_counts": {
+      "3": 269,
+      "2": 178,
+      "4": 104,
+      "5": 68,
+      "1": 7
+    },
+    "tag_counts": [
+      {
+        "count": 358,
+        "slug": "spellslinger",
+        "value": "Spellslinger"
+      },
+      {
+        "count": 105,
+        "slug": "control",
+        "value": "Control"
+      },
+      {
+        "count": 89,
+        "slug": "mill",
+        "value": "Mill"
+      },
+      {
+        "count": 82,
+        "slug": "combo",
+        "value": "Combo"
+      },
+      {
+        "count": 80,
+        "slug": "reanimator",
+        "value": "Reanimator"
+      },
+      {
+        "count": 70,
+        "slug": "graveyard",
+        "value": "Graveyard"
+      },
+      {
+        "count": 70,
+        "slug": "infect",
+        "value": "Infect"
+      },
+      {
+        "count": 70,
+        "slug": "self-mill",
+        "value": "Self-Mill"
+      },
+      {
+        "count": 23,
+        "slug": "flashback",
+        "value": "Flashback"
+      },
+      {
+        "count": 20,
+        "slug": "cantrips",
+        "value": "Cantrips"
+      },
+      {
+        "count": 19,
+        "slug": "discard",
+        "value": "Discard"
+      },
+      {
+        "count": 17,
+        "slug": "midrange",
+        "value": "Midrange"
+      },
+      {
+        "count": 15,
+        "slug": "counterspells",
+        "value": "Counterspells"
+      },
+      {
+        "count": 14,
+        "slug": "dredge",
+        "value": "Dredge"
+      },
+      {
+        "count": 14,
+        "slug": "proliferate",
+        "value": "Proliferate"
+      },
+      {
+        "count": 13,
+        "slug": "tempo",
+        "value": "Tempo"
+      },
+      {
+        "count": 13,
+        "slug": "tokens",
+        "value": "Tokens"
+      },
+      {
+        "count": 11,
+        "slug": "card-draw",
+        "value": "Card Draw"
+      },
+      {
+        "count": 11,
+        "slug": "storm",
+        "value": "Storm"
+      },
+      {
+        "count": 11,
+        "slug": "wizards",
+        "value": "Wizards"
+      },
+      {
+        "count": 10,
+        "slug": "toolbox",
+        "value": "Toolbox"
+      },
+      {
+        "count": 10,
+        "slug": "wheels",
+        "value": "Wheels"
+      },
+      {
+        "count": 7,
+        "slug": "commander-matters",
+        "value": "Commander Matters"
+      },
+      {
+        "count": 6,
+        "slug": "ad-nauseam",
+        "value": "Ad Nauseam"
+      },
+      {
+        "count": 4,
+        "slug": "good-stuff",
+        "value": "Good Stuff"
+      },
+      {
+        "count": 4,
+        "slug": "ramp",
+        "value": "Ramp"
+      },
+      {
+        "count": 3,
+        "slug": "blink",
+        "value": "Blink"
+      },
+      {
+        "count": 3,
+        "slug": "flying",
+        "value": "Flying"
+      },
+      {
+        "count": 3,
+        "slug": "horrors",
+        "value": "Horrors"
+      },
+      {
+        "count": 2,
+        "slug": "bounce",
+        "value": "Bounce"
+      },
+      {
+        "count": 2,
+        "slug": "burn",
+        "value": "Burn"
+      },
+      {
+        "count": 2,
+        "slug": "exile",
+        "value": "Exile"
+      },
+      {
+        "count": 2,
+        "slug": "extra-turns",
+        "value": "Extra Turns"
+      },
+      {
+        "count": 2,
+        "slug": "flash",
+        "value": "Flash"
+      },
+      {
+        "count": 2,
+        "slug": "group-slug",
+        "value": "Group Slug"
+      },
+      {
+        "count": 2,
+        "slug": "lifedrain",
+        "value": "Lifedrain"
+      },
+      {
+        "count": 2,
+        "slug": "pillow-fort",
+        "value": "Pillow Fort"
+      },
+      {
+        "count": 2,
+        "slug": "planeswalkers",
+        "value": "Planeswalkers"
+      },
+      {
+        "count": 2,
+        "slug": "spell-copy",
+        "value": "Spell Copy"
+      },
+      {
+        "count": 2,
+        "slug": "surveil",
+        "value": "Surveil"
+      },
+      {
+        "count": 2,
+        "slug": "theft",
+        "value": "Theft"
+      },
+      {
+        "count": 2,
+        "slug": "x-spells",
+        "value": "X Spells"
+      },
+      {
+        "count": 1,
+        "slug": "plus-1-plus-1-counters",
+        "value": "+1/+1 Counters"
+      },
+      {
+        "count": 1,
+        "slug": "minus-1-minus-1-counters",
+        "value": "-1/-1 Counters"
+      },
+      {
+        "count": 1,
+        "slug": "adventures",
+        "value": "Adventures"
+      },
+      {
+        "count": 1,
+        "slug": "aggro",
+        "value": "Aggro"
+      },
+      {
+        "count": 1,
+        "slug": "aikido",
+        "value": "Aikido"
+      },
+      {
+        "count": 1,
+        "slug": "all-spells",
+        "value": "All Spells"
+      },
+      {
+        "count": 1,
+        "slug": "arcane",
+        "value": "Arcane"
+      },
+      {
+        "count": 1,
+        "slug": "aristocrats",
+        "value": "Aristocrats"
+      },
+      {
+        "count": 1,
+        "slug": "artifacts",
+        "value": "Artifacts"
+      },
+      {
+        "count": 1,
+        "slug": "clones",
+        "value": "Clones"
+      },
+      {
+        "count": 1,
+        "slug": "counters-matter",
+        "value": "Counters Matter"
+      },
+      {
+        "count": 1,
+        "slug": "creatureless",
+        "value": "Creatureless"
+      },
+      {
+        "count": 1,
+        "slug": "delver",
+        "value": "Delver"
+      },
+      {
+        "count": 1,
+        "slug": "descend",
+        "value": "Descend"
+      },
+      {
+        "count": 1,
+        "slug": "doomsday",
+        "value": "Doomsday"
+      },
+      {
+        "count": 1,
+        "slug": "forced-combat",
+        "value": "Forced Combat"
+      },
+      {
+        "count": 1,
+        "slug": "hand-size",
+        "value": "Hand Size"
+      },
+      {
+        "count": 1,
+        "slug": "historic",
+        "value": "Historic"
+      },
+      {
+        "count": 1,
+        "slug": "lands-matter",
+        "value": "Lands Matter"
+      },
+      {
+        "count": 1,
+        "slug": "looting",
+        "value": "Looting"
+      },
+      {
+        "count": 1,
+        "slug": "persistent-petitioners",
+        "value": "Persistent Petitioners"
+      },
+      {
+        "count": 1,
+        "slug": "rock",
+        "value": "Rock"
+      },
+      {
+        "count": 1,
+        "slug": "rube-goldberg",
+        "value": "Rube Goldberg"
+      },
+      {
+        "count": 1,
+        "slug": "sacrifice",
+        "value": "Sacrifice"
+      },
+      {
+        "count": 1,
+        "slug": "self-damage",
+        "value": "Self-Damage"
+      },
+      {
+        "count": 1,
+        "slug": "self-discard",
+        "value": "Self-Discard"
+      },
+      {
+        "count": 1,
+        "slug": "speed",
+        "value": "Speed"
+      },
+      {
+        "count": 1,
+        "slug": "stax",
+        "value": "Stax"
+      },
+      {
+        "count": 1,
+        "slug": "treasure",
+        "value": "Treasure"
+      },
+      {
+        "count": 1,
+        "slug": "type-hack",
+        "value": "Type Hack"
+      },
+      {
+        "count": 1,
+        "slug": "zombies",
+        "value": "Zombies"
+      }
+    ],
+    "edhrec_name": "Gale, Waterdeep Prodigy // Scion of Halaster"
+  },
+  "Sakashima of a Thousand Faces // Vial Smasher the Fierce": {
+    "name": "Sakashima of a Thousand Faces // Vial Smasher the Fierce",
+    "slug": "sakashima-of-a-thousand-faces-vial-smasher-the-fierce",
+    "num_decks": 2524,
+    "all_time_rank": 983,
+    "salt": 0.9020833333333332,
+    "color_identity": [
+      "U",
+      "B",
+      "R"
+    ],
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Rogue",
+    "is_commander": true,
+    "legal_commander": true,
+    "bracket_counts": {
+      "3": 248,
+      "2": 131,
+      "4": 148,
+      "1": 3,
+      "5": 23
+    },
+    "tag_counts": [
+      {
+        "count": 248,
+        "slug": "clones",
+        "value": "Clones"
+      },
+      {
+        "count": 124,
+        "slug": "burn",
+        "value": "Burn"
+      },
+      {
+        "count": 75,
+        "slug": "chaos",
+        "value": "Chaos"
+      },
+      {
+        "count": 60,
+        "slug": "spellslinger",
+        "value": "Spellslinger"
+      },
+      {
+        "count": 41,
+        "slug": "group-slug",
+        "value": "Group Slug"
+      },
+      {
+        "count": 37,
+        "slug": "control",
+        "value": "Control"
+      },
+      {
+        "count": 33,
+        "slug": "big-mana",
+        "value": "Big Mana"
+      },
+      {
+        "count": 20,
+        "slug": "combo",
+        "value": "Combo"
+      },
+      {
+        "count": 16,
+        "slug": "tokens",
+        "value": "Tokens"
+      },
+      {
+        "count": 14,
+        "slug": "midrange",
+        "value": "Midrange"
+      },
+      {
+        "count": 9,
+        "slug": "extra-turns",
+        "value": "Extra Turns"
+      },
+      {
+        "count": 9,
+        "slug": "wheels",
+        "value": "Wheels"
+      },
+      {
+        "count": 8,
+        "slug": "theft",
+        "value": "Theft"
+      },
+      {
+        "count": 7,
+        "slug": "artifacts",
+        "value": "Artifacts"
+      },
+      {
+        "count": 7,
+        "slug": "commander-matters",
+        "value": "Commander Matters"
+      },
+      {
+        "count": 7,
+        "slug": "good-stuff",
+        "value": "Good Stuff"
+      },
+      {
+        "count": 7,
+        "slug": "x-spells",
+        "value": "X Spells"
+      },
+      {
+        "count": 6,
+        "slug": "legends",
+        "value": "Legends"
+      },
+      {
+        "count": 6,
+        "slug": "spell-copy",
+        "value": "Spell Copy"
+      },
+      {
+        "count": 5,
+        "slug": "coin-flip",
+        "value": "Coin Flip"
+      },
+      {
+        "count": 5,
+        "slug": "shapeshifters",
+        "value": "Shapeshifters"
+      },
+      {
+        "count": 5,
+        "slug": "treasure",
+        "value": "Treasure"
+      },
+      {
+        "count": 4,
+        "slug": "aggro",
+        "value": "Aggro"
+      },
+      {
+        "count": 4,
+        "slug": "counterspells",
+        "value": "Counterspells"
+      },
+      {
+        "count": 4,
+        "slug": "exile",
+        "value": "Exile"
+      },
+      {
+        "count": 4,
+        "slug": "reanimator",
+        "value": "Reanimator"
+      },
+      {
+        "count": 3,
+        "slug": "affinity",
+        "value": "Affinity"
+      },
+      {
+        "count": 3,
+        "slug": "card-draw",
+        "value": "Card Draw"
+      },
+      {
+        "count": 3,
+        "slug": "delver",
+        "value": "Delver"
+      },
+      {
+        "count": 3,
+        "slug": "eldrazi",
+        "value": "Eldrazi"
+      },
+      {
+        "count": 3,
+        "slug": "flash",
+        "value": "Flash"
+      },
+      {
+        "count": 3,
+        "slug": "goblins",
+        "value": "Goblins"
+      },
+      {
+        "count": 3,
+        "slug": "storm",
+        "value": "Storm"
+      },
+      {
+        "count": 3,
+        "slug": "tempo",
+        "value": "Tempo"
+      },
+      {
+        "count": 2,
+        "slug": "activated-abilities",
+        "value": "Activated Abilities"
+      },
+      {
+        "count": 2,
+        "slug": "blink",
+        "value": "Blink"
+      },
+      {
+        "count": 2,
+        "slug": "cantrips",
+        "value": "Cantrips"
+      },
+      {
+        "count": 2,
+        "slug": "historic",
+        "value": "Historic"
+      },
+      {
+        "count": 2,
+        "slug": "lifedrain",
+        "value": "Lifedrain"
+      },
+      {
+        "count": 2,
+        "slug": "lifegain",
+        "value": "Lifegain"
+      },
+      {
+        "count": 2,
+        "slug": "pingers",
+        "value": "Pingers"
+      },
+      {
+        "count": 2,
+        "slug": "sacrifice",
+        "value": "Sacrifice"
+      },
+      {
+        "count": 1,
+        "slug": "plus-1-plus-1-counters",
+        "value": "+1/+1 Counters"
+      },
+      {
+        "count": 1,
+        "slug": "aikido",
+        "value": "Aikido"
+      },
+      {
+        "count": 1,
+        "slug": "cascade",
+        "value": "Cascade"
+      },
+      {
+        "count": 1,
+        "slug": "cats",
+        "value": "Cats"
+      },
+      {
+        "count": 1,
+        "slug": "die-roll",
+        "value": "Die Roll"
+      },
+      {
+        "count": 1,
+        "slug": "donate",
+        "value": "Donate"
+      },
+      {
+        "count": 1,
+        "slug": "glass-cannon",
+        "value": "Glass Cannon"
+      },
+      {
+        "count": 1,
+        "slug": "group-hug",
+        "value": "Group Hug"
+      },
+      {
+        "count": 1,
+        "slug": "hatebears",
+        "value": "Hatebears"
+      },
+      {
+        "count": 1,
+        "slug": "infect",
+        "value": "Infect"
+      },
+      {
+        "count": 1,
+        "slug": "land-destruction",
+        "value": "Land Destruction"
+      },
+      {
+        "count": 1,
+        "slug": "looting",
+        "value": "Looting"
+      },
+      {
+        "count": 1,
+        "slug": "madness",
+        "value": "Madness"
+      },
+      {
+        "count": 1,
+        "slug": "mill",
+        "value": "Mill"
+      },
+      {
+        "count": 1,
+        "slug": "modular",
+        "value": "Modular"
+      },
+      {
+        "count": 1,
+        "slug": "paradigm",
+        "value": "Paradigm"
+      },
+      {
+        "count": 1,
+        "slug": "planeswalkers",
+        "value": "Planeswalkers"
+      },
+      {
+        "count": 1,
+        "slug": "politics",
+        "value": "Politics"
+      },
+      {
+        "count": 1,
+        "slug": "populate",
+        "value": "Populate"
+      },
+      {
+        "count": 1,
+        "slug": "rock",
+        "value": "Rock"
+      },
+      {
+        "count": 1,
+        "slug": "self-damage",
+        "value": "Self-Damage"
+      },
+      {
+        "count": 1,
+        "slug": "self-discard",
+        "value": "Self-Discard"
+      },
+      {
+        "count": 1,
+        "slug": "snow",
+        "value": "Snow"
+      },
+      {
+        "count": 1,
+        "slug": "toolbox",
+        "value": "Toolbox"
+      },
+      {
+        "count": 1,
+        "slug": "topdeck",
+        "value": "Topdeck"
+      },
+      {
+        "count": 1,
+        "slug": "triggered-abilities",
+        "value": "Triggered Abilities"
+      },
+      {
+        "count": 1,
+        "slug": "villains",
+        "value": "Villains"
+      },
+      {
+        "count": 1,
+        "slug": "voltron",
+        "value": "Voltron"
+      }
+    ],
+    "edhrec_name": "Sakashima of a Thousand Faces // Vial Smasher the Fierce"
+  },
+  "Tevesh Szat, Doom of Fools // Thrasios, Triton Hero": {
+    "name": "Tevesh Szat, Doom of Fools // Thrasios, Triton Hero",
+    "slug": "tevesh-szat-doom-of-fools-thrasios-triton-hero",
+    "num_decks": 2508,
+    "all_time_rank": 991,
+    "salt": 0.5728155339805826,
+    "color_identity": [
+      "B",
+      "G",
+      "U"
+    ],
+    "cmc": 5.0,
+    "type_line": "Legendary Planeswalker — Szat",
+    "is_commander": true,
+    "legal_commander": true,
+    "bracket_counts": {
+      "4": 89,
+      "5": 670,
+      "3": 41,
+      "2": 16,
+      "1": 1
+    },
+    "tag_counts": [
+      {
+        "count": 156,
+        "slug": "combo",
+        "value": "Combo"
+      },
+      {
+        "count": 117,
+        "slug": "midrange",
+        "value": "Midrange"
+      },
+      {
+        "count": 113,
+        "slug": "birthing-pod",
+        "value": "Birthing Pod"
+      },
+      {
+        "count": 48,
+        "slug": "control",
+        "value": "Control"
+      },
+      {
+        "count": 35,
+        "slug": "ramp",
+        "value": "Ramp"
+      },
+      {
+        "count": 32,
+        "slug": "good-stuff",
+        "value": "Good Stuff"
+      },
+      {
+        "count": 28,
+        "slug": "ad-nauseam",
+        "value": "Ad Nauseam"
+      },
+      {
+        "count": 25,
+        "slug": "lands-matter",
+        "value": "Lands Matter"
+      },
+      {
+        "count": 22,
+        "slug": "reanimator",
+        "value": "Reanimator"
+      },
+      {
+        "count": 21,
+        "slug": "planeswalkers",
+        "value": "Planeswalkers"
+      },
+      {
+        "count": 18,
+        "slug": "tokens",
+        "value": "Tokens"
+      },
+      {
+        "count": 11,
+        "slug": "aristocrats",
+        "value": "Aristocrats"
+      },
+      {
+        "count": 11,
+        "slug": "artifacts",
+        "value": "Artifacts"
+      },
+      {
+        "count": 11,
+        "slug": "spellslinger",
+        "value": "Spellslinger"
+      },
+      {
+        "count": 11,
+        "slug": "tempo",
+        "value": "Tempo"
+      },
+      {
+        "count": 10,
+        "slug": "clones",
+        "value": "Clones"
+      },
+      {
+        "count": 9,
+        "slug": "toolbox",
+        "value": "Toolbox"
+      },
+      {
+        "count": 8,
+        "slug": "blink",
+        "value": "Blink"
+      },
+      {
+        "count": 8,
+        "slug": "card-draw",
+        "value": "Card Draw"
+      },
+      {
+        "count": 7,
+        "slug": "activated-abilities",
+        "value": "Activated Abilities"
+      },
+      {
+        "count": 7,
+        "slug": "storm",
+        "value": "Storm"
+      },
+      {
+        "count": 6,
+        "slug": "infect",
+        "value": "Infect"
+      },
+      {
+        "count": 5,
+        "slug": "big-mana",
+        "value": "Big Mana"
+      },
+      {
+        "count": 4,
+        "slug": "extra-turns",
+        "value": "Extra Turns"
+      },
+      {
+        "count": 4,
+        "slug": "self-damage",
+        "value": "Self-Damage"
+      },
+      {
+        "count": 4,
+        "slug": "theft",
+        "value": "Theft"
+      },
+      {
+        "count": 4,
+        "slug": "x-spells",
+        "value": "X Spells"
+      },
+      {
+        "count": 3,
+        "slug": "enchantress",
+        "value": "Enchantress"
+      },
+      {
+        "count": 3,
+        "slug": "mill",
+        "value": "Mill"
+      },
+      {
+        "count": 3,
+        "slug": "rock",
+        "value": "Rock"
+      },
+      {
+        "count": 3,
+        "slug": "sacrifice",
+        "value": "Sacrifice"
+      },
+      {
+        "count": 3,
+        "slug": "stax",
+        "value": "Stax"
+      },
+      {
+        "count": 3,
+        "slug": "wheels",
+        "value": "Wheels"
+      },
+      {
+        "count": 2,
+        "slug": "minus-1-minus-1-counters",
+        "value": "-1/-1 Counters"
+      },
+      {
+        "count": 2,
+        "slug": "aggro",
+        "value": "Aggro"
+      },
+      {
+        "count": 2,
+        "slug": "discard",
+        "value": "Discard"
+      },
+      {
+        "count": 2,
+        "slug": "legends",
+        "value": "Legends"
+      },
+      {
+        "count": 2,
+        "slug": "unnatural",
+        "value": "Unnatural"
+      },
+      {
+        "count": 1,
+        "slug": "plus-1-plus-1-counters",
+        "value": "+1/+1 Counters"
+      },
+      {
+        "count": 1,
+        "slug": "aikido",
+        "value": "Aikido"
+      },
+      {
+        "count": 1,
+        "slug": "cantrips",
+        "value": "Cantrips"
+      },
+      {
+        "count": 1,
+        "slug": "clues",
+        "value": "Clues"
+      },
+      {
+        "count": 1,
+        "slug": "counterspells",
+        "value": "Counterspells"
+      },
+      {
+        "count": 1,
+        "slug": "devotion",
+        "value": "Devotion"
+      },
+      {
+        "count": 1,
+        "slug": "dredge",
+        "value": "Dredge"
+      },
+      {
+        "count": 1,
+        "slug": "eggs",
+        "value": "Eggs"
+      },
+      {
+        "count": 1,
+        "slug": "eldrazi",
+        "value": "Eldrazi"
+      },
+      {
+        "count": 1,
+        "slug": "energy",
+        "value": "Energy"
+      },
+      {
+        "count": 1,
+        "slug": "flash",
+        "value": "Flash"
+      },
+      {
+        "count": 1,
+        "slug": "food",
+        "value": "Food"
+      },
+      {
+        "count": 1,
+        "slug": "group-hug",
+        "value": "Group Hug"
+      },
+      {
+        "count": 1,
+        "slug": "historic",
+        "value": "Historic"
+      },
+      {
+        "count": 1,
+        "slug": "landfall",
+        "value": "Landfall"
+      },
+      {
+        "count": 1,
+        "slug": "mana-dorks",
+        "value": "Mana Dorks"
+      },
+      {
+        "count": 1,
+        "slug": "pillow-fort",
+        "value": "Pillow Fort"
+      },
+      {
+        "count": 1,
+        "slug": "proliferate",
+        "value": "Proliferate"
+      },
+      {
+        "count": 1,
+        "slug": "snow",
+        "value": "Snow"
+      },
+      {
+        "count": 1,
+        "slug": "tap-untap",
+        "value": "Tap / Untap"
+      },
+      {
+        "count": 1,
+        "slug": "treasure",
+        "value": "Treasure"
+      },
+      {
+        "count": 1,
+        "slug": "vehicles",
+        "value": "Vehicles"
+      }
+    ],
+    "edhrec_name": "Tevesh Szat, Doom of Fools // Thrasios, Triton Hero"
+  },
+  "Cecily, Haunted Mage // Othelm, Sigardian Outcast": {
+    "name": "Cecily, Haunted Mage // Othelm, Sigardian Outcast",
+    "slug": "cecily-haunted-mage-othelm-sigardian-outcast",
+    "num_decks": 2487,
+    "all_time_rank": 1002,
+    "salt": 0.7333333333333333,
+    "color_identity": [
+      "W",
+      "U",
+      "B",
+      "R",
+      "G"
+    ],
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Wizard",
+    "is_commander": true,
+    "legal_commander": true,
+    "bracket_counts": {
+      "2": 217,
+      "3": 165,
+      "1": 51,
+      "5": 38,
+      "4": 74
+    },
+    "tag_counts": [
+      {
+        "count": 74,
+        "slug": "clues",
+        "value": "Clues"
+      },
+      {
+        "count": 43,
+        "slug": "combo",
+        "value": "Combo"
+      },
+      {
+        "count": 37,
+        "slug": "tokens",
+        "value": "Tokens"
+      },
+      {
+        "count": 35,
+        "slug": "artifacts",
+        "value": "Artifacts"
+      },
+      {
+        "count": 32,
+        "slug": "reanimator",
+        "value": "Reanimator"
+      },
+      {
+        "count": 31,
+        "slug": "legends",
+        "value": "Legends"
+      },
+      {
+        "count": 29,
+        "slug": "birthing-pod",
+        "value": "Birthing Pod"
+      },
+      {
+        "count": 29,
+        "slug": "spellslinger",
+        "value": "Spellslinger"
+      },
+      {
+        "count": 22,
+        "slug": "midrange",
+        "value": "Midrange"
+      },
+      {
+        "count": 19,
+        "slug": "dungeon",
+        "value": "Dungeon"
+      },
+      {
+        "count": 18,
+        "slug": "card-draw",
+        "value": "Card Draw"
+      },
+      {
+        "count": 18,
+        "slug": "control",
+        "value": "Control"
+      },
+      {
+        "count": 17,
+        "slug": "good-stuff",
+        "value": "Good Stuff"
+      },
+      {
+        "count": 14,
+        "slug": "plus-1-plus-1-counters",
+        "value": "+1/+1 Counters"
+      },
+      {
+        "count": 14,
+        "slug": "extra-turns",
+        "value": "Extra Turns"
+      },
+      {
+        "count": 14,
+        "slug": "historic",
+        "value": "Historic"
+      },
+      {
+        "count": 13,
+        "slug": "humans",
+        "value": "Humans"
+      },
+      {
+        "count": 12,
+        "slug": "jegantha-companion",
+        "value": "Jegantha Companion"
+      },
+      {
+        "count": 11,
+        "slug": "wheels",
+        "value": "Wheels"
+      },
+      {
+        "count": 10,
+        "slug": "big-mana",
+        "value": "Big Mana"
+      },
+      {
+        "count": 10,
+        "slug": "sacrifice",
+        "value": "Sacrifice"
+      },
+      {
+        "count": 9,
+        "slug": "lands-matter",
+        "value": "Lands Matter"
+      },
+      {
+        "count": 8,
+        "slug": "blink",
+        "value": "Blink"
+      },
+      {
+        "count": 8,
+        "slug": "chaos",
+        "value": "Chaos"
+      },
+      {
+        "count": 8,
+        "slug": "commander-matters",
+        "value": "Commander Matters"
+      },
+      {
+        "count": 8,
+        "slug": "ramp",
+        "value": "Ramp"
+      },
+      {
+        "count": 7,
+        "slug": "aristocrats",
+        "value": "Aristocrats"
+      },
+      {
+        "count": 7,
+        "slug": "enchantress",
+        "value": "Enchantress"
+      },
+      {
+        "count": 7,
+        "slug": "group-hug",
+        "value": "Group Hug"
+      },
+      {
+        "count": 7,
+        "slug": "populate",
+        "value": "Populate"
+      },
+      {
+        "count": 6,
+        "slug": "attack-triggers",
+        "value": "Attack Triggers"
+      },
+      {
+        "count": 6,
+        "slug": "graveyard",
+        "value": "Graveyard"
+      },
+      {
+        "count": 6,
+        "slug": "toolbox",
+        "value": "Toolbox"
+      },
+      {
+        "count": 6,
+        "slug": "voltron",
+        "value": "Voltron"
+      },
+      {
+        "count": 5,
+        "slug": "attractions",
+        "value": "Attractions"
+      },
+      {
+        "count": 5,
+        "slug": "burn",
+        "value": "Burn"
+      },
+      {
+        "count": 5,
+        "slug": "discard",
+        "value": "Discard"
+      },
+      {
+        "count": 5,
+        "slug": "keruga-companion",
+        "value": "Keruga Companion"
+      },
+      {
+        "count": 5,
+        "slug": "self-mill",
+        "value": "Self-Mill"
+      },
+      {
+        "count": 5,
+        "slug": "tempo",
+        "value": "Tempo"
+      },
+      {
+        "count": 4,
+        "slug": "ad-nauseam",
+        "value": "Ad Nauseam"
+      },
+      {
+        "count": 4,
+        "slug": "dredge",
+        "value": "Dredge"
+      },
+      {
+        "count": 4,
+        "slug": "equipment",
+        "value": "Equipment"
+      },
+      {
+        "count": 4,
+        "slug": "guildgates",
+        "value": "Guildgates"
+      },
+      {
+        "count": 4,
+        "slug": "hand-size",
+        "value": "Hand Size"
+      },
+      {
+        "count": 4,
+        "slug": "hatebears",
+        "value": "Hatebears"
+      },
+      {
+        "count": 4,
+        "slug": "infect",
+        "value": "Infect"
+      },
+      {
+        "count": 4,
+        "slug": "land-destruction",
+        "value": "Land Destruction"
+      },
+      {
+        "count": 4,
+        "slug": "lifegain",
+        "value": "Lifegain"
+      },
+      {
+        "count": 4,
+        "slug": "politics",
+        "value": "Politics"
+      },
+      {
+        "count": 4,
+        "slug": "umori-companion",
+        "value": "Umori Companion"
+      },
+      {
+        "count": 4,
+        "slug": "wizards",
+        "value": "Wizards"
+      },
+      {
+        "count": 3,
+        "slug": "activated-abilities",
+        "value": "Activated Abilities"
+      },
+      {
+        "count": 3,
+        "slug": "aggro",
+        "value": "Aggro"
+      },
+      {
+        "count": 3,
+        "slug": "clones",
+        "value": "Clones"
+      },
+      {
+        "count": 3,
+        "slug": "group-slug",
+        "value": "Group Slug"
+      },
+      {
+        "count": 3,
+        "slug": "morph",
+        "value": "Morph"
+      },
+      {
+        "count": 3,
+        "slug": "multicolor-matters",
+        "value": "Multicolor Matters"
+      },
+      {
+        "count": 3,
+        "slug": "self-damage",
+        "value": "Self-Damage"
+      },
+      {
+        "count": 3,
+        "slug": "storm",
+        "value": "Storm"
+      },
+      {
+        "count": 3,
+        "slug": "the-ring",
+        "value": "The Ring"
+      },
+      {
+        "count": 3,
+        "slug": "treasure",
+        "value": "Treasure"
+      },
+      {
+        "count": 3,
+        "slug": "zombies",
+        "value": "Zombies"
+      },
+      {
+        "count": 2,
+        "slug": "cantrips",
+        "value": "Cantrips"
+      },
+      {
+        "count": 2,
+        "slug": "cascade",
+        "value": "Cascade"
+      },
+      {
+        "count": 2,
+        "slug": "detectives",
+        "value": "Detectives"
+      },
+      {
+        "count": 2,
+        "slug": "extra-combats",
+        "value": "Extra Combats"
+      },
+      {
+        "count": 2,
+        "slug": "flashback",
+        "value": "Flashback"
+      },
+      {
+        "count": 2,
+        "slug": "forced-combat",
+        "value": "Forced Combat"
+      },
+      {
+        "count": 2,
+        "slug": "landfall",
+        "value": "Landfall"
+      },
+      {
+        "count": 2,
+        "slug": "mill",
+        "value": "Mill"
+      },
+      {
+        "count": 2,
+        "slug": "monarch",
+        "value": "Monarch"
+      },
+      {
+        "count": 2,
+        "slug": "polymorph",
+        "value": "Polymorph"
+      },
+      {
+        "count": 2,
+        "slug": "power",
+        "value": "Power"
+      },
+      {
+        "count": 2,
+        "slug": "snow",
+        "value": "Snow"
+      },
+      {
+        "count": 2,
+        "slug": "spirits",
+        "value": "Spirits"
+      },
+      {
+        "count": 2,
+        "slug": "stax",
+        "value": "Stax"
+      },
+      {
+        "count": 2,
+        "slug": "topdeck",
+        "value": "Topdeck"
+      },
+      {
+        "count": 2,
+        "slug": "wraiths",
+        "value": "Wraiths"
+      },
+      {
+        "count": 1,
+        "slug": "adventures",
+        "value": "Adventures"
+      },
+      {
+        "count": 1,
+        "slug": "affinity",
+        "value": "Affinity"
+      },
+      {
+        "count": 1,
+        "slug": "all-spells",
+        "value": "All Spells"
+      },
+      {
+        "count": 1,
+        "slug": "angels",
+        "value": "Angels"
+      },
+      {
+        "count": 1,
+        "slug": "assassins",
+        "value": "Assassins"
+      },
+      {
+        "count": 1,
+        "slug": "auras",
+        "value": "Auras"
+      },
+      {
+        "count": 1,
+        "slug": "banding",
+        "value": "Banding"
+      },
+      {
+        "count": 1,
+        "slug": "cats",
+        "value": "Cats"
+      },
+      {
+        "count": 1,
+        "slug": "counterspells",
+        "value": "Counterspells"
+      },
+      {
+        "count": 1,
+        "slug": "cycling",
+        "value": "Cycling"
+      },
+      {
+        "count": 1,
+        "slug": "devotion",
+        "value": "Devotion"
+      },
+      {
+        "count": 1,
+        "slug": "die-roll",
+        "value": "Die Roll"
+      },
+      {
+        "count": 1,
+        "slug": "dinosaurs",
+        "value": "Dinosaurs"
+      },
+      {
+        "count": 1,
+        "slug": "donate",
+        "value": "Donate"
+      },
+      {
+        "count": 1,
+        "slug": "dragons-approach",
+        "value": "Dragon's Approach"
+      },
+      {
+        "count": 1,
+        "slug": "dragons",
+        "value": "Dragons"
+      },
+      {
+        "count": 1,
+        "slug": "elementals",
+        "value": "Elementals"
+      },
+      {
+        "count": 1,
+        "slug": "energy",
+        "value": "Energy"
+      },
+      {
+        "count": 1,
+        "slug": "evoke",
+        "value": "Evoke"
+      },
+      {
+        "count": 1,
+        "slug": "exile",
+        "value": "Exile"
+      },
+      {
+        "count": 1,
+        "slug": "experience-counters",
+        "value": "Experience Counters"
+      },
+      {
+        "count": 1,
+        "slug": "fight",
+        "value": "Fight"
+      },
+      {
+        "count": 1,
+        "slug": "fling",
+        "value": "Fling"
+      },
+      {
+        "count": 1,
+        "slug": "food",
+        "value": "Food"
+      },
+      {
+        "count": 1,
+        "slug": "keywords",
+        "value": "Keywords"
+      },
+      {
+        "count": 1,
+        "slug": "life-exchange",
+        "value": "Life Exchange"
+      },
+      {
+        "count": 1,
+        "slug": "mana-rocks",
+        "value": "Mana Rocks"
+      },
+      {
+        "count": 1,
+        "slug": "mutate",
+        "value": "Mutate"
+      },
+      {
+        "count": 1,
+        "slug": "old-school",
+        "value": "Old School"
+      },
+      {
+        "count": 1,
+        "slug": "party",
+        "value": "Party"
+      },
+      {
+        "count": 1,
+        "slug": "persistent-petitioners",
+        "value": "Persistent Petitioners"
+      },
+      {
+        "count": 1,
+        "slug": "pingers",
+        "value": "Pingers"
+      },
+      {
+        "count": 1,
+        "slug": "prison",
+        "value": "Prison"
+      },
+      {
+        "count": 1,
+        "slug": "rad-counters",
+        "value": "Rad Counters"
+      },
+      {
+        "count": 1,
+        "slug": "self-destruct",
+        "value": "Self-Destruct"
+      },
+      {
+        "count": 1,
+        "slug": "self-discard",
+        "value": "Self-Discard"
+      },
+      {
+        "count": 1,
+        "slug": "spell-copy",
+        "value": "Spell Copy"
+      },
+      {
+        "count": 1,
+        "slug": "stickers",
+        "value": "Stickers"
+      },
+      {
+        "count": 1,
+        "slug": "theft",
+        "value": "Theft"
+      },
+      {
+        "count": 1,
+        "slug": "time-lords",
+        "value": "Time Lords"
+      },
+      {
+        "count": 1,
+        "slug": "toughness-matters",
+        "value": "Toughness Matters"
+      },
+      {
+        "count": 1,
+        "slug": "tron",
+        "value": "Tron"
+      },
+      {
+        "count": 1,
+        "slug": "unnatural",
+        "value": "Unnatural"
+      },
+      {
+        "count": 1,
+        "slug": "vehicles",
+        "value": "Vehicles"
+      },
+      {
+        "count": 1,
+        "slug": "weenies",
+        "value": "Weenies"
+      },
+      {
+        "count": 1,
+        "slug": "whales",
+        "value": "Whales"
+      }
+    ],
+    "edhrec_name": "Cecily, Haunted Mage // Othelm, Sigardian Outcast"
+  },
+  "Rograkh, Son of Rohgahh // Yoshimaru, Ever Faithful": {
+    "name": "Rograkh, Son of Rohgahh // Yoshimaru, Ever Faithful",
+    "slug": "rograkh-son-of-rohgahh-yoshimaru-ever-faithful",
+    "num_decks": 2481,
+    "all_time_rank": 1003,
+    "salt": 0.6612021857923498,
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "cmc": 0.0,
+    "type_line": "Legendary Creature — Kobold Warrior",
+    "is_commander": true,
+    "legal_commander": true,
+    "bracket_counts": {
+      "2": 168,
+      "4": 96,
+      "3": 210,
+      "5": 32,
+      "1": 20
+    },
+    "tag_counts": [
+      {
+        "count": 210,
+        "slug": "legends",
+        "value": "Legends"
+      },
+      {
+        "count": 164,
+        "slug": "historic",
+        "value": "Historic"
+      },
+      {
+        "count": 108,
+        "slug": "aggro",
+        "value": "Aggro"
+      },
+      {
+        "count": 108,
+        "slug": "equipment",
+        "value": "Equipment"
+      },
+      {
+        "count": 84,
+        "slug": "voltron",
+        "value": "Voltron"
+      },
+      {
+        "count": 81,
+        "slug": "plus-1-plus-1-counters",
+        "value": "+1/+1 Counters"
+      },
+      {
+        "count": 24,
+        "slug": "artifacts",
+        "value": "Artifacts"
+      },
+      {
+        "count": 13,
+        "slug": "combo",
+        "value": "Combo"
+      },
+      {
+        "count": 11,
+        "slug": "commander-matters",
+        "value": "Commander Matters"
+      },
+      {
+        "count": 10,
+        "slug": "modified-creatures",
+        "value": "Modified Creatures"
+      },
+      {
+        "count": 8,
+        "slug": "auras",
+        "value": "Auras"
+      },
+      {
+        "count": 8,
+        "slug": "blink",
+        "value": "Blink"
+      },
+      {
+        "count": 7,
+        "slug": "tokens",
+        "value": "Tokens"
+      },
+      {
+        "count": 6,
+        "slug": "weenies",
+        "value": "Weenies"
+      },
+      {
+        "count": 5,
+        "slug": "tempo",
+        "value": "Tempo"
+      },
+      {
+        "count": 4,
+        "slug": "enchantress",
+        "value": "Enchantress"
+      },
+      {
+        "count": 4,
+        "slug": "midrange",
+        "value": "Midrange"
+      },
+      {
+        "count": 4,
+        "slug": "stax",
+        "value": "Stax"
+      },
+      {
+        "count": 3,
+        "slug": "etb",
+        "value": "ETB"
+      },
+      {
+        "count": 3,
+        "slug": "extra-combats",
+        "value": "Extra Combats"
+      },
+      {
+        "count": 3,
+        "slug": "unnatural",
+        "value": "Unnatural"
+      },
+      {
+        "count": 2,
+        "slug": "good-stuff",
+        "value": "Good Stuff"
+      },
+      {
+        "count": 2,
+        "slug": "hatebears",
+        "value": "Hatebears"
+      },
+      {
+        "count": 2,
+        "slug": "ramp",
+        "value": "Ramp"
+      },
+      {
+        "count": 1,
+        "slug": "aikido",
+        "value": "Aikido"
+      },
+      {
+        "count": 1,
+        "slug": "aristocrats",
+        "value": "Aristocrats"
+      },
+      {
+        "count": 1,
+        "slug": "burn",
+        "value": "Burn"
+      },
+      {
+        "count": 1,
+        "slug": "control",
+        "value": "Control"
+      },
+      {
+        "count": 1,
+        "slug": "discard",
+        "value": "Discard"
+      },
+      {
+        "count": 1,
+        "slug": "eggs",
+        "value": "Eggs"
+      },
+      {
+        "count": 1,
+        "slug": "extra-turns",
+        "value": "Extra Turns"
+      },
+      {
+        "count": 1,
+        "slug": "group-hug",
+        "value": "Group Hug"
+      },
+      {
+        "count": 1,
+        "slug": "humans",
+        "value": "Humans"
+      },
+      {
+        "count": 1,
+        "slug": "keywords",
+        "value": "Keywords"
+      },
+      {
+        "count": 1,
+        "slug": "lifegain",
+        "value": "Lifegain"
+      },
+      {
+        "count": 1,
+        "slug": "planeswalkers",
+        "value": "Planeswalkers"
+      },
+      {
+        "count": 1,
+        "slug": "snow",
+        "value": "Snow"
+      },
+      {
+        "count": 1,
+        "slug": "storm",
+        "value": "Storm"
+      },
+      {
+        "count": 1,
+        "slug": "toolbox",
+        "value": "Toolbox"
+      },
+      {
+        "count": 1,
+        "slug": "tron",
+        "value": "Tron"
+      },
+      {
+        "count": 1,
+        "slug": "turbo",
+        "value": "Turbo"
+      },
+      {
+        "count": 1,
+        "slug": "wheels",
+        "value": "Wheels"
+      },
+      {
+        "count": 1,
+        "slug": "zoo",
+        "value": "Zoo"
+      }
+    ],
+    "edhrec_name": "Rograkh, Son of Rohgahh // Yoshimaru, Ever Faithful"
+  },
+  "Karlach, Fury of Avernus // Sword Coast Sailor": {
+    "name": "Karlach, Fury of Avernus // Sword Coast Sailor",
+    "slug": "karlach-fury-of-avernus-sword-coast-sailor",
+    "num_decks": 1363,
+    "all_time_rank": 1427,
+    "salt": 0.608955223880597,
+    "color_identity": [
+      "U",
+      "R"
+    ],
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Tiefling Barbarian",
+    "is_commander": true,
+    "legal_commander": true,
+    "bracket_counts": {
+      "3": 151,
+      "2": 127,
+      "4": 60,
+      "1": 1,
+      "5": 1
+    },
+    "tag_counts": [
+      {
+        "count": 251,
+        "slug": "extra-combats",
+        "value": "Extra Combats"
+      },
+      {
+        "count": 72,
+        "slug": "voltron",
+        "value": "Voltron"
+      },
+      {
+        "count": 59,
+        "slug": "aggro",
+        "value": "Aggro"
+      },
+      {
+        "count": 47,
+        "slug": "equipment",
+        "value": "Equipment"
+      },
+      {
+        "count": 22,
+        "slug": "treasure",
+        "value": "Treasure"
+      },
+      {
+        "count": 18,
+        "slug": "extra-turns",
+        "value": "Extra Turns"
+      },
+      {
+        "count": 17,
+        "slug": "unblockable",
+        "value": "Unblockable"
+      },
+      {
+        "count": 14,
+        "slug": "attack-triggers",
+        "value": "Attack Triggers"
+      },
+      {
+        "count": 11,
+        "slug": "artifacts",
+        "value": "Artifacts"
+      },
+      {
+        "count": 11,
+        "slug": "commander-matters",
+        "value": "Commander Matters"
+      },
+      {
+        "count": 7,
+        "slug": "spellslinger",
+        "value": "Spellslinger"
+      },
+      {
+        "count": 5,
+        "slug": "burn",
+        "value": "Burn"
+      },
+      {
+        "count": 5,
+        "slug": "forced-combat",
+        "value": "Forced Combat"
+      },
+      {
+        "count": 4,
+        "slug": "combo",
+        "value": "Combo"
+      },
+      {
+        "count": 4,
+        "slug": "group-slug",
+        "value": "Group Slug"
+      },
+      {
+        "count": 4,
+        "slug": "midrange",
+        "value": "Midrange"
+      },
+      {
+        "count": 3,
+        "slug": "card-draw",
+        "value": "Card Draw"
+      },
+      {
+        "count": 3,
+        "slug": "counterspells",
+        "value": "Counterspells"
+      },
+      {
+        "count": 3,
+        "slug": "historic",
+        "value": "Historic"
+      },
+      {
+        "count": 3,
+        "slug": "legends",
+        "value": "Legends"
+      },
+      {
+        "count": 3,
+        "slug": "tokens",
+        "value": "Tokens"
+      },
+      {
+        "count": 2,
+        "slug": "plus-1-plus-1-counters",
+        "value": "+1/+1 Counters"
+      },
+      {
+        "count": 2,
+        "slug": "barbarians",
+        "value": "Barbarians"
+      },
+      {
+        "count": 2,
+        "slug": "cantrips",
+        "value": "Cantrips"
+      },
+      {
+        "count": 2,
+        "slug": "control",
+        "value": "Control"
+      },
+      {
+        "count": 2,
+        "slug": "enchantress",
+        "value": "Enchantress"
+      },
+      {
+        "count": 2,
+        "slug": "good-stuff",
+        "value": "Good Stuff"
+      },
+      {
+        "count": 2,
+        "slug": "modified-creatures",
+        "value": "Modified Creatures"
+      },
+      {
+        "count": 2,
+        "slug": "spell-copy",
+        "value": "Spell Copy"
+      },
+      {
+        "count": 2,
+        "slug": "tempo",
+        "value": "Tempo"
+      },
+      {
+        "count": 1,
+        "slug": "blink",
+        "value": "Blink"
+      },
+      {
+        "count": 1,
+        "slug": "chaos",
+        "value": "Chaos"
+      },
+      {
+        "count": 1,
+        "slug": "clones",
+        "value": "Clones"
+      },
+      {
+        "count": 1,
+        "slug": "coin-flip",
+        "value": "Coin Flip"
+      },
+      {
+        "count": 1,
+        "slug": "crime",
+        "value": "Crime"
+      },
+      {
+        "count": 1,
+        "slug": "energy",
+        "value": "Energy"
+      },
+      {
+        "count": 1,
+        "slug": "exile",
+        "value": "Exile"
+      },
+      {
+        "count": 1,
+        "slug": "flying",
+        "value": "Flying"
+      },
+      {
+        "count": 1,
+        "slug": "hellbent",
+        "value": "Hellbent"
+      },
+      {
+        "count": 1,
+        "slug": "myriad",
+        "value": "Myriad"
+      },
+      {
+        "count": 1,
+        "slug": "outlaws",
+        "value": "Outlaws"
+      },
+      {
+        "count": 1,
+        "slug": "saboteurs",
+        "value": "Saboteurs"
+      },
+      {
+        "count": 1,
+        "slug": "stax",
+        "value": "Stax"
+      },
+      {
+        "count": 1,
+        "slug": "storm",
+        "value": "Storm"
+      },
+      {
+        "count": 1,
+        "slug": "wheels",
+        "value": "Wheels"
+      },
+      {
+        "count": 1,
+        "slug": "zoo",
+        "value": "Zoo"
+      }
+    ],
+    "edhrec_name": "Karlach, Fury of Avernus // Sword Coast Sailor"
+  },
+  "Shadowheart, Dark Justiciar // Haunted One": {
+    "name": "Shadowheart, Dark Justiciar // Haunted One",
+    "slug": "shadowheart-dark-justiciar-haunted-one",
+    "num_decks": 1139,
+    "all_time_rank": 1578,
+    "salt": 0.17647058823529407,
+    "color_identity": [
+      "B"
+    ],
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Elf Cleric",
+    "is_commander": true,
+    "legal_commander": true,
+    "bracket_counts": {
+      "2": 129,
+      "3": 94,
+      "4": 21,
+      "1": 1
+    },
+    "tag_counts": [
+      {
+        "count": 85,
+        "slug": "aristocrats",
+        "value": "Aristocrats"
+      },
+      {
+        "count": 50,
+        "slug": "reanimator",
+        "value": "Reanimator"
+      },
+      {
+        "count": 47,
+        "slug": "clerics",
+        "value": "Clerics"
+      },
+      {
+        "count": 28,
+        "slug": "sacrifice",
+        "value": "Sacrifice"
+      },
+      {
+        "count": 22,
+        "slug": "humans",
+        "value": "Humans"
+      },
+      {
+        "count": 22,
+        "slug": "shadowborn-apostles",
+        "value": "Shadowborn Apostles"
+      },
+      {
+        "count": 15,
+        "slug": "combo",
+        "value": "Combo"
+      },
+      {
+        "count": 14,
+        "slug": "plus-1-plus-1-counters",
+        "value": "+1/+1 Counters"
+      },
+      {
+        "count": 14,
+        "slug": "graveyard",
+        "value": "Graveyard"
+      },
+      {
+        "count": 11,
+        "slug": "lifedrain",
+        "value": "Lifedrain"
+      },
+      {
+        "count": 10,
+        "slug": "card-draw",
+        "value": "Card Draw"
+      },
+      {
+        "count": 10,
+        "slug": "demons",
+        "value": "Demons"
+      },
+      {
+        "count": 9,
+        "slug": "minus-1-minus-1-counters",
+        "value": "-1/-1 Counters"
+      },
+      {
+        "count": 6,
+        "slug": "elves",
+        "value": "Elves"
+      },
+      {
+        "count": 4,
+        "slug": "control",
+        "value": "Control"
+      },
+      {
+        "count": 4,
+        "slug": "lifegain",
+        "value": "Lifegain"
+      },
+      {
+        "count": 3,
+        "slug": "burn",
+        "value": "Burn"
+      },
+      {
+        "count": 3,
+        "slug": "tokens",
+        "value": "Tokens"
+      },
+      {
+        "count": 2,
+        "slug": "aggro",
+        "value": "Aggro"
+      },
+      {
+        "count": 2,
+        "slug": "blink",
+        "value": "Blink"
+      },
+      {
+        "count": 2,
+        "slug": "commander-matters",
+        "value": "Commander Matters"
+      },
+      {
+        "count": 2,
+        "slug": "devotion",
+        "value": "Devotion"
+      },
+      {
+        "count": 2,
+        "slug": "dredge",
+        "value": "Dredge"
+      },
+      {
+        "count": 2,
+        "slug": "etb",
+        "value": "ETB"
+      },
+      {
+        "count": 2,
+        "slug": "flashback",
+        "value": "Flashback"
+      },
+      {
+        "count": 2,
+        "slug": "historic",
+        "value": "Historic"
+      },
+      {
+        "count": 2,
+        "slug": "self-mill",
+        "value": "Self-Mill"
+      },
+      {
+        "count": 2,
+        "slug": "tap-untap",
+        "value": "Tap / Untap"
+      },
+      {
+        "count": 2,
+        "slug": "x-spells",
+        "value": "X Spells"
+      },
+      {
+        "count": 1,
+        "slug": "activated-abilities",
+        "value": "Activated Abilities"
+      },
+      {
+        "count": 1,
+        "slug": "anthems",
+        "value": "Anthems"
+      },
+      {
+        "count": 1,
+        "slug": "counters-matter",
+        "value": "Counters Matter"
+      },
+      {
+        "count": 1,
+        "slug": "discard",
+        "value": "Discard"
+      },
+      {
+        "count": 1,
+        "slug": "good-stuff",
+        "value": "Good Stuff"
+      },
+      {
+        "count": 1,
+        "slug": "hand-size",
+        "value": "Hand Size"
+      },
+      {
+        "count": 1,
+        "slug": "hatebears",
+        "value": "Hatebears"
+      },
+      {
+        "count": 1,
+        "slug": "kithkin",
+        "value": "Kithkin"
+      },
+      {
+        "count": 1,
+        "slug": "legends",
+        "value": "Legends"
+      },
+      {
+        "count": 1,
+        "slug": "midrange",
+        "value": "Midrange"
+      },
+      {
+        "count": 1,
+        "slug": "mill",
+        "value": "Mill"
+      },
+      {
+        "count": 1,
+        "slug": "power-matters",
+        "value": "Power Matters"
+      },
+      {
+        "count": 1,
+        "slug": "ramp",
+        "value": "Ramp"
+      },
+      {
+        "count": 1,
+        "slug": "rube-goldberg",
+        "value": "Rube Goldberg"
+      },
+      {
+        "count": 1,
+        "slug": "stax",
+        "value": "Stax"
+      },
+      {
+        "count": 1,
+        "slug": "toolbox",
+        "value": "Toolbox"
+      }
+    ],
+    "edhrec_name": "Shadowheart, Dark Justiciar // Haunted One"
   }
 }

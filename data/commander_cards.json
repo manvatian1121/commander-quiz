@@ -57757,5 +57757,2011 @@
         "playrate": 0.6027
       }
     ]
+  },
+  "Thrasios, Triton Hero // Tymna the Weaver": {
+    "name": "Thrasios, Triton Hero // Tymna the Weaver",
+    "num_decks": 11442,
+    "synergy_top": [
+      {
+        "name": "Silence",
+        "synergy": 0.653,
+        "num_decks": 9532,
+        "playrate": 0.8331
+      },
+      {
+        "name": "Thassa's Oracle",
+        "synergy": 0.639,
+        "num_decks": 9394,
+        "playrate": 0.821
+      },
+      {
+        "name": "Devoted Druid",
+        "synergy": 0.636,
+        "num_decks": 8616,
+        "playrate": 0.753
+      },
+      {
+        "name": "Flusterstorm",
+        "synergy": 0.634,
+        "num_decks": 9203,
+        "playrate": 0.8043
+      },
+      {
+        "name": "Chrome Mox",
+        "synergy": 0.634,
+        "num_decks": 9399,
+        "playrate": 0.8214
+      },
+      {
+        "name": "Lotus Petal",
+        "synergy": 0.626,
+        "num_decks": 9338,
+        "playrate": 0.8161
+      },
+      {
+        "name": "Force of Will",
+        "synergy": 0.625,
+        "num_decks": 9494,
+        "playrate": 0.8298
+      },
+      {
+        "name": "Mystic Remora",
+        "synergy": 0.616,
+        "num_decks": 10107,
+        "playrate": 0.8833
+      },
+      {
+        "name": "Tainted Pact",
+        "synergy": 0.612,
+        "num_decks": 8792,
+        "playrate": 0.7684
+      },
+      {
+        "name": "Mental Misstep",
+        "synergy": 0.611,
+        "num_decks": 8747,
+        "playrate": 0.7645
+      }
+    ],
+    "popular_top": [
+      {
+        "name": "Birds of Paradise",
+        "num_decks": 10496,
+        "playrate": 0.9173
+      },
+      {
+        "name": "Polluted Delta",
+        "num_decks": 10196,
+        "playrate": 0.8911
+      },
+      {
+        "name": "Misty Rainforest",
+        "num_decks": 10166,
+        "playrate": 0.8885
+      },
+      {
+        "name": "Flooded Strand",
+        "num_decks": 10155,
+        "playrate": 0.8875
+      },
+      {
+        "name": "Rhystic Study",
+        "num_decks": 10109,
+        "playrate": 0.8835
+      },
+      {
+        "name": "Mystic Remora",
+        "num_decks": 10107,
+        "playrate": 0.8833
+      },
+      {
+        "name": "Verdant Catacombs",
+        "num_decks": 10033,
+        "playrate": 0.8769
+      },
+      {
+        "name": "Windswept Heath",
+        "num_decks": 10029,
+        "playrate": 0.8765
+      },
+      {
+        "name": "Demonic Tutor",
+        "num_decks": 10018,
+        "playrate": 0.8755
+      },
+      {
+        "name": "Esper Sentinel",
+        "num_decks": 9912,
+        "playrate": 0.8663
+      }
+    ]
+  },
+  "Okaun, Eye of Chaos // Zndrsplt, Eye of Wisdom": {
+    "name": "Okaun, Eye of Chaos // Zndrsplt, Eye of Wisdom",
+    "num_decks": 10064,
+    "synergy_top": [
+      {
+        "name": "Krark's Thumb",
+        "synergy": 0.914,
+        "num_decks": 9737,
+        "playrate": 0.9675
+      },
+      {
+        "name": "Tavern Scoundrel",
+        "synergy": 0.886,
+        "num_decks": 9584,
+        "playrate": 0.9523
+      },
+      {
+        "name": "Yusri, Fortune's Flame",
+        "synergy": 0.878,
+        "num_decks": 9147,
+        "playrate": 0.9089
+      },
+      {
+        "name": "Stitch in Time",
+        "synergy": 0.86,
+        "num_decks": 9273,
+        "playrate": 0.9214
+      },
+      {
+        "name": "Chance Encounter",
+        "synergy": 0.855,
+        "num_decks": 9014,
+        "playrate": 0.8957
+      },
+      {
+        "name": "Fiery Gambit",
+        "synergy": 0.851,
+        "num_decks": 8957,
+        "playrate": 0.89
+      },
+      {
+        "name": "Squee's Revenge",
+        "synergy": 0.794,
+        "num_decks": 8325,
+        "playrate": 0.8272
+      },
+      {
+        "name": "Krark, the Thumbless",
+        "synergy": 0.774,
+        "num_decks": 8264,
+        "playrate": 0.8211
+      },
+      {
+        "name": "Planar Chaos",
+        "synergy": 0.729,
+        "num_decks": 7634,
+        "playrate": 0.7585
+      },
+      {
+        "name": "Karplusan Minotaur",
+        "synergy": 0.708,
+        "num_decks": 7384,
+        "playrate": 0.7337
+      }
+    ],
+    "popular_top": [
+      {
+        "name": "Krark's Thumb",
+        "num_decks": 9737,
+        "playrate": 0.9675
+      },
+      {
+        "name": "Tavern Scoundrel",
+        "num_decks": 9584,
+        "playrate": 0.9523
+      },
+      {
+        "name": "Stitch in Time",
+        "num_decks": 9273,
+        "playrate": 0.9214
+      },
+      {
+        "name": "Yusri, Fortune's Flame",
+        "num_decks": 9147,
+        "playrate": 0.9089
+      },
+      {
+        "name": "Chance Encounter",
+        "num_decks": 9014,
+        "playrate": 0.8957
+      },
+      {
+        "name": "Fiery Gambit",
+        "num_decks": 8957,
+        "playrate": 0.89
+      },
+      {
+        "name": "Squee's Revenge",
+        "num_decks": 8325,
+        "playrate": 0.8272
+      },
+      {
+        "name": "Krark, the Thumbless",
+        "num_decks": 8264,
+        "playrate": 0.8211
+      },
+      {
+        "name": "Sulfur Falls",
+        "num_decks": 7715,
+        "playrate": 0.7666
+      },
+      {
+        "name": "Planar Chaos",
+        "num_decks": 7634,
+        "playrate": 0.7585
+      }
+    ]
+  },
+  "Rograkh, Son of Rohgahh // Thrasios, Triton Hero": {
+    "name": "Rograkh, Son of Rohgahh // Thrasios, Triton Hero",
+    "num_decks": 9275,
+    "synergy_top": [
+      {
+        "name": "Mox Amber",
+        "synergy": 0.839,
+        "num_decks": 8507,
+        "playrate": 0.9172
+      },
+      {
+        "name": "Springleaf Drum",
+        "synergy": 0.8,
+        "num_decks": 7983,
+        "playrate": 0.8607
+      },
+      {
+        "name": "Chrome Mox",
+        "synergy": 0.791,
+        "num_decks": 8097,
+        "playrate": 0.873
+      },
+      {
+        "name": "Gaea's Cradle",
+        "synergy": 0.786,
+        "num_decks": 7990,
+        "playrate": 0.8615
+      },
+      {
+        "name": "Crop Rotation",
+        "synergy": 0.767,
+        "num_decks": 8170,
+        "playrate": 0.8809
+      },
+      {
+        "name": "Mox Diamond",
+        "synergy": 0.763,
+        "num_decks": 7672,
+        "playrate": 0.8272
+      },
+      {
+        "name": "Cloud of Faeries",
+        "synergy": 0.762,
+        "num_decks": 7646,
+        "playrate": 0.8244
+      },
+      {
+        "name": "Talon Gates of Madara",
+        "synergy": 0.752,
+        "num_decks": 7383,
+        "playrate": 0.796
+      },
+      {
+        "name": "Ancient Tomb",
+        "synergy": 0.75,
+        "num_decks": 7954,
+        "playrate": 0.8576
+      },
+      {
+        "name": "Sowing Mycospawn",
+        "synergy": 0.745,
+        "num_decks": 7226,
+        "playrate": 0.7791
+      }
+    ],
+    "popular_top": [
+      {
+        "name": "Breeding Pool",
+        "num_decks": 8696,
+        "playrate": 0.9376
+      },
+      {
+        "name": "Misty Rainforest",
+        "num_decks": 8563,
+        "playrate": 0.9232
+      },
+      {
+        "name": "Mox Amber",
+        "num_decks": 8507,
+        "playrate": 0.9172
+      },
+      {
+        "name": "Scalding Tarn",
+        "num_decks": 8445,
+        "playrate": 0.9105
+      },
+      {
+        "name": "Wooded Foothills",
+        "num_decks": 8419,
+        "playrate": 0.9077
+      },
+      {
+        "name": "Birds of Paradise",
+        "num_decks": 8341,
+        "playrate": 0.8993
+      },
+      {
+        "name": "Boseiju, Who Endures",
+        "num_decks": 8301,
+        "playrate": 0.895
+      },
+      {
+        "name": "Crop Rotation",
+        "num_decks": 8170,
+        "playrate": 0.8809
+      },
+      {
+        "name": "Otawara, Soaring City",
+        "num_decks": 8161,
+        "playrate": 0.8799
+      },
+      {
+        "name": "Chrome Mox",
+        "num_decks": 8097,
+        "playrate": 0.873
+      }
+    ]
+  },
+  "Ardenn, Intrepid Archaeologist // Rograkh, Son of Rohgahh": {
+    "name": "Ardenn, Intrepid Archaeologist // Rograkh, Son of Rohgahh",
+    "num_decks": 8555,
+    "synergy_top": [
+      {
+        "name": "Colossus Hammer",
+        "synergy": 0.798,
+        "num_decks": 7809,
+        "playrate": 0.9128
+      },
+      {
+        "name": "Puresteel Paladin",
+        "synergy": 0.692,
+        "num_decks": 7363,
+        "playrate": 0.8607
+      },
+      {
+        "name": "Sram, Senior Edificer",
+        "synergy": 0.663,
+        "num_decks": 7208,
+        "playrate": 0.8425
+      },
+      {
+        "name": "Open the Armory",
+        "synergy": 0.624,
+        "num_decks": 6430,
+        "playrate": 0.7516
+      },
+      {
+        "name": "Masterwork of Ingenuity",
+        "synergy": 0.623,
+        "num_decks": 5896,
+        "playrate": 0.6892
+      },
+      {
+        "name": "Steelshaper's Gift",
+        "synergy": 0.559,
+        "num_decks": 5771,
+        "playrate": 0.6746
+      },
+      {
+        "name": "Blackblade Reforged",
+        "synergy": 0.552,
+        "num_decks": 5679,
+        "playrate": 0.6638
+      },
+      {
+        "name": "Akiri, Fearless Voyager",
+        "synergy": 0.548,
+        "num_decks": 5649,
+        "playrate": 0.6603
+      },
+      {
+        "name": "Bloodforged Battle-Axe",
+        "synergy": 0.516,
+        "num_decks": 5069,
+        "playrate": 0.5925
+      },
+      {
+        "name": "Sigarda's Aid",
+        "synergy": 0.511,
+        "num_decks": 5359,
+        "playrate": 0.6264
+      }
+    ],
+    "popular_top": [
+      {
+        "name": "Colossus Hammer",
+        "num_decks": 7809,
+        "playrate": 0.9128
+      },
+      {
+        "name": "Puresteel Paladin",
+        "num_decks": 7363,
+        "playrate": 0.8607
+      },
+      {
+        "name": "Sram, Senior Edificer",
+        "num_decks": 7208,
+        "playrate": 0.8425
+      },
+      {
+        "name": "Open the Armory",
+        "num_decks": 6430,
+        "playrate": 0.7516
+      },
+      {
+        "name": "Masterwork of Ingenuity",
+        "num_decks": 5896,
+        "playrate": 0.6892
+      },
+      {
+        "name": "Steelshaper's Gift",
+        "num_decks": 5771,
+        "playrate": 0.6746
+      },
+      {
+        "name": "Blackblade Reforged",
+        "num_decks": 5679,
+        "playrate": 0.6638
+      },
+      {
+        "name": "Akiri, Fearless Voyager",
+        "num_decks": 5649,
+        "playrate": 0.6603
+      },
+      {
+        "name": "Clifftop Retreat",
+        "num_decks": 5526,
+        "playrate": 0.6459
+      },
+      {
+        "name": "Path to Exile",
+        "num_decks": 5401,
+        "playrate": 0.6313
+      }
+    ]
+  },
+  "Krark, the Thumbless // Sakashima of a Thousand Faces": {
+    "name": "Krark, the Thumbless // Sakashima of a Thousand Faces",
+    "num_decks": 5696,
+    "synergy_top": [
+      {
+        "name": "Tavern Scoundrel",
+        "synergy": 0.822,
+        "num_decks": 5062,
+        "playrate": 0.8887
+      },
+      {
+        "name": "Krark's Thumb",
+        "synergy": 0.759,
+        "num_decks": 4626,
+        "playrate": 0.8121
+      },
+      {
+        "name": "Harmonic Prodigy",
+        "synergy": 0.644,
+        "num_decks": 4692,
+        "playrate": 0.8237
+      },
+      {
+        "name": "Veyran, Voice of Duality",
+        "synergy": 0.599,
+        "num_decks": 4628,
+        "playrate": 0.8125
+      },
+      {
+        "name": "Strike It Rich",
+        "synergy": 0.581,
+        "num_decks": 4057,
+        "playrate": 0.7123
+      },
+      {
+        "name": "Twinflame",
+        "synergy": 0.561,
+        "num_decks": 3455,
+        "playrate": 0.6066
+      },
+      {
+        "name": "Desperate Ritual",
+        "synergy": 0.54,
+        "num_decks": 3637,
+        "playrate": 0.6385
+      },
+      {
+        "name": "Dualcaster Mage",
+        "synergy": 0.523,
+        "num_decks": 3399,
+        "playrate": 0.5967
+      },
+      {
+        "name": "Rite of Flame",
+        "synergy": 0.522,
+        "num_decks": 3559,
+        "playrate": 0.6248
+      },
+      {
+        "name": "Pyretic Ritual",
+        "synergy": 0.515,
+        "num_decks": 3608,
+        "playrate": 0.6334
+      }
+    ],
+    "popular_top": [
+      {
+        "name": "Tavern Scoundrel",
+        "num_decks": 5062,
+        "playrate": 0.8887
+      },
+      {
+        "name": "Storm-Kiln Artist",
+        "num_decks": 4922,
+        "playrate": 0.8641
+      },
+      {
+        "name": "Harmonic Prodigy",
+        "num_decks": 4692,
+        "playrate": 0.8237
+      },
+      {
+        "name": "Veyran, Voice of Duality",
+        "num_decks": 4628,
+        "playrate": 0.8125
+      },
+      {
+        "name": "Krark's Thumb",
+        "num_decks": 4626,
+        "playrate": 0.8121
+      },
+      {
+        "name": "Lightning Bolt",
+        "num_decks": 4364,
+        "playrate": 0.7662
+      },
+      {
+        "name": "Archmage Emeritus",
+        "num_decks": 4280,
+        "playrate": 0.7514
+      },
+      {
+        "name": "Shivan Reef",
+        "num_decks": 4145,
+        "playrate": 0.7277
+      },
+      {
+        "name": "Snap",
+        "num_decks": 4069,
+        "playrate": 0.7144
+      },
+      {
+        "name": "Gitaxian Probe",
+        "num_decks": 4061,
+        "playrate": 0.713
+      }
+    ]
+  },
+  "Owen Grady, Raptor Trainer // Blue, Loyal Raptor": {
+    "name": "Owen Grady, Raptor Trainer // Blue, Loyal Raptor",
+    "num_decks": 5640,
+    "synergy_top": [
+      {
+        "name": "Cresting Mosasaurus",
+        "synergy": 0.86,
+        "num_decks": 4942,
+        "playrate": 0.8762
+      },
+      {
+        "name": "Ghalta, Primal Hunger",
+        "synergy": 0.767,
+        "num_decks": 4650,
+        "playrate": 0.8245
+      },
+      {
+        "name": "Earthshaker Dreadmaw",
+        "synergy": 0.749,
+        "num_decks": 4301,
+        "playrate": 0.7626
+      },
+      {
+        "name": "Hulking Raptor",
+        "synergy": 0.744,
+        "num_decks": 4300,
+        "playrate": 0.7624
+      },
+      {
+        "name": "Etali, Primal Storm",
+        "synergy": 0.737,
+        "num_decks": 4721,
+        "playrate": 0.8371
+      },
+      {
+        "name": "Quartzwood Crasher",
+        "synergy": 0.698,
+        "num_decks": 4052,
+        "playrate": 0.7184
+      },
+      {
+        "name": "Curious Altisaur",
+        "synergy": 0.69,
+        "num_decks": 3962,
+        "playrate": 0.7025
+      },
+      {
+        "name": "Regisaur Alpha",
+        "synergy": 0.666,
+        "num_decks": 3826,
+        "playrate": 0.6784
+      },
+      {
+        "name": "Hunting Velociraptor",
+        "synergy": 0.655,
+        "num_decks": 3761,
+        "playrate": 0.6668
+      },
+      {
+        "name": "Wrathful Raptors",
+        "synergy": 0.643,
+        "num_decks": 3693,
+        "playrate": 0.6548
+      }
+    ],
+    "popular_top": [
+      {
+        "name": "Cresting Mosasaurus",
+        "num_decks": 4942,
+        "playrate": 0.8762
+      },
+      {
+        "name": "Etali, Primal Storm",
+        "num_decks": 4721,
+        "playrate": 0.8371
+      },
+      {
+        "name": "Ghalta, Primal Hunger",
+        "num_decks": 4650,
+        "playrate": 0.8245
+      },
+      {
+        "name": "Earthshaker Dreadmaw",
+        "num_decks": 4301,
+        "playrate": 0.7626
+      },
+      {
+        "name": "Hulking Raptor",
+        "num_decks": 4300,
+        "playrate": 0.7624
+      },
+      {
+        "name": "Quartzwood Crasher",
+        "num_decks": 4052,
+        "playrate": 0.7184
+      },
+      {
+        "name": "Curious Altisaur",
+        "num_decks": 3962,
+        "playrate": 0.7025
+      },
+      {
+        "name": "Garruk's Uprising",
+        "num_decks": 3939,
+        "playrate": 0.6984
+      },
+      {
+        "name": "Regisaur Alpha",
+        "num_decks": 3826,
+        "playrate": 0.6784
+      },
+      {
+        "name": "Hunting Velociraptor",
+        "num_decks": 3761,
+        "playrate": 0.6668
+      }
+    ]
+  },
+  "Thrasios, Triton Hero // Vial Smasher the Fierce": {
+    "name": "Thrasios, Triton Hero // Vial Smasher the Fierce",
+    "num_decks": 4538,
+    "synergy_top": [
+      {
+        "name": "Seedborn Muse",
+        "synergy": 0.379,
+        "num_decks": 2468,
+        "playrate": 0.5439
+      },
+      {
+        "name": "Force of Will",
+        "synergy": 0.352,
+        "num_decks": 2437,
+        "playrate": 0.537
+      },
+      {
+        "name": "Training Grounds",
+        "synergy": 0.335,
+        "num_decks": 2017,
+        "playrate": 0.4445
+      },
+      {
+        "name": "Mystic Remora",
+        "synergy": 0.332,
+        "num_decks": 2572,
+        "playrate": 0.5668
+      },
+      {
+        "name": "Fierce Guardianship",
+        "synergy": 0.331,
+        "num_decks": 2548,
+        "playrate": 0.5615
+      },
+      {
+        "name": "Swan Song",
+        "synergy": 0.33,
+        "num_decks": 2417,
+        "playrate": 0.5326
+      },
+      {
+        "name": "Demonic Tutor",
+        "synergy": 0.327,
+        "num_decks": 2738,
+        "playrate": 0.6033
+      },
+      {
+        "name": "Chrome Mox",
+        "synergy": 0.316,
+        "num_decks": 2229,
+        "playrate": 0.4912
+      },
+      {
+        "name": "Vampiric Tutor",
+        "synergy": 0.313,
+        "num_decks": 2581,
+        "playrate": 0.5688
+      },
+      {
+        "name": "Mox Amber",
+        "synergy": 0.313,
+        "num_decks": 2059,
+        "playrate": 0.4537
+      }
+    ],
+    "popular_top": [
+      {
+        "name": "Birds of Paradise",
+        "num_decks": 3372,
+        "playrate": 0.7431
+      },
+      {
+        "name": "Polluted Delta",
+        "num_decks": 3328,
+        "playrate": 0.7334
+      },
+      {
+        "name": "Misty Rainforest",
+        "num_decks": 3227,
+        "playrate": 0.7111
+      },
+      {
+        "name": "Wooded Foothills",
+        "num_decks": 3217,
+        "playrate": 0.7089
+      },
+      {
+        "name": "Bloodstained Mire",
+        "num_decks": 3188,
+        "playrate": 0.7025
+      },
+      {
+        "name": "Verdant Catacombs",
+        "num_decks": 3162,
+        "playrate": 0.6968
+      },
+      {
+        "name": "Scalding Tarn",
+        "num_decks": 3139,
+        "playrate": 0.6917
+      },
+      {
+        "name": "Rhystic Study",
+        "num_decks": 2760,
+        "playrate": 0.6082
+      },
+      {
+        "name": "Demonic Tutor",
+        "num_decks": 2738,
+        "playrate": 0.6033
+      },
+      {
+        "name": "Watery Grave",
+        "num_decks": 2687,
+        "playrate": 0.5921
+      }
+    ]
+  },
+  "Thrasios, Triton Hero // Yoshimaru, Ever Faithful": {
+    "name": "Thrasios, Triton Hero // Yoshimaru, Ever Faithful",
+    "num_decks": 4490,
+    "synergy_top": [
+      {
+        "name": "Mox Amber",
+        "synergy": 0.831,
+        "num_decks": 3901,
+        "playrate": 0.8688
+      },
+      {
+        "name": "Training Grounds",
+        "synergy": 0.806,
+        "num_decks": 3700,
+        "playrate": 0.8241
+      },
+      {
+        "name": "Finale of Devastation",
+        "synergy": 0.781,
+        "num_decks": 3850,
+        "playrate": 0.8575
+      },
+      {
+        "name": "Silence",
+        "synergy": 0.772,
+        "num_decks": 3719,
+        "playrate": 0.8283
+      },
+      {
+        "name": "Gaea's Cradle",
+        "synergy": 0.771,
+        "num_decks": 3735,
+        "playrate": 0.8318
+      },
+      {
+        "name": "Crop Rotation",
+        "synergy": 0.77,
+        "num_decks": 3717,
+        "playrate": 0.8278
+      },
+      {
+        "name": "Biomancer's Familiar",
+        "synergy": 0.761,
+        "num_decks": 3488,
+        "playrate": 0.7768
+      },
+      {
+        "name": "Flusterstorm",
+        "synergy": 0.756,
+        "num_decks": 3595,
+        "playrate": 0.8007
+      },
+      {
+        "name": "Chord of Calling",
+        "synergy": 0.754,
+        "num_decks": 3651,
+        "playrate": 0.8131
+      },
+      {
+        "name": "Chrome Mox",
+        "synergy": 0.753,
+        "num_decks": 3586,
+        "playrate": 0.7987
+      }
+    ],
+    "popular_top": [
+      {
+        "name": "Breeding Pool",
+        "num_decks": 4151,
+        "playrate": 0.9245
+      },
+      {
+        "name": "Birds of Paradise",
+        "num_decks": 4075,
+        "playrate": 0.9076
+      },
+      {
+        "name": "Windswept Heath",
+        "num_decks": 4035,
+        "playrate": 0.8987
+      },
+      {
+        "name": "Misty Rainforest",
+        "num_decks": 4026,
+        "playrate": 0.8967
+      },
+      {
+        "name": "Flooded Strand",
+        "num_decks": 4022,
+        "playrate": 0.8958
+      },
+      {
+        "name": "Boseiju, Who Endures",
+        "num_decks": 4011,
+        "playrate": 0.8933
+      },
+      {
+        "name": "Otawara, Soaring City",
+        "num_decks": 3901,
+        "playrate": 0.8688
+      },
+      {
+        "name": "Mox Amber",
+        "num_decks": 3901,
+        "playrate": 0.8688
+      },
+      {
+        "name": "Finale of Devastation",
+        "num_decks": 3850,
+        "playrate": 0.8575
+      },
+      {
+        "name": "Noble Hierarch",
+        "num_decks": 3850,
+        "playrate": 0.8575
+      }
+    ]
+  },
+  "Brallin, Skyshark Rider // Shabraz, the Skyshark": {
+    "name": "Brallin, Skyshark Rider // Shabraz, the Skyshark",
+    "num_decks": 3936,
+    "synergy_top": [
+      {
+        "name": "Windfall",
+        "synergy": 0.63,
+        "num_decks": 2805,
+        "playrate": 0.7127
+      },
+      {
+        "name": "Faithless Looting",
+        "synergy": 0.599,
+        "num_decks": 2869,
+        "playrate": 0.7289
+      },
+      {
+        "name": "Glint-Horn Buccaneer",
+        "synergy": 0.556,
+        "num_decks": 2238,
+        "playrate": 0.5686
+      },
+      {
+        "name": "Tolarian Winds",
+        "synergy": 0.554,
+        "num_decks": 2212,
+        "playrate": 0.562
+      },
+      {
+        "name": "Curiosity",
+        "synergy": 0.55,
+        "num_decks": 2316,
+        "playrate": 0.5884
+      },
+      {
+        "name": "Frantic Search",
+        "synergy": 0.508,
+        "num_decks": 2636,
+        "playrate": 0.6697
+      },
+      {
+        "name": "Captain Howler, Sea Scourge",
+        "synergy": 0.504,
+        "num_decks": 1849,
+        "playrate": 0.4698
+      },
+      {
+        "name": "Marauding Mako",
+        "synergy": 0.475,
+        "num_decks": 1751,
+        "playrate": 0.4449
+      },
+      {
+        "name": "Rielle, the Everwise",
+        "synergy": 0.471,
+        "num_decks": 1915,
+        "playrate": 0.4865
+      },
+      {
+        "name": "Magus of the Wheel",
+        "synergy": 0.457,
+        "num_decks": 1828,
+        "playrate": 0.4644
+      }
+    ],
+    "popular_top": [
+      {
+        "name": "Faithless Looting",
+        "num_decks": 2869,
+        "playrate": 0.7289
+      },
+      {
+        "name": "Windfall",
+        "num_decks": 2805,
+        "playrate": 0.7127
+      },
+      {
+        "name": "Frantic Search",
+        "num_decks": 2636,
+        "playrate": 0.6697
+      },
+      {
+        "name": "Curiosity",
+        "num_decks": 2316,
+        "playrate": 0.5884
+      },
+      {
+        "name": "Glint-Horn Buccaneer",
+        "num_decks": 2238,
+        "playrate": 0.5686
+      },
+      {
+        "name": "Tolarian Winds",
+        "num_decks": 2212,
+        "playrate": 0.562
+      },
+      {
+        "name": "Mystic Monastery",
+        "num_decks": 2201,
+        "playrate": 0.5592
+      },
+      {
+        "name": "Path to Exile",
+        "num_decks": 1920,
+        "playrate": 0.4878
+      },
+      {
+        "name": "Rielle, the Everwise",
+        "num_decks": 1915,
+        "playrate": 0.4865
+      },
+      {
+        "name": "Talisman of Creativity",
+        "num_decks": 1893,
+        "playrate": 0.4809
+      }
+    ]
+  },
+  "Pir, Imaginative Rascal // Toothy, Imaginary Friend": {
+    "name": "Pir, Imaginative Rascal // Toothy, Imaginary Friend",
+    "num_decks": 3088,
+    "synergy_top": [
+      {
+        "name": "Hardened Scales",
+        "synergy": 0.547,
+        "num_decks": 2250,
+        "playrate": 0.7286
+      },
+      {
+        "name": "Forgotten Ancient",
+        "synergy": 0.5,
+        "num_decks": 1874,
+        "playrate": 0.6069
+      },
+      {
+        "name": "Brainstorm",
+        "synergy": 0.494,
+        "num_decks": 1980,
+        "playrate": 0.6412
+      },
+      {
+        "name": "Simic Ascendancy",
+        "synergy": 0.446,
+        "num_decks": 1795,
+        "playrate": 0.5813
+      },
+      {
+        "name": "Essence Flux",
+        "synergy": 0.442,
+        "num_decks": 1456,
+        "playrate": 0.4715
+      },
+      {
+        "name": "Laboratory Maniac",
+        "synergy": 0.43,
+        "num_decks": 1529,
+        "playrate": 0.4951
+      },
+      {
+        "name": "The Ozolith",
+        "synergy": 0.424,
+        "num_decks": 1528,
+        "playrate": 0.4948
+      },
+      {
+        "name": "Wizard Class",
+        "synergy": 0.42,
+        "num_decks": 1469,
+        "playrate": 0.4757
+      },
+      {
+        "name": "Chasm Skulker",
+        "synergy": 0.419,
+        "num_decks": 1478,
+        "playrate": 0.4786
+      },
+      {
+        "name": "Kami of Whispered Hopes",
+        "synergy": 0.409,
+        "num_decks": 1562,
+        "playrate": 0.5058
+      }
+    ],
+    "popular_top": [
+      {
+        "name": "Hardened Scales",
+        "num_decks": 2250,
+        "playrate": 0.7286
+      },
+      {
+        "name": "Hinterland Harbor",
+        "num_decks": 2075,
+        "playrate": 0.672
+      },
+      {
+        "name": "Brainstorm",
+        "num_decks": 1980,
+        "playrate": 0.6412
+      },
+      {
+        "name": "Breeding Pool",
+        "num_decks": 1875,
+        "playrate": 0.6072
+      },
+      {
+        "name": "Forgotten Ancient",
+        "num_decks": 1874,
+        "playrate": 0.6069
+      },
+      {
+        "name": "Simic Ascendancy",
+        "num_decks": 1795,
+        "playrate": 0.5813
+      },
+      {
+        "name": "Yavimaya Coast",
+        "num_decks": 1758,
+        "playrate": 0.5693
+      },
+      {
+        "name": "Rejuvenating Springs",
+        "num_decks": 1686,
+        "playrate": 0.546
+      },
+      {
+        "name": "Herald of Secret Streams",
+        "num_decks": 1602,
+        "playrate": 0.5188
+      },
+      {
+        "name": "Dreamroot Cascade",
+        "num_decks": 1577,
+        "playrate": 0.5107
+      }
+    ]
+  },
+  "Gale, Waterdeep Prodigy // Scion of Halaster": {
+    "name": "Gale, Waterdeep Prodigy // Scion of Halaster",
+    "num_decks": 2915,
+    "synergy_top": [
+      {
+        "name": "Consider",
+        "synergy": 0.562,
+        "num_decks": 2011,
+        "playrate": 0.6899
+      },
+      {
+        "name": "Thought Scour",
+        "synergy": 0.556,
+        "num_decks": 1808,
+        "playrate": 0.6202
+      },
+      {
+        "name": "Frantic Search",
+        "synergy": 0.535,
+        "num_decks": 2139,
+        "playrate": 0.7338
+      },
+      {
+        "name": "See the Truth",
+        "synergy": 0.53,
+        "num_decks": 1574,
+        "playrate": 0.54
+      },
+      {
+        "name": "Archmage Emeritus",
+        "synergy": 0.521,
+        "num_decks": 1645,
+        "playrate": 0.5643
+      },
+      {
+        "name": "Baral, Chief of Compliance",
+        "synergy": 0.498,
+        "num_decks": 1512,
+        "playrate": 0.5187
+      },
+      {
+        "name": "Wizards of Thay",
+        "synergy": 0.467,
+        "num_decks": 1383,
+        "playrate": 0.4744
+      },
+      {
+        "name": "Secrets of the Dead",
+        "synergy": 0.452,
+        "num_decks": 1383,
+        "playrate": 0.4744
+      },
+      {
+        "name": "Ponder",
+        "synergy": 0.445,
+        "num_decks": 1772,
+        "playrate": 0.6079
+      },
+      {
+        "name": "Gitaxian Probe",
+        "synergy": 0.444,
+        "num_decks": 1435,
+        "playrate": 0.4923
+      }
+    ],
+    "popular_top": [
+      {
+        "name": "Frantic Search",
+        "num_decks": 2139,
+        "playrate": 0.7338
+      },
+      {
+        "name": "Consider",
+        "num_decks": 2011,
+        "playrate": 0.6899
+      },
+      {
+        "name": "Sunken Hollow",
+        "num_decks": 1860,
+        "playrate": 0.6381
+      },
+      {
+        "name": "Thought Scour",
+        "num_decks": 1808,
+        "playrate": 0.6202
+      },
+      {
+        "name": "Dark Ritual",
+        "num_decks": 1800,
+        "playrate": 0.6175
+      },
+      {
+        "name": "Ponder",
+        "num_decks": 1772,
+        "playrate": 0.6079
+      },
+      {
+        "name": "Brainstorm",
+        "num_decks": 1772,
+        "playrate": 0.6079
+      },
+      {
+        "name": "Talisman of Dominance",
+        "num_decks": 1738,
+        "playrate": 0.5962
+      },
+      {
+        "name": "Feed the Swarm",
+        "num_decks": 1666,
+        "playrate": 0.5715
+      },
+      {
+        "name": "Drowned Catacomb",
+        "num_decks": 1658,
+        "playrate": 0.5688
+      }
+    ]
+  },
+  "Sakashima of a Thousand Faces // Vial Smasher the Fierce": {
+    "name": "Sakashima of a Thousand Faces // Vial Smasher the Fierce",
+    "num_decks": 2524,
+    "synergy_top": [
+      {
+        "name": "Phyrexian Metamorph",
+        "synergy": 0.566,
+        "num_decks": 1553,
+        "playrate": 0.6153
+      },
+      {
+        "name": "Dig Through Time",
+        "synergy": 0.541,
+        "num_decks": 1461,
+        "playrate": 0.5788
+      },
+      {
+        "name": "Clever Impersonator",
+        "synergy": 0.541,
+        "num_decks": 1426,
+        "playrate": 0.565
+      },
+      {
+        "name": "Spark Double",
+        "synergy": 0.535,
+        "num_decks": 1580,
+        "playrate": 0.626
+      },
+      {
+        "name": "Treasure Cruise",
+        "synergy": 0.524,
+        "num_decks": 1395,
+        "playrate": 0.5527
+      },
+      {
+        "name": "Glasspool Mimic",
+        "synergy": 0.495,
+        "num_decks": 1299,
+        "playrate": 0.5147
+      },
+      {
+        "name": "Stunt Double",
+        "synergy": 0.493,
+        "num_decks": 1271,
+        "playrate": 0.5036
+      },
+      {
+        "name": "Phantasmal Image",
+        "synergy": 0.447,
+        "num_decks": 1193,
+        "playrate": 0.4727
+      },
+      {
+        "name": "Cackling Counterpart",
+        "synergy": 0.433,
+        "num_decks": 1117,
+        "playrate": 0.4426
+      },
+      {
+        "name": "Rite of Replication",
+        "synergy": 0.427,
+        "num_decks": 1172,
+        "playrate": 0.4643
+      }
+    ],
+    "popular_top": [
+      {
+        "name": "Blasphemous Act",
+        "num_decks": 1749,
+        "playrate": 0.6929
+      },
+      {
+        "name": "Steam Vents",
+        "num_decks": 1665,
+        "playrate": 0.6597
+      },
+      {
+        "name": "Watery Grave",
+        "num_decks": 1665,
+        "playrate": 0.6597
+      },
+      {
+        "name": "Blood Crypt",
+        "num_decks": 1594,
+        "playrate": 0.6315
+      },
+      {
+        "name": "Spark Double",
+        "num_decks": 1580,
+        "playrate": 0.626
+      },
+      {
+        "name": "Talisman of Creativity",
+        "num_decks": 1564,
+        "playrate": 0.6197
+      },
+      {
+        "name": "Talisman of Dominance",
+        "num_decks": 1557,
+        "playrate": 0.6169
+      },
+      {
+        "name": "Phyrexian Metamorph",
+        "num_decks": 1553,
+        "playrate": 0.6153
+      },
+      {
+        "name": "Dig Through Time",
+        "num_decks": 1461,
+        "playrate": 0.5788
+      },
+      {
+        "name": "Clever Impersonator",
+        "num_decks": 1426,
+        "playrate": 0.565
+      }
+    ]
+  },
+  "Tevesh Szat, Doom of Fools // Thrasios, Triton Hero": {
+    "name": "Tevesh Szat, Doom of Fools // Thrasios, Triton Hero",
+    "num_decks": 2508,
+    "synergy_top": [
+      {
+        "name": "Chrome Mox",
+        "synergy": 0.695,
+        "num_decks": 1887,
+        "playrate": 0.7524
+      },
+      {
+        "name": "Mana Vault",
+        "synergy": 0.691,
+        "num_decks": 1863,
+        "playrate": 0.7428
+      },
+      {
+        "name": "Dark Ritual",
+        "synergy": 0.685,
+        "num_decks": 2075,
+        "playrate": 0.8274
+      },
+      {
+        "name": "Force of Will",
+        "synergy": 0.677,
+        "num_decks": 1889,
+        "playrate": 0.7532
+      },
+      {
+        "name": "Lotus Petal",
+        "synergy": 0.674,
+        "num_decks": 1895,
+        "playrate": 0.7556
+      },
+      {
+        "name": "Flusterstorm",
+        "synergy": 0.673,
+        "num_decks": 1828,
+        "playrate": 0.7289
+      },
+      {
+        "name": "Mystic Remora",
+        "synergy": 0.673,
+        "num_decks": 2066,
+        "playrate": 0.8238
+      },
+      {
+        "name": "Vampiric Tutor",
+        "synergy": 0.66,
+        "num_decks": 1954,
+        "playrate": 0.7791
+      },
+      {
+        "name": "Mental Misstep",
+        "synergy": 0.66,
+        "num_decks": 1767,
+        "playrate": 0.7045
+      },
+      {
+        "name": "Orcish Bowmasters",
+        "synergy": 0.658,
+        "num_decks": 1777,
+        "playrate": 0.7085
+      }
+    ],
+    "popular_top": [
+      {
+        "name": "Birds of Paradise",
+        "num_decks": 2196,
+        "playrate": 0.8756
+      },
+      {
+        "name": "Breeding Pool",
+        "num_decks": 2195,
+        "playrate": 0.8752
+      },
+      {
+        "name": "Polluted Delta",
+        "num_decks": 2148,
+        "playrate": 0.8565
+      },
+      {
+        "name": "Misty Rainforest",
+        "num_decks": 2141,
+        "playrate": 0.8537
+      },
+      {
+        "name": "Verdant Catacombs",
+        "num_decks": 2131,
+        "playrate": 0.8497
+      },
+      {
+        "name": "Dark Ritual",
+        "num_decks": 2075,
+        "playrate": 0.8274
+      },
+      {
+        "name": "Mystic Remora",
+        "num_decks": 2066,
+        "playrate": 0.8238
+      },
+      {
+        "name": "Watery Grave",
+        "num_decks": 2066,
+        "playrate": 0.8238
+      },
+      {
+        "name": "Rhystic Study",
+        "num_decks": 2024,
+        "playrate": 0.807
+      },
+      {
+        "name": "Demonic Tutor",
+        "num_decks": 2018,
+        "playrate": 0.8046
+      }
+    ]
+  },
+  "Cecily, Haunted Mage // Othelm, Sigardian Outcast": {
+    "name": "Cecily, Haunted Mage // Othelm, Sigardian Outcast",
+    "num_decks": 2487,
+    "synergy_top": [
+      {
+        "name": "Elmar, Ulvenwald Informant",
+        "synergy": 0.331,
+        "num_decks": 828,
+        "playrate": 0.3329
+      },
+      {
+        "name": "Wernog, Rider's Chaplain",
+        "synergy": 0.326,
+        "num_decks": 816,
+        "playrate": 0.3281
+      },
+      {
+        "name": "Sophina, Spearsage Deserter",
+        "synergy": 0.32,
+        "num_decks": 801,
+        "playrate": 0.3221
+      },
+      {
+        "name": "Hargilde, Kindly Runechanter",
+        "synergy": 0.289,
+        "num_decks": 723,
+        "playrate": 0.2907
+      },
+      {
+        "name": "Bjorna, Nightfall Alchemist",
+        "synergy": 0.286,
+        "num_decks": 715,
+        "playrate": 0.2875
+      },
+      {
+        "name": "Ruinous Ultimatum",
+        "synergy": 0.274,
+        "num_decks": 849,
+        "playrate": 0.3414
+      },
+      {
+        "name": "Havengul Laboratory",
+        "synergy": 0.255,
+        "num_decks": 638,
+        "playrate": 0.2565
+      },
+      {
+        "name": "Academy Manufactor",
+        "synergy": 0.232,
+        "num_decks": 607,
+        "playrate": 0.2441
+      },
+      {
+        "name": "Tamiyo's Journal",
+        "synergy": 0.229,
+        "num_decks": 577,
+        "playrate": 0.232
+      },
+      {
+        "name": "Tireless Tracker",
+        "synergy": 0.213,
+        "num_decks": 554,
+        "playrate": 0.2228
+      }
+    ],
+    "popular_top": [
+      {
+        "name": "Ruinous Ultimatum",
+        "num_decks": 849,
+        "playrate": 0.3414
+      },
+      {
+        "name": "Elmar, Ulvenwald Informant",
+        "num_decks": 828,
+        "playrate": 0.3329
+      },
+      {
+        "name": "Wernog, Rider's Chaplain",
+        "num_decks": 816,
+        "playrate": 0.3281
+      },
+      {
+        "name": "Sophina, Spearsage Deserter",
+        "num_decks": 801,
+        "playrate": 0.3221
+      },
+      {
+        "name": "Breeding Pool",
+        "num_decks": 775,
+        "playrate": 0.3116
+      },
+      {
+        "name": "Birds of Paradise",
+        "num_decks": 755,
+        "playrate": 0.3036
+      },
+      {
+        "name": "Temple Garden",
+        "num_decks": 745,
+        "playrate": 0.2996
+      },
+      {
+        "name": "Watery Grave",
+        "num_decks": 744,
+        "playrate": 0.2992
+      },
+      {
+        "name": "Misty Rainforest",
+        "num_decks": 731,
+        "playrate": 0.2939
+      },
+      {
+        "name": "Hallowed Fountain",
+        "num_decks": 729,
+        "playrate": 0.2931
+      }
+    ]
+  },
+  "Rograkh, Son of Rohgahh // Yoshimaru, Ever Faithful": {
+    "name": "Rograkh, Son of Rohgahh // Yoshimaru, Ever Faithful",
+    "num_decks": 2481,
+    "synergy_top": [
+      {
+        "name": "Norin the Wary",
+        "synergy": 0.68,
+        "num_decks": 1721,
+        "playrate": 0.6937
+      },
+      {
+        "name": "Mines of Moria",
+        "synergy": 0.649,
+        "num_decks": 1756,
+        "playrate": 0.7078
+      },
+      {
+        "name": "Flowering of the White Tree",
+        "synergy": 0.647,
+        "num_decks": 1732,
+        "playrate": 0.6981
+      },
+      {
+        "name": "Keleth, Sunmane Familiar",
+        "synergy": 0.639,
+        "num_decks": 1634,
+        "playrate": 0.6586
+      },
+      {
+        "name": "Kediss, Emberclaw Familiar",
+        "synergy": 0.599,
+        "num_decks": 1645,
+        "playrate": 0.663
+      },
+      {
+        "name": "Minas Tirith",
+        "synergy": 0.595,
+        "num_decks": 1795,
+        "playrate": 0.7235
+      },
+      {
+        "name": "Urza's Ruinous Blast",
+        "synergy": 0.59,
+        "num_decks": 1509,
+        "playrate": 0.6082
+      },
+      {
+        "name": "Sokenzan, Crucible of Defiance",
+        "synergy": 0.586,
+        "num_decks": 1676,
+        "playrate": 0.6755
+      },
+      {
+        "name": "Eiganjo, Seat of the Empire",
+        "synergy": 0.575,
+        "num_decks": 1725,
+        "playrate": 0.6953
+      },
+      {
+        "name": "Kari Zev, Skyship Raider",
+        "synergy": 0.556,
+        "num_decks": 1407,
+        "playrate": 0.5671
+      }
+    ],
+    "popular_top": [
+      {
+        "name": "Minas Tirith",
+        "num_decks": 1795,
+        "playrate": 0.7235
+      },
+      {
+        "name": "Mines of Moria",
+        "num_decks": 1756,
+        "playrate": 0.7078
+      },
+      {
+        "name": "Flowering of the White Tree",
+        "num_decks": 1732,
+        "playrate": 0.6981
+      },
+      {
+        "name": "Eiganjo, Seat of the Empire",
+        "num_decks": 1725,
+        "playrate": 0.6953
+      },
+      {
+        "name": "Norin the Wary",
+        "num_decks": 1721,
+        "playrate": 0.6937
+      },
+      {
+        "name": "Path to Exile",
+        "num_decks": 1681,
+        "playrate": 0.6775
+      },
+      {
+        "name": "Sokenzan, Crucible of Defiance",
+        "num_decks": 1676,
+        "playrate": 0.6755
+      },
+      {
+        "name": "Kediss, Emberclaw Familiar",
+        "num_decks": 1645,
+        "playrate": 0.663
+      },
+      {
+        "name": "Keleth, Sunmane Familiar",
+        "num_decks": 1634,
+        "playrate": 0.6586
+      },
+      {
+        "name": "Urza's Ruinous Blast",
+        "num_decks": 1509,
+        "playrate": 0.6082
+      }
+    ]
+  },
+  "Karlach, Fury of Avernus // Sword Coast Sailor": {
+    "name": "Karlach, Fury of Avernus // Sword Coast Sailor",
+    "num_decks": 1363,
+    "synergy_top": [
+      {
+        "name": "Kediss, Emberclaw Familiar",
+        "synergy": 0.67,
+        "num_decks": 947,
+        "playrate": 0.6948
+      },
+      {
+        "name": "Two-Handed Axe",
+        "synergy": 0.645,
+        "num_decks": 892,
+        "playrate": 0.6544
+      },
+      {
+        "name": "Combat Celebrant",
+        "synergy": 0.634,
+        "num_decks": 879,
+        "playrate": 0.6449
+      },
+      {
+        "name": "Combat Research",
+        "synergy": 0.593,
+        "num_decks": 830,
+        "playrate": 0.609
+      },
+      {
+        "name": "Professional Face-Breaker",
+        "synergy": 0.578,
+        "num_decks": 857,
+        "playrate": 0.6288
+      },
+      {
+        "name": "Lizard Blades",
+        "synergy": 0.564,
+        "num_decks": 784,
+        "playrate": 0.5752
+      },
+      {
+        "name": "Rising of the Day",
+        "synergy": 0.526,
+        "num_decks": 730,
+        "playrate": 0.5356
+      },
+      {
+        "name": "Port Razer",
+        "synergy": 0.508,
+        "num_decks": 719,
+        "playrate": 0.5275
+      },
+      {
+        "name": "Moraug, Fury of Akoum",
+        "synergy": 0.508,
+        "num_decks": 698,
+        "playrate": 0.5121
+      },
+      {
+        "name": "Neheb, the Eternal",
+        "synergy": 0.505,
+        "num_decks": 703,
+        "playrate": 0.5158
+      }
+    ],
+    "popular_top": [
+      {
+        "name": "Sulfur Falls",
+        "num_decks": 1013,
+        "playrate": 0.7432
+      },
+      {
+        "name": "Kediss, Emberclaw Familiar",
+        "num_decks": 947,
+        "playrate": 0.6948
+      },
+      {
+        "name": "Two-Handed Axe",
+        "num_decks": 892,
+        "playrate": 0.6544
+      },
+      {
+        "name": "Combat Celebrant",
+        "num_decks": 879,
+        "playrate": 0.6449
+      },
+      {
+        "name": "Shivan Reef",
+        "num_decks": 862,
+        "playrate": 0.6324
+      },
+      {
+        "name": "Professional Face-Breaker",
+        "num_decks": 857,
+        "playrate": 0.6288
+      },
+      {
+        "name": "Izzet Signet",
+        "num_decks": 853,
+        "playrate": 0.6258
+      },
+      {
+        "name": "Talisman of Creativity",
+        "num_decks": 834,
+        "playrate": 0.6119
+      },
+      {
+        "name": "Combat Research",
+        "num_decks": 830,
+        "playrate": 0.609
+      },
+      {
+        "name": "Blasphemous Act",
+        "num_decks": 793,
+        "playrate": 0.5818
+      }
+    ]
+  },
+  "Shadowheart, Dark Justiciar // Haunted One": {
+    "name": "Shadowheart, Dark Justiciar // Haunted One",
+    "num_decks": 1139,
+    "synergy_top": [
+      {
+        "name": "Taborax, Hope's Demise",
+        "synergy": 0.696,
+        "num_decks": 806,
+        "playrate": 0.7076
+      },
+      {
+        "name": "Shadow-Rite Priest",
+        "synergy": 0.612,
+        "num_decks": 706,
+        "playrate": 0.6198
+      },
+      {
+        "name": "Priest of Forgotten Gods",
+        "synergy": 0.572,
+        "num_decks": 750,
+        "playrate": 0.6585
+      },
+      {
+        "name": "Doomed Necromancer",
+        "synergy": 0.571,
+        "num_decks": 673,
+        "playrate": 0.5909
+      },
+      {
+        "name": "Twilight Diviner",
+        "synergy": 0.512,
+        "num_decks": 419,
+        "playrate": 0.3679
+      },
+      {
+        "name": "Priest of Gix",
+        "synergy": 0.504,
+        "num_decks": 598,
+        "playrate": 0.525
+      },
+      {
+        "name": "Retribution of the Ancients",
+        "synergy": 0.483,
+        "num_decks": 563,
+        "playrate": 0.4943
+      },
+      {
+        "name": "Black Market",
+        "synergy": 0.462,
+        "num_decks": 757,
+        "playrate": 0.6646
+      },
+      {
+        "name": "Skemfar Shadowsage",
+        "synergy": 0.461,
+        "num_decks": 530,
+        "playrate": 0.4653
+      },
+      {
+        "name": "Fain, the Broker",
+        "synergy": 0.457,
+        "num_decks": 532,
+        "playrate": 0.4671
+      }
+    ],
+    "popular_top": [
+      {
+        "name": "Victimize",
+        "num_decks": 823,
+        "playrate": 0.7226
+      },
+      {
+        "name": "Taborax, Hope's Demise",
+        "num_decks": 806,
+        "playrate": 0.7076
+      },
+      {
+        "name": "Ayara, First of Locthwain",
+        "num_decks": 806,
+        "playrate": 0.7076
+      },
+      {
+        "name": "Zulaport Cutthroat",
+        "num_decks": 759,
+        "playrate": 0.6664
+      },
+      {
+        "name": "Black Market",
+        "num_decks": 757,
+        "playrate": 0.6646
+      },
+      {
+        "name": "Jet Medallion",
+        "num_decks": 751,
+        "playrate": 0.6594
+      },
+      {
+        "name": "Dark Ritual",
+        "num_decks": 751,
+        "playrate": 0.6594
+      },
+      {
+        "name": "Priest of Forgotten Gods",
+        "num_decks": 750,
+        "playrate": 0.6585
+      },
+      {
+        "name": "Shadow-Rite Priest",
+        "num_decks": 706,
+        "playrate": 0.6198
+      },
+      {
+        "name": "Feed the Swarm",
+        "num_decks": 685,
+        "playrate": 0.6014
+      }
+    ]
   }
 }

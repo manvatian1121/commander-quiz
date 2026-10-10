@@ -17,7 +17,7 @@ SCRIPT_DIR = pathlib.Path(__file__).resolve().parent
 
 sys.stdout.reconfigure(encoding="utf-8")
 DATA = pathlib.Path(ROOT / "data")
-TARGETS = [f"descriptions_{i}.json" for i in range(4, 17)]
+TARGETS = [f"descriptions_{i}.json" for i in range(4, 19)]
 FIELDS = ("intro", "build")
 CJK = re.compile(r"[\u4e00-\u9fff]")
 

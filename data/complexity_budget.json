@@ -8634,5 +8634,294 @@
     "budget_reason": "单价$0.00 基准1.0 B2 -0.5",
     "bracket_mode": 2,
     "usd": null
+  },
+  "Thrasios, Triton Hero // Tymna the Weaver": {
+    "name": "Thrasios, Triton Hero // Tymna the Weaver",
+    "text_level": 3.419,
+    "text_detail": {
+      "raw_len": 445,
+      "body_len": 343,
+      "removed": 102,
+      "triggers": 1,
+      "activated": 1,
+      "choices": 1,
+      "keywords": 3
+    },
+    "budget_raw": 2.0,
+    "budget_reason": "单价$0.00 基准1.0 B5 +1.0",
+    "bracket_mode": 5,
+    "usd": "0.0"
+  },
+  "Okaun, Eye of Chaos // Zndrsplt, Eye of Wisdom": {
+    "name": "Okaun, Eye of Chaos // Zndrsplt, Eye of Wisdom",
+    "text_level": 4.035,
+    "text_detail": {
+      "raw_len": 580,
+      "body_len": 365,
+      "removed": 215,
+      "triggers": 4,
+      "activated": 0,
+      "choices": 0,
+      "keywords": 3
+    },
+    "budget_raw": 3.0,
+    "budget_reason": "单价$6.95 基准3.0 B3 +0.0",
+    "bracket_mode": 3,
+    "usd": "6.95"
+  },
+  "Rograkh, Son of Rohgahh // Thrasios, Triton Hero": {
+    "name": "Rograkh, Son of Rohgahh // Thrasios, Triton Hero",
+    "text_level": 2.178,
+    "text_detail": {
+      "raw_len": 288,
+      "body_len": 186,
+      "removed": 102,
+      "triggers": 0,
+      "activated": 1,
+      "choices": 0,
+      "keywords": 5
+    },
+    "budget_raw": 3.0,
+    "budget_reason": "单价$2.12 基准2.0 B5 +1.0",
+    "bracket_mode": 5,
+    "usd": "2.12"
+  },
+  "Ardenn, Intrepid Archaeologist // Rograkh, Son of Rohgahh": {
+    "name": "Ardenn, Intrepid Archaeologist // Rograkh, Son of Rohgahh",
+    "text_level": 2.372,
+    "text_detail": {
+      "raw_len": 285,
+      "body_len": 183,
+      "removed": 102,
+      "triggers": 1,
+      "activated": 0,
+      "choices": 1,
+      "keywords": 4
+    },
+    "budget_raw": 3.0,
+    "budget_reason": "单价$5.27 基准3.0 B3 +0.0",
+    "bracket_mode": 3,
+    "usd": "5.27"
+  },
+  "Krark, the Thumbless // Sakashima of a Thousand Faces": {
+    "name": "Krark, the Thumbless // Sakashima of a Thousand Faces",
+    "text_level": 3.755,
+    "text_detail": {
+      "raw_len": 500,
+      "body_len": 398,
+      "removed": 102,
+      "triggers": 1,
+      "activated": 0,
+      "choices": 3,
+      "keywords": 1
+    },
+    "budget_raw": 5.0,
+    "budget_reason": "单价$34.10 基准5.0 B5 +1.0",
+    "bracket_mode": 5,
+    "usd": "34.1"
+  },
+  "Owen Grady, Raptor Trainer // Blue, Loyal Raptor": {
+    "name": "Owen Grady, Raptor Trainer // Blue, Loyal Raptor",
+    "text_level": 2.808,
+    "text_detail": {
+      "raw_len": 417,
+      "body_len": 312,
+      "removed": 105,
+      "triggers": 0,
+      "activated": 1,
+      "choices": 0,
+      "keywords": 2
+    },
+    "budget_raw": 3.5,
+    "budget_reason": "单价$13.09 基准4.0 B2 -0.5",
+    "bracket_mode": 2,
+    "usd": "13.09"
+  },
+  "Thrasios, Triton Hero // Vial Smasher the Fierce": {
+    "name": "Thrasios, Triton Hero // Vial Smasher the Fierce",
+    "text_level": 3.434,
+    "text_detail": {
+      "raw_len": 448,
+      "body_len": 346,
+      "removed": 102,
+      "triggers": 1,
+      "activated": 1,
+      "choices": 1,
+      "keywords": 2
+    },
+    "budget_raw": 4.0,
+    "budget_reason": "单价$3.21 基准3.0 B5 +1.0",
+    "bracket_mode": 5,
+    "usd": "3.21"
+  },
+  "Thrasios, Triton Hero // Yoshimaru, Ever Faithful": {
+    "name": "Thrasios, Triton Hero // Yoshimaru, Ever Faithful",
+    "text_level": 2.785,
+    "text_detail": {
+      "raw_len": 349,
+      "body_len": 247,
+      "removed": 102,
+      "triggers": 1,
+      "activated": 1,
+      "choices": 0,
+      "keywords": 2
+    },
+    "budget_raw": 5.0,
+    "budget_reason": "单价$8.64 基准4.0 B5 +1.0",
+    "bracket_mode": 5,
+    "usd": "8.64"
+  },
+  "Brallin, Skyshark Rider // Shabraz, the Skyshark": {
+    "name": "Brallin, Skyshark Rider // Shabraz, the Skyshark",
+    "text_level": 3.915,
+    "text_detail": {
+      "raw_len": 471,
+      "body_len": 363,
+      "removed": 108,
+      "triggers": 2,
+      "activated": 2,
+      "choices": 0,
+      "keywords": 3
+    },
+    "budget_raw": 4.0,
+    "budget_reason": "单价$14.15 基准4.0 B3 +0.0",
+    "bracket_mode": 3,
+    "usd": "14.15"
+  },
+  "Pir, Imaginative Rascal // Toothy, Imaginary Friend": {
+    "name": "Pir, Imaginative Rascal // Toothy, Imaginary Friend",
+    "text_level": 3.48,
+    "text_detail": {
+      "raw_len": 586,
+      "body_len": 375,
+      "removed": 211,
+      "triggers": 2,
+      "activated": 0,
+      "choices": 0,
+      "keywords": 2
+    },
+    "budget_raw": 4.0,
+    "budget_reason": "单价$15.86 基准4.0 B3 +0.0",
+    "bracket_mode": 3,
+    "usd": "15.86"
+  },
+  "Gale, Waterdeep Prodigy // Scion of Halaster": {
+    "name": "Gale, Waterdeep Prodigy // Scion of Halaster",
+    "text_level": 3.892,
+    "text_detail": {
+      "raw_len": 537,
+      "body_len": 487,
+      "removed": 50,
+      "triggers": 1,
+      "activated": 0,
+      "choices": 1,
+      "keywords": 1
+    },
+    "budget_raw": 1.0,
+    "budget_reason": "单价$0.70 基准1.0 B3 +0.0",
+    "bracket_mode": 3,
+    "usd": "0.7"
+  },
+  "Sakashima of a Thousand Faces // Vial Smasher the Fierce": {
+    "name": "Sakashima of a Thousand Faces // Vial Smasher the Fierce",
+    "text_level": 3.531,
+    "text_detail": {
+      "raw_len": 486,
+      "body_len": 384,
+      "removed": 102,
+      "triggers": 1,
+      "activated": 0,
+      "choices": 2,
+      "keywords": 1
+    },
+    "budget_raw": 5.0,
+    "budget_reason": "单价$35.73 基准5.0 B3 +0.0",
+    "bracket_mode": 3,
+    "usd": "35.73"
+  },
+  "Tevesh Szat, Doom of Fools // Thrasios, Triton Hero": {
+    "name": "Tevesh Szat, Doom of Fools // Thrasios, Triton Hero",
+    "text_level": 4.022,
+    "text_detail": {
+      "raw_len": 575,
+      "body_len": 524,
+      "removed": 51,
+      "triggers": 0,
+      "activated": 1,
+      "choices": 1,
+      "keywords": 2
+    },
+    "budget_raw": 4.0,
+    "budget_reason": "单价$6.70 基准3.0 B5 +1.0",
+    "bracket_mode": 5,
+    "usd": "6.7"
+  },
+  "Cecily, Haunted Mage // Othelm, Sigardian Outcast": {
+    "name": "Cecily, Haunted Mage // Othelm, Sigardian Outcast",
+    "text_level": 3.924,
+    "text_detail": {
+      "raw_len": 556,
+      "body_len": 444,
+      "removed": 112,
+      "triggers": 1,
+      "activated": 1,
+      "choices": 1,
+      "keywords": 1
+    },
+    "budget_raw": 1.0,
+    "budget_reason": "单价$0.81 基准1.0 B2 -0.5",
+    "bracket_mode": 2,
+    "usd": "0.81"
+  },
+  "Rograkh, Son of Rohgahh // Yoshimaru, Ever Faithful": {
+    "name": "Rograkh, Son of Rohgahh // Yoshimaru, Ever Faithful",
+    "text_level": 2.008,
+    "text_detail": {
+      "raw_len": 243,
+      "body_len": 141,
+      "removed": 102,
+      "triggers": 1,
+      "activated": 0,
+      "choices": 0,
+      "keywords": 4
+    },
+    "budget_raw": 4.0,
+    "budget_reason": "单价$10.76 基准4.0 B3 +0.0",
+    "bracket_mode": 3,
+    "usd": "10.76"
+  },
+  "Karlach, Fury of Avernus // Sword Coast Sailor": {
+    "name": "Karlach, Fury of Avernus // Sword Coast Sailor",
+    "text_level": 3.51,
+    "text_detail": {
+      "raw_len": 431,
+      "body_len": 381,
+      "removed": 50,
+      "triggers": 2,
+      "activated": 0,
+      "choices": 0,
+      "keywords": 1
+    },
+    "budget_raw": 5.0,
+    "budget_reason": "单价$20.42 基准5.0 B3 +0.0",
+    "bracket_mode": 3,
+    "usd": "20.42"
+  },
+  "Shadowheart, Dark Justiciar // Haunted One": {
+    "name": "Shadowheart, Dark Justiciar // Haunted One",
+    "text_level": 3.09,
+    "text_detail": {
+      "raw_len": 512,
+      "body_len": 308,
+      "removed": 204,
+      "triggers": 1,
+      "activated": 1,
+      "choices": 0,
+      "keywords": 1
+    },
+    "budget_raw": 1.5,
+    "budget_reason": "单价$1.39 基准2.0 B2 -0.5",
+    "bracket_mode": 2,
+    "usd": "1.39"
   }
 }

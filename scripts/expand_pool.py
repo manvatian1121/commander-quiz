@@ -168,8 +168,17 @@ DIACRITICS = str.maketrans({
 
 
 def slugify(name: str) -> str:
-    """EDHREC 的 slug 规则：小写、重音字母转写成 ASCII、非字母数字转连字符。"""
-    base = name.split(" // ")[0]
+    """EDHREC 的 slug 规则：小写、重音字母转写成 ASCII、非字母数字转连字符。
+
+    注意「A // B」有歧义：
+      - 双面牌（一张牌两个面）的 slug 只用正面，如 Esika -> esika-god-of-the-tree
+      - 拍档 / 身世组合（两张牌）的 slug 是两半拼起来，
+        如 "Thrasios, Triton Hero // Tymna the Weaver"
+           -> thrasios-triton-hero-tymna-the-weaver
+    这里按「两半拼起来」推导（组合是我们要找的），双面牌走 existing 里存的
+    正确 slug（expand_pool 优先用存档 slug，只有新条目才走这里）。
+    """
+    base = name.replace(" // ", "-")
     base = base.translate(DIACRITICS)
     base = base.replace("'", "").replace("\u2019", "").replace(",", "")
     base = base.replace(" ", "-").lower()

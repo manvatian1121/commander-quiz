@@ -60,7 +60,7 @@ EXPECT = [
 
 def fix_ramp() -> None:
     total = 0
-    for index in range(1, 17):
+    for index in range(1, 19):
         path = DATA / f"descriptions_{index}.json"
         if not path.exists():
             continue

@@ -71,7 +71,7 @@ def main() -> int:
         commander_full.setdefault(key.split(" // ")[0], card.get("name") or key)
 
     merged: dict[str, dict] = {}
-    for index in range(1, 17):
+    for index in range(1, 21):
         path = DATA / f"descriptions_{index}.json"
         if path.exists():
             merged.update(json.loads(path.read_text(encoding="utf-8")))

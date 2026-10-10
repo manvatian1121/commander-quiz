@@ -78,7 +78,7 @@ def main() -> None:
 
     # 增量模式：只给还没有介绍文的主将出素材（用于扩池后补写）
     existing: set[str] = set()
-    for index in range(1, 17):
+    for index in range(1, 21):
         path = DATA / f"descriptions_{index}.json"
         if path.exists():
             existing |= set(json.loads(path.read_text(encoding="utf-8")))

@@ -11298,5 +11298,558 @@
     "commander_legal": "legal",
     "is_legendary_creature": true,
     "can_be_commander": null
+  },
+  "Ardenn, Intrepid Archaeologist": {
+    "name": "Ardenn, Intrepid Archaeologist",
+    "mana_cost": "{2}{W}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Kor Scout",
+    "oracle_text": "At the beginning of combat on your turn, you may attach any number of Auras and Equipment you control to target permanent or player.\nPartner (You can have two commanders if both have partner.)",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Partner"
+    ],
+    "set": "cmr",
+    "set_name": "Commander Legends",
+    "released_at": "2020-11-20",
+    "edhrec_rank": 1693,
+    "usd": "3.15",
+    "commander_legal": "legal",
+    "is_legendary_creature": true,
+    "can_be_commander": null
+  },
+  "Sakashima of a Thousand Faces // Sakashima of a Thousand Faces": {
+    "name": "Sakashima of a Thousand Faces // Sakashima of a Thousand Faces",
+    "mana_cost": "{3}{U} // {3}{U}",
+    "cmc": null,
+    "type_line": null,
+    "oracle_text": "You may have Sakashima enter as a copy of another creature you control, except it has Sakashima's other abilities.\nThe \"legend rule\" doesn't apply to permanents you control.\nPartner (You can have two commanders if both have partner.)\n//\nYou may have Sakashima enter as a copy of another creature you control, except it has Sakashima's other abilities.\nThe \"legend rule\" doesn't apply to permanents you control.\nPartner (You can have two commanders if both have partner.)",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Partner"
+    ],
+    "set": "sld",
+    "set_name": "Secret Lair Drop",
+    "released_at": "2024-02-05",
+    "edhrec_rank": 1072,
+    "usd": "39.39",
+    "commander_legal": "legal",
+    "is_legendary_creature": false,
+    "can_be_commander": null
+  },
+  "Owen Grady, Raptor Trainer": {
+    "name": "Owen Grady, Raptor Trainer",
+    "mana_cost": "{1}{R}{G}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Soldier Scientist",
+    "oracle_text": "Partner with Blue, Loyal Raptor\n{T}: Put your choice of a reach, menace, trample, or haste counter on target Dinosaur. Activate only as a sorcery.",
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "keywords": [
+      "Partner with",
+      "Partner"
+    ],
+    "set": "rex",
+    "set_name": "Jurassic World Collection",
+    "released_at": "2023-11-17",
+    "edhrec_rank": 12233,
+    "usd": "6.85",
+    "commander_legal": "legal",
+    "is_legendary_creature": true,
+    "can_be_commander": null
+  },
+  "Brallin, Skyshark Rider": {
+    "name": "Brallin, Skyshark Rider",
+    "mana_cost": "{3}{R}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Shaman",
+    "oracle_text": "Partner with Shabraz, the Skyshark (When this creature enters, target player may put Shabraz into their hand from their library, then shuffle.)\nWhenever you discard a card, put a +1/+1 counter on Brallin and it deals 1 damage to each opponent.\n{R}: Target Shark gains trample until end of turn.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Partner with",
+      "Partner"
+    ],
+    "set": "c20",
+    "set_name": "Commander 2020",
+    "released_at": "2020-04-17",
+    "edhrec_rank": 4660,
+    "usd": "9.30",
+    "commander_legal": "legal",
+    "is_legendary_creature": true,
+    "can_be_commander": null
+  },
+  "Gale, Waterdeep Prodigy": {
+    "name": "Gale, Waterdeep Prodigy",
+    "mana_cost": "{2}{U}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Wizard",
+    "oracle_text": "Whenever you cast an instant or sorcery spell from your hand, you may cast up to one target card of the other type from your graveyard. If a spell cast from your graveyard this way would be put into your graveyard, exile it instead.\nChoose a Background (You can have a Background as a second commander.)",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Choose a background"
+    ],
+    "set": "clb",
+    "set_name": "Commander Legends: Battle for Baldur's Gate",
+    "released_at": "2022-06-10",
+    "edhrec_rank": 5027,
+    "usd": "0.46",
+    "commander_legal": "legal",
+    "is_legendary_creature": true,
+    "can_be_commander": null
+  },
+  "Shadowheart, Dark Justiciar": {
+    "name": "Shadowheart, Dark Justiciar",
+    "mana_cost": "{3}{B}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Elf Cleric",
+    "oracle_text": "{1}{B}, {T}, Sacrifice another creature: Draw X cards, where X is that creature's power.\nChoose a Background (You can have a Background as a second commander.)",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Choose a background"
+    ],
+    "set": "clb",
+    "set_name": "Commander Legends: Battle for Baldur's Gate",
+    "released_at": "2022-06-10",
+    "edhrec_rank": 3480,
+    "usd": "1.39",
+    "commander_legal": "legal",
+    "is_legendary_creature": true,
+    "can_be_commander": null
+  },
+  "Thrasios, Triton Hero // Tymna the Weaver": {
+    "name": "Thrasios, Triton Hero // Tymna the Weaver",
+    "mana_cost": "{G}{U} // {1}{W}{B}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Merfolk Wizard // Legendary Creature — Human Cleric",
+    "oracle_text": "{4}: Scry 1, then reveal the top card of your library. If it's a land card, put it onto the battlefield tapped. Otherwise, draw a card.\nPartner (You can have two commanders if both have partner.)\n//\nLifelink\nAt the beginning of each of your postcombat main phases, you may pay X life, where X is the number of opponents that were dealt combat damage this turn. If you do, draw X cards.\nPartner (You can have two commanders if both have partner.)",
+    "color_identity": [
+      "W",
+      "U",
+      "B",
+      "G"
+    ],
+    "keywords": [
+      "Lifelink",
+      "Partner",
+      "Scry"
+    ],
+    "set": "c16",
+    "set_name": "Commander 2016 / Commander 2016",
+    "released_at": "2016-11-11",
+    "edhrec_rank": 2543,
+    "usd": "0.0",
+    "commander_legal": "legal",
+    "is_legendary_creature": true,
+    "can_be_commander": true,
+    "is_partner_pair": true
+  },
+  "Okaun, Eye of Chaos // Zndrsplt, Eye of Wisdom": {
+    "name": "Okaun, Eye of Chaos // Zndrsplt, Eye of Wisdom",
+    "mana_cost": "{4}{R} // {4}{U}",
+    "cmc": 10.0,
+    "type_line": "Legendary Creature — Cyclops Berserker // Legendary Creature — Homunculus",
+    "oracle_text": "Partner with Zndrsplt, Eye of Wisdom (When this creature enters, target player may put Zndrsplt into their hand from their library, then shuffle.)\nAt the beginning of combat on your turn, flip a coin until you lose a flip.\nWhenever a player wins a coin flip, double Okaun's power and toughness until end of turn.\n//\nPartner with Okaun, Eye of Chaos (When this creature enters, target player may put Okaun into their hand from their library, then shuffle.)\nAt the beginning of combat on your turn, flip a coin until you lose a flip.\nWhenever a player wins a coin flip, draw a card.",
+    "color_identity": [
+      "U",
+      "R"
+    ],
+    "keywords": [
+      "Double",
+      "Partner",
+      "Partner with"
+    ],
+    "set": "bbd",
+    "set_name": "Battlebond / Battlebond",
+    "released_at": "2018-06-08",
+    "edhrec_rank": 7058,
+    "usd": "6.95",
+    "commander_legal": "legal",
+    "is_legendary_creature": true,
+    "can_be_commander": true,
+    "is_partner_pair": true
+  },
+  "Rograkh, Son of Rohgahh // Thrasios, Triton Hero": {
+    "name": "Rograkh, Son of Rohgahh // Thrasios, Triton Hero",
+    "mana_cost": "{0} // {G}{U}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Kobold Warrior // Legendary Creature — Merfolk Wizard",
+    "oracle_text": "First strike, menace, trample\nPartner (You can have two commanders if both have partner.)\n//\n{4}: Scry 1, then reveal the top card of your library. If it's a land card, put it onto the battlefield tapped. Otherwise, draw a card.\nPartner (You can have two commanders if both have partner.)",
+    "color_identity": [
+      "U",
+      "R",
+      "G"
+    ],
+    "keywords": [
+      "First strike",
+      "Menace",
+      "Partner",
+      "Scry",
+      "Trample"
+    ],
+    "set": "cmr",
+    "set_name": "Commander Legends / Commander 2016",
+    "released_at": "2020-11-20",
+    "edhrec_rank": 2365,
+    "usd": "2.12",
+    "commander_legal": "legal",
+    "is_legendary_creature": true,
+    "can_be_commander": true,
+    "is_partner_pair": true
+  },
+  "Ardenn, Intrepid Archaeologist // Rograkh, Son of Rohgahh": {
+    "name": "Ardenn, Intrepid Archaeologist // Rograkh, Son of Rohgahh",
+    "mana_cost": "{2}{W} // {0}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Kor Scout // Legendary Creature — Kobold Warrior",
+    "oracle_text": "At the beginning of combat on your turn, you may attach any number of Auras and Equipment you control to target permanent or player.\nPartner (You can have two commanders if both have partner.)\n//\nFirst strike, menace, trample\nPartner (You can have two commanders if both have partner.)",
+    "color_identity": [
+      "W",
+      "R"
+    ],
+    "keywords": [
+      "First strike",
+      "Menace",
+      "Partner",
+      "Trample"
+    ],
+    "set": "cmr",
+    "set_name": "Commander Legends / Commander Legends",
+    "released_at": "2020-11-20",
+    "edhrec_rank": 1693,
+    "usd": "5.27",
+    "commander_legal": "legal",
+    "is_legendary_creature": true,
+    "can_be_commander": true,
+    "is_partner_pair": true
+  },
+  "Krark, the Thumbless // Sakashima of a Thousand Faces": {
+    "name": "Krark, the Thumbless // Sakashima of a Thousand Faces",
+    "mana_cost": "{1}{R} // {3}{U}",
+    "cmc": 6.0,
+    "type_line": "Legendary Creature — Goblin Wizard // Legendary Creature — Human Rogue",
+    "oracle_text": "Whenever you cast an instant or sorcery spell, flip a coin. If you lose the flip, return that spell to its owner's hand. If you win the flip, copy that spell, and you may choose new targets for the copy.\nPartner (You can have two commanders if both have partner.)\n//\nYou may have Sakashima enter as a copy of another creature you control, except it has Sakashima's other abilities.\nThe \"legend rule\" doesn't apply to permanents you control.\nPartner (You can have two commanders if both have partner.)",
+    "color_identity": [
+      "U",
+      "R"
+    ],
+    "keywords": [
+      "Partner"
+    ],
+    "set": "cmr",
+    "set_name": "Commander Legends / Commander Legends",
+    "released_at": "2020-11-20",
+    "edhrec_rank": 1072,
+    "usd": "34.1",
+    "commander_legal": "legal",
+    "is_legendary_creature": true,
+    "can_be_commander": true,
+    "is_partner_pair": true
+  },
+  "Owen Grady, Raptor Trainer // Blue, Loyal Raptor": {
+    "name": "Owen Grady, Raptor Trainer // Blue, Loyal Raptor",
+    "mana_cost": "{1}{R}{G} // {2}{G}{U}",
+    "cmc": 7.0,
+    "type_line": "Legendary Creature — Human Soldier Scientist // Legendary Creature — Dinosaur",
+    "oracle_text": "Partner with Blue, Loyal Raptor\n{T}: Put your choice of a reach, menace, trample, or haste counter on target Dinosaur. Activate only as a sorcery.\n//\nPartner with Owen Grady, Raptor Trainer (When this creature enters, target player may put Owen into their hand from their library, then shuffle.)\nFor each kind of counter on Blue, Loyal Raptor, each other Dinosaur you control enters with a counter of that kind on it.",
+    "color_identity": [
+      "U",
+      "R",
+      "G"
+    ],
+    "keywords": [
+      "Partner",
+      "Partner with"
+    ],
+    "set": "rex",
+    "set_name": "Jurassic World Collection / Jurassic World Collection",
+    "released_at": "2023-11-17",
+    "edhrec_rank": 12220,
+    "usd": "13.09",
+    "commander_legal": "legal",
+    "is_legendary_creature": true,
+    "can_be_commander": true,
+    "is_partner_pair": true
+  },
+  "Thrasios, Triton Hero // Vial Smasher the Fierce": {
+    "name": "Thrasios, Triton Hero // Vial Smasher the Fierce",
+    "mana_cost": "{G}{U} // {1}{B}{R}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Merfolk Wizard // Legendary Creature — Goblin Berserker",
+    "oracle_text": "{4}: Scry 1, then reveal the top card of your library. If it's a land card, put it onto the battlefield tapped. Otherwise, draw a card.\nPartner (You can have two commanders if both have partner.)\n//\nWhenever you cast your first spell each turn, choose an opponent at random. Vial Smasher deals damage equal to that spell's mana value to that player or a planeswalker that player controls.\nPartner (You can have two commanders if both have partner.)",
+    "color_identity": [
+      "U",
+      "B",
+      "R",
+      "G"
+    ],
+    "keywords": [
+      "Partner",
+      "Scry"
+    ],
+    "set": "c16",
+    "set_name": "Commander 2016 / Duskmourn: House of Horror Commander",
+    "released_at": "2024-09-27",
+    "edhrec_rank": 2543,
+    "usd": "3.21",
+    "commander_legal": "legal",
+    "is_legendary_creature": true,
+    "can_be_commander": true,
+    "is_partner_pair": true
+  },
+  "Thrasios, Triton Hero // Yoshimaru, Ever Faithful": {
+    "name": "Thrasios, Triton Hero // Yoshimaru, Ever Faithful",
+    "mana_cost": "{G}{U} // {W}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Merfolk Wizard // Legendary Creature — Dog",
+    "oracle_text": "{4}: Scry 1, then reveal the top card of your library. If it's a land card, put it onto the battlefield tapped. Otherwise, draw a card.\nPartner (You can have two commanders if both have partner.)\n//\nWhenever another legendary permanent you control enters, put a +1/+1 counter on Yoshimaru.\nPartner (You can have two commanders if both have partner.)",
+    "color_identity": [
+      "W",
+      "U",
+      "G"
+    ],
+    "keywords": [
+      "Partner",
+      "Scry"
+    ],
+    "set": "c16",
+    "set_name": "Commander 2016 / Neon Dynasty Commander",
+    "released_at": "2022-02-18",
+    "edhrec_rank": 2543,
+    "usd": "8.64",
+    "commander_legal": "legal",
+    "is_legendary_creature": true,
+    "can_be_commander": true,
+    "is_partner_pair": true
+  },
+  "Brallin, Skyshark Rider // Shabraz, the Skyshark": {
+    "name": "Brallin, Skyshark Rider // Shabraz, the Skyshark",
+    "mana_cost": "{3}{R} // {3}{W}{U}",
+    "cmc": 9.0,
+    "type_line": "Legendary Creature — Human Shaman // Legendary Creature — Shark Bird",
+    "oracle_text": "Partner with Shabraz, the Skyshark (When this creature enters, target player may put Shabraz into their hand from their library, then shuffle.)\nWhenever you discard a card, put a +1/+1 counter on Brallin and it deals 1 damage to each opponent.\n{R}: Target Shark gains trample until end of turn.\n//\nPartner with Brallin, Skyshark Rider\nFlying\nWhenever you draw a card, put a +1/+1 counter on Shabraz and you gain 1 life.\n{W/U}: Target Human gains flying until end of turn.",
+    "color_identity": [
+      "W",
+      "U",
+      "R"
+    ],
+    "keywords": [
+      "Flying",
+      "Partner",
+      "Partner with"
+    ],
+    "set": "c20",
+    "set_name": "Commander 2020 / Commander 2020",
+    "released_at": "2020-04-17",
+    "edhrec_rank": 4660,
+    "usd": "14.15",
+    "commander_legal": "legal",
+    "is_legendary_creature": true,
+    "can_be_commander": true,
+    "is_partner_pair": true
+  },
+  "Pir, Imaginative Rascal // Toothy, Imaginary Friend": {
+    "name": "Pir, Imaginative Rascal // Toothy, Imaginary Friend",
+    "mana_cost": "{2}{G} // {3}{U}",
+    "cmc": 7.0,
+    "type_line": "Legendary Creature — Human // Legendary Creature — Illusion",
+    "oracle_text": "Partner with Toothy, Imaginary Friend (When this creature enters, target player may put Toothy into their hand from their library, then shuffle.)\nIf one or more counters would be put on a permanent your team controls, that many plus one of each of those kinds of counters are put on that permanent instead.\n//\nPartner with Pir, Imaginative Rascal (When this creature enters, target player may put Pir into their hand from their library, then shuffle.)\nWhenever you draw a card, put a +1/+1 counter on Toothy.\nWhen Toothy leaves the battlefield, draw a card for each +1/+1 counter on it.",
+    "color_identity": [
+      "U",
+      "G"
+    ],
+    "keywords": [
+      "Partner",
+      "Partner with"
+    ],
+    "set": "bbd",
+    "set_name": "Battlebond / Battlebond",
+    "released_at": "2018-06-08",
+    "edhrec_rank": 5214,
+    "usd": "15.86",
+    "commander_legal": "legal",
+    "is_legendary_creature": true,
+    "can_be_commander": true,
+    "is_partner_pair": true
+  },
+  "Gale, Waterdeep Prodigy // Scion of Halaster": {
+    "name": "Gale, Waterdeep Prodigy // Scion of Halaster",
+    "mana_cost": "{2}{U} // {1}{B}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Human Wizard // Legendary Enchantment — Background",
+    "oracle_text": "Whenever you cast an instant or sorcery spell from your hand, you may cast up to one target card of the other type from your graveyard. If a spell cast from your graveyard this way would be put into your graveyard, exile it instead.\nChoose a Background (You can have a Background as a second commander.)\n//\nCommander creatures you own have \"The first time you would draw a card each turn, instead look at the top two cards of your library. Put one of them into your graveyard and the other back on top of your library. Then draw a card.\"",
+    "color_identity": [
+      "U",
+      "B"
+    ],
+    "keywords": [
+      "Choose a background"
+    ],
+    "set": "clb",
+    "set_name": "Commander Legends: Battle for Baldur's Gate / Commander Legends: Battle for Baldur's Gate",
+    "released_at": "2022-06-10",
+    "edhrec_rank": 5019,
+    "usd": "0.7",
+    "commander_legal": "legal",
+    "is_legendary_creature": true,
+    "can_be_commander": true,
+    "is_partner_pair": true
+  },
+  "Sakashima of a Thousand Faces // Vial Smasher the Fierce": {
+    "name": "Sakashima of a Thousand Faces // Vial Smasher the Fierce",
+    "mana_cost": "{3}{U} // {1}{B}{R}",
+    "cmc": 7.0,
+    "type_line": "Legendary Creature — Human Rogue // Legendary Creature — Goblin Berserker",
+    "oracle_text": "You may have Sakashima enter as a copy of another creature you control, except it has Sakashima's other abilities.\nThe \"legend rule\" doesn't apply to permanents you control.\nPartner (You can have two commanders if both have partner.)\n//\nWhenever you cast your first spell each turn, choose an opponent at random. Vial Smasher deals damage equal to that spell's mana value to that player or a planeswalker that player controls.\nPartner (You can have two commanders if both have partner.)",
+    "color_identity": [
+      "U",
+      "B",
+      "R"
+    ],
+    "keywords": [
+      "Partner"
+    ],
+    "set": "cmr",
+    "set_name": "Commander Legends / Duskmourn: House of Horror Commander",
+    "released_at": "2024-09-27",
+    "edhrec_rank": 1072,
+    "usd": "35.73",
+    "commander_legal": "legal",
+    "is_legendary_creature": true,
+    "can_be_commander": true,
+    "is_partner_pair": true
+  },
+  "Tevesh Szat, Doom of Fools // Thrasios, Triton Hero": {
+    "name": "Tevesh Szat, Doom of Fools // Thrasios, Triton Hero",
+    "mana_cost": "{4}{B} // {G}{U}",
+    "cmc": 7.0,
+    "type_line": "Legendary Planeswalker — Szat // Legendary Creature — Merfolk Wizard",
+    "oracle_text": "+2: Create two 0/1 black Thrull creature tokens.\n+1: You may sacrifice another creature or planeswalker. If you do, draw two cards, then draw another card if the sacrificed permanent was a commander.\n−10: Gain control of all commanders. Put all commanders from the command zone onto the battlefield under your control.\nTevesh Szat, Doom of Fools can be your commander.\nPartner\n//\n{4}: Scry 1, then reveal the top card of your library. If it's a land card, put it onto the battlefield tapped. Otherwise, draw a card.\nPartner (You can have two commanders if both have partner.)",
+    "color_identity": [
+      "U",
+      "B",
+      "G"
+    ],
+    "keywords": [
+      "Partner",
+      "Scry"
+    ],
+    "set": "cmr",
+    "set_name": "Commander Legends / Commander 2016",
+    "released_at": "2020-11-20",
+    "edhrec_rank": 2543,
+    "usd": "6.7",
+    "commander_legal": "legal",
+    "is_legendary_creature": true,
+    "can_be_commander": true,
+    "is_partner_pair": true
+  },
+  "Cecily, Haunted Mage // Othelm, Sigardian Outcast": {
+    "name": "Cecily, Haunted Mage // Othelm, Sigardian Outcast",
+    "mana_cost": "{1}{U}{B}{R} // {1}{G}{W}",
+    "cmc": 7.0,
+    "type_line": "Legendary Creature — Human Wizard // Legendary Creature — Human",
+    "oracle_text": "Your maximum hand size is eleven.\nWhenever Cecily, Haunted Mage attacks, you draw a card and you lose 1 life. Then if you have eleven or more cards in your hand, you may cast an instant or sorcery spell from your hand without paying its mana cost.\nPartner—Friends forever (You can have two commanders if both have this ability.)\n//\n{2}, {T}: Choose target creature card in your graveyard that was put there from the battlefield this turn. Return it to the battlefield tapped.\nPartner—Friends forever (You can have two commanders if both have this ability.)",
+    "color_identity": [
+      "W",
+      "U",
+      "B",
+      "R",
+      "G"
+    ],
+    "keywords": [
+      "Partner"
+    ],
+    "set": "slx",
+    "set_name": "Universes Within / Universes Within",
+    "released_at": "2022-03-03",
+    "edhrec_rank": 12426,
+    "usd": "0.81",
+    "commander_legal": "legal",
+    "is_legendary_creature": true,
+    "can_be_commander": true,
+    "is_partner_pair": true
+  },
+  "Rograkh, Son of Rohgahh // Yoshimaru, Ever Faithful": {
+    "name": "Rograkh, Son of Rohgahh // Yoshimaru, Ever Faithful",
+    "mana_cost": "{0} // {W}",
+    "cmc": 1.0,
+    "type_line": "Legendary Creature — Kobold Warrior // Legendary Creature — Dog",
+    "oracle_text": "First strike, menace, trample\nPartner (You can have two commanders if both have partner.)\n//\nWhenever another legendary permanent you control enters, put a +1/+1 counter on Yoshimaru.\nPartner (You can have two commanders if both have partner.)",
+    "color_identity": [
+      "W",
+      "R"
+    ],
+    "keywords": [
+      "First strike",
+      "Menace",
+      "Partner",
+      "Trample"
+    ],
+    "set": "cmr",
+    "set_name": "Commander Legends / Neon Dynasty Commander",
+    "released_at": "2022-02-18",
+    "edhrec_rank": 2365,
+    "usd": "10.76",
+    "commander_legal": "legal",
+    "is_legendary_creature": true,
+    "can_be_commander": true,
+    "is_partner_pair": true
+  },
+  "Karlach, Fury of Avernus // Sword Coast Sailor": {
+    "name": "Karlach, Fury of Avernus // Sword Coast Sailor",
+    "mana_cost": "{4}{R} // {1}{U}",
+    "cmc": 7.0,
+    "type_line": "Legendary Creature — Tiefling Barbarian // Legendary Enchantment — Background",
+    "oracle_text": "Whenever you attack, if it's the first combat phase of the turn, untap all attacking creatures. They gain first strike until end of turn. After this phase, there is an additional combat phase.\nChoose a Background (You can have a Background as a second commander.)\n//\nCommander creatures you own have \"Whenever this creature attacks a player, if no opponent has more life than that player, this creature can't be blocked this turn.\"",
+    "color_identity": [
+      "U",
+      "R"
+    ],
+    "keywords": [
+      "Choose a background"
+    ],
+    "set": "clb",
+    "set_name": "Commander Legends: Battle for Baldur's Gate / Commander Legends: Battle for Baldur's Gate",
+    "released_at": "2022-06-10",
+    "edhrec_rank": 1063,
+    "usd": "20.42",
+    "commander_legal": "legal",
+    "is_legendary_creature": true,
+    "can_be_commander": true,
+    "is_partner_pair": true
+  },
+  "Shadowheart, Dark Justiciar // Haunted One": {
+    "name": "Shadowheart, Dark Justiciar // Haunted One",
+    "mana_cost": "{3}{B} // {2}{B}",
+    "cmc": 7.0,
+    "type_line": "Legendary Creature — Human Elf Cleric // Legendary Enchantment — Background",
+    "oracle_text": "{1}{B}, {T}, Sacrifice another creature: Draw X cards, where X is that creature's power.\nChoose a Background (You can have a Background as a second commander.)\n//\nCommander creatures you own have \"Whenever this creature becomes tapped, it and other creatures you control that share a creature type with it each get +2/+0 and gain undying until end of turn.\" (When a creature with undying dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Choose a background"
+    ],
+    "set": "clb",
+    "set_name": "Commander Legends: Battle for Baldur's Gate / Commander Legends: Battle for Baldur's Gate",
+    "released_at": "2022-06-10",
+    "edhrec_rank": 3480,
+    "usd": "1.39",
+    "commander_legal": "legal",
+    "is_legendary_creature": true,
+    "can_be_commander": true,
+    "is_partner_pair": true
   }
 }

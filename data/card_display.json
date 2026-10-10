@@ -7822,5 +7822,277 @@
       "Boros Signet",
       "Clifftop Retreat"
     ]
+  },
+  "Thrasios, Triton Hero // Tymna the Weaver": {
+    "synergy": [
+      "Silence",
+      "Thassa's Oracle",
+      "Devoted Druid",
+      "Flusterstorm",
+      "Chrome Mox",
+      "Lotus Petal"
+    ],
+    "popular": [
+      "Birds of Paradise",
+      "Polluted Delta",
+      "Misty Rainforest",
+      "Flooded Strand"
+    ]
+  },
+  "Okaun, Eye of Chaos // Zndrsplt, Eye of Wisdom": {
+    "synergy": [
+      "Krark's Thumb",
+      "Tavern Scoundrel",
+      "Yusri, Fortune's Flame",
+      "Stitch in Time",
+      "Chance Encounter",
+      "Fiery Gambit"
+    ],
+    "popular": [
+      "Squee's Revenge",
+      "Krark, the Thumbless",
+      "Sulfur Falls",
+      "Planar Chaos"
+    ]
+  },
+  "Rograkh, Son of Rohgahh // Thrasios, Triton Hero": {
+    "synergy": [
+      "Mox Amber",
+      "Springleaf Drum",
+      "Chrome Mox",
+      "Gaea's Cradle",
+      "Crop Rotation",
+      "Mox Diamond"
+    ],
+    "popular": [
+      "Breeding Pool",
+      "Misty Rainforest",
+      "Scalding Tarn",
+      "Wooded Foothills"
+    ]
+  },
+  "Ardenn, Intrepid Archaeologist // Rograkh, Son of Rohgahh": {
+    "synergy": [
+      "Colossus Hammer",
+      "Puresteel Paladin",
+      "Sram, Senior Edificer",
+      "Open the Armory",
+      "Masterwork of Ingenuity",
+      "Steelshaper's Gift"
+    ],
+    "popular": [
+      "Blackblade Reforged",
+      "Akiri, Fearless Voyager",
+      "Clifftop Retreat",
+      "Path to Exile"
+    ]
+  },
+  "Krark, the Thumbless // Sakashima of a Thousand Faces": {
+    "synergy": [
+      "Tavern Scoundrel",
+      "Krark's Thumb",
+      "Harmonic Prodigy",
+      "Veyran, Voice of Duality",
+      "Strike It Rich",
+      "Twinflame"
+    ],
+    "popular": [
+      "Storm-Kiln Artist",
+      "Lightning Bolt",
+      "Archmage Emeritus",
+      "Shivan Reef"
+    ]
+  },
+  "Owen Grady, Raptor Trainer // Blue, Loyal Raptor": {
+    "synergy": [
+      "Cresting Mosasaurus",
+      "Ghalta, Primal Hunger",
+      "Earthshaker Dreadmaw",
+      "Hulking Raptor",
+      "Etali, Primal Storm",
+      "Quartzwood Crasher"
+    ],
+    "popular": [
+      "Curious Altisaur",
+      "Garruk's Uprising",
+      "Regisaur Alpha",
+      "Hunting Velociraptor"
+    ]
+  },
+  "Thrasios, Triton Hero // Vial Smasher the Fierce": {
+    "synergy": [
+      "Seedborn Muse",
+      "Force of Will",
+      "Training Grounds",
+      "Mystic Remora",
+      "Fierce Guardianship",
+      "Swan Song"
+    ],
+    "popular": [
+      "Birds of Paradise",
+      "Polluted Delta",
+      "Misty Rainforest",
+      "Wooded Foothills"
+    ]
+  },
+  "Thrasios, Triton Hero // Yoshimaru, Ever Faithful": {
+    "synergy": [
+      "Mox Amber",
+      "Training Grounds",
+      "Finale of Devastation",
+      "Silence",
+      "Gaea's Cradle",
+      "Crop Rotation"
+    ],
+    "popular": [
+      "Breeding Pool",
+      "Birds of Paradise",
+      "Windswept Heath",
+      "Misty Rainforest"
+    ]
+  },
+  "Brallin, Skyshark Rider // Shabraz, the Skyshark": {
+    "synergy": [
+      "Windfall",
+      "Faithless Looting",
+      "Glint-Horn Buccaneer",
+      "Tolarian Winds",
+      "Curiosity",
+      "Frantic Search"
+    ],
+    "popular": [
+      "Mystic Monastery",
+      "Path to Exile",
+      "Rielle, the Everwise",
+      "Talisman of Creativity"
+    ]
+  },
+  "Pir, Imaginative Rascal // Toothy, Imaginary Friend": {
+    "synergy": [
+      "Hardened Scales",
+      "Forgotten Ancient",
+      "Brainstorm",
+      "Simic Ascendancy",
+      "Essence Flux",
+      "Laboratory Maniac"
+    ],
+    "popular": [
+      "Hinterland Harbor",
+      "Breeding Pool",
+      "Yavimaya Coast",
+      "Rejuvenating Springs"
+    ]
+  },
+  "Gale, Waterdeep Prodigy // Scion of Halaster": {
+    "synergy": [
+      "Consider",
+      "Thought Scour",
+      "Frantic Search",
+      "See the Truth",
+      "Archmage Emeritus",
+      "Baral, Chief of Compliance"
+    ],
+    "popular": [
+      "Sunken Hollow",
+      "Dark Ritual",
+      "Ponder",
+      "Brainstorm"
+    ]
+  },
+  "Sakashima of a Thousand Faces // Vial Smasher the Fierce": {
+    "synergy": [
+      "Phyrexian Metamorph",
+      "Dig Through Time",
+      "Clever Impersonator",
+      "Spark Double",
+      "Treasure Cruise",
+      "Glasspool Mimic"
+    ],
+    "popular": [
+      "Blasphemous Act",
+      "Steam Vents",
+      "Watery Grave",
+      "Blood Crypt"
+    ]
+  },
+  "Tevesh Szat, Doom of Fools // Thrasios, Triton Hero": {
+    "synergy": [
+      "Chrome Mox",
+      "Mana Vault",
+      "Dark Ritual",
+      "Force of Will",
+      "Lotus Petal",
+      "Flusterstorm"
+    ],
+    "popular": [
+      "Birds of Paradise",
+      "Breeding Pool",
+      "Polluted Delta",
+      "Misty Rainforest"
+    ]
+  },
+  "Cecily, Haunted Mage // Othelm, Sigardian Outcast": {
+    "synergy": [
+      "Elmar, Ulvenwald Informant",
+      "Wernog, Rider's Chaplain",
+      "Sophina, Spearsage Deserter",
+      "Hargilde, Kindly Runechanter",
+      "Bjorna, Nightfall Alchemist",
+      "Ruinous Ultimatum"
+    ],
+    "popular": [
+      "Breeding Pool",
+      "Birds of Paradise",
+      "Temple Garden",
+      "Watery Grave"
+    ]
+  },
+  "Rograkh, Son of Rohgahh // Yoshimaru, Ever Faithful": {
+    "synergy": [
+      "Norin the Wary",
+      "Mines of Moria",
+      "Flowering of the White Tree",
+      "Keleth, Sunmane Familiar",
+      "Kediss, Emberclaw Familiar",
+      "Minas Tirith"
+    ],
+    "popular": [
+      "Eiganjo, Seat of the Empire",
+      "Path to Exile",
+      "Sokenzan, Crucible of Defiance",
+      "Urza's Ruinous Blast"
+    ]
+  },
+  "Karlach, Fury of Avernus // Sword Coast Sailor": {
+    "synergy": [
+      "Kediss, Emberclaw Familiar",
+      "Two-Handed Axe",
+      "Combat Celebrant",
+      "Combat Research",
+      "Professional Face-Breaker",
+      "Lizard Blades"
+    ],
+    "popular": [
+      "Sulfur Falls",
+      "Shivan Reef",
+      "Izzet Signet",
+      "Talisman of Creativity"
+    ]
+  },
+  "Shadowheart, Dark Justiciar // Haunted One": {
+    "synergy": [
+      "Taborax, Hope's Demise",
+      "Shadow-Rite Priest",
+      "Priest of Forgotten Gods",
+      "Doomed Necromancer",
+      "Twilight Diviner",
+      "Priest of Gix"
+    ],
+    "popular": [
+      "Victimize",
+      "Ayara, First of Locthwain",
+      "Zulaport Cutthroat",
+      "Black Market"
+    ]
   }
 }

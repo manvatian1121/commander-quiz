@@ -72,7 +72,7 @@ def main() -> None:
     cmds = payload["commanders"]
 
     descriptions: dict[str, dict] = {}
-    for index in range(1, 17):
+    for index in range(1, 21):
         descriptions.update(load_json(f"descriptions_{index}.json", {}) or {})
     card_display = load_json("card_display.json", {})
     card_zh = load_json("card_zh.json", {})

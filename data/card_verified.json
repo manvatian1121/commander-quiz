@@ -1028,6 +1028,13 @@
     "type_line": "Legendary Creature — Human Assassin",
     "oracle_text": "Menace, lifelink\nWhenever a historic creature you control deals combat damage to a player, create a 1/1 black Assassin creature token with menace. (Artifacts, legendaries, and Sagas are historic.)"
   },
+  "Ayara, First of Locthwain": {
+    "name": "Ayara, First of Locthwain",
+    "mana_cost": "{B}{B}{B}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Elf Noble",
+    "oracle_text": "Whenever Ayara or another black creature you control enters, each opponent loses 1 life and you gain 1 life.\n{T}, Sacrifice another black creature: Draw a card."
+  },
   "Ayula, Queen Among Bears": {
     "name": "Ayula, Queen Among Bears",
     "mana_cost": "{1}{G}",
@@ -1146,6 +1153,13 @@
     "cmc": 0.0,
     "type_line": "Legendary Land",
     "oracle_text": "Barad-dûr enters tapped unless you control a legendary creature.\n{T}: Add {B}.\n{X}{X}{B}, {T}: Amass Orcs X. Activate only if a creature died this turn."
+  },
+  "Baral, Chief of Compliance": {
+    "name": "Baral, Chief of Compliance",
+    "mana_cost": "{1}{U}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Human Wizard",
+    "oracle_text": "Instant and sorcery spells you cast cost {1} less to cast.\nWhenever a spell or ability you control counters a spell, you may draw a card. If you do, discard a card."
   },
   "Barbarian Class": {
     "name": "Barbarian Class",
@@ -1476,6 +1490,13 @@
     "type_line": "Kindred Enchantment — Faerie",
     "oracle_text": "At the beginning of your upkeep, you lose 1 life and create a 1/1 black Faerie Rogue creature token with flying."
   },
+  "Bjorna, Nightfall Alchemist": {
+    "name": "Bjorna, Nightfall Alchemist",
+    "mana_cost": "{U}{R}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Human",
+    "oracle_text": "{T}, Sacrifice an artifact: Bjorna, Nightfall Alchemist deals 1 damage to target creature. Goad that creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)\nPartner—Friends forever (You can have two commanders if both have this ability.)"
+  },
   "Black Dragon Gate": {
     "name": "Black Dragon Gate",
     "mana_cost": "",
@@ -1489,6 +1510,13 @@
     "cmc": 2.0,
     "type_line": "Artifact — Equipment",
     "oracle_text": "Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)\nEquipped creature gets +1/+0, has \"Whenever you cast a noncreature spell, this creature deals 1 damage to each opponent,\" and is a Wizard in addition to its other types.\nEquip {3}"
+  },
+  "Black Market": {
+    "name": "Black Market",
+    "mana_cost": "{3}{B}{B}",
+    "cmc": 5.0,
+    "type_line": "Enchantment",
+    "oracle_text": "Whenever a creature dies, put a charge counter on this enchantment.\nAt the beginning of your first main phase, add {B} for each charge counter on this enchantment."
   },
   "Black Market Connections": {
     "name": "Black Market Connections",
@@ -2505,6 +2533,13 @@
     "type_line": "Land",
     "oracle_text": "As this land enters, you may reveal an Island or Swamp card from your hand. If you don't, this land enters tapped.\n{T}: Add {U} or {B}."
   },
+  "Chrome Mox": {
+    "name": "Chrome Mox",
+    "mana_cost": "{0}",
+    "cmc": 0.0,
+    "type_line": "Artifact",
+    "oracle_text": "Imprint — When this artifact enters, you may exile a nonartifact, nonland card from your hand.\n{T}: Add one mana of any of the exiled card's colors."
+  },
   "Chronomancer": {
     "name": "Chronomancer",
     "mana_cost": "{1}{B}",
@@ -2567,6 +2602,13 @@
     "cmc": 1.0,
     "type_line": "Enchantment — Class",
     "oracle_text": "(Gain the next level as a sorcery to add its ability.)\nIf you would gain life, you gain that much life plus 1 instead.\n{3}{W}: Level 2\nWhenever you gain life, put a +1/+1 counter on target creature you control.\n{4}{W}: Level 3\nWhen this Class becomes level 3, return target creature card from your graveyard to the battlefield. You gain life equal to that creature's toughness."
+  },
+  "Clever Impersonator": {
+    "name": "Clever Impersonator",
+    "mana_cost": "{2}{U}{U}",
+    "cmc": 4.0,
+    "type_line": "Creature — Shapeshifter",
+    "oracle_text": "You may have this creature enter as a copy of any nonland permanent on the battlefield."
   },
   "Clifftop Lookout": {
     "name": "Clifftop Lookout",
@@ -2973,6 +3015,13 @@
     "cmc": 5.0,
     "type_line": "Creature — Horse",
     "oracle_text": "Other Horses you control have indestructible.\nAt the beginning of each end step, if you gained life this turn, create a 5/5 white Horse creature token."
+  },
+  "Cresting Mosasaurus": {
+    "name": "Cresting Mosasaurus",
+    "mana_cost": "{6}{U}{U}",
+    "cmc": 8.0,
+    "type_line": "Creature — Dinosaur",
+    "oracle_text": "Emerge {6}{U} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)\nWhen this creature enters, if you cast it, return each non-Dinosaur creature to its owner's hand."
   },
   "Crimson Wisps": {
     "name": "Crimson Wisps",
@@ -3702,6 +3751,13 @@
     "type_line": "Creature — Nightmare Demon",
     "oracle_text": "Flying, trample\nPay 2 life: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)"
   },
+  "Doomed Necromancer": {
+    "name": "Doomed Necromancer",
+    "mana_cost": "{2}{B}",
+    "cmc": 3.0,
+    "type_line": "Creature — Human Cleric Mercenary",
+    "oracle_text": "{B}, {T}, Sacrifice this creature: Return target creature card from your graveyard to the battlefield."
+  },
   "Doomwake Giant": {
     "name": "Doomwake Giant",
     "mana_cost": "{4}{B}",
@@ -4122,6 +4178,13 @@
     "type_line": "Legendary Land",
     "oracle_text": "{T}: Add {W}.\n{W}, {T}: Prevent the next 2 damage that would be dealt to target legendary creature this turn."
   },
+  "Eiganjo, Seat of the Empire": {
+    "name": "Eiganjo, Seat of the Empire",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Legendary Land",
+    "oracle_text": "{T}: Add {W}.\nChannel — {2}{W}, Discard this card: It deals 4 damage to target attacking or blocking creature. This ability costs {1} less to activate for each legendary creature you control."
+  },
   "Elas il-Kor, Sadistic Pilgrim": {
     "name": "Elas il-Kor, Sadistic Pilgrim",
     "mana_cost": "{W}{B}",
@@ -4233,6 +4296,13 @@
     "cmc": 5.0,
     "type_line": "Legendary Creature — Phyrexian Praetor",
     "oracle_text": "Vigilance\nIf a permanent entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.\nPermanents entering don't cause abilities of permanents your opponents control to trigger."
+  },
+  "Elmar, Ulvenwald Informant": {
+    "name": "Elmar, Ulvenwald Informant",
+    "mana_cost": "{1}{R}{G}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human",
+    "oracle_text": "Haste\nWhenever you cast your second spell each turn, untap target creature, then investigate. (Create a colorless Clue artifact token with \"{2}, Sacrifice this artifact: Draw a card.\")\nPartner—Friends forever (You can have two commanders if both have this ability.)"
   },
   "Elspeth Conquers Death": {
     "name": "Elspeth Conquers Death",
@@ -4934,6 +5004,13 @@
     "type_line": "Creature — Human Soldier",
     "oracle_text": "Other Soldier creatures get +1/+1 and have first strike. (They deal combat damage before creatures without first strike.)"
   },
+  "Fierce Guardianship": {
+    "name": "Fierce Guardianship",
+    "mana_cost": "{2}{U}",
+    "cmc": 3.0,
+    "type_line": "Instant",
+    "oracle_text": "If you control a commander, you may cast this spell without paying its mana cost.\nCounter target noncreature spell."
+  },
   "Fiery Confluence": {
     "name": "Fiery Confluence",
     "mana_cost": "{2}{R}{R}",
@@ -4975,6 +5052,13 @@
     "cmc": 2.0,
     "type_line": "Instant",
     "oracle_text": "Take an extra turn after this one. At the beginning of that turn's end step, you lose the game."
+  },
+  "Finale of Devastation": {
+    "name": "Finale of Devastation",
+    "mana_cost": "{X}{G}{G}",
+    "cmc": 2.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Search your library and/or graveyard for a creature card with mana value X or less and put it onto the battlefield. If you search your library this way, shuffle. If X is 10 or more, creatures you control get +X/+X and gain haste until end of turn."
   },
   "Finale of Revelation": {
     "name": "Finale of Revelation",
@@ -5179,6 +5263,13 @@
     "type_line": "Creature — Jellyfish",
     "oracle_text": "Defender, flying\nWhenever this creature is dealt damage, you and target opponent each draw a card."
   },
+  "Flusterstorm": {
+    "name": "Flusterstorm",
+    "mana_cost": "{U}",
+    "cmc": 1.0,
+    "type_line": "Instant",
+    "oracle_text": "Counter target instant or sorcery spell unless its controller pays {1}.\nStorm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)"
+  },
   "Flux Channeler": {
     "name": "Flux Channeler",
     "mana_cost": "{2}{U}",
@@ -5213,6 +5304,13 @@
     "cmc": 4.0,
     "type_line": "Sorcery",
     "oracle_text": "Amass Orcs 2. When you do, Foray of Orcs deals X damage to target creature an opponent controls, where X is the amassed Army's power. (To amass Orcs 2, put two +1/+1 counters on an Army you control. It's also an Orc. If you don't control an Army, create a 0/0 black Orc Army creature token first.)"
+  },
+  "Force of Will": {
+    "name": "Force of Will",
+    "mana_cost": "{3}{U}{U}",
+    "cmc": 5.0,
+    "type_line": "Instant",
+    "oracle_text": "You may pay 1 life and exile a blue card from your hand rather than pay this spell's mana cost.\nCounter target spell."
   },
   "Forge Anew": {
     "name": "Forge Anew",
@@ -5360,6 +5458,13 @@
     "cmc": 4.0,
     "type_line": "Legendary Creature — Dwarf Scout",
     "oracle_text": "Storied (If you control three or more artifacts, legendaries, and/or Sagas, you have an enduring story for the rest of the game.)\nAs long as you have an enduring story, creatures you control get +1/+1.\nWhenever Fíli or another nontoken Dwarf you control enters, create a 2/2 red Dwarf creature token."
+  },
+  "Gaea's Cradle": {
+    "name": "Gaea's Cradle",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Legendary Land",
+    "oracle_text": "{T}: Add {G} for each creature you control."
   },
   "Gala Greeters": {
     "name": "Gala Greeters",
@@ -5689,6 +5794,13 @@
     "cmc": 3.0,
     "type_line": "Artifact",
     "oracle_text": "Whenever one or more Vampires you control attack, create a Blood token. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\")\n{B}, {T}, Pay 1 life: Create a 1/1 white and black Vampire creature token with lifelink.\n{B}{B}, {T}, Sacrifice this artifact and thirteen Blood tokens: Each opponent loses 13 life and you gain 13 life."
+  },
+  "Glasspool Mimic // Glasspool Shore": {
+    "name": "Glasspool Mimic // Glasspool Shore",
+    "mana_cost": "",
+    "cmc": 3.0,
+    "type_line": "Creature — Shapeshifter Rogue // Land",
+    "oracle_text": ""
   },
   "Gleeful Arsonist": {
     "name": "Gleeful Arsonist",
@@ -6334,6 +6446,13 @@
     "type_line": "Creature — Rabbit Noble",
     "oracle_text": "When this creature enters, create a number of 1/1 white Rabbit creature tokens equal to the number of other creatures you control named Hare Apparent.\nA deck can have any number of cards named Hare Apparent."
   },
+  "Hargilde, Kindly Runechanter": {
+    "name": "Hargilde, Kindly Runechanter",
+    "mana_cost": "{2}{W}{U}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human",
+    "oracle_text": "{T}: Add {C}{C}. Spend this mana only to cast artifact spells or activate abilities of artifacts.\nPartner—Friends forever (You can have two commanders if both have this ability.)"
+  },
   "Harmonic Prodigy": {
     "name": "Harmonic Prodigy",
     "mana_cost": "{1}{R}",
@@ -6858,6 +6977,13 @@
     "cmc": 2.0,
     "type_line": "Creature — Horror",
     "oracle_text": "Trample\nWhen this creature enters, target opponent creates two 3/3 green Centaur creature tokens with protection from black."
+  },
+  "Hunting Velociraptor": {
+    "name": "Hunting Velociraptor",
+    "mana_cost": "{2}{R}",
+    "cmc": 3.0,
+    "type_line": "Creature — Dinosaur",
+    "oracle_text": "First strike\nDinosaur spells you cast have prowl {2}{R}. (You may cast a spell for its prowl cost if you dealt combat damage to a player this turn with a creature with any of its creature types.)"
   },
   "Huntmaster of the Fells // Ravager of the Fells": {
     "name": "Huntmaster of the Fells // Ravager of the Fells",
@@ -7740,6 +7866,13 @@
     "cmc": 4.0,
     "type_line": "Creature — Human Soldier",
     "oracle_text": "At the beginning of each opponent's end step, if that player controls more creatures than you, create a 1/1 white Soldier creature token.\nAt the beginning of each opponent's end step, if that player controls more lands than you, you may search your library for a basic Plains card, put it onto the battlefield tapped, then shuffle."
+  },
+  "Keleth, Sunmane Familiar": {
+    "name": "Keleth, Sunmane Familiar",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Horse",
+    "oracle_text": "Whenever a commander you control attacks, put a +1/+1 counter on it.\nPartner (You can have two commanders if both have partner.)"
   },
   "Kenrith's Transformation": {
     "name": "Kenrith's Transformation",
@@ -8749,6 +8882,13 @@
     "type_line": "Enchantment",
     "oracle_text": "If you tap a permanent for mana, it produces twice as much of that mana instead."
   },
+  "Mana Vault": {
+    "name": "Mana Vault",
+    "mana_cost": "{1}",
+    "cmc": 1.0,
+    "type_line": "Artifact",
+    "oracle_text": "This artifact doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {4}. If you do, untap this artifact.\nAt the beginning of your draw step, if this artifact is tapped, it deals 1 damage to you.\n{T}: Add {C}{C}{C}."
+  },
   "Manabarbs": {
     "name": "Manabarbs",
     "mana_cost": "{3}{R}",
@@ -8994,6 +9134,13 @@
     "type_line": "Creature — Merfolk",
     "oracle_text": "Other Merfolk creatures you control get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.)"
   },
+  "Masterwork of Ingenuity": {
+    "name": "Masterwork of Ingenuity",
+    "mana_cost": "{1}",
+    "cmc": 1.0,
+    "type_line": "Artifact — Equipment",
+    "oracle_text": "You may have this Equipment enter as a copy of any Equipment on the battlefield."
+  },
   "Matoya, Archon Elder": {
     "name": "Matoya, Archon Elder",
     "mana_cost": "{2}{U}",
@@ -9176,6 +9323,13 @@
     "type_line": "Legendary Creature — Elf Ally",
     "oracle_text": "You may play an additional land on each of your turns.\n{R}{G}, Return a land you control to its owner's hand: Target creature gains trample until end of turn."
   },
+  "Minas Tirith": {
+    "name": "Minas Tirith",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Legendary Land",
+    "oracle_text": "Minas Tirith enters tapped unless you control a legendary creature.\n{T}: Add {W}.\n{1}{W}, {T}: Draw a card. Activate only if you attacked with two or more creatures this turn."
+  },
   "Mind Games": {
     "name": "Mind Games",
     "mana_cost": "{U}",
@@ -9189,6 +9343,13 @@
     "cmc": 2.0,
     "type_line": "Artifact",
     "oracle_text": "Whenever an opponent loses life, that player mills that many cards. (Damage causes loss of life.)"
+  },
+  "Mines of Moria": {
+    "name": "Mines of Moria",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Legendary Land",
+    "oracle_text": "Mines of Moria enters tapped unless you control a legendary creature.\n{T}: Add {R}.\n{3}{R}, {T}, Exile three cards from your graveyard: Create two Treasure tokens."
   },
   "Minthara, Merciless Soul": {
     "name": "Minthara, Merciless Soul",
@@ -9280,6 +9441,13 @@
     "cmc": 0.0,
     "type_line": "Artifact Land",
     "oracle_text": "This land enters tapped.\nIndestructible\n{T}: Add {U} or {B}."
+  },
+  "Misty Rainforest": {
+    "name": "Misty Rainforest",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "{T}, Pay 1 life, Sacrifice this land: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle."
   },
   "Mobilizer Mech": {
     "name": "Mobilizer Mech",
@@ -9434,6 +9602,20 @@
     "cmc": 3.0,
     "type_line": "Creature — Mouse Soldier",
     "oracle_text": "Flash\nValiant — Whenever this creature becomes the target of a spell or ability you control for the first time each turn, tap target creature an opponent controls."
+  },
+  "Mox Amber": {
+    "name": "Mox Amber",
+    "mana_cost": "{0}",
+    "cmc": 0.0,
+    "type_line": "Legendary Artifact",
+    "oracle_text": "{T}: Add one mana of any color among legendary creatures and planeswalkers you control."
+  },
+  "Mox Diamond": {
+    "name": "Mox Diamond",
+    "mana_cost": "{0}",
+    "cmc": 0.0,
+    "type_line": "Artifact",
+    "oracle_text": "If this artifact would enter, you may discard a land card instead. If you do, put this artifact onto the battlefield. If you don't, put it into its owner's graveyard.\n{T}: Add one mana of any color."
   },
   "Mr. Orfeo, the Boulder": {
     "name": "Mr. Orfeo, the Boulder",
@@ -10170,6 +10352,13 @@
     "type_line": "Enchantment",
     "oracle_text": "You may look at the top card of your library any time.\nYou may play lands and cast spells from the top of your library.\nOnce during each of your turns, you may cast a spell from your hand or the top of your library without paying its mana cost."
   },
+  "Open the Armory": {
+    "name": "Open the Armory",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle."
+  },
   "Ophidian Eye": {
     "name": "Ophidian Eye",
     "mana_cost": "{2}{U}",
@@ -10653,6 +10842,13 @@
     "type_line": "Creature — Phyrexian Wizard",
     "oracle_text": "Each player can't cast more than one non-Phyrexian spell each turn.\nNon-Phyrexian creatures enter tapped."
   },
+  "Phyrexian Metamorph": {
+    "name": "Phyrexian Metamorph",
+    "mana_cost": "{3}{U/P}",
+    "cmc": 4.0,
+    "type_line": "Artifact Creature — Phyrexian Shapeshifter",
+    "oracle_text": "({U/P} can be paid with either {U} or 2 life.)\nYou may have this creature enter as a copy of any artifact or creature on the battlefield, except it's an artifact in addition to its other types."
+  },
   "Phyrexian Vindicator": {
     "name": "Phyrexian Vindicator",
     "mana_cost": "{W}{W}{W}{W}",
@@ -10722,6 +10918,13 @@
     "cmc": 3.0,
     "type_line": "Creature — Human Shaman",
     "oracle_text": "When this creature enters, each player sacrifices a creature or planeswalker of their choice. Each player who can't discards a card."
+  },
+  "Planar Chaos": {
+    "name": "Planar Chaos",
+    "mana_cost": "{2}{R}",
+    "cmc": 3.0,
+    "type_line": "Enchantment",
+    "oracle_text": "At the beginning of your upkeep, flip a coin. If you lose the flip, sacrifice this enchantment.\nWhenever a player casts a spell, that player flips a coin. If they lose the flip, counter that spell."
   },
   "Planar Nexus": {
     "name": "Planar Nexus",
@@ -10841,6 +11044,20 @@
     "cmc": 2.0,
     "type_line": "Creature — Human Warlock",
     "oracle_text": "{T}, Pay 3 life, Sacrifice this creature: Return target creature card from your graveyard to the battlefield. Activate only as a sorcery.\nUnearth {3}{W}{B} ({3}{W}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)"
+  },
+  "Priest of Forgotten Gods": {
+    "name": "Priest of Forgotten Gods",
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Cleric",
+    "oracle_text": "{T}, Sacrifice two other creatures: Any number of target players each lose 2 life and sacrifice a creature of their choice. You add {B}{B} and draw a card. (Activate only as an instant.)"
+  },
+  "Priest of Gix": {
+    "name": "Priest of Gix",
+    "mana_cost": "{2}{B}",
+    "cmc": 3.0,
+    "type_line": "Creature — Phyrexian Human Cleric Minion",
+    "oracle_text": "When this creature enters, add {B}{B}{B}."
   },
   "Priest of Titania": {
     "name": "Priest of Titania",
@@ -11612,6 +11829,13 @@
     "type_line": "Enchantment",
     "oracle_text": "Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature you control.\n{5}{G}{G}: This enchantment becomes a 7/7 Beast creature in addition to its other types."
   },
+  "Rielle, the Everwise": {
+    "name": "Rielle, the Everwise",
+    "mana_cost": "{1}{U}{R}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Wizard",
+    "oracle_text": "Rielle gets +1/+0 for each instant and sorcery card in your graveyard.\nWhenever you discard one or more cards for the first time each turn, draw that many cards."
+  },
   "Righteous Valkyrie": {
     "name": "Righteous Valkyrie",
     "mana_cost": "{2}{W}",
@@ -12130,6 +12354,13 @@
     "type_line": "Creature — Bird",
     "oracle_text": "Landfall — Whenever a land you control enters, put a +1/+1 counter on this creature."
   },
+  "Scalding Tarn": {
+    "name": "Scalding Tarn",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "{T}, Pay 1 life, Sacrifice this land: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle."
+  },
   "Scarecrone": {
     "name": "Scarecrone",
     "mana_cost": "{3}",
@@ -12361,6 +12592,13 @@
     "type_line": "Creature — Human Warlock",
     "oracle_text": "Menace\nWard—Pay 3 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)\nMagecraft — Whenever you cast or copy an instant or sorcery spell, create a 1/1 black and green Pest creature token with \"When this token dies, you gain 1 life.\""
   },
+  "See the Truth": {
+    "name": "See the Truth",
+    "mana_cost": "{1}{U}",
+    "cmc": 2.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Look at the top three cards of your library. Put one of those cards into your hand and the rest on the bottom of your library in any order. If this spell was cast from anywhere other than your hand, put each of those cards into your hand instead."
+  },
   "Seedborn Muse": {
     "name": "Seedborn Muse",
     "mana_cost": "{3}{G}{G}",
@@ -12507,6 +12745,13 @@
     "cmc": 2.0,
     "type_line": "Enchantment",
     "oracle_text": "Unreliable Visions — At the beginning of your first main phase, discard a card. If you do, draw a card.\nUndying Vengeance — Whenever you play a land or cast a spell from anywhere other than your hand, this enchantment deals 1 damage to each opponent."
+  },
+  "Shadow-Rite Priest": {
+    "name": "Shadow-Rite Priest",
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Cleric",
+    "oracle_text": "Other Clerics you control get +1/+1.\n{3}{B}{B}, {T}, Sacrifice another Cleric: Search your library for a black creature card, put it onto the battlefield, then shuffle."
   },
   "Shadowborn Apostle": {
     "name": "Shadowborn Apostle",
@@ -12753,6 +12998,13 @@
     "type_line": "Enchantment",
     "oracle_text": "Whenever you cast an enchantment spell, create a 4/4 white Angel creature token with flying."
   },
+  "Silence": {
+    "name": "Silence",
+    "mana_cost": "{W}",
+    "cmc": 1.0,
+    "type_line": "Instant",
+    "oracle_text": "Your opponents can't cast spells this turn."
+  },
   "Silent-Blade Oni": {
     "name": "Silent-Blade Oni",
     "mana_cost": "{3}{U}{U}{B}{B}",
@@ -12801,6 +13053,13 @@
     "cmc": 3.0,
     "type_line": "Creature — Ape Spirit",
     "oracle_text": "Exile this card from your hand: Add {R}."
+  },
+  "Simic Ascendancy": {
+    "name": "Simic Ascendancy",
+    "mana_cost": "{G}{U}",
+    "cmc": 2.0,
+    "type_line": "Enchantment",
+    "oracle_text": "{1}{G}{U}: Put a +1/+1 counter on target creature you control.\nWhenever one or more +1/+1 counters are put on a creature you control, put that many growth counters on this enchantment.\nAt the beginning of your upkeep, if this enchantment has twenty or more growth counters on it, you win the game."
   },
   "Simic Growth Chamber": {
     "name": "Simic Growth Chamber",
@@ -13075,6 +13334,13 @@
     "type_line": "Land — Forest Island",
     "oracle_text": "({T}: Add {G} or {U}.)\nThis land enters tapped unless you control two or more basic lands."
   },
+  "Sokenzan, Crucible of Defiance": {
+    "name": "Sokenzan, Crucible of Defiance",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Legendary Land",
+    "oracle_text": "{T}: Add {R}.\nChannel — {3}{R}, Discard this card: Create two 1/1 colorless Spirit creature tokens. They gain haste until end of turn. This ability costs {1} less to activate for each legendary creature you control."
+  },
   "Sokka's Charge": {
     "name": "Sokka's Charge",
     "mana_cost": "{3}{W}",
@@ -13137,6 +13403,13 @@
     "cmc": 1.0,
     "type_line": "Sorcery",
     "oracle_text": "Create X 1/1 black Rat creature tokens with \"This token can't block.\" Creatures you control gain haste until end of turn."
+  },
+  "Sophina, Spearsage Deserter": {
+    "name": "Sophina, Spearsage Deserter",
+    "mana_cost": "{2}{R}{W}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Soldier",
+    "oracle_text": "Menace\nWhenever Sophina, Spearsage Deserter attacks, investigate once for each nontoken attacking creature. (To investigate, create a Clue token. It's an artifact with \"{2}, Sacrifice this artifact: Draw a card.\")\nPartner—Friends forever (You can have two commanders if both have this ability.)"
   },
   "Sorin, Vengeful Bloodlord": {
     "name": "Sorin, Vengeful Bloodlord",
@@ -13466,6 +13739,13 @@
     "cmc": 2.0,
     "type_line": "Instant",
     "oracle_text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nBuyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)\nCreate a 1/1 green Saproling creature token."
+  },
+  "Squee's Revenge": {
+    "name": "Squee's Revenge",
+    "mana_cost": "{1}{U}{R}",
+    "cmc": 3.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Choose a number. Flip a coin that many times or until you lose a flip, whichever comes first. If you win all the flips, draw two cards for each flip."
   },
   "Squirrel Mob": {
     "name": "Squirrel Mob",
@@ -14055,6 +14335,13 @@
     "type_line": "Legendary Enchantment Creature — Nymph",
     "oracle_text": "Whenever you cast an enchantment spell, you gain 1 life and draw a card."
   },
+  "Taborax, Hope's Demise": {
+    "name": "Taborax, Hope's Demise",
+    "mana_cost": "{2}{B}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Demon Cleric",
+    "oracle_text": "Flying\nTaborax has lifelink as long as it has five or more +1/+1 counters on it.\nWhenever another nontoken creature you control dies, put a +1/+1 counter on Taborax. If that creature was a Cleric, you may draw a card. If you do, you lose 1 life."
+  },
   "Tainted Field": {
     "name": "Tainted Field",
     "mana_cost": "",
@@ -14411,6 +14698,13 @@
     "cmc": 5.0,
     "type_line": "Legendary Creature — Human Cleric",
     "oracle_text": "At the beginning of each end step, create X 1/1 white Spirit creature tokens with flying, where X is the number of tokens you created this turn."
+  },
+  "Thassa's Oracle": {
+    "name": "Thassa's Oracle",
+    "mana_cost": "{U}{U}",
+    "cmc": 2.0,
+    "type_line": "Creature — Merfolk Wizard",
+    "oracle_text": "When this creature enters, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)"
   },
   "The Animus": {
     "name": "The Animus",
@@ -14796,6 +15090,13 @@
     "cmc": 7.0,
     "type_line": "Artifact Creature — Construct",
     "oracle_text": "Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nFlying\nWhen this creature enters, draw two cards."
+  },
+  "Thought Scour": {
+    "name": "Thought Scour",
+    "mana_cost": "{U}",
+    "cmc": 1.0,
+    "type_line": "Instant",
+    "oracle_text": "Target player mills two cards.\nDraw a card."
   },
   "Thoughtweft Lieutenant": {
     "name": "Thoughtweft Lieutenant",
@@ -15273,6 +15574,13 @@
     "type_line": "Instant",
     "oracle_text": "You may tap or untap target artifact, creature, or land."
   },
+  "Twilight Diviner": {
+    "name": "Twilight Diviner",
+    "mana_cost": "{2}{B}",
+    "cmc": 3.0,
+    "type_line": "Creature — Elf Cleric",
+    "oracle_text": "When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)\nWhenever one or more other creatures you control enter, if they entered or were cast from a graveyard, create a token that's a copy of one of them. This ability triggers only once each turn."
+  },
   "Twilight Prophet": {
     "name": "Twilight Prophet",
     "mana_cost": "{2}{B}{B}",
@@ -15314,6 +15622,13 @@
     "cmc": 2.0,
     "type_line": "Artifact Creature — Spider Toy",
     "oracle_text": "{T}: Add one mana of any color. Put a nest counter on this creature.\n{T}, Sacrifice this creature: Create a 2/2 green Spider creature token with reach for each counter on this creature. Activate only as a sorcery."
+  },
+  "Two-Handed Axe // Sweeping Cleave": {
+    "name": "Two-Handed Axe // Sweeping Cleave",
+    "mana_cost": "{2}{R} // {1}{R}",
+    "cmc": 3.0,
+    "type_line": "Artifact — Equipment // Instant — Adventure",
+    "oracle_text": ""
   },
   "Typhoid Rats": {
     "name": "Typhoid Rats",
@@ -16225,6 +16540,13 @@
     "type_line": "Creature — Human Bear Druid",
     "oracle_text": "{T}: Add {G}.\nThreshold — This creature gets +3/+3 as long as there are seven or more cards in your graveyard."
   },
+  "Wernog, Rider's Chaplain": {
+    "name": "Wernog, Rider's Chaplain",
+    "mana_cost": "{W}{B}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Human",
+    "oracle_text": "When Wernog, Rider's Chaplain enters or leaves the battlefield, each opponent may investigate. Each opponent who doesn't loses 1 life. You investigate X times, where X is one plus the number of opponents who investigated this way.\nPartner—Friends forever (You can have two commanders if both have this ability.)"
+  },
   "Whelming Wave": {
     "name": "Whelming Wave",
     "mana_cost": "{2}{U}{U}",
@@ -16630,6 +16952,13 @@
     "cmc": 5.0,
     "type_line": "Legendary Creature — Human Cleric",
     "oracle_text": "During your turn, Yuna and enchantment creatures you control have trample, lifelink, and ward {2}.\nAt the beginning of your end step, return up to one target enchantment card from your graveyard to the battlefield with a finality counter on it. (If a permanent with a finality counter on it would be put into a graveyard from the battlefield, exile it instead.)"
+  },
+  "Yusri, Fortune's Flame": {
+    "name": "Yusri, Fortune's Flame",
+    "mana_cost": "{1}{U}{R}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Efreet",
+    "oracle_text": "Flying\nWhenever Yusri attacks, choose a number between 1 and 5. Flip that many coins. For each flip you win, draw a card. For each flip you lose, Yusri deals 2 damage to you. If you won five flips this way, you may cast spells from your hand this turn without paying their mana costs."
   },
   "Zacama, Primal Calamity": {
     "name": "Zacama, Primal Calamity",

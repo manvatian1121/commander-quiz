@@ -40,7 +40,7 @@ AXES = {
 
 def load_descriptions() -> dict:
     merged: dict[str, dict] = {}
-    for index in range(1, 17):
+    for index in range(1, 21):
         path = DATA / f"descriptions_{index}.json"
         if not path.exists():
             continue

@@ -1,0 +1,357 @@
+[
+  {
+    "name": "Frodo, Adventurous Hobbit // Sam, Loyal Attendant",
+    "num_decks": 27378,
+    "rank": 31,
+    "color_identity": [
+      "W",
+      "B",
+      "G"
+    ],
+    "kind": "指定拍档",
+    "slug": "frodo-adventurous-hobbit-sam-loyal-attendant"
+  },
+  {
+    "name": "Thrasios, Triton Hero // Tymna the Weaver",
+    "num_decks": 11442,
+    "rank": 209,
+    "color_identity": [
+      "G",
+      "W",
+      "U",
+      "B"
+    ],
+    "kind": "拍档",
+    "slug": "thrasios-triton-hero-tymna-the-weaver"
+  },
+  {
+    "name": "Okaun, Eye of Chaos // Zndrsplt, Eye of Wisdom",
+    "num_decks": 10064,
+    "rank": 247,
+    "color_identity": [
+      "U",
+      "R"
+    ],
+    "kind": "指定拍档",
+    "slug": "okaun-eye-of-chaos-zndrsplt-eye-of-wisdom"
+  },
+  {
+    "name": "Rograkh, Son of Rohgahh // Thrasios, Triton Hero",
+    "num_decks": 9275,
+    "rank": 275,
+    "color_identity": [
+      "G",
+      "U",
+      "R"
+    ],
+    "kind": "拍档",
+    "slug": "rograkh-son-of-rohgahh-thrasios-triton-hero"
+  },
+  {
+    "name": "Ardenn, Intrepid Archaeologist // Rograkh, Son of Rohgahh",
+    "num_decks": 8555,
+    "rank": 312,
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "kind": "拍档",
+    "slug": "ardenn-intrepid-archaeologist-rograkh-son-of-rohgahh"
+  },
+  {
+    "name": "Krark, the Thumbless // Sakashima of a Thousand Faces",
+    "num_decks": 5696,
+    "rank": 520,
+    "color_identity": [
+      "U",
+      "R"
+    ],
+    "kind": "拍档",
+    "slug": "krark-the-thumbless-sakashima-of-a-thousand-faces"
+  },
+  {
+    "name": "Owen Grady, Raptor Trainer // Blue, Loyal Raptor",
+    "num_decks": 5640,
+    "rank": 527,
+    "color_identity": [
+      "G",
+      "U",
+      "R"
+    ],
+    "kind": "指定拍档",
+    "slug": "owen-grady-raptor-trainer-blue-loyal-raptor"
+  },
+  {
+    "name": "Thrasios, Triton Hero // Vial Smasher the Fierce",
+    "num_decks": 4538,
+    "rank": 645,
+    "color_identity": [
+      "U",
+      "B",
+      "R",
+      "G"
+    ],
+    "kind": "拍档",
+    "slug": "thrasios-triton-hero-vial-smasher-the-fierce"
+  },
+  {
+    "name": "Thrasios, Triton Hero // Yoshimaru, Ever Faithful",
+    "num_decks": 4490,
+    "rank": 655,
+    "color_identity": [
+      "G",
+      "W",
+      "U"
+    ],
+    "kind": "拍档",
+    "slug": "thrasios-triton-hero-yoshimaru-ever-faithful"
+  },
+  {
+    "name": "Brallin, Skyshark Rider // Shabraz, the Skyshark",
+    "num_decks": 3936,
+    "rank": 722,
+    "color_identity": [
+      "U",
+      "R",
+      "W"
+    ],
+    "kind": "指定拍档",
+    "slug": "brallin-skyshark-rider-shabraz-the-skyshark"
+  },
+  {
+    "name": "Pir, Imaginative Rascal // Toothy, Imaginary Friend",
+    "num_decks": 3088,
+    "rank": 862,
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "kind": "指定拍档",
+    "slug": "pir-imaginative-rascal-toothy-imaginary-friend"
+  },
+  {
+    "name": "Sakashima of a Thousand Faces // Vial Smasher the Fierce",
+    "num_decks": 2524,
+    "rank": 983,
+    "color_identity": [
+      "U",
+      "B",
+      "R"
+    ],
+    "kind": "拍档",
+    "slug": "sakashima-of-a-thousand-faces-vial-smasher-the-fierce"
+  },
+  {
+    "name": "Tevesh Szat, Doom of Fools // Thrasios, Triton Hero",
+    "num_decks": 2508,
+    "rank": 991,
+    "color_identity": [
+      "B",
+      "G",
+      "U"
+    ],
+    "kind": "拍档",
+    "slug": "tevesh-szat-doom-of-fools-thrasios-triton-hero"
+  },
+  {
+    "name": "Cecily, Haunted Mage // Othelm, Sigardian Outcast",
+    "num_decks": 2487,
+    "rank": 1002,
+    "color_identity": [
+      "W",
+      "U",
+      "B",
+      "R",
+      "G"
+    ],
+    "kind": "拍档",
+    "slug": "cecily-haunted-mage-othelm-sigardian-outcast"
+  },
+  {
+    "name": "Rograkh, Son of Rohgahh // Yoshimaru, Ever Faithful",
+    "num_decks": 2481,
+    "rank": 1003,
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "kind": "拍档",
+    "slug": "rograkh-son-of-rohgahh-yoshimaru-ever-faithful"
+  },
+  {
+    "name": "Ishai, Ojutai Dragonspeaker // Rograkh, Son of Rohgahh",
+    "num_decks": 1939,
+    "rank": 1180,
+    "color_identity": [
+      "U",
+      "R",
+      "W"
+    ],
+    "kind": "拍档",
+    "slug": "ishai-ojutai-dragonspeaker-rograkh-son-of-rohgahh"
+  },
+  {
+    "name": "Krav, the Unredeemed // Regna, the Redeemer",
+    "num_decks": 1610,
+    "rank": 1306,
+    "color_identity": [
+      "W",
+      "B"
+    ],
+    "kind": "指定拍档",
+    "slug": "krav-the-unredeemed-regna-the-redeemer"
+  },
+  {
+    "name": "Kodama of the East Tree // Toggo, Goblin Weaponsmith",
+    "num_decks": 1556,
+    "rank": 1329,
+    "color_identity": [
+      "R",
+      "G"
+    ],
+    "kind": "拍档",
+    "slug": "kodama-of-the-east-tree-toggo-goblin-weaponsmith"
+  },
+  {
+    "name": "Rograkh, Son of Rohgahh // Tevesh Szat, Doom of Fools",
+    "num_decks": 1527,
+    "rank": 1341,
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "kind": "拍档",
+    "slug": "rograkh-son-of-rohgahh-tevesh-szat-doom-of-fools"
+  },
+  {
+    "name": "Kodama of the East Tree // Sakashima of a Thousand Faces",
+    "num_decks": 1497,
+    "rank": 1358,
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "kind": "拍档",
+    "slug": "kodama-of-the-east-tree-sakashima-of-a-thousand-faces"
+  },
+  {
+    "name": "Rograkh, Son of Rohgahh // Tymna the Weaver",
+    "num_decks": 1330,
+    "rank": 1448,
+    "color_identity": [
+      "R",
+      "W",
+      "B"
+    ],
+    "kind": "拍档",
+    "slug": "rograkh-son-of-rohgahh-tymna-the-weaver"
+  },
+  {
+    "name": "Khorvath Brightflame // Sylvia Brightspear",
+    "num_decks": 1172,
+    "rank": 1557,
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "kind": "指定拍档",
+    "slug": "khorvath-brightflame-sylvia-brightspear"
+  },
+  {
+    "name": "Othelm, Sigardian Outcast // Wernog, Rider's Chaplain",
+    "num_decks": 1170,
+    "rank": 1559,
+    "color_identity": [
+      "W",
+      "B",
+      "G"
+    ],
+    "kind": "拍档",
+    "slug": "othelm-sigardian-outcast-wernog-riders-chaplain"
+  },
+  {
+    "name": "Krark, the Thumbless // Thrasios, Triton Hero",
+    "num_decks": 1082,
+    "rank": 1609,
+    "color_identity": [
+      "G",
+      "U",
+      "R"
+    ],
+    "kind": "拍档",
+    "slug": "krark-the-thumbless-thrasios-triton-hero"
+  },
+  {
+    "name": "Cecily, Haunted Mage // Wernog, Rider's Chaplain",
+    "num_decks": 1012,
+    "rank": 1666,
+    "color_identity": [
+      "W",
+      "U",
+      "B",
+      "R"
+    ],
+    "kind": "拍档",
+    "slug": "cecily-haunted-mage-wernog-riders-chaplain"
+  },
+  {
+    "name": "Thrasios, Triton Hero // Toggo, Goblin Weaponsmith",
+    "num_decks": 946,
+    "rank": 1728,
+    "color_identity": [
+      "G",
+      "U",
+      "R"
+    ],
+    "kind": "拍档",
+    "slug": "thrasios-triton-hero-toggo-goblin-weaponsmith"
+  },
+  {
+    "name": "Ishai, Ojutai Dragonspeaker // Vial Smasher the Fierce",
+    "num_decks": 917,
+    "rank": 1742,
+    "color_identity": [
+      "W",
+      "U",
+      "B",
+      "R"
+    ],
+    "kind": "拍档",
+    "slug": "ishai-ojutai-dragonspeaker-vial-smasher-the-fierce"
+  },
+  {
+    "name": "Krark, the Thumbless // Vial Smasher the Fierce",
+    "num_decks": 887,
+    "rank": 1770,
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "kind": "拍档",
+    "slug": "krark-the-thumbless-vial-smasher-the-fierce"
+  },
+  {
+    "name": "Sakashima of a Thousand Faces // Tymna the Weaver",
+    "num_decks": 877,
+    "rank": 1776,
+    "color_identity": [
+      "W",
+      "U",
+      "B"
+    ],
+    "kind": "拍档",
+    "slug": "sakashima-of-a-thousand-faces-tymna-the-weaver"
+  },
+  {
+    "name": "Kodama of the East Tree // Tymna the Weaver",
+    "num_decks": 869,
+    "rank": 1782,
+    "color_identity": [
+      "W",
+      "B",
+      "G"
+    ],
+    "kind": "拍档",
+    "slug": "kodama-of-the-east-tree-tymna-the-weaver"
+  }
+]
