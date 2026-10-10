@@ -11,14 +11,15 @@ import pathlib
 import re
 import sys
 
+
+# --- 路径已改为相对本文件，便于他人 clone 后直接运行 ---
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+SCRIPT_DIR = pathlib.Path(__file__).resolve().parent
 sys.stdout.reconfigure(encoding="utf-8")
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 
 from _draft_8 import CONTENT  # noqa: E402
 
-# --- 路径已改为相对本文件，便于他人 clone 后直接运行 ---
-ROOT = pathlib.Path(__file__).resolve().parent.parent
-SCRIPT_DIR = pathlib.Path(__file__).resolve().parent
 
 DATA = pathlib.Path(ROOT / "data")
 IDX = json.loads(pathlib.Path(

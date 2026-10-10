@@ -6,6 +6,10 @@ import json
 import pathlib
 import sys
 
+
+# --- 路径已改为相对本文件，便于他人 clone 后直接运行 ---
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+SCRIPT_DIR = pathlib.Path(__file__).resolve().parent
 sys.stdout.reconfigure(encoding="utf-8")
 DATA = pathlib.Path(ROOT / "data")
 m = json.loads((DATA / "tag_axis_map.json").read_text(encoding="utf-8"))
@@ -41,9 +45,6 @@ for tag, reason in sorted(ig.items()):
 # 统计各轴被多少标签指向
 from collections import Counter
 
-# --- 路径已改为相对本文件，便于他人 clone 后直接运行 ---
-ROOT = pathlib.Path(__file__).resolve().parent.parent
-SCRIPT_DIR = pathlib.Path(__file__).resolve().parent
 axis_tags: Counter = Counter()
 for weights in mp.values():
     for axis in weights:

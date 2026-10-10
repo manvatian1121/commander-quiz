@@ -4,10 +4,11 @@ import json
 import pathlib
 import sys
 
+
+
 # --- 路径已改为相对本文件，便于他人 clone 后直接运行 ---
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SCRIPT_DIR = pathlib.Path(__file__).resolve().parent
-
 sys.stdout.reconfigure(encoding="utf-8")
 IDX = json.loads(pathlib.Path(
     SCRIPT_DIR / "_material_index_8.json").read_text(encoding="utf-8"))

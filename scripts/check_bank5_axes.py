@@ -5,6 +5,10 @@ import itertools
 import pathlib
 import sys
 
+
+# --- 路径已改为相对本文件，便于他人 clone 后直接运行 ---
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+SCRIPT_DIR = pathlib.Path(__file__).resolve().parent
 sys.stdout.reconfigure(encoding="utf-8")
 BANK = pathlib.Path(ROOT / "data" / "bank5.json")
 
@@ -30,9 +34,6 @@ for it in issues:
 # 顺便统计权重分布与题均引用
 from collections import Counter
 
-# --- 路径已改为相对本文件，便于他人 clone 后直接运行 ---
-ROOT = pathlib.Path(__file__).resolve().parent.parent
-SCRIPT_DIR = pathlib.Path(__file__).resolve().parent
 w = Counter()
 refs = 0
 opts = 0

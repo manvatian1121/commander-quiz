@@ -11,10 +11,11 @@ import pathlib
 import re
 import sys
 
+
+
 # --- 路径已改为相对本文件，便于他人 clone 后直接运行 ---
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SCRIPT_DIR = pathlib.Path(__file__).resolve().parent
-
 sys.stdout.reconfigure(encoding="utf-8")
 DATA = pathlib.Path(ROOT / "data")
 TARGETS = [f"descriptions_{i}.json" for i in range(4, 19)]

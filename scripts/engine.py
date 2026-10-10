@@ -13,10 +13,11 @@ import math
 import pathlib
 import sys
 
+
+
 # --- 路径已改为相对本文件，便于他人 clone 后直接运行 ---
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SCRIPT_DIR = pathlib.Path(__file__).resolve().parent
-
 sys.stdout.reconfigure(encoding="utf-8")
 DATA = pathlib.Path(ROOT / "data")
 
@@ -25,10 +26,9 @@ DEFAULTS = {"complex": 3.0, "budget": 3.0, "salt": 3.0}
 # 接触时长 → 整套评分标准的切换参数。做法与旧版测试里那道「你是完全的新手吗」一脉相承：
 # 新人收紧难度容忍、抬高流行度权重（更容易找到资料）、压住高强度档位。
 EXP_PROFILE = {
-    1: {"name": "完全新人", "complex_cap": 1.6, "pop_mul": 1.35, "bracket_cap": 2},
-    2: {"name": "玩过万智牌，没打过指挥官", "complex_cap": 2.6, "pop_mul": 1.20,
-        "bracket_cap": 3},
-    3: {"name": "打过一段时间指挥官", "complex_cap": 3.8, "pop_mul": 1.00, "bracket_cap": 4},
+    1: {"name": "完全新人", "complex_cap": 2.4, "pop_mul": 1.35, "bracket_cap": 3},
+    2: {"name": "玩过万智牌，没打过指挥官", "complex_cap": 3.2, "pop_mul": 1.2, "bracket_cap": 4},
+    3: {"name": "打过一段时间指挥官", "complex_cap": 4.2, "pop_mul": 1.0, "bracket_cap": 5},
     4: {"name": "老手", "complex_cap": 5.0, "pop_mul": 0.85, "bracket_cap": 5},
 }
 

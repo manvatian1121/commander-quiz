@@ -5,10 +5,11 @@ import pathlib
 import urllib.parse
 import urllib.request
 
+
+
 # --- 路径已改为相对本文件，便于他人 clone 后直接运行 ---
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SCRIPT_DIR = pathlib.Path(__file__).resolve().parent
-
 OUT = pathlib.Path(ROOT / "data" / "_term_probe2.txt")
 BASE = "https://mtgch.com/api/v1"
 

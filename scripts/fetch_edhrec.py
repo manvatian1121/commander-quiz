@@ -7,10 +7,11 @@ import pathlib
 import urllib.error
 import urllib.request
 
+
+
 # --- 路径已改为相对本文件，便于他人 clone 后直接运行 ---
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 SCRIPT_DIR = pathlib.Path(__file__).resolve().parent
-
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36")
 OUT = pathlib.Path(ROOT / "data")

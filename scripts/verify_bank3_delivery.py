@@ -4,10 +4,11 @@ import json
 import sys
 from pathlib import Path
 
+
+
 # --- 路径已改为相对本文件，便于他人 clone 后直接运行 ---
 ROOT = Path(__file__).resolve().parent.parent
 SCRIPT_DIR = Path(__file__).resolve().parent
-
 sys.stdout.reconfigure(encoding="utf-8")
 
 P = Path(ROOT / "data" / "bank3.json")

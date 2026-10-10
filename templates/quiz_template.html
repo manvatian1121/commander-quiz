@@ -145,10 +145,10 @@
   var DEFAULT_C = { complex:3, budget:3, salt:3 };
   // 接触时长 → 整套评分标准的切换参数（与 Python 引擎 engine.py 的 EXP_PROFILE 一致）
   var EXP_PROFILE = {
-    1: { name:"完全新人",               complexCap:1.6, popMul:1.35, bracketCap:2 },
-    2: { name:"玩过万智牌，没打过指挥官", complexCap:2.6, popMul:1.20, bracketCap:3 },
-    3: { name:"打过一段时间指挥官",      complexCap:3.8, popMul:1.00, bracketCap:4 },
-    4: { name:"老手",                   complexCap:5.0, popMul:0.85, bracketCap:5 }
+    1: { name:"完全新人", complexCap:2.4, popMul:1.35, bracketCap:3 },
+    2: { name:"玩过万智牌，没打过指挥官", complexCap:3.2, popMul:1.2, bracketCap:4 },
+    3: { name:"打过一段时间指挥官", complexCap:4.2, popMul:1.0, bracketCap:5 },
+    4: { name:"老手", complexCap:5.0, popMul:0.85, bracketCap:5 },
   };
   var SALT_THRESHOLD = { 1:0.6, 2:1.0, 3:1.4, 4:2.0, 5:3.2 };
   // 连续插值，避免取整（Python round 与 JS Math.round 在 x.5 处分叉）与档位跳变

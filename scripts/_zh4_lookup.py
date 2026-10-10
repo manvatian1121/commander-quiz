@@ -4,10 +4,11 @@ import json
 import re
 import sys
 
+
+
 # --- 路径已改为相对本文件，便于他人 clone 后直接运行 ---
 ROOT = Path(__file__).resolve().parent.parent
 SCRIPT_DIR = Path(__file__).resolve().parent
-
 sys.stdout.reconfigure(encoding="utf-8")
 
 MD = ROOT / "data" / "writing_batch_new_4.md"
