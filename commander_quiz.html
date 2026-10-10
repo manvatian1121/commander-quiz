@@ -499,9 +499,11 @@
     var nActive = poolActiveCount();
     var chips = function (host, list, sel, cls) {
       return '<div class="poolchips" id="' + host + '">' + list.map(function (o) {
+        // 颜色片用 .label，玩法标签用 .zh —— 两个都要认，否则渲染成 undefined
+        var txt = o.label || o.zh || o.k;
         return '<span class="poolchip' + cls + (sel.indexOf(o.k) >= 0 ? " on" : "") +
                '" data-k="' + o.k + '" title="' + esc(o.desc || "") + '">' +
-               o.label + "</span>";
+               esc(txt) + "</span>";
       }).join("") + "</div>";
     };
 

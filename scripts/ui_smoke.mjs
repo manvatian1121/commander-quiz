@@ -264,6 +264,31 @@ check("颜色多选与「不包含未选颜色」", () => {
   P.strict = false; P.colors = [];
 });
 
+check("主将池的筛选片都能正常渲染（不出现 undefined）", () => {
+  engine.screenPool();
+  // DOM 桩的 getElementById 会新建空节点，所以要从 app 读整块渲染结果
+  const html = document.getElementById("app").innerHTML;
+  if (html.indexOf("undefined") >= 0) {
+    const i = html.indexOf("undefined");
+    throw new Error("界面上出现 undefined：" + html.slice(Math.max(0, i - 60), i + 30));
+  }
+  if (html.indexOf("NaN") >= 0) throw new Error("界面上出现 NaN");
+
+  // 20 个玩法标签、6 个颜色片、5 个强度档位都要在
+  const tags = engine.poolTags();
+  if (tags.length !== 20) throw new Error("玩法标签应有 20 个，实得 " + tags.length);
+  for (const o of tags) {
+    if (!o.zh) throw new Error("标签 " + o.k + " 没有中文名");
+    if (html.indexOf(o.zh) < 0) throw new Error("标签「" + o.zh + "」没有渲染出来");
+  }
+  for (const label of ["白", "蓝", "黑", "红", "绿", "无色"]) {
+    if (html.indexOf(">" + label + "<") < 0) throw new Error("颜色片「" + label + "」没渲染");
+  }
+  for (const b of ["B1", "B2", "B3", "B4", "B5"]) {
+    if (html.indexOf(">" + b + "<") < 0) throw new Error("档位片「" + b + "」没渲染");
+  }
+});
+
 check("玩法偏好筛选", () => {
   const P = engine.POOL = engine.POOL;
   P.colors = []; P.brackets = []; P.strict = false;
