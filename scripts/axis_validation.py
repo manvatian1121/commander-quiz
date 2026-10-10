@@ -72,7 +72,9 @@ EXPECTED = {
               "Xyris, the Writhing Storm", "The Infamous Cruelclaw",
               "Yusri, Fortune's Flame", "Maelstrom Wanderer", "Averna, the Chaos Bloom"},
     "counters": {"Atraxa, Praetors' Voice", "Tidus, Yuna's Guardian", "The Wise Mothman"},
-    "blink": {"Brago, King Eternal", "Yarok, the Desecrated", "Pantlaza, Sun-Favored"},
+    "blink": {"Brago, King Eternal", "Yarok, the Desecrated", "Pantlaza, Sun-Favored",
+              "Katara, the Fearless", "Delney, Streetwise Lookout",
+              "Ashling, the Limitless", "Minthara, Merciless Soul"},
 }
 
 
