@@ -103,6 +103,26 @@
   .poolmore{text-align:center;padding:10px}
   .poolmore button{padding:9px 18px}
   .btn.sm{padding:8px 14px;font-size:13.5px}
+  .poolgroup{margin-top:14px}
+  .poolgt{font-size:12.5px;font-weight:700;letter-spacing:.04em;color:var(--dim);
+    display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:2px}
+  .poolhint{font-weight:400;letter-spacing:0;opacity:.72;font-size:11.5px}
+  .poolstrict{margin-left:auto;font-weight:400;letter-spacing:0;display:flex;
+    align-items:center;gap:5px;font-size:12.5px;color:#b9c6da;cursor:pointer}
+  .poolstrict input{width:auto;margin:0;cursor:pointer;accent-color:#38bdf8}
+  .poolstrict label{cursor:pointer;user-select:none}
+  /* 颜色片：选中时带该色的边框与底纹 */
+  .poolchip.color-W.on{background:#2a2a22;border-color:#e8e3c8;color:#f5f2df}
+  .poolchip.color-U.on{background:#12283a;border-color:#4aa8d8;color:#a8dcf5}
+  .poolchip.color-B.on{background:#221c26;border-color:#9b8fa8;color:#ddd3e5}
+  .poolchip.color-R.on{background:#2e1a1a;border-color:#e0715f;color:#f7c2b8}
+  .poolchip.color-G.on{background:#16281c;border-color:#5fae72;color:#bdedc7}
+  .poolchip.color-C.on{background:#252a31;border-color:#9aa7b8;color:#dbe3ee}
+  /* 强度档位：B4/B5 用暖色提示强度 */
+  .poolchip.br-1.on,.poolchip.br-2.on{background:#12283a;border-color:#22506e;color:#9ddcf8}
+  .poolchip.br-3.on{background:#1d2736;border-color:#4a8fb5;color:#b9dcf0}
+  .poolchip.br-4.on{background:#2e2418;border-color:#c9964a;color:#f0d9a8}
+  .poolchip.br-5.on{background:#31191c;border-color:#d4675f;color:#f5bcb5}
   .tagline{font-size:15px;font-weight:600;color:var(--gold);margin:8px 0 4px;letter-spacing:.01em}
   .hero .tagline{font-size:17px}
   .block{margin-top:16px}
@@ -330,36 +350,82 @@
   }
 
   /* ---------- 主将池浏览 ---------- */
-  var POOL = { kw:"", color:"", sort:"pop", shown:60, open:null };
+  var POOL = { kw:"", colors:[], strict:false, tags:[], brackets:[], sort:"pop",
+               shown:60, open:null };
   var POOL_PAGE = 60;
   var POOL_COLORS = [
-    { k:"",      label:"全部" },
-    { k:"W",     label:"白" }, { k:"U", label:"蓝" }, { k:"B", label:"黑" },
-    { k:"R",     label:"红" }, { k:"G", label:"绿" },
-    { k:"C",     label:"无色" },
-    { k:"multi", label:"多色" }
+    { k:"W", label:"白" }, { k:"U", label:"蓝" }, { k:"B", label:"黑" },
+    { k:"R", label:"红" }, { k:"G", label:"绿" }, { k:"C", label:"无色" }
   ];
+  // 玩法标签阈值：向量值到这个数才算「主将真的擅长这个玩法」
+  var TAG_MIN = 1.0;
+  var POOL_SORTS = { pop:"流行度", diff:"难度", salt:"仇恨度", name:"名称" };
+
+  function poolTags() {
+    // 20 个玩法轴，按中文名排序，方便找
+    return Object.keys(AXES).map(function (k) {
+      return { k:k, zh:AXES[k].zh };
+    }).sort(function (a, b) { return a.zh.localeCompare(b.zh, "zh"); });
+  }
+
+  function toggleIn(arr, v) {
+    var i = arr.indexOf(v);
+    if (i < 0) { arr.push(v); } else { arr.splice(i, 1); }
+    return arr;
+  }
 
   function poolList() {
     var kw = POOL.kw.trim().toLowerCase();
     var out = CMDS.filter(function (c) {
-      if (POOL.color === "C" && c.colors !== "C") return false;
-      if (POOL.color === "multi" && (c.colors === "C" || c.colors.length < 2)) return false;
-      if (POOL.color && POOL.color !== "C" && POOL.color !== "multi"
-          && c.colors.indexOf(POOL.color) < 0) return false;
+      var cols = c.colors || "C";
+      var isNone = cols === "C";
+      // 颜色：多选
+      if (POOL.colors.length) {
+        if (POOL.strict) {
+          // 「不包含未选颜色」：主将的每个颜色都必须在选中集合内；
+          // 无色主将要求选中「无色」
+          for (var i = 0; i < cols.length; i++) {
+            if (POOL.colors.indexOf(cols[i]) < 0) return false;
+          }
+          if (isNone && POOL.colors.indexOf("C") < 0) return false;
+        } else {
+          // 默认：含任一选中颜色即可（无色主将要求选中「无色」）
+          if (isNone) {
+            if (POOL.colors.indexOf("C") < 0) return false;
+          } else {
+            var hitColor = false;
+            for (var j = 0; j < cols.length; j++) {
+              if (POOL.colors.indexOf(cols[j]) >= 0) { hitColor = true; break; }
+            }
+            if (!hitColor) return false;
+          }
+        }
+      }
+      // 玩法标签：全部命中，且要够显著
+      for (var t = 0; t < POOL.tags.length; t++) {
+        if ((c.vec[POOL.tags[t]] || 0) < TAG_MIN) return false;
+      }
+      // 强度档位
+      if (POOL.brackets.length && POOL.brackets.indexOf(String(c.bracket)) < 0) {
+        return false;
+      }
       if (kw && (c.zh + " " + c.en).toLowerCase().indexOf(kw) < 0) return false;
       return true;
     });
-    if (POOL.sort === "pop") {
-      out.sort(function (a, b) { return (b.num_decks || 0) - (a.num_decks || 0); });
-    } else if (POOL.sort === "diff") {
-      out.sort(function (a, b) {
-        return (a.difficulty || 0) - (b.difficulty || 0)
-            || (b.num_decks || 0) - (a.num_decks || 0); });
-    } else {
-      out.sort(function (a, b) { return String(a.zh).localeCompare(String(b.zh), "zh"); });
-    }
-    return out;
+    var cmp = {
+      pop:  function (a, b) { return (b.num_decks || 0) - (a.num_decks || 0); },
+      diff: function (a, b) { return (a.difficulty || 0) - (b.difficulty || 0)
+                                  || (b.num_decks || 0) - (a.num_decks || 0); },
+      name: function (a, b) { return String(a.zh).localeCompare(String(b.zh), "zh"); },
+      salt: function (a, b) { return (b.salt || 0) - (a.salt || 0)
+                                  || (b.num_decks || 0) - (a.num_decks || 0); }
+    };
+    return out.sort(cmp[POOL.sort] || cmp.pop);
+  }
+
+  function poolActiveCount() {
+    return POOL.colors.length + POOL.tags.length + POOL.brackets.length
+         + (POOL.strict ? 1 : 0) + (POOL.kw.trim() ? 1 : 0);
   }
 
   function poolDetail(c) {
@@ -430,20 +496,51 @@
   function screenPool() {
     app.innerHTML = "";
     var box = el("div", "card");
+    var nActive = poolActiveCount();
+    var chips = function (host, list, sel, cls) {
+      return '<div class="poolchips" id="' + host + '">' + list.map(function (o) {
+        return '<span class="poolchip' + cls + (sel.indexOf(o.k) >= 0 ? " on" : "") +
+               '" data-k="' + o.k + '" title="' + esc(o.desc || "") + '">' +
+               o.label + "</span>";
+      }).join("") + "</div>";
+    };
+
     box.innerHTML =
       "<h1>主将池</h1>" +
-      '<p class="muted">全部 <b>' + CMDS.length + "</b> 位主将，按 EDHREC 套牌总数排序。" +
-      "点任意一位可以展开它的介绍与搭配牌。</p>" +
+      '<p class="muted">全部 <b>' + CMDS.length + "</b> 位主将。点任意一位可以展开" +
+      "它的介绍与搭配牌。筛选条件可以叠加。</p>" +
       '<div class="mt-s"><input id="pool-q" class="poolinput" type="search" ' +
       'placeholder="搜中文名或英文名…" value="' + esc(POOL.kw) + '"></div>' +
-      '<div class="poolchips" id="pool-colors">' +
-        POOL_COLORS.map(function (o) {
-          return '<span class="poolchip' + (POOL.color === o.k ? " on" : "") +
-                 '" data-c="' + o.k + '">' + o.label + "</span>";
-        }).join("") + "</div>" +
+
+      '<div class="poolgroup">' +
+        '<div class="poolgt">颜色<span class="poolhint">可多选</span>' +
+          '<span class="poolstrict" id="pool-strict">' +
+          '<input type="checkbox" id="pool-strict-box"' +
+          (POOL.strict ? " checked" : "") + '><label for="pool-strict-box">' +
+          "不包含未选颜色</label></span></div>" +
+        chips("pool-colors", POOL_COLORS, POOL.colors, " color-" ) +
+      "</div>" +
+
+      '<div class="poolgroup">' +
+        '<div class="poolgt">玩法偏好<span class="poolhint">可多选，需全部命中</span></div>' +
+        chips("pool-tags", poolTags(), POOL.tags, " tag-" ) +
+      "</div>" +
+
+      '<div class="poolgroup">' +
+        '<div class="poolgt">强度档位<span class="poolhint">Bracket，可多选</span></div>' +
+        '<div class="poolchips" id="pool-brackets">' +
+          [1, 2, 3, 4, 5].map(function (b) {
+            return '<span class="poolchip br-' + b +
+                   (POOL.brackets.indexOf(String(b)) >= 0 ? " on" : "") +
+                   '" data-k="' + b + '">B' + b + "</span>";
+          }).join("") + "</div>" +
+      "</div>" +
+
       '<div class="row mt-s">' +
-        '<button class="btn ghost sm" id="pool-sort">排序：' +
-          ({ pop:"流行度", diff:"难度", name:"名称" })[POOL.sort] + " ▾</button>" +
+        '<button class="btn ghost sm" id="pool-sort">排序：' + POOL_SORTS[POOL.sort] +
+          " ▾</button>" +
+        (nActive ? '<button class="btn ghost sm" id="pool-clear">清空筛选（' +
+          nActive + "）</button>" : "") +
         '<span class="muted" id="pool-count" style="align-self:center"></span></div>' +
       '<div class="mt-s" id="pool-list"></div>' +
       '<div class="row mt"><button class="btn ghost" id="pool-back">← 回首页</button></div>';
@@ -451,17 +548,36 @@
 
     var q = document.getElementById("pool-q");
     q.oninput = function () { POOL.kw = q.value; POOL.shown = POOL_PAGE; poolRender(); };
-    document.getElementById("pool-colors").querySelectorAll(".poolchip")
-      .forEach(function (chip) {
+
+    var wire = function (id, key, cast) {
+      var host = document.getElementById(id);
+      if (!host) return;
+      host.querySelectorAll(".poolchip").forEach(function (chip) {
         chip.onclick = function () {
-          POOL.color = chip.getAttribute("data-c");
+          toggleIn(POOL[key], cast(chip.getAttribute("data-k")));
           POOL.shown = POOL_PAGE;
           screenPool();
         };
       });
+    };
+    wire("pool-colors", "colors", String);
+    wire("pool-tags", "tags", String);
+    wire("pool-brackets", "brackets", String);
+
+    var sb = document.getElementById("pool-strict-box");
+    if (sb) sb.onchange = function () {
+      POOL.strict = sb.checked; POOL.shown = POOL_PAGE; screenPool();
+    };
     document.getElementById("pool-sort").onclick = function () {
-      POOL.sort = POOL.sort === "pop" ? "diff" : (POOL.sort === "diff" ? "name" : "pop");
+      var order = ["pop", "diff", "salt", "name"];
+      POOL.sort = order[(order.indexOf(POOL.sort) + 1) % order.length];
       POOL.shown = POOL_PAGE;
+      screenPool();
+    };
+    var clr = document.getElementById("pool-clear");
+    if (clr) clr.onclick = function () {
+      POOL.kw = ""; POOL.colors = []; POOL.tags = []; POOL.brackets = [];
+      POOL.strict = false; POOL.shown = POOL_PAGE; POOL.open = null;
       screenPool();
     };
     document.getElementById("pool-back").onclick = function () { screenIntro(); };
@@ -814,7 +930,8 @@
       start: start, choose: choose, goNext: goNext, goBack: goBack,
       screenQuestion: screenQuestion, goNextRaw: goNext,
       screenIntro: screenIntro, screenPool: screenPool,
-      poolList: poolList, POOL: POOL,
+      poolList: poolList, POOL: POOL, poolTags: poolTags,
+      poolActiveCount: poolActiveCount,
       getState: function () { return state; }, Q: Q,
       spine: SPINE.slice(), startId: START,
       totals: { full: FULL_TOTAL, quick: QUICK_TOTAL,

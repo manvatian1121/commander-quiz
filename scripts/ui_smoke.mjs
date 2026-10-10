@@ -225,25 +225,114 @@ check("主将池列出全部主将并按流行度排序", () => {
   }
 });
 
-check("颜色筛选正确", () => {
+check("颜色多选与「不包含未选颜色」", () => {
   const P = engine.POOL, cmds = globalThis.__QUIZ_DATA__.commanders;
-  P.kw = ""; P.sort = "pop";
+  P.kw = ""; P.tags = []; P.brackets = []; P.strict = false; P.sort = "pop";
+
   for (const color of ["W", "U", "B", "R", "G"]) {
-    P.color = color;
+    P.colors = [color];
     const got = engine.poolList();
     const want = cmds.filter((c) => c.colors.indexOf(color) >= 0).length;
-    if (got.length !== want) throw new Error(`${color} 色筛出 ${got.length}，应为 ${want}`);
-    if (got.some((c) => c.colors.indexOf(color) < 0)) {
-      throw new Error(`${color} 筛出了不含该色的主将`);
+    if (got.length !== want) {
+      throw new Error(color + " 色筛出 " + got.length + "，应为 " + want);
     }
   }
-  P.color = "C";
-  if (engine.poolList().some((c) => c.colors !== "C")) throw new Error("无色筛选混进了有色主将");
-  P.color = "multi";
-  if (engine.poolList().some((c) => c.colors === "C" || c.colors.length < 2)) {
-    throw new Error("多色筛选混进了单色或无色主将");
+  P.colors = ["C"];
+  const none = engine.poolList();
+  const wantNone = cmds.filter((c) => c.colors === "C").length;
+  if (none.length !== wantNone) {
+    throw new Error("无色筛出 " + none.length + "，应为 " + wantNone);
   }
-  P.color = "";
+  if (none.some((c) => c.colors !== "C")) throw new Error("无色筛选混进了有色主将");
+
+  P.colors = ["W", "U"];
+  const or = engine.poolList();
+  const wantOr = cmds.filter((c) => c.colors.indexOf("W") >= 0
+                                 || c.colors.indexOf("U") >= 0).length;
+  if (or.length !== wantOr) {
+    throw new Error("W|U 多选筛出 " + or.length + "，应为 " + wantOr);
+  }
+  if (or.length <= none.length) throw new Error("多选结果没有比单选更多，OR 逻辑可疑");
+
+  P.colors = ["W", "U"]; P.strict = true;
+  const strict = engine.poolList();
+  if (strict.some((c) => c.colors.split("").some((x) => ["W", "U"].indexOf(x) < 0))) {
+    throw new Error("严格模式筛出了含未选颜色的主将");
+  }
+  if (strict.length >= or.length) throw new Error("严格模式的结果没有比 OR 模式更少");
+  if (strict.some((c) => c.colors === "C")) throw new Error("严格模式下无色主将漏了进来");
+  P.strict = false; P.colors = [];
+});
+
+check("玩法偏好筛选", () => {
+  const P = engine.POOL = engine.POOL;
+  P.colors = []; P.brackets = []; P.strict = false;
+
+  P.tags = ["chaos"];
+  const chaos = engine.poolList();
+  if (!chaos.length) throw new Error("「随机搞事」筛出 0 位，可疑");
+  if (chaos.some((c) => (c.vec.chaos || 0) < 1.0)) {
+    throw new Error("混进了混沌轴不足的主将");
+  }
+
+  P.tags = ["chaos", "combo"];
+  const both = engine.poolList();
+  if (both.some((c) => (c.vec.chaos || 0) < 1.0 || (c.vec.combo || 0) < 1.0)) {
+    throw new Error("多标签应是「全部命中」而不是「任一命中」");
+  }
+  if (both.length > chaos.length) throw new Error("加了标签结果反而变多");
+
+  const all = engine.poolTags().map((o) => o.k);
+  if (all.length !== 20) throw new Error("玩法标签应有 20 个，实得 " + all.length);
+  for (const k of all) {
+    P.tags = [k];
+    const r = engine.poolList();
+    if (!r.length) throw new Error("标签 " + k + " 筛出 0 位");
+    if (r.some((c) => (c.vec[k] || 0) < 1.0)) {
+      throw new Error("标签 " + k + " 的结果里有不达标的");
+    }
+  }
+  P.tags = [];
+});
+
+check("强度档位筛选", () => {
+  const P = engine.POOL, cmds = globalThis.__QUIZ_DATA__.commanders;
+  P.colors = []; P.tags = []; P.strict = false;
+  for (const b of ["1", "2", "3", "4", "5"]) {
+    P.brackets = [b];
+    const got = engine.poolList();
+    const want = cmds.filter((c) => String(c.bracket) === b).length;
+    if (got.length !== want) {
+      throw new Error("B" + b + " 筛出 " + got.length + "，应为 " + want);
+    }
+  }
+  P.brackets = ["4", "5"];
+  const hi = engine.poolList();
+  if (hi.some((c) => ["4", "5"].indexOf(String(c.bracket)) < 0)) {
+    throw new Error("B4|B5 混进了低档位主将");
+  }
+  if (!hi.length) throw new Error("B4|B5 筛出 0 位");
+  P.brackets = [];
+});
+
+check("筛选条件可以叠加", () => {
+  const P = engine.POOL, cmds = globalThis.__QUIZ_DATA__.commanders;
+  P.colors = ["B"]; P.tags = ["removal"]; P.brackets = ["2", "3"];
+  const got = engine.poolList();
+  const want = cmds.filter((c) => c.colors.indexOf("B") >= 0
+      && (c.vec.removal || 0) >= 1.0
+      && ["2", "3"].indexOf(String(c.bracket)) >= 0).length;
+  if (got.length !== want) {
+    throw new Error("叠加筛出 " + got.length + "，应为 " + want);
+  }
+  if (!got.length) throw new Error("叠加筛选结果为空，条件可能互斥得过死");
+  P.colors = []; P.tags = []; P.brackets = [];
+});
+
+check("清空筛选能恢复全部", () => {
+  const P = engine.POOL, total = globalThis.__QUIZ_DATA__.commanders.length;
+  P.kw = ""; P.colors = []; P.tags = []; P.brackets = []; P.strict = false;
+  if (engine.poolList().length !== total) throw new Error("清空后没有恢复全部主将");
 });
 
 check("搜索能按中英文名过滤", () => {
