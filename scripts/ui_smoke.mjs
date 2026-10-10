@@ -392,6 +392,49 @@ check("三种排序都能用", () => {
   P.sort = "pop";
 });
 
+check("排序方向可以翻转", () => {
+  const P = engine.POOL, S = engine.POOL_SORTS;
+  const cmds = globalThis.__QUIZ_DATA__.commanders;
+  P.kw = ""; P.colors = []; P.tags = []; P.brackets = []; P.strict = false;
+
+  // 每个字段的两个方向都必须自洽，且互为逆序
+  for (const key of ["pop", "diff", "salt", "name"]) {
+    const field = { pop:"num_decks", diff:"difficulty", salt:"salt", name:"zh" }[key];
+    for (const desc of [false, true]) {
+      P.sort = key; S[key].desc = desc;
+      const list = engine.poolList();
+      if (list.length !== cmds.length) {
+        throw new Error(key + " 排序后条目数不对：" + list.length);
+      }
+      for (let i = 1; i < list.length; i++) {
+        const a = list[i - 1][field], b = list[i][field];
+        if (field === "zh") {
+          const c = String(a).localeCompare(String(b), "zh");
+          if (desc ? c < 0 : c > 0) throw new Error(key + " 名称方向错了");
+        } else {
+          const av = a || 0, bv = b || 0;
+          if (desc ? av < bv : av > bv) {
+            throw new Error(key + " desc=" + desc + " 时出现逆序");
+          }
+        }
+      }
+    }
+    S[key].desc = (key === "pop" || key === "salt");
+  }
+
+  // 翻过来之后第一位应该换人（至少在最极端的两个字段上）
+  P.sort = "pop"; S.pop.desc = true;
+  const hottest = engine.poolList()[0].en;
+  S.pop.desc = false;
+  const coldest = engine.poolList()[0].en;
+  if (hottest === coldest) throw new Error("流行度翻转方向后第一位没变");
+  const nH = globalThis.__QUIZ_DATA__.commanders.find((c) => c.en === hottest).num_decks;
+  const nC = globalThis.__QUIZ_DATA__.commanders.find((c) => c.en === coldest).num_decks;
+  if (!(nH > nC)) throw new Error("降序第一位应比升序第一位更热门");
+  S.pop.desc = true;
+  P.sort = "pop";
+});
+
 check("每位主将都有可展开的介绍文", () => {
   const desc = globalThis.__QUIZ_DATA__.descriptions;
   const missing = globalThis.__QUIZ_DATA__.commanders.filter(

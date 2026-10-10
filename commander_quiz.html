@@ -359,7 +359,14 @@
   ];
   // 玩法标签阈值：向量值到这个数才算「主将真的擅长这个玩法」
   var TAG_MIN = 1.0;
-  var POOL_SORTS = { pop:"流行度", diff:"难度", salt:"仇恨度", name:"名称" };
+  // 每个排序字段的自然方向：切换字段时套用它，用户再手动翻
+  var POOL_SORTS = {
+    pop:  { zh:"流行度", desc:true,  asc:"少→多", descZh:"多→少" },
+    diff: { zh:"难度",   desc:false, asc:"易→难", descZh:"难→易" },
+    salt: { zh:"仇恨度", desc:true,  asc:"低→高", descZh:"高→低" },
+    name: { zh:"名称",   desc:false, asc:"A→Z",   descZh:"Z→A" }
+  };
+  var POOL_ORDER = ["pop", "diff", "salt", "name"];
 
   function poolTags() {
     // 20 个玩法轴，按中文名排序，方便找
@@ -413,14 +420,19 @@
       return true;
     });
     var cmp = {
-      pop:  function (a, b) { return (b.num_decks || 0) - (a.num_decks || 0); },
+      pop:  function (a, b) { return (a.num_decks || 0) - (b.num_decks || 0); },
       diff: function (a, b) { return (a.difficulty || 0) - (b.difficulty || 0)
-                                  || (b.num_decks || 0) - (a.num_decks || 0); },
+                                  || (a.num_decks || 0) - (b.num_decks || 0); },
       name: function (a, b) { return String(a.zh).localeCompare(String(b.zh), "zh"); },
-      salt: function (a, b) { return (b.salt || 0) - (a.salt || 0)
-                                  || (b.num_decks || 0) - (a.num_decks || 0); }
+      salt: function (a, b) { return (a.salt || 0) - (b.salt || 0)
+                                  || (a.num_decks || 0) - (b.num_decks || 0); }
     };
-    return out.sort(cmp[POOL.sort] || cmp.pop);
+    var fn = cmp[POOL.sort] || cmp.pop;
+    var desc = POOL_SORTS[POOL.sort] ? POOL_SORTS[POOL.sort].desc : true;
+    return out.sort(function (a, b) {
+      var r = fn(a, b);
+      return desc ? -r : r;          // 方向由用户决定，不写死
+    });
   }
 
   function poolActiveCount() {
@@ -539,8 +551,11 @@
       "</div>" +
 
       '<div class="row mt-s">' +
-        '<button class="btn ghost sm" id="pool-sort">排序：' + POOL_SORTS[POOL.sort] +
-          " ▾</button>" +
+        '<button class="btn ghost sm" id="pool-sort">排序：' +
+          POOL_SORTS[POOL.sort].zh + " ▾</button>" +
+        '<button class="btn ghost sm" id="pool-dir" title="点一下换方向">' +
+          (POOL_SORTS[POOL.sort].desc ? "↓ " + POOL_SORTS[POOL.sort].descZh
+                                      : "↑ " + POOL_SORTS[POOL.sort].asc) + "</button>" +
         (nActive ? '<button class="btn ghost sm" id="pool-clear">清空筛选（' +
           nActive + "）</button>" : "") +
         '<span class="muted" id="pool-count" style="align-self:center"></span></div>' +
@@ -571,8 +586,13 @@
       POOL.strict = sb.checked; POOL.shown = POOL_PAGE; screenPool();
     };
     document.getElementById("pool-sort").onclick = function () {
-      var order = ["pop", "diff", "salt", "name"];
-      POOL.sort = order[(order.indexOf(POOL.sort) + 1) % order.length];
+      POOL.sort = POOL_ORDER[(POOL_ORDER.indexOf(POOL.sort) + 1) % POOL_ORDER.length];
+      POOL.shown = POOL_PAGE;
+      screenPool();
+    };
+    document.getElementById("pool-dir").onclick = function () {
+      // 翻方向：每个字段的自然方向是默认值，用户翻过之后一直记着
+      POOL_SORTS[POOL.sort].desc = !POOL_SORTS[POOL.sort].desc;
       POOL.shown = POOL_PAGE;
       screenPool();
     };
@@ -933,7 +953,7 @@
       screenQuestion: screenQuestion, goNextRaw: goNext,
       screenIntro: screenIntro, screenPool: screenPool,
       poolList: poolList, POOL: POOL, poolTags: poolTags,
-      poolActiveCount: poolActiveCount,
+      poolActiveCount: poolActiveCount, POOL_SORTS: POOL_SORTS,
       getState: function () { return state; }, Q: Q,
       spine: SPINE.slice(), startId: START,
       totals: { full: FULL_TOTAL, quick: QUICK_TOTAL,
