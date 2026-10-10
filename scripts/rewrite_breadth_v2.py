@@ -18,8 +18,11 @@ import json
 import pathlib
 import sys
 
+# --- 路径已改为相对本文件，便于他人 clone 后直接运行 ---
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+
 sys.stdout.reconfigure(encoding="utf-8")
-DATA = pathlib.Path(r"D:\万智\commander-quiz\data")
+DATA = pathlib.Path(r"ROOT\data")
 
 NEW_Q = "给你一样超能力，你希望它是——"
 

@@ -14,7 +14,10 @@ sys.stdout.reconfigure(encoding="utf-8")
 sys.path.insert(0, str(pathlib.Path(__file__).parent))
 from engine import load_commanders, load_quiz, score_commanders, tally  # noqa: E402
 
-DATA = pathlib.Path(r"D:\万智\commander-quiz\data")
+# --- 路径已改为相对本文件，便于他人 clone 后直接运行 ---
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+
+DATA = pathlib.Path(r"ROOT\data")
 COLOR_Q = ["s49", "s59", "s60", "s62"]
 BREADTH_Q = "s62b"
 EXPECT = [(0, 1, "单色"), (1, 2, "双色"), (2, 3, "三色"),

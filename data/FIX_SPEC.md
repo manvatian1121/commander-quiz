@@ -54,4 +54,4 @@
 ## 环境注意
 - 本机只能用 Python（`python xxx.py`），`.sh` 跑不了
 - 输出中文前先 `sys.stdout.reconfigure(encoding="utf-8")`
-- 文件都放 `D:\万智\commander-quiz\` 下，不要写系统临时目录
+- 文件都放 `<repo>\` 下，不要写系统临时目录

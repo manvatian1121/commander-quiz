@@ -7,8 +7,11 @@ import pathlib
 import re
 import sys
 
+# --- 路径已改为相对本文件，便于他人 clone 后直接运行 ---
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+
 sys.stdout.reconfigure(encoding="utf-8")
-DATA = pathlib.Path(r"D:\万智\commander-quiz\data")
+DATA = pathlib.Path(r"ROOT\data")
 COLOR_WORDS = ["红", "蓝", "黑", "白", "绿", "灰", "紫", "橙", "黄", "粉", "青", "金", "银"]
 COLOR_NAMES = {"W": "白", "U": "蓝", "B": "黑", "R": "红", "G": "绿"}
 

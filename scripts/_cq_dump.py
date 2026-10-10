@@ -6,8 +6,11 @@ import json
 import pathlib
 import sys
 
+# --- 路径已改为相对本文件，便于他人 clone 后直接运行 ---
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+
 sys.stdout.reconfigure(encoding="utf-8")
-DATA = pathlib.Path(r"D:\万智\commander-quiz\data")
+DATA = pathlib.Path(r"ROOT\data")
 
 
 def dump(name: str, full: bool) -> None:
@@ -47,6 +50,6 @@ if __name__ == "__main__":
     for bank in ["bank1.json", "bank2.json", "bank3.json", "bank4.json", "bank5.json"]:
         dump(bank, full=False)
     sys.stdout = _orig
-    out = pathlib.Path(r"D:\万智\commander-quiz\_scratch\_cq_dump.txt")
+    out = pathlib.Path(r"ROOT\_scratch\_cq_dump.txt")
     out.write_text(buf.getvalue(), encoding="utf-8")
     print(f"wrote {out} ({len(buf.getvalue().splitlines())} lines)")
