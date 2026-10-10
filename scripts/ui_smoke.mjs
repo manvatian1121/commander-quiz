@@ -442,6 +442,72 @@ check("每位主将都有可展开的介绍文", () => {
   if (missing.length) throw new Error(`${missing.length} 位主将缺介绍文`);
 });
 
+/* ---------- 场景 9：反馈数据导出 ---------- */
+console.log("\n[场景 9] 反馈数据导出");
+
+// 场景 8 已经把 app 换成了主将池，这里必须重新走到结果页才能验导出
+walk("full", () => 0);
+
+
+check("结果页有反馈入口", () => {
+  const html = document.getElementById("app").innerHTML;
+  if (html.indexOf("复制我的答案数据") < 0) throw new Error("缺少「复制我的答案数据」按钮");
+  if (html.indexOf("去提反馈") < 0) throw new Error("缺少「去提反馈」按钮");
+  if (html.indexOf("不上报、不统计、不埋点") < 0) {
+    throw new Error("缺少隐私说明——性格题必须讲清楚数据去向");
+  }
+});
+
+check("导出的数据能完整复现这次结果", () => {
+  const fb = engine.feedback;
+  if (!fb || typeof fb.pack !== "function") throw new Error("导出钩子没暴露");
+  const d = fb.pack();
+
+  // 结构
+  if (d.v !== 1) throw new Error("版本号缺失");
+  if (!d.answers || !Object.keys(d.answers).length) throw new Error("答案为空");
+  if (!Array.isArray(d.result) || !d.result.length) throw new Error("结果为空");
+  if (!d.cons) throw new Error("约束档位缺失");
+  if (typeof d.exp !== "number") throw new Error("经验段缺失");
+  if (d.mode !== "full" && d.mode !== "quick") throw new Error("模式字段异常：" + d.mode);
+
+  // 必须能 JSON 往返（贴进 Issue 里要被机器读）
+  const round = JSON.parse(JSON.stringify(d));
+  if (JSON.stringify(round) !== JSON.stringify(d)) throw new Error("JSON 往返丢数据");
+
+  // 答案的题号必须都是真的
+  const ids = new Set(engine.Q.all.map((q) => q.id));
+  for (const k of Object.keys(d.answers)) {
+    if (!ids.has(k)) throw new Error("答案里有不存在的题号：" + k);
+  }
+
+  // 结果第一名必须和界面上显示的一致
+  const html = document.getElementById("app").innerHTML;
+  const first = globalThis.__QUIZ_DATA__.commanders
+    .find((c) => c.en === d.result[0].en);
+  if (!first) throw new Error("结果里的主将不在池子里：" + d.result[0].en);
+  if (!html.includes(first.en) && !html.includes(first.zh)) {
+    throw new Error("导出结果的第一名和界面上显示的不一致");
+  }
+});
+
+check("反馈链接是合法可用的 GitHub 地址", () => {
+  const url = engine.feedback.url();
+  if (url.indexOf("https://github.com/manvatian1121/commander-quiz/issues/new") !== 0) {
+    throw new Error("反馈链接指向了意外的地方：" + url.slice(0, 80));
+  }
+  if (url.indexOf("?title=") < 0 || url.indexOf("&body=") < 0) {
+    throw new Error("反馈链接缺少 title 或 body");
+  }
+  const q = url.split("?")[1].split("&");
+  const title = decodeURIComponent(q[0].replace("title=", ""));
+  const body = decodeURIComponent(q[1].replace("body=", ""));
+  if (!title.trim()) throw new Error("标题为空");
+  if (body.indexOf("json") < 0) throw new Error("正文里没有留 JSON 代码块的位置");
+  // URL 不能长到浏览器打不开
+  if (url.length > 6000) throw new Error("反馈链接过长：" + url.length + " 字符");
+});
+
 /* ---------- 场景 7：内容完整性 ---------- */
 console.log("\n[场景 7] 内嵌数据完整性");
 check("每位主将都有介绍文与搭配牌", () => {

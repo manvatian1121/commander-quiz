@@ -198,6 +198,34 @@
   function tagZh(t) { return TAGZH[t] || t; }
   function esc(s) { return String(s == null ? "" : s).replace(/[&<>"]/g, function (c) {
     return { "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c]; }); }
+  /* 复制到剪贴板：新 API 优先，旧环境逐级降级。
+     部分沙箱 / 非安全上下文 / 旧浏览器都没有 clipboard，最后兜底用 prompt。 */
+  function copyText(text, btn, doneLabel) {
+    var done = function () { if (btn) btn.textContent = doneLabel || "已复制 ✓"; };
+    var legacy = function () {
+      try {
+        var ta = document.createElement("textarea");
+        ta.value = text;
+        ta.setAttribute("readonly", "");
+        ta.style.position = "fixed";
+        ta.style.opacity = "0";
+        document.body.appendChild(ta);
+        ta.select();
+        var ok = document.execCommand && document.execCommand("copy");
+        document.body.removeChild(ta);
+        if (ok) { done(); return; }
+        throw new Error("execCommand 失败");
+      } catch (e) {
+        try { window.prompt("按 Ctrl+C 复制这段内容：", text); } catch (e2) { /* 放弃 */ }
+      }
+    };
+    if (typeof navigator !== "undefined" && navigator.clipboard
+        && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(text).then(done, legacy);
+    } else {
+      legacy();
+    }
+  }
 
   /* ---------- 算分（与 engine.py 保持一致） ---------- */
   function tally() {
@@ -865,9 +893,61 @@
       '<p class="muted">约束档位：复杂度容忍 <b>' + t.cons.complex.toFixed(1) + '</b> · 预算档 <b>' +
       t.cons.budget.toFixed(1) + '</b> · 被针对容忍度 <b>' + t.cons.salt.toFixed(1) + "</b></p>" +
       '<div class="row mt"><button class="btn ghost" id="again">重新测一次</button>' +
-      '<button class="btn ghost" id="copy">复制结果</button></div>';
+      '<button class="btn ghost" id="copy">复制结果</button></div>' +
+      '<div class="divider"></div>' +
+      '<h3>帮我们改进</h3>' +
+      '<p class="muted">这套评分模型完全靠真实测试者的反馈在调。推荐得不准、' +
+      '题目读着别扭、或者觉得某道题对不上号，都可以发过来——' +
+      '<b>带上你的答案数据，我们就能原样复现你这次的结果去查原因</b>。</p>' +
+      '<p class="muted" style="font-size:12.5px">⚠️ 你答的是性格题，' +
+      '<b>所有数据只有你主动点击才会离开这个页面</b>，' +
+      '本站不上报、不统计、不埋点。</p>' +
+      '<div class="row mt">' +
+        '<button class="btn ghost sm" id="copy-data">① 复制我的答案数据</button>' +
+        '<button class="btn ghost sm" id="feedback">② 去提反馈 →</button>' +
+      "</div>" +
+      '<p class="muted" style="font-size:12.5px">先点 ① 复制，再点 ② 打开反馈页，' +
+      "把内容粘贴到正文里就行。</p>";
     app.appendChild(p);
     document.getElementById("again").onclick = screenIntro;
+
+    // 反馈用的数据结构：只有这些才够复现一次结果
+    var packData = function () {
+      return {
+        v: 1,
+        mode: state.mode,
+        exp: state.answers["e0"],
+        answers: state.answers,
+        result: top.map(function (x) {
+          return { en: x.c.en, score: Number(x.score.toFixed(4)) };
+        }),
+        pref: t.pref,
+        cons: t.cons
+      };
+    };
+    var feedbackUrl = function () {
+      var head = top[0].c.zh || top[0].c.en;
+      var title = "反馈：" + head + "（" + esc(expName()) + "）";
+      var body = "## 我遇到的情况\n\n"
+        + "<!-- 请描述：推荐得不准？题目读着别扭？哪道题对不上号？ -->\n\n\n"
+        + "## 我的测试数据\n\n"
+        + "<!-- 把「复制我的答案数据」得到的内容粘到下面这个代码块里 -->\n\n"
+        + "```json\n\n```\n";
+      return "https://github.com/manvatian1121/commander-quiz/issues/new?title="
+        + encodeURIComponent(title) + "&body=" + encodeURIComponent(body);
+    };
+    document.getElementById("copy-data").onclick = function () {
+      copyText(JSON.stringify(packData(), null, 2), this, "已复制 ✓");
+    };
+    document.getElementById("feedback").onclick = function () {
+      try { window.open(feedbackUrl(), "_blank", "noopener"); }
+      catch (e) { window.location.href = feedbackUrl(); }
+    };
+    // 供离线测试核对导出格式（数据格式错了，测试者发回来的东西就白费了）
+    if (typeof globalThis !== "undefined" && globalThis.__quizEngine) {
+      globalThis.__quizEngine.feedback = { pack: packData, url: feedbackUrl };
+    }
+
     document.getElementById("copy").onclick = function () {
       var btn = this;
       var lines = top.map(function (x, i) {
