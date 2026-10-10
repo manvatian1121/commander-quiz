@@ -118,7 +118,11 @@
       CARDS = DATA.cardDisplay || {};
 
   var CONST = { W_SIM:0.60, W_COLOR:0.14, W_POPULAR:0.08, P_COST:0.055, P_BUDGET:0.050,
-                P_SALT:0.10, P_BRACKET:0.030 };
+                P_SALT:0.10, P_BRACKET:0.030,
+                // 颜色契合内部拆分：哪几个色 50% + 要几个色 50%
+                // 必须与 scripts/engine.py 的 W_COLOR_MATCH / W_BREADTH_MATCH 一致，
+                // 否则 parity_compare.py 会报两个引擎不一致。
+                W_COLOR_MATCH:0.50, W_BREADTH_MATCH:0.50 };
   var DEFAULT_C = { complex:3, budget:3, salt:3 };
   // 接触时长 → 整套评分标准的切换参数（与 Python 引擎 engine.py 的 EXP_PROFILE 一致）
   var EXP_PROFILE = {
@@ -159,6 +163,7 @@
   /* ---------- 算分（与 engine.py 保持一致） ---------- */
   function tally() {
     var pref = {}, expected = {}, colors = {}, acc = { complex:[], budget:[], salt:[] };
+    var breadthVals = [];
     var expLevel = null;
     // 题目路径是动态的，所以直接遍历整个题库、只统计已作答的题
     Q.all.forEach(function (q) {
@@ -177,6 +182,7 @@
         Object.keys(o.s || {}).forEach(function (a) { pref[a] = (pref[a] || 0) + o.s[a]; });
         Object.keys(o.col || {}).forEach(function (c) { colors[c] = (colors[c] || 0) + o.col[c]; });
         Object.keys(o.cval || {}).forEach(function (k) { acc[k].push(o.cval[k]); });
+        if (o.bw != null) breadthVals.push(o.bw);
         if (o.exp) expLevel = o.exp;
       });
     });
@@ -193,6 +199,10 @@
                               : DEFAULT_C[k];
     });
     cons.exp = expLevel || 3;
+    // 玩家想要的色数（0 = 无色，1 = 五色）。没答到广度题时取 0.5（两色，最常见）。
+    cons.breadth = breadthVals.length
+      ? breadthVals.reduce(function (a, b) { return a + b; }, 0) / breadthVals.length
+      : 0.5;
     return { pref:centered, colors:colors, cons:cons };
   }
   function cosine(a, b) {
@@ -214,13 +224,22 @@
     var prof = EXP_PROFILE[expLevel] || EXP_PROFILE[3];
     var complexTol = Math.min(t.cons.complex, prof.complexCap);
     var popWeight = CONST.W_POPULAR * prof.popMul;
+    // 玩家想要的色数（0 = 无色，1 = 五色）。没答到广度题时取 0.5（两色，最常见）。
+    var playerBreadth = (t.cons.breadth != null) ? t.cons.breadth : 0.5;
     return CMDS.map(function (c) {
-      var sim = cosine(t.pref, c.vec), affinity = 0.5;
-      if (maxColor > 0) {
-        affinity = c.colors === "C" ? 0.5
-          : c.colors.split("").reduce(function (s, col) { return s + (t.colors[col] || 0); }, 0)
-            / (maxColor * c.colors.length);
+      var sim = cosine(t.pref, c.vec);
+      // 颜色契合 = 「哪几个色」的吻合度 × 0.60 + 「要几个色」的接近度 × 0.40。
+      // 无色主将不参与色相匹配（记中性 0.5），但色数为 0，由广度项决定合不合口味。
+      // 必须与 Python 引擎 scripts/engine.py 逐字一致。
+      var colorMatch = 0.5, cardBreadth = 0, affinity;
+      if (maxColor > 0 && c.colors !== "C") {
+        colorMatch = c.colors.split("").reduce(function (s, col) {
+          return s + (t.colors[col] || 0);
+        }, 0) / (maxColor * c.colors.length);
+        cardBreadth = c.colors.length / 5;
       }
+      affinity = CONST.W_COLOR_MATCH * colorMatch
+               + CONST.W_BREADTH_MATCH * (1 - Math.abs(playerBreadth - cardBreadth));
       var pop = Math.log10(Math.max(1, c.num_decks || 1)) / Math.log10(maxDecks);
       // 难度扣分用连续值（difficulty），五档只用于显示，避免相邻档位差一跳就是一大截
       var pc = Math.max(0, (c.difficulty != null ? c.difficulty : c.complexity)

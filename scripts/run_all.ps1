@@ -24,6 +24,7 @@ function Step($n, $name, [scriptblock]$body) {
     }
 }
 
+Step 0  "engine constants"       { python scripts\check_engine_constants.py }
 Step 1  "fix batch boundaries"   { python scripts\fix_boundaries.py }
 Step 2  "merge question banks"   { python scripts\merge_banks.py }
 Step 3  "validate questions"     { python scripts\validate_questions.py }

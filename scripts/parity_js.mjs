@@ -107,6 +107,7 @@ for (const [name, picker] of Object.entries(PICKERS)) {
       budget: +t.cons.budget.toFixed(4),
       salt: +t.cons.salt.toFixed(4),
       exp: t.cons.exp,
+      breadth: +t.cons.breadth.toFixed(4),
     },
     top: ranked.slice(0, 12).map((r) => ({ en: r.c.en, score: +r.score.toFixed(4) })),
     scores: Object.fromEntries(ranked.map((r) => [r.c.en, +r.score.toFixed(6)])),
