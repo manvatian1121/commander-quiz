@@ -137,7 +137,7 @@
       CARDS = DATA.cardDisplay || {};
 
   var CONST = { W_SIM:0.60, W_COLOR:0.14, W_POPULAR:0.08, P_COST:0.055, P_BUDGET:0.050,
-                P_SALT:0.10, P_BRACKET:0.030,
+                P_SALT:0.10, P_BRACKET:0.025,
                 // 颜色契合内部拆分：哪几个色 50% + 要几个色 50%
                 // 必须与 scripts/engine.py 的 W_COLOR_MATCH / W_BREADTH_MATCH 一致，
                 // 否则 parity_compare.py 会报两个引擎不一致。
@@ -145,10 +145,10 @@
   var DEFAULT_C = { complex:3, budget:3, salt:3 };
   // 接触时长 → 整套评分标准的切换参数（与 Python 引擎 engine.py 的 EXP_PROFILE 一致）
   var EXP_PROFILE = {
-    1: { name:"完全新人", complexCap:2.4, popMul:1.35, bracketCap:3 },
-    2: { name:"玩过万智牌，没打过指挥官", complexCap:3.2, popMul:1.2, bracketCap:4 },
-    3: { name:"打过一段时间指挥官", complexCap:4.2, popMul:1.0, bracketCap:5 },
-    4: { name:"老手", complexCap:5.0, popMul:0.85, bracketCap:5 },
+    1: { name:"完全新人", complexCap:2.4, popMul:1.35, bracketTarget:2.0, pBracket:0.025 },
+    2: { name:"玩过万智牌，没打过指挥官", complexCap:3.2, popMul:1.2, bracketTarget:2.7, pBracket:0.038 },
+    3: { name:"打过一段时间指挥官", complexCap:4.2, popMul:1.0, bracketTarget:3.6, pBracket:0.054 },
+    4: { name:"老手", complexCap:5.0, popMul:0.85, bracketTarget:4.6, pBracket:0.07 },
   };
   var SALT_THRESHOLD = { 1:0.6, 2:1.0, 3:1.4, 4:2.0, 5:3.2 };
   // 连续插值，避免取整（Python round 与 JS Math.round 在 x.5 处分叉）与档位跳变
@@ -274,7 +274,11 @@
       var pb = Math.max(0, c.budget - t.cons.budget) * CONST.P_BUDGET;
       var ps = Math.max(0, c.salt - cap) * CONST.P_SALT;
       // 强度档位：新人被高 Bracket 主将劝退，老手不受限
-      var pbr = Math.max(0, (parseInt(c.bracket, 10) || 3) - prof.bracketCap) * CONST.P_BRACKET;
+      // 与目标档位的偏离（双向）：新人被拉向低强度，老手被拉向高强度。
+      // 原来只对「超过上限」扣分，老手上限是 5 所以永远不扣分，
+      // 高强度也没有加分——结果就是对强度完全无感。
+      var pbr = Math.abs((parseInt(c.bracket, 10) || 3) - prof.bracketTarget)
+              * prof.pBracket;
       var bonus = t.cons.salt >= 4 ? 0.05 * c.salt : 0;
       return { c:c, sim:sim, exp:expLevel, expName:prof.name,
                score: CONST.W_SIM*sim + CONST.W_COLOR*affinity + popWeight*pop
@@ -719,7 +723,7 @@
       '<div class="divider"></div>' +
       '<p class="muted">你的经验段：<b>' + esc(expName()) + '</b>——'
         + '已按这个段位调整评分标准（难度容忍上限 <b>' + expProf().complexCap
-        + '</b>、强度档位上限 <b>Bracket ' + expProf().bracketCap + '</b>）。</p>' +
+        + '</b>、你适合的强度档位 <b>Bracket ' + expProf().bracketTarget + '</b>）。</p>' +
       '<p class="muted">约束档位：复杂度容忍 <b>' + t.cons.complex.toFixed(1) + '</b> · 预算档 <b>' +
       t.cons.budget.toFixed(1) + '</b> · 被针对容忍度 <b>' + t.cons.salt.toFixed(1) + "</b></p>" +
       '<div class="row mt"><button class="btn ghost" id="again">重新测一次</button>' +

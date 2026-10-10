@@ -26,10 +26,10 @@ DEFAULTS = {"complex": 3.0, "budget": 3.0, "salt": 3.0}
 # 接触时长 → 整套评分标准的切换参数。做法与旧版测试里那道「你是完全的新手吗」一脉相承：
 # 新人收紧难度容忍、抬高流行度权重（更容易找到资料）、压住高强度档位。
 EXP_PROFILE = {
-    1: {"name": "完全新人", "complex_cap": 2.4, "pop_mul": 1.35, "bracket_cap": 3},
-    2: {"name": "玩过万智牌，没打过指挥官", "complex_cap": 3.2, "pop_mul": 1.2, "bracket_cap": 4},
-    3: {"name": "打过一段时间指挥官", "complex_cap": 4.2, "pop_mul": 1.0, "bracket_cap": 5},
-    4: {"name": "老手", "complex_cap": 5.0, "pop_mul": 0.85, "bracket_cap": 5},
+    1: {"name": "完全新人", "complex_cap": 2.4, "pop_mul": 1.35, "bracket_target": 2.0, "p_bracket": 0.025},
+    2: {"name": "玩过万智牌，没打过指挥官", "complex_cap": 3.2, "pop_mul": 1.2, "bracket_target": 2.7, "p_bracket": 0.038},
+    3: {"name": "打过一段时间指挥官", "complex_cap": 4.2, "pop_mul": 1.0, "bracket_target": 3.6, "p_bracket": 0.054},
+    4: {"name": "老手", "complex_cap": 5.0, "pop_mul": 0.85, "bracket_target": 4.6, "p_bracket": 0.07},
 }
 
 # salt 容忍档位(1-5) → 可接受的 EDHREC 咸度上限
@@ -67,7 +67,7 @@ W_BREADTH_MATCH = 0.50
 W_POPULAR = 0.08    # 流行度先验（新人更容易找到资料）
 P_COST = 0.055      # 难度超出容忍度，每级扣分
 P_BUDGET = 0.050    # 造价超出预算，每级扣分
-P_BRACKET = 0.030   # 强度档位超出该经验段上限，每档扣分
+P_BRACKET = 0.025    # 与目标档位的偏离（双向：太高太低都扣）
 P_SALT = 0.10       # 咸度超出容忍度，每点扣分
 
 
@@ -193,7 +193,11 @@ def score_commanders(payload: dict, pref, colors, constraints):
         salt_cap = salt_cap_for(constraints["salt"])
         pen_salt = max(0.0, card["salt"] - salt_cap) * P_SALT
         # 强度档位：新人被高 Bracket 主将劝退，老手不受限
-        bracket_pen = max(0, int(card.get("bracket", 3)) - profile["bracket_cap"]) * P_BRACKET
+        # 目标档位与权重都随经验上移：新人被拉向低强度，老手被拉向高强度。
+        # 原来只对「超过上限」扣分，老手上限是 5 所以永远不扣分、
+        # 高强度也没有加分——结果就是对强度完全无感。
+        bracket_pen = abs(int(card.get("bracket", 3))
+                          - profile["bracket_target"]) * profile["p_bracket"]
         # 玩家明确想搞事时，咸度反而是加分项
         salt_bonus = 0.05 * card["salt"] if constraints["salt"] >= 4.0 else 0.0
 
