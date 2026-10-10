@@ -228,18 +228,26 @@
     var playerBreadth = (t.cons.breadth != null) ? t.cons.breadth : 0.5;
     return CMDS.map(function (c) {
       var sim = cosine(t.pref, c.vec);
-      // 颜色契合 = 「哪几个色」的吻合度 × 0.60 + 「要几个色」的接近度 × 0.40。
-      // 无色主将不参与色相匹配（记中性 0.5），但色数为 0，由广度项决定合不合口味。
+      // 无色主将没有颜色，「哪几个色」对它不适用。早先固定记中性 0.5，
+      // 反而成了惩罚（有色主将都能拿 1.0），所以改为完全由广度项决定。
       // 必须与 Python 引擎 scripts/engine.py 逐字一致。
-      var colorMatch = 0.5, cardBreadth = 0, affinity;
-      if (maxColor > 0 && c.colors !== "C") {
+      var colorMatch = 0.5, cardBreadth = 0, breadthGap, affinity;
+      if (c.colors !== "C" && maxColor > 0) {
         colorMatch = c.colors.split("").reduce(function (s, col) {
           return s + (t.colors[col] || 0);
         }, 0) / (maxColor * c.colors.length);
         cardBreadth = c.colors.length / 5;
+      } else if (c.colors === "C") {
+        cardBreadth = 0;
+      } else {
+        cardBreadth = c.colors.length / 5;
       }
-      affinity = CONST.W_COLOR_MATCH * colorMatch
-               + CONST.W_BREADTH_MATCH * (1 - Math.abs(playerBreadth - cardBreadth));
+      // 广度用平方衰减：差一档从 1.0 掉到 0.64，差两档只剩 0.36
+      breadthGap = Math.abs(playerBreadth - cardBreadth);
+      var breadthMatch = (1 - breadthGap) * (1 - breadthGap);
+      affinity = (c.colors === "C")
+        ? breadthMatch
+        : CONST.W_COLOR_MATCH * colorMatch + CONST.W_BREADTH_MATCH * breadthMatch;
       var pop = Math.log10(Math.max(1, c.num_decks || 1)) / Math.log10(maxDecks);
       // 难度扣分用连续值（difficulty），五档只用于显示，避免相邻档位差一跳就是一大截
       var pc = Math.max(0, (c.difficulty != null ? c.difficulty : c.complexity)

@@ -136,8 +136,9 @@ def main() -> int:
     for q in questions:
         section_counts[q.get("sec")] += 1
         opts = q["opts"]
-        if not (3 <= len(opts) <= 5):
-            problems.append(f"{q['id']} 选项数 {len(opts)}（要求 3~5）")
+        # 上限放到 6：广度题要覆盖 单色/双色/三色/四色/五色/无色 六档
+        if not (3 <= len(opts) <= 6):
+            problems.append(f"{q['id']} 选项数 {len(opts)}（要求 3~6）")
         texts = [o["t"].strip() for o in opts]
         if any(not t for t in texts):
             problems.append(f"{q['id']} 有空选项")

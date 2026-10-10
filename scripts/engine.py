@@ -165,19 +165,30 @@ def score_commanders(payload: dict, pref, colors, constraints):
     for card in commanders:
         sim = cosine(pref, card["vec"])
 
-        # 颜色契合 = 「哪几个色」的吻合度 × 0.60 + 「要几个色」的接近度 × 0.40。
-        # 无色主将不参与色相匹配（记中性 0.5），但它的色数为 0，
-        # 所以由广度项决定它到底合不合口味——想走无色路线的人才会拿到它。
+        # 无色主将没有颜色，所以「哪几个色」这一项对它不适用。
+        # 早先固定记 0.5（中性），结果反而成了惩罚——有色主将都能拿 1.0，
+        # 无色白白少 0.25，实测「想要无色」的人仍然拿到有色主将。
+        # 改为完全由广度项决定：想要无色的人才拿得到它，不想要的人拿不到。
         card_colors = card["colors"]
-        if max_color == 0 or card_colors == "C":
+        if card_colors == "C":
             color_match = 0.5
             card_breadth = 0.0
+            breadth_gap = abs(player_breadth - card_breadth)
+            breadth_match = (1.0 - breadth_gap) ** 2
+            affinity = breadth_match
+        elif max_color == 0:
+            color_match = 0.5
+            card_breadth = len(card_colors) / 5.0
+            breadth_gap = abs(player_breadth - card_breadth)
+            breadth_match = (1.0 - breadth_gap) ** 2
+            affinity = W_COLOR_MATCH * color_match + W_BREADTH_MATCH * breadth_match
         else:
             color_match = sum(colors.get(c, 0.0) for c in card_colors) / (
                 max_color * len(card_colors))
             card_breadth = len(card_colors) / 5.0
-        breadth_match = 1.0 - abs(player_breadth - card_breadth)
-        affinity = W_COLOR_MATCH * color_match + W_BREADTH_MATCH * breadth_match
+            breadth_gap = abs(player_breadth - card_breadth)
+            breadth_match = (1.0 - breadth_gap) ** 2
+            affinity = W_COLOR_MATCH * color_match + W_BREADTH_MATCH * breadth_match
 
         popularity = math.log10(max(1, card.get("num_decks") or 1)) / math.log10(max_decks)
 
