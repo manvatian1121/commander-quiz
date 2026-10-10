@@ -425,8 +425,14 @@
     var t = tally();
     var ranked = rank(t);
     var top = ranked.slice(0, 3);
-    var topAxes = Object.keys(t.pref).sort(function (a, b) { return t.pref[b] - t.pref[a]; }).slice(0, 6);
-    var maxPref = t.pref[topAxes[0]] || 1;
+    // 偏好向量是「相对平均答题者的偏差」，因此可能为负。
+    // 画像只展示真正高于平均水平的口味：负值或接近零的轴画成条形只会误导
+    // （曾经把 -4% 的「铺场爆兵」画出来，用户以为系统推荐错了）。
+    var profileAxes = Object.keys(t.pref)
+      .filter(function (a) { return t.pref[a] > 0; })
+      .sort(function (a, b) { return t.pref[b] - t.pref[a]; })
+      .slice(0, 6);
+    var maxPref = profileAxes.length ? t.pref[profileAxes[0]] : 1;
 
     app.innerHTML = "";
     app.appendChild(el("h3", null, "你的结果"));
@@ -439,7 +445,7 @@
       box.style.setProperty("--glow", glow);
       if (i === 0) box.style.marginBottom = "14px";
 
-      var matched = topAxes.filter(function (a) { return (c.vec[a] || 0) > 0.6; })
+      var matched = profileAxes.filter(function (a) { return (c.vec[a] || 0) > 0.6; })
                            .map(axisLabel);
       var html = "";
       if (i === 0) {
@@ -506,13 +512,21 @@
 
     // 你的画像
     var p = el("div", "card mt");
-    p.innerHTML = '<h2>你的玩法画像</h2>' +
-      '<p class="muted">越长的条代表你越渴望这种玩法。</p><div class="mt-s">' +
-      topAxes.map(function (a) {
-        return '<div class="axis"><div class="lab"><b>' + axisLabel(a) + "</b><span>" +
-               Math.round(t.pref[a] / maxPref * 100) + '%</span></div>' +
-               '<div class="track"><i style="width:' + (t.pref[a] / maxPref * 100) + '%"></i></div></div>';
-      }).join("") + "</div>" +
+    var profileBody;
+    if (profileAxes.length) {
+      profileBody = '<p class="muted">只看你<b>明显高于平均水平</b>的口味——' +
+        '没上榜的玩法代表你对它没有特别偏好，而不是讨厌它。</p><div class="mt-s">' +
+        profileAxes.map(function (a) {
+          var ratio = Math.max(0, Math.min(1, t.pref[a] / maxPref));
+          return '<div class="axis"><div class="lab"><b>' + axisLabel(a) + "</b><span>" +
+                 Math.round(ratio * 100) + '%</span></div>' +
+                 '<div class="track"><i style="width:' + (ratio * 100) + '%"></i></div></div>';
+        }).join("") + "</div>";
+    } else {
+      profileBody = '<p class="muted">你的选择分布得很平均，没有哪一项特别突出——' +
+        '说明你什么玩法都能接受，选主将时不妨优先看颜色和上手难度。</p>';
+    }
+    p.innerHTML = '<h2>你的玩法画像</h2>' + profileBody +
       '<div class="divider"></div>' +
       '<p class="muted">你的经验段：<b>' + esc(expName()) + '</b>——'
         + '已按这个段位调整评分标准（难度容忍上限 <b>' + expProf().complexCap
@@ -529,8 +543,10 @@
         return (i + 1) + ". " + (x.c.zh || x.c.en) + "（" + x.c.en + "） " + x.c.colors +
                " · 难度 " + x.c.complexity + "/5";
       });
-      var text = "我的 EDH 主将推荐：\n" + lines.join("\n") +
-                 "\n玩法偏好：" + topAxes.map(axisLabel).join("、");
+      var tail = profileAxes.length
+        ? "\n玩法偏好：" + profileAxes.map(axisLabel).join("、")
+        : "";
+      var text = "我的 EDH 主将推荐：\n" + lines.join("\n") + tail;
       var done = function () { btn.textContent = "已复制 ✓"; };
       // 剪贴板 API 在部分环境（非安全上下文 / 旧浏览器）不可用，逐级降级
       var legacy = function () {

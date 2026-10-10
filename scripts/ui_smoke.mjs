@@ -123,6 +123,31 @@ console.log("\n[场景 2] 各种选项组合都要能走通");
   });
 });
 
+/* ---------- 场景 2b：玩法画像不能出现负数 ---------- */
+// 偏好向量做过中心化处理，本身可以是负值；但画成「越渴望越长」的条形图时，
+// 负值会显示成 -4% 这种误导性数字（用户会以为系统推荐错了）。
+// 这里对多种答题策略逐一检查结果页里有没有负数百分比。
+console.log("\n[场景 2b] 玩法画像不出现负数百分比");
+const STRATEGIES = {
+  全选A: () => 0, 全选B: () => 1, 全选C: () => 2, 全选D: () => 3, 全选E: () => 4,
+  交替: (q, s) => s % 3, 末尾: (q) => q.opts.length - 1,
+};
+Object.entries(STRATEGIES).forEach(([label, picker]) => {
+  check(`「${label}」的画像没有负数`, () => {
+    const run = walk("full", picker);
+    if (!run.finished) throw new Error("没走到结果页");
+    const out = rendered();
+    const section = out.slice(out.indexOf("你的玩法画像"), out.indexOf("你的经验段"));
+    if (!section) throw new Error("结果页没有玩法画像");
+    const bad = section.match(/-\s*\d+(\.\d+)?%/g);
+    if (bad) throw new Error(`出现负数百分比：${bad.join("、")}`);
+    // 条形宽度也不能是负数（非法 CSS）
+    const widths = [...section.matchAll(/width:\s*(-?[\d.]+)%/g)].map((m) => parseFloat(m[1]));
+    if (widths.some((w) => w < 0)) throw new Error(`条形宽度为负：${widths.join("、")}`);
+    if (widths.some((w) => w > 100)) throw new Error(`条形宽度超过 100%：${widths.join("、")}`);
+  });
+});
+
 /* ---------- 场景 3：快速版 ---------- */
 console.log("\n[场景 3] 快速版");
 check("快速版能走到结果页且题数少于完整版", () => {
