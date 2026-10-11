@@ -39,6 +39,7 @@ Step 11 "run JS engine"          { node scripts\parity_js.mjs }
 Step 12 "engine parity"          { python scripts\parity_compare.py }
 Step 13 "axis match validation"  { python scripts\axis_validation.py }
 Step 14 "UI smoke test"          { node scripts\ui_smoke.mjs }
+Step 15 "publish safety"         { python scripts\check_publish_safety.py }
 
 Write-Host ""
 Write-Host ("=" * 64)
@@ -47,7 +48,7 @@ if ($failed.Count -gt 0) {
     $failed | ForEach-Object { Write-Host "  - $_" -ForegroundColor Red }
     exit 1
 }
-Write-Host "OK: all 14 steps passed" -ForegroundColor Green
+Write-Host "OK: all 15 steps passed" -ForegroundColor Green
 Write-Host ""
 Get-ChildItem commander_quiz.html, commander_quiz.md |
     Select-Object Name, @{n = 'KB'; e = { [math]::Round($_.Length / 1KB, 1) }}
