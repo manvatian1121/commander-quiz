@@ -24,6 +24,5 @@ desktop.ini
 # data/supp_*.json
 # data/new_candidates.json
 
-# 出图成图（体积大、可重新生成；只保留脚本）
-docs/thumbnails/
-docs/group-avatar/
+# 出图与视频素材（个人创作工具，不属于本项目）
+docs/
