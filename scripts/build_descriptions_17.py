@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """生成 descriptions_17.json —— 17 位「拍档 / 身世」组合主将的 3 字段文案。
 
-输出：D:\\万智\\commander-quiz\\data\\descriptions_17.json
-顺带：D:\\万智\\commander-quiz\\data\\partner_component_zh.json（组合主将两半的中文名，
+输出：data/descriptions_17.json
+顺带：data/partner_component_zh.json（组合主将两半的中文名，
       供逐主将白名单 / 中英并列自检使用；素材标题里的中文名是权威来源）
 
 字数按「去掉空白后的可见字符数」计（中文字、英文字母、括号、标点各算 1）。

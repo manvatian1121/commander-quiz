@@ -15,8 +15,12 @@ import time
 import urllib.error
 import urllib.request
 
+
+# --- 路径相对本文件解析，便于他人 clone 后直接运行 ---
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+SCRIPT_DIR = pathlib.Path(__file__).resolve().parent
 sys.stdout.reconfigure(encoding="utf-8")
-DATA = pathlib.Path(r"D:\万智\commander-quiz\data")
+DATA = ROOT / "data"
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36")
 

@@ -17,7 +17,7 @@ import re
 import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
-ROOT = pathlib.Path(r"D:\万智\commander-quiz")
+ROOT = pathlib.Path(ROOT)
 
 TARGET = {1: 2.0, 2: 2.7, 3: 3.6, 4: 4.4}
 P_BRACKET = 0.025

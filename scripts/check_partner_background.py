@@ -9,7 +9,7 @@ import sys
 from collections import Counter
 
 sys.stdout.reconfigure(encoding="utf-8")
-DATA = pathlib.Path(r"D:\万智\commander-quiz\data")
+DATA = ROOT / "data"
 
 pool = json.loads((DATA / "commanders.json").read_text(encoding="utf-8"))["commanders"]
 scry = json.loads((DATA / "commanders_scryfall.json").read_text(encoding="utf-8"))
@@ -62,3 +62,8 @@ print("\n=== 全库（1578 位有 EDHREC 档案的）里这类主将有多少 ==
 allp = json.loads((DATA / "all_commander_profiles.json").read_text(encoding="utf-8"))
 poolset = {c["en"] for c in pool}
 print(f"  有档案的主将 {len(allp)} 位，池中 {len(poolset)} 位")
+
+
+# --- 路径相对本文件解析，便于他人 clone 后直接运行 ---
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+SCRIPT_DIR = pathlib.Path(__file__).resolve().parent

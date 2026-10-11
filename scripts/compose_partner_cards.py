@@ -16,8 +16,12 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
+
+# --- 路径相对本文件解析，便于他人 clone 后直接运行 ---
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+SCRIPT_DIR = pathlib.Path(__file__).resolve().parent
 sys.stdout.reconfigure(encoding="utf-8")
-DATA = pathlib.Path(r"D:\万智\commander-quiz\data")
+DATA = ROOT / "data"
 UA = {"User-Agent": "dsh-mtg-agent/1.0", "Accept": "application/json"}
 MTGCH = {"User-Agent": "dsh-mtg-agent/1.0", "Accept": "application/json"}
 ORDER = "WUBRG"

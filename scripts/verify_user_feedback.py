@@ -8,7 +8,7 @@ import re
 import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
-ROOT = pathlib.Path(r"D:\万智\commander-quiz")
+ROOT = pathlib.Path(ROOT)
 html = (ROOT / "commander_quiz.html").read_text(encoding="utf-8")
 md = (ROOT / "commander_quiz.md").read_text(encoding="utf-8")
 

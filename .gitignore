@@ -23,3 +23,7 @@ desktop.ini
 # 抓取缓存（可重新生成，且体积大；若想完全离线重建仓库，把下面两行删掉）
 # data/supp_*.json
 # data/new_candidates.json
+
+# 出图成图（体积大、可重新生成；只保留脚本）
+docs/thumbnails/
+docs/group-avatar/

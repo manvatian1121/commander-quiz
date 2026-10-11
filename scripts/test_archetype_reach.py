@@ -18,11 +18,15 @@ import random
 import sys
 from collections import Counter
 
+
+# --- 路径相对本文件解析，便于他人 clone 后直接运行 ---
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+SCRIPT_DIR = pathlib.Path(__file__).resolve().parent
 sys.stdout.reconfigure(encoding="utf-8")
 sys.path.insert(0, str(pathlib.Path(__file__).parent.parent / "scripts"))
 from engine import load_commanders, load_quiz, score_commanders, tally  # noqa: E402
 
-DATA = pathlib.Path(r"D:\万智\commander-quiz\data")
+DATA = ROOT / "data"
 TARGETS = ["voltron", "artifacts", "tribal"]
 
 quiz = load_quiz()

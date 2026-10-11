@@ -13,8 +13,12 @@ import json
 import pathlib
 import sys
 
+
+# --- 路径相对本文件解析，便于他人 clone 后直接运行 ---
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+SCRIPT_DIR = pathlib.Path(__file__).resolve().parent
 sys.stdout.reconfigure(encoding="utf-8")
-DATA = pathlib.Path(r"D:\万智\commander-quiz\data")
+DATA = ROOT / "data"
 
 # 直接探针确认存在的身世组合（单卡热度筛不到，见上面的说明）
 BACKGROUND_PAIRS = [

@@ -13,7 +13,7 @@ import re
 import sys
 
 sys.stdout.reconfigure(encoding="utf-8")
-ROOT = pathlib.Path(r"D:\万智\commander-quiz")
+ROOT = pathlib.Path(ROOT)
 
 TARGETS = {1: 2.0, 2: 2.7, 3: 3.6, 4: 4.6}
 WEIGHTS = {1: 0.025, 2: 0.038, 3: 0.054, 4: 0.070}

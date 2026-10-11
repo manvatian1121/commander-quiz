@@ -73,6 +73,11 @@ out = {
     "doctors_companion": [c["name"] for c in counts["博士旅伴 Doctor's companion"]],
 }
 import pathlib
-pathlib.Path(r"D:\万智\commander-quiz\data\partner_pool.json").write_text(
+ROOT / "data/partner_pool.json".write_text(
     json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
 print("\n已写出 data/partner_pool.json")
+
+
+# --- 路径相对本文件解析，便于他人 clone 后直接运行 ---
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+SCRIPT_DIR = pathlib.Path(__file__).resolve().parent
