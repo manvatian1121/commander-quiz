@@ -873,10 +873,19 @@
     var p = el("div", "card mt");
     var profileBody;
     if (profileAxes.length) {
-      profileBody = '<p class="muted">只看你<b>明显高于平均水平</b>的口味——' +
-        '没上榜的玩法代表你对它没有特别偏好，而不是讨厌它。</p><div class="mt-s">' +
+      // 按「所有正值的总和」归一，而不是按最高值归一。
+      // 按最高值归一时，最高那条永远是 100%，看起来像「你只有这一种口味」；
+      // 按总和归一，每条显示的是「占你口味的百分之几」，加起来 100%，
+      // 一眼能看出是「一项独大」还是「几项均衡」。
+      var prefSum = profileAxes.reduce(function (s, a) {
+        return s + Math.max(0, t.pref[a]);
+      }, 0) || 1;
+      profileBody = '<p class="muted">这是你口味的<b>相对占比</b>——' +
+        '只看明显高于平均的部分，没上榜的玩法代表你对它没有特别偏好，而不是讨厌它。' +
+        '占比分散说明你什么都能接受，占比集中在少数几项说明你的口味很明确。</p>' +
+        '<div class="mt-s">' +
         profileAxes.map(function (a) {
-          var ratio = Math.max(0, Math.min(1, t.pref[a] / maxPref));
+          var ratio = Math.max(0, Math.min(1, t.pref[a] / prefSum));
           return '<div class="axis"><div class="lab"><b>' + axisLabel(a) + "</b><span>" +
                  Math.round(ratio * 100) + '%</span></div>' +
                  '<div class="track"><i style="width:' + (ratio * 100) + '%"></i></div></div>';

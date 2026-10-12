@@ -6046,7 +6046,8 @@
         {
           "t": "让大家都玩得开心的那个",
           "s": {
-            "politics": 1.28
+            "politics": 1.1,
+            "wide": 0.5
           },
           "cval": {
             "salt": 1
@@ -6055,8 +6056,8 @@
         {
           "t": "最后赢下这一局的那个",
           "s": {
-            "aggro": 0.73,
-            "combo": 0.76
+            "aggro": 0.8,
+            "combo": 0.7
           },
           "cval": {
             "salt": 3
@@ -6065,8 +6066,9 @@
         {
           "t": "定规矩的那个，场面按我说的走",
           "s": {
-            "stax": 1.74,
-            "control": 0.7
+            "stax": 1.05,
+            "control": 0.7,
+            "politics": 0.5
           },
           "cval": {
             "salt": 4
@@ -6075,8 +6077,9 @@
         {
           "t": "在旁边搅局、看热闹的那个",
           "s": {
-            "chaos": 1.27,
-            "clonesteal": 0.77
+            "chaos": 0.95,
+            "clonesteal": 0.65,
+            "politics": 0.5
           },
           "cval": {
             "salt": 3
